@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "تاريخ الإنشاء",
+    "description": "استخدام سجل الوقت الذي تم إنشاؤه."
+  },
+  "field.statusCode": {
+    "message": "رمز الحالة",
+    "description": "رمز الحالة لسجل الاستخدام."
+  },
+  "field.application": {
+    "message": "التطبيق",
+    "description": "برنامج طلب الخدمة."
+  },
+  "field.status": {
+    "message": "الحالة",
+    "description": "حالة برنامج الطلب."
+  },
+  "field.api": {
+    "message": "واجهة برمجة التطبيقات",
+    "description": "واجهة برمجة التطبيقات للخدمة."
+  },
+  "field.usedAmount": {
+    "message": "الكمية المستخدمة",
+    "description": "الكمية المستهلكة من الموارد."
+  },
+  "field.deductedAmount": {
+    "message": "الكمية المخصومة",
+    "description": "الكمية المخصومة من الموارد."
+  },
+  "field.remainingAmount": {
+    "message": "الكمية المتبقية",
+    "description": "الكمية المتبقية من الموارد."
+  },
+  "field.metadata": {
+    "message": "البيانات الوصفية",
+    "description": "البيانات الوصفية لسجل الاستخدام."
+  }
+}

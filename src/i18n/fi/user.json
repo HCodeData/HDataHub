@@ -1,0 +1,26 @@
+{
+  "field.id": {
+    "message": "Käyttäjän ID",
+    "description": "Käyttäjän ID"
+  },
+  "field.isVerified": {
+    "message": "Vahvistettu",
+    "description": "Indikaattori siitä, onko käyttäjän tiedot vahvistettu oikeilla tiedoilla"
+  },
+  "field.email": {
+    "message": "Sähköposti",
+    "description": "Käyttäjän sähköposti"
+  },
+  "field.nickname": {
+    "message": "Nimimerkki",
+    "description": "Käyttäjän nimimerkki"
+  },
+  "field.username": {
+    "message": "Käyttäjätunnus",
+    "description": "Käyttäjän käyttäjätunnus"
+  },
+  "field.dateJoined": {
+    "message": "Rekisteröitymispäivämäärä",
+    "description": "Käyttäjän rekisteröitymispäivämäärä"
+  }
+}

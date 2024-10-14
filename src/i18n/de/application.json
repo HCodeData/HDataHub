@@ -1,0 +1,210 @@
+{
+  "type.period": {
+    "message": "Zeitraum",
+    "description": "Dienstleistungszeitraum."
+  },
+  "type.usage": {
+    "message": "Nutzungskontingent",
+    "description": "Das Kontingent für den Dienst."
+  },
+  "field.expiredAt": {
+    "message": "Ablaufdatum",
+    "description": "Ablaufdatum des Antrags."
+  },
+  "button.goDocument": {
+    "message": "Dokumente",
+    "description": "Button-Text, der beim Klicken zur Dokumentseite führt."
+  },
+  "button.goCredentials": {
+    "message": "Zugangsdaten",
+    "description": "Button-Text, der beim Klicken zur Zugangsdaten-Seite führt."
+  },
+  "button.buyMore": {
+    "message": "Mehr kaufen",
+    "description": "Button-Text, der beim Klicken zur Seite für den Kauf von mehr führt."
+  },
+  "button.createOrder": {
+    "message": "Bestellung aufgeben",
+    "description": "Button-Text, der beim Klicken zur Seite für die Bestellung führt."
+  },
+  "button.custom": {
+    "message": "Anpassen",
+    "description": "Button-Text, der beim Klicken zur Anpassungsseite führt."
+  },
+  "button.query": {
+    "message": "Abfragen",
+    "description": "Button-Text, der beim Klicken zur Abfrageseite führt."
+  },
+  "button.usage": {
+    "message": "Nutzungsaufzeichnung",
+    "description": "Button-Text, der beim Klicken zur Nutzungsaufzeichnungen-Seite führt."
+  },
+  "field.application": {
+    "message": "Antrag",
+    "description": "Der Antrag auf den Dienst."
+  },
+  "field.status": {
+    "message": "Status",
+    "description": "Status des Antrags."
+  },
+  "field.id": {
+    "message": "Antrags-ID",
+    "description": "Die ID des Antrags."
+  },
+  "field.remainingAmount": {
+    "message": "Verbleibende Menge",
+    "description": "Die verbleibende Menge des Antrags."
+  },
+  "field.usedAmount": {
+    "message": "Genutzte Menge",
+    "description": "Die Menge, die im Antrag verwendet wurde."
+  },
+  "field.apiKey": {
+    "message": "API-Schlüssel",
+    "description": "Der API-Schlüssel."
+  },
+  "field.service": {
+    "message": "Dienst",
+    "description": "Der beantragte Dienst."
+  },
+  "field.operation": {
+    "message": "Betrieb",
+    "description": "Die Operation des Antrags."
+  },
+  "field.amount": {
+    "message": "Menge",
+    "description": "Die Anzahl im Antrag."
+  },
+  "field.traceId": {
+    "message": "Trace-ID",
+    "description": "Die Trace-ID eines API-Aufrufs des Antrags im API-Dienst, nicht übersetzen, bleibt als 'Trace-ID'."
+  },
+  "field.shouldPayPrice": {
+    "message": "Endgültiger Preis",
+    "description": "Der endgültige Preis des Antrags."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "Dies ist ein Online-Dienst, der in Form einer API bereitgestellt wird."
+  },
+  "field.proxy": {
+    "message": "Proxy",
+    "description": "Dies ist ein Online-Dienst, der in Form eines HTTP-Proxys (zum Transport von Daten) bereitgestellt wird."
+  },
+  "field.credential": {
+    "message": "Zugangsdaten",
+    "description": "Die Zugangsdaten des Antrags."
+  },
+  "field.name": {
+    "message": "Name",
+    "description": "Der Name des Antrags."
+  },
+  "field.package": {
+    "message": "Paket",
+    "description": "Pakete repräsentieren verschiedene Preisangebote, z.B. 100 US-Dollar für 10.000 Credits, 200 US-Dollar für 20.000 Credits."
+  },
+  "field.type": {
+    "message": "Typ",
+    "description": "Der Typ des Antrags."
+  },
+  "field.freeAmount": {
+    "message": "Kostenlose Menge",
+    "description": "Die Anzahl der kostenlosen Einheiten im Antrag."
+  },
+  "field.extraPrice": {
+    "message": "Zusätzlicher Preis",
+    "description": "Der zusätzliche Preis, den der Benutzer für den Antrag zahlen sollte."
+  },
+  "message.alreadyApplied": {
+    "message": "Sie haben diesen Dienst bereits beantragt, bitte überprüfen Sie die Konsole.",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er diesen Dienst bereits beantragt hat."
+  },
+  "message.applySuccessfully": {
+    "message": "Antrag erfolgreich",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn der Antrag auf diesen Dienst erfolgreich war."
+  },
+  "message.notApplied": {
+    "message": "Sie haben diesen Dienst noch nicht beantragt, bitte beantragen Sie ihn, bevor Sie ihn nutzen.",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er diesen Dienst noch nicht beantragt hat."
+  },
+  "message.yourApplication": {
+    "message": "Ihr Antrag",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er seinen Antrag sieht."
+  },
+  "message.unverified": {
+    "message": "Sie müssen die Identitätsprüfung abschließen, bevor Sie diesen Dienst beantragen können.",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er die Identitätsprüfung noch nicht abgeschlossen hat."
+  },
+  "message.goVerify": {
+    "message": "Zur Identitätsprüfung",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er die Identitätsprüfung noch nicht abgeschlossen hat."
+  },
+  "message.requiredParameter": {
+    "message": "Pflichtparameter",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er einen Pflichtparameter nicht eingegeben hat."
+  },
+  "message.example": {
+    "message": "Beispiel",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er einen Pflichtparameter nicht eingegeben hat."
+  },
+  "message.createCredentialSuccessfully": {
+    "message": "Zugangsdaten erfolgreich erstellt",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er Zugangsdaten erfolgreich erstellt hat."
+  },
+  "message.readPolicy": {
+    "message": "Ich habe die Richtlinien gelesen und stimme zu",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er die Richtlinien gelesen und zugestimmt hat."
+  },
+  "message.policy": {
+    "message": "Nutzungsvereinbarung für technische Datenservices",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er die Richtlinien gelesen und zugestimmt hat."
+  },
+  "message.notAgreePolicy": {
+    "message": "Sie haben der Nutzungsvereinbarung für technische Datenservices noch nicht zugestimmt.",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er den Richtlinien nicht zugestimmt hat."
+  },
+  "message.confirmApplying": {
+    "message": "Antrag auf den Dienst bestätigen",
+    "description": "Nachricht, die dem Benutzer angezeigt wird, wenn er den Antrag auf den Dienst bestätigt."
+  },
+  "message.rotateCredential": {
+    "message": "Schlüssel zurücksetzen",
+    "description": "Wenn der Benutzer den Schlüssel zurücksetzt, wird diese Nachricht angezeigt."
+  },
+  "message.rotateCredentialConfirm": {
+    "message": "Sind Sie sicher, dass Sie den Schlüssel zurücksetzen möchten? Nach dem Zurücksetzen kann er nicht wiederhergestellt werden.",
+    "description": "Wenn der Benutzer das Zurücksetzen des Schlüssels bestätigt, wird diese Nachricht angezeigt."
+  },
+  "message.idDoesNotExist": {
+    "message": "Antrag existiert nicht",
+    "description": "Diese Nachricht wird angezeigt, wenn der Antrag nicht existiert."
+  },
+  "message.rotateCredentialSuccessfully": {
+    "message": "Schlüssel erfolgreich zurückgesetzt",
+    "description": "Diese Nachricht wird angezeigt, wenn der Schlüssel erfolgreich zurückgesetzt wurde."
+  },
+  "message.rotateCredentialFailed": {
+    "message": "Schlüssel zurücksetzen fehlgeschlagen, bitte kontaktieren Sie den Support",
+    "description": "Diese Nachricht wird angezeigt, wenn das Zurücksetzen des Schlüssels fehlgeschlagen ist."
+  },
+  "message.updateFailed": {
+    "message": "Änderung fehlgeschlagen",
+    "description": "Diese Nachricht wird angezeigt, wenn die Änderung fehlgeschlagen ist."
+  },
+  "message.updateSuccessfully": {
+    "message": "Änderung erfolgreich",
+    "description": "Diese Nachricht wird angezeigt, wenn die Änderung erfolgreich war."
+  },
+  "title.buyService": {
+    "message": "Dienst kaufen",
+    "description": "Titel der Seite, wenn der Benutzer einen Dienst kaufen möchte."
+  },
+  "title.applicationRemainingCount": {
+    "message": "Änderungsanzahl",
+    "description": "Titel der Seite, wenn der Benutzer die Anzahl der Anträge ändern möchte."
+  },
+  "title.manageApplication": {
+    "message": "Antragsverwaltung",
+    "description": "Titel der Seite, wenn der Benutzer Anträge verwalten möchte."
+  }
+}

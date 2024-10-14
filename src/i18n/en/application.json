@@ -1,0 +1,210 @@
+{
+  "type.period": {
+    "message": "Period",
+    "description": "Service period."
+  },
+  "type.usage": {
+    "message": "Quota",
+    "description": "Service quota."
+  },
+  "field.expiredAt": {
+    "message": "Expiration Time",
+    "description": "The expiration time of the application."
+  },
+  "button.goDocument": {
+    "message": "Document",
+    "description": "Button text that takes the user to the documentation page when clicked."
+  },
+  "button.goCredentials": {
+    "message": "Credentials",
+    "description": "Button text that takes the user to the credentials page when clicked."
+  },
+  "button.buyMore": {
+    "message": "Buy More",
+    "description": "Button text that takes the user to the page to buy more when clicked."
+  },
+  "button.createOrder": {
+    "message": "Create Order",
+    "description": "Button text that takes the user to the create order page when clicked."
+  },
+  "button.custom": {
+    "message": "Custom",
+    "description": "Button text that takes the user to the customization page when clicked."
+  },
+  "button.query": {
+    "message": "Query",
+    "description": "Button text that takes the user to the query page when clicked."
+  },
+  "button.usage": {
+    "message": "Usage Records",
+    "description": "Button text that takes the user to the usage records page when clicked."
+  },
+  "field.application": {
+    "message": "Application",
+    "description": "The application for the service."
+  },
+  "field.status": {
+    "message": "Status",
+    "description": "Status of the application."
+  },
+  "field.id": {
+    "message": "Application ID",
+    "description": "ID of the application."
+  },
+  "field.remainingAmount": {
+    "message": "Remaining Amount",
+    "description": "The remaining amount of the application."
+  },
+  "field.usedAmount": {
+    "message": "Used Amount",
+    "description": "The used amount of the application."
+  },
+  "field.apiKey": {
+    "message": "API Key",
+    "description": "API key."
+  },
+  "field.service": {
+    "message": "Service",
+    "description": "The service applied for."
+  },
+  "field.operation": {
+    "message": "Operation",
+    "description": "Operation of the application."
+  },
+  "field.amount": {
+    "message": "Amount",
+    "description": "The amount applied for."
+  },
+  "field.traceId": {
+    "message": "Trace ID",
+    "description": "The trace ID of an API call related to the application, do not translate, keep as 'Trace ID'."
+  },
+  "field.shouldPayPrice": {
+    "message": "Final Price",
+    "description": "The final price of the application."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "This is an online service provided to users through an API."
+  },
+  "field.proxy": {
+    "message": "Proxy",
+    "description": "This is an online service provided to users through an HTTP proxy (for data transmission)."
+  },
+  "field.credential": {
+    "message": "Credentials",
+    "description": "The credentials applied for."
+  },
+  "field.name": {
+    "message": "Name",
+    "description": "The name of the application."
+  },
+  "field.package": {
+    "message": "Package",
+    "description": "The package represents different pricing plans, for example, $100 for 10,000 points, $200 for 20,000 points."
+  },
+  "field.type": {
+    "message": "Type",
+    "description": "Type of the application."
+  },
+  "field.freeAmount": {
+    "message": "Free Amount",
+    "description": "The free amount of the application."
+  },
+  "field.extraPrice": {
+    "message": "Price",
+    "description": "The additional price the user should pay for the application."
+  },
+  "message.alreadyApplied": {
+    "message": "You have already applied for this service, please check the console.",
+    "description": "Message displayed when the user has already applied for this service."
+  },
+  "message.applySuccessfully": {
+    "message": "Application Successful",
+    "description": "Message displayed when the user successfully applies for this service."
+  },
+  "message.notApplied": {
+    "message": "You have not applied for this service, please apply for it before use.",
+    "description": "Message displayed when the user has not applied for this service yet."
+  },
+  "message.yourApplication": {
+    "message": "Your Application",
+    "description": "Message displayed to the user regarding their application."
+  },
+  "message.unverified": {
+    "message": "You need to complete identity verification before applying for this service.",
+    "description": "Message displayed when the user has not completed identity verification."
+  },
+  "message.goVerify": {
+    "message": "Go to Identity Verification",
+    "description": "Message displayed when the user has not completed identity verification."
+  },
+  "message.requiredParameter": {
+    "message": "Required Parameter",
+    "description": "Message displayed when the user has not entered required parameters."
+  },
+  "message.example": {
+    "message": "Example",
+    "description": "Message displayed when the user has not entered required parameters."
+  },
+  "message.createCredentialSuccessfully": {
+    "message": "Credential Created Successfully",
+    "description": "Message displayed when the user successfully creates credentials."
+  },
+  "message.readPolicy": {
+    "message": "I have read and agree",
+    "description": "Message displayed when the user has read and agreed to the policy."
+  },
+  "message.policy": {
+    "message": "Data Technology Service Usage Agreement",
+    "description": "Message displayed when the user has read and agreed to the policy."
+  },
+  "message.notAgreePolicy": {
+    "message": "You have not agreed to the Data Technology Service Usage Agreement.",
+    "description": "Message displayed when the user has not agreed to the policy."
+  },
+  "message.confirmApplying": {
+    "message": "Confirm Service Application",
+    "description": "Message displayed when the user confirms the service application."
+  },
+  "message.rotateCredential": {
+    "message": "Reset Key",
+    "description": "Message displayed to the user when they reset the key."
+  },
+  "message.rotateCredentialConfirm": {
+    "message": "Are you sure you want to reset the key? It cannot be recovered after reset.",
+    "description": "Message displayed to the user when they confirm the key reset."
+  },
+  "message.idDoesNotExist": {
+    "message": "Application does not exist",
+    "description": "Message displayed to the user when the application does not exist."
+  },
+  "message.rotateCredentialSuccessfully": {
+    "message": "Key reset successfully",
+    "description": "Message displayed to the user when the key reset is successful."
+  },
+  "message.rotateCredentialFailed": {
+    "message": "Key reset failed, please contact support",
+    "description": "Message displayed to the user when the key reset fails."
+  },
+  "message.updateFailed": {
+    "message": "Update failed",
+    "description": "Message displayed to the user when the update fails."
+  },
+  "message.updateSuccessfully": {
+    "message": "Update successful",
+    "description": "Message displayed to the user when the update is successful."
+  },
+  "title.buyService": {
+    "message": "Buy Service",
+    "description": "Title of the page when the user wants to purchase a service."
+  },
+  "title.applicationRemainingCount": {
+    "message": "Modification Count",
+    "description": "Title of the page when the user wants to modify the application count."
+  },
+  "title.manageApplication": {
+    "message": "Application Management",
+    "description": "Title of the page when the user wants to manage applications."
+  }
+}

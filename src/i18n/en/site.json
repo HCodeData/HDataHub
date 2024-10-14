@@ -1,0 +1,282 @@
+{
+  "field.title": {
+    "message": "Site Title",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.origin": {
+    "message": "Site Domain",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.description": {
+    "message": "Site Description",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.keywords": {
+    "message": "Site Keywords",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.logo": {
+    "message": "Site Logo",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.favicon": {
+    "message": "Site Favicon",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.qr": {
+    "message": "QR Code",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.url": {
+    "message": "Link",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.admins": {
+    "message": "Site Admin IDs",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "Default Inviter ID",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.distributionForceInviterId": {
+    "message": "Forced Inviter ID",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.featuresChat": {
+    "message": "Chat",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.featuresSupport": {
+    "message": "Customer Support",
+    "description": "Displayed as the title in the editing box"
+  },
+  "field.featuresI18n": {
+    "message": "Multilingual Support",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.basicConfig": {
+    "message": "Basic Configuration",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.seoConfig": {
+    "message": "SEO Configuration",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editAdmins": {
+    "message": "Edit Admins",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.featuresConfig": {
+    "message": "Features Configuration",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editTitle": {
+    "message": "Edit Title",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editOrigin": {
+    "message": "Edit Domain",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editKeywords": {
+    "message": "Edit Keywords",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editLogo": {
+    "message": "Edit Logo",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editFavicon": {
+    "message": "Edit Favicon",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editDescription": {
+    "message": "Edit Description",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.distributionConfig": {
+    "message": "Distribution Configuration",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Edit Default Inviter",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Edit Forced Inviter",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editQR": {
+    "message": "Edit QR Code",
+    "description": "Displayed as the title in the editing box"
+  },
+  "title.editUrl": {
+    "message": "Edit Link",
+    "description": "Displayed as the title in the editing box"
+  },
+  "placeholder.title": {
+    "message": "Please enter site title",
+    "description": "Displayed as the title in the editing box"
+  },
+  "placeholder.origin": {
+    "message": "Please enter site domain",
+    "description": "Displayed as the title in the editing box"
+  },
+  "placeholder.editUrl": {
+    "message": "Please enter the link",
+    "description": "Displayed as the title in the editing box"
+  },
+  "placeholder.description": {
+    "message": "Please enter site description",
+    "description": "Displayed as the title in the editing box"
+  },
+  "placeholder.keywords": {
+    "message": "Please enter site keywords",
+    "description": "Displayed as the title in the editing box"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Please enter default inviter ID",
+    "description": "Displayed as the title in the editing box"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Please enter forced inviter ID",
+    "description": "Displayed as the title in the editing box"
+  },
+  "message.uploadImageExceed": {
+    "message": "Uploaded image exceeds limit",
+    "description": "Warning for uploading images that exceed the limit"
+  },
+  "message.uploadImageError": {
+    "message": "Error uploading image",
+    "description": "Warning for errors during image uploading"
+  },
+  "message.editLogoTip": {
+    "message": "Recommended size: 200*60px",
+    "description": "Instructions for uploading images"
+  },
+  "message.editQRTip": {
+    "message": "Recommended size: 200*200px",
+    "description": "Instructions for uploading images"
+  },
+  "message.editFaviconTip": {
+    "message": "Recommended size: 32*32px",
+    "description": "Instructions for uploading images"
+  },
+  "message.editUrl": {
+    "message": "Please enter the link",
+    "description": "Prompt for entering a link"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "At least one admin must be retained",
+    "description": "Prompt to ensure at least one admin is retained"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "Default inviter's user ID. If the distribution link does not carry the inviter_id parameter, this user ID will be used as the inviter by default.",
+    "description": "Prompt for the default inviter ID"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "Forced inviter's user ID. If this ID is set, this user ID will be enforced as the inviter regardless of whether the distribution link carries the inviter_id parameter.",
+    "description": "Prompt for the forced inviter ID"
+  },
+  "message.originTip": {
+    "message": "Site domain name, the site configuration is bound to the domain name and cannot be changed.",
+    "description": "Prompt for the site domain name"
+  },
+  "message.titleTip": {
+    "message": "Site title, displayed on the browser tab.",
+    "description": "Prompt for the site title"
+  },
+  "message.descriptionTip": {
+    "message": "Site description, located in the site meta information, used for site SEO optimization.",
+    "description": "Prompt for the site description"
+  },
+  "message.logoTip": {
+    "message": "Site Logo, displayed at the top of the site menu when the menu bar is expanded.",
+    "description": "Prompt for the site Logo"
+  },
+  "message.faviconTip": {
+    "message": "Site Favicon, displayed on the browser tab.",
+    "description": "Prompt for the site Favicon"
+  },
+  "message.adminsTip": {
+    "message": "Site admin IDs. By default, the user who first creates the site will become the admin. Only site admins can manage the site.",
+    "description": "Prompt for site admins"
+  },
+  "message.adminsTip2": {
+    "message": "You can add or remove admin IDs here. You can check user IDs at https://auth.acedata.cloud",
+    "description": "Prompt for site admins"
+  },
+  "message.keywordsTip": {
+    "message": "Site keywords, located in the site meta information, used for site SEO optimization.",
+    "description": "Prompt for site keywords"
+  },
+  "message.keywordsTip2": {
+    "message": "You can add or remove website keywords here. The more precise the keywords, the more beneficial for SEO optimization.",
+    "description": "Prompt for site keywords"
+  },
+  "message.featuresChat": {
+    "message": "Enable or disable the Chat feature module.",
+    "description": "Description of the Chat feature"
+  },
+  "message.featuresMidjourney": {
+    "message": "Enable or disable the Midjourney feature module.",
+    "description": "Description of the Midjourney feature"
+  },
+  "message.featuresChatdoc": {
+    "message": "Enable or disable the Chatdoc feature module.",
+    "description": "Description of the Chatdoc feature"
+  },
+  "message.featuresQrart": {
+    "message": "Enable or disable the Qrart feature module.",
+    "description": "Description of the Qrart feature"
+  },
+  "message.featuresSuno": {
+    "message": "Enable or disable the Suno feature module.",
+    "description": "Description of the Suno feature"
+  },
+  "message.featuresLuma": {
+    "message": "Enable or disable the Luma feature module.",
+    "description": "Description of the Luma feature"
+  },
+  "message.featuresSupport": {
+    "message": "Enable or disable customer support",
+    "description": "Description of the Support feature"
+  },
+  "message.featuresI18n": {
+    "message": "Enable or disable multilingual support. When disabled, users can only use the default language.",
+    "description": "Description of multilingual support"
+  },
+  "button.upload": {
+    "message": "Upload",
+    "description": "Upload"
+  },
+  "button.enabled": {
+    "message": "Enabled",
+    "description": "Switch text indicating that it is enabled"
+  },
+  "button.disabled": {
+    "message": "Disabled",
+    "description": "Switch text indicating that it is disabled"
+  }
+}

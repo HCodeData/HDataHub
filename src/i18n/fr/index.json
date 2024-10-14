@@ -1,0 +1,106 @@
+{
+  "title.chat": {
+    "message": "Questions-Réponses IA",
+    "description": "Titre du chapitre sur les questions-réponses IA"
+  },
+  "title.midjourney": {
+    "message": "Peinture IA",
+    "description": "Titre du chapitre sur la peinture IA"
+  },
+  "title.qrart": {
+    "message": "QR Code Art IA",
+    "description": "Titre du chapitre sur les QR Codes artistiques IA"
+  },
+  "title.suno": {
+    "message": "Musique IA",
+    "description": "Titre du chapitre sur la musique IA"
+  },
+  "title.luma": {
+    "message": "Vidéo IA",
+    "description": "Titre du chapitre sur la vidéo IA"
+  },
+  "title.comments": {
+    "message": "Avis des Clients",
+    "description": "Titre du chapitre sur les avis des clients"
+  },
+  "title.introduction": {
+    "message": "Nos Services",
+    "description": "Présentation du site"
+  },
+  "subtitle.banner": {
+    "message": "IA au service de votre productivité.",
+    "description": "Sous-titre du site"
+  },
+  "subtitle.chat": {
+    "message": "Support de plusieurs modèles de questions-réponses, avec des fonctionnalités en ligne, capable de reconnaître des images, des fichiers et des vidéos.",
+    "description": "Titre du chapitre sur les questions-réponses IA"
+  },
+  "subtitle.midjourney": {
+    "message": "Intégration du dernier modèle Midjourney, génération d'images dans divers styles en un clic et ajustements continus.",
+    "description": "Titre du chapitre sur la peinture IA"
+  },
+  "subtitle.qrart": {
+    "message": "Support pour divers styles de QR Codes artistiques, permettant de télécharger des QR Codes existants et de les transformer facilement en art, créant des effets visuels uniques.",
+    "description": "Titre du chapitre sur les QR Codes artistiques IA"
+  },
+  "subtitle.suno": {
+    "message": "Support de différents styles musicaux, création facile de la musique que vous souhaitez, avec des options d'extension de longueur flexibles.",
+    "description": "Titre du chapitre sur la musique IA"
+  },
+  "subtitle.luma": {
+    "message": "Intégration du dernier modèle Luma, création de vidéos personnalisées en un clic, avec des options d'extension vidéo flexibles.",
+    "description": "Titre du chapitre sur la musique IA"
+  },
+  "subtitle.comments": {
+    "message": "Nous sommes ravis d'avoir pu aider ces clients qui ont donné d'excellents avis sur nos services.",
+    "description": "Titre du chapitre sur les avis des clients"
+  },
+  "subtitle.introduction": {
+    "message": "Nous offrons des services IA tout-en-un, comprenant des questions-réponses, de la peinture, des QR Codes, de la musique et bien d'autres fonctionnalités, répondant à vos divers besoins.",
+    "description": "Présentation du site"
+  },
+  "button.try": {
+    "message": "Commencez gratuitement",
+    "description": "Contenu à l'intérieur du texte"
+  },
+  "button.testEnv": {
+    "message": "Environnement de test",
+    "description": "Bouton pour l'environnement de test"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "Nom du client"
+  },
+  "customers.job1": {
+    "message": "Ingénieur logiciel",
+    "description": "Poste du client"
+  },
+  "customers.comment1": {
+    "message": "Ce service intégré est tellement pratique, je peux utiliser divers outils IA sur une seule plateforme, c'est fantastique!",
+    "description": "Commentaire du client"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "Nom du client"
+  },
+  "customers.job2": {
+    "message": "Chef de produit",
+    "description": "Poste du client"
+  },
+  "customers.comment2": {
+    "message": "La plateforme est très facile à utiliser, la qualité du service est excellente, et cela a considérablement libéré ma productivité.",
+    "description": "Commentaire du client"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "Nom du client"
+  },
+  "customers.job3": {
+    "message": "Designer",
+    "description": "Poste du client"
+  },
+  "customers.comment3": {
+    "message": "Il y a beaucoup de plateformes IA, mais celle-ci est vraiment facile à utiliser et à un prix raisonnable, j'espère qu'elle s'améliorera!",
+    "description": "Commentaire du client"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "button.edit": {
+    "message": "Uredi poruku",
+    "description": "Uredi poslatu poruku"
+  },
+  "model.35Standard": {
+    "message": "3.5 Standard",
+    "description": "Ime modela usluge, tj. GPT 3.5 osnovni"
+  },
+  "model.35StandardDescription": {
+    "message": "Pogodno za svakodnevne zadatke.",
+    "description": "Opis 3.5 standardnog modela"
+  },
+  "model.35Browsing": {
+    "message": "3.5 Pretraživanje",
+    "description": "Ime modela usluge, tj. GPT 3.5 pretraživanje"
+  },
+  "model.35BrowsingDescription": {
+    "message": "Može pretraživati informacije u realnom vremenu.",
+    "description": "Opis 3.5 pretraživačkog modela"
+  },
+  "model.4Standard": {
+    "message": "4.0 Standard",
+    "description": "Ime modela usluge, tj. GPT 4.0 standard"
+  },
+  "model.4StandardDescription": {
+    "message": "Moćniji model, pogodno za složene zadatke.",
+    "description": "Opis 4.0 standardnog modela"
+  },
+  "model.4Browsing": {
+    "message": "4.0 Pretraživanje",
+    "description": "Ime modela usluge, tj. GPT 4.0 pretraživanje"
+  },
+  "model.4BrowsingDescription": {
+    "message": "Moćan i može pretraživati informacije u realnom vremenu.",
+    "description": "Opis 4.0 pretraživačkog modela"
+  },
+  "model.4Vision": {
+    "message": "4.0 Vizija",
+    "description": "Ime modela usluge, tj. GPT 4.0 vizija"
+  },
+  "model.4All": {
+    "message": "4.0 Sveobuhvatno",
+    "description": "Ime modela usluge, tj. GPT 4.0 All"
+  },
+  "model.4VisionDescription": {
+    "message": "Može analizirati slike.",
+    "description": "Opis 4.0 vizionarskog modela"
+  },
+  "model.4AllDescription": {
+    "message": "Sveobuhvatan model",
+    "description": "Opis 4.0 sveobuhvatnog modela"
+  },
+  "message.startNewChat": {
+    "message": "Zapocni novi razgovor",
+    "description": "Poruka na web stranici koja obaveštava korisnika da započne novi razgovor"
+  },
+  "message.uploadFile": {
+    "message": "Otpremi datoteku",
+    "description": "Poruka na web stranici koja obaveštava korisnika da otpremi datoteku"
+  },
+  "message.noToken": {
+    "message": "Molimo vas da prvo zatražite odgovarajuću uslugu",
+    "description": "Poruka na web stranici koja obaveštava korisnika da prvo zatraži odgovarajuću uslugu"
+  },
+  "message.newMessagePlaceholder": {
+    "message": "Unesite vaše pitanje...",
+    "description": "Placeholder na web stranici koji obaveštava korisnika da unese pitanje"
+  },
+  "message.noInput": {
+    "message": "Pitanje ne može biti prazno",
+    "description": "Poruka na web stranici koja obaveštava korisnika da pitanje ne može biti prazno"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Možete otpremiti najviše 1 datoteku",
+    "description": "Poruka na web stranici koja obaveštava korisnika da može otpremiti najviše 1 datoteku"
+  },
+  "message.uploadReferencesError": {
+    "message": "Otpremanje datoteke nije uspelo, pokušajte ponovo kasnije",
+    "description": "Poruka na web stranici koja obaveštava korisnika da otpremanje datoteke nije uspelo, pokušajte ponovo kasnije"
+  },
+  "message.notApplied": {
+    "message": "Niste još zatražili ovu uslugu, molimo vas da prvo zatražite",
+    "description": "Poruka na web stranici koja obaveštava korisnika da još nije zatražio ovu uslugu, molimo vas da prvo zatražite"
+  },
+  "message.tryForFree": {
+    "message": "Besplatno suđenje",
+    "description": "Poruka na web stranici koja obaveštava korisnika da je dostupno besplatno suđenje"
+  },
+  "message.question1": {
+    "message": "Kreiraj plan treninga",
+    "description": "Primer pitanja za započinjanje razgovora, tražeći od korisnika da napiše JavaScript kod koji ispisuje Hello World"
+  },
+  "message.question2": {
+    "message": "Napravi ličnu veb stranicu",
+    "description": "Primer pitanja za započinjanje razgovora, tražeći od korisnika da napiše e-mail Mikeu da mu kaže da je upravo preselio"
+  },
+  "message.question3": {
+    "message": "Dizajniraj zanimljive programerske igre",
+    "description": "Primer pitanja za započinjanje razgovora, tražeći od korisnika da na jednostavnom jeziku objasni osnovne principe kvantnog računarstva"
+  },
+  "message.question4": {
+    "message": "Iskusite Seul kao lokalci",
+    "description": "Primer pitanja za započinjanje razgovora, tražeći od korisnika da objasni uticaj virtuelne stvarnosti na umetničko stvaralaštvo"
+  },
+  "message.errorApiError": {
+    "message": "Odgovor nije uspeo, pokušajte ponovo kasnije",
+    "description": "Poruka na web stranici koja obaveštava korisnika da odgovor nije uspeo, pokušajte ponovo kasnije"
+  },
+  "message.errorBadRequest": {
+    "message": "Zahtev nije validan, pokušajte ponovo",
+    "description": "Poruka na web stranici koja obaveštava korisnika da zahtev nije validan, pokušajte ponovo"
+  },
+  "message.errorNoConversation": {
+    "message": "Razgovor ne postoji ili je istekao, započnite novi razgovor",
+    "description": "Poruka na web stranici koja obaveštava korisnika da razgovor ne postoji ili je istekao, započnite novi razgovor"
+  },
+  "message.errorContentTooLarge": {
+    "message": "Sadržaj pitanja je predug, skratite ga i pokušajte ponovo",
+    "description": "Poruka na web stranici koja obaveštava korisnika da je sadržaj pitanja predug, skratite ga i pokušajte ponovo"
+  },
+  "message.errorTooManyRequests": {
+    "message": "Vaša aktivnost je previše česta, pokušajte ponovo kasnije",
+    "description": "Poruka na web stranici koja obaveštava korisnika da je njegova aktivnost previše česta, pokušajte ponovo kasnije"
+  },
+  "message.errorUsedUp": {
+    "message": "Iskoristili ste sve svoje ponude, kupite više ponuda da biste nastavili s korišćenjem",
+    "description": "Poruka na web stranici koja obaveštava korisnika da je iskoristio sve svoje ponude, kupite više ponuda da biste nastavili s korišćenjem"
+  },
+  "message.errorUnknown": {
+    "message": "Došlo je do nepoznate greške na serveru, pokušajte ponovo kasnije ili kontaktirajte korisničku podršku",
+    "description": "Poruka na web stranici koja obaveštava korisnika da je došlo do nepoznate greške na serveru, pokušajte ponovo kasnije ili kontaktirajte korisničku podršku"
+  },
+  "message.errorTimeout": {
+    "message": "Vreme za odgovor je isteklo, pokušajte ponovo kasnije",
+    "description": "Poruka na veb stranici koja obaveštava korisnika da je vreme za odgovor isteklo, pokušajte ponovo kasnije"
+  },
+  "message.errorNotApplied": {
+    "message": "Niste se prijavili za ovu uslugu, prvo se prijavite pre nego što nastavite sa pitanjem",
+    "description": "Poruka na veb stranici koja obaveštava korisnika da se nije prijavio za ovu uslugu, prvo se prijavite pre nego što nastavite sa pitanjem"
+  },
+  "message.confirmDelete": {
+    "message": "Potvrdi brisanje",
+    "description": "Poruka na veb stranici koja obaveštava korisnika da potvrdi brisanje"
+  },
+  "message.howToUse": {
+    "message": "AI može napraviti grešku, molimo proverite važnu informaciju.",
+    "description": "Poruka na veb stranici koja obaveštava korisnika da AI može napraviti grešku, molimo proverite važnu informaciju"
+  },
+  "title.chat": {
+    "message": "AI Čat",
+    "description": "Naslov veb stranice, tj. AI Čat"
+  },
+  "title.example": {
+    "message": "Primer",
+    "description": "Naslov veb stranice, tj. Primer"
+  },
+  "title.capabilities": {
+    "message": "Mogućnosti",
+    "description": "Naslov veb stranice, tj. Mogućnosti"
+  },
+  "title.limitations": {
+    "message": "Ograničenja",
+    "description": "Naslov na veb stranici koji ukazuje da se ovaj deo odnosi na tehnička ograničenja usluge"
+  },
+  "title.complexQuestion": {
+    "message": "Odgovaranje na složena pitanja",
+    "description": "Naslov na veb stranici koji ukazuje da se ovaj deo odnosi na sposobnost usluge da odgovara na složena pitanja"
+  },
+  "title.professionalQuestion": {
+    "message": "Konsultacija profesionalnih pitanja",
+    "description": "Naslov na veb stranici koji ukazuje da se ovaj deo odnosi na sposobnost usluge da pruža konsultacije o profesionalnim pitanjima"
+  },
+  "title.getTips": {
+    "message": "Dobijanje inspiracije i ideja",
+    "description": "Naslov na veb stranici koji ukazuje da se ovaj deo odnosi na sposobnost usluge da dobije inspiraciju i ideje"
+  },
+  "group.today": {
+    "message": "Danas",
+    "description": "Naziv grupe na veb stranici, tj. Danas"
+  },
+  "group.yesterday": {
+    "message": "Juče",
+    "description": "Naziv grupe na veb stranici, tj. Juče"
+  },
+  "group.thisWeek": {
+    "message": "Ove nedelje",
+    "description": "Naziv grupe na veb stranici, tj. Ove nedelje"
+  },
+  "group.earlier": {
+    "message": "Prethodno",
+    "description": "Naziv grupe na veb stranici, tj. Prethodno"
+  }
+}

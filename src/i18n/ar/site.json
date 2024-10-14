@@ -1,0 +1,282 @@
+{
+  "field.title": {
+    "message": "عنوان الموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "field.origin": {
+    "message": "نطاق الموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "field.description": {
+    "message": "وصف الموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "field.keywords": {
+    "message": "الكلمات الرئيسية للموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "field.logo": {
+    "message": "شعار الموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "field.favicon": {
+    "message": "أيكون الموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "field.qr": {
+    "message": "رمز الاستجابة السريع",
+    "description": "展示在编辑框的标题"
+  },
+  "field.url": {
+    "message": "الرابط",
+    "description": "展示在编辑框的标题"
+  },
+  "field.admins": {
+    "message": "معرفات مديري الموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "معرف المدعو الافتراضي",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionForceInviterId": {
+    "message": "معرف المدعو الإجباري",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChat": {
+    "message": "الدردشة",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSupport": {
+    "message": "دعم العملاء",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresI18n": {
+    "message": "دعم متعدد اللغات",
+    "description": "展示在编辑框的标题"
+  },
+  "title.basicConfig": {
+    "message": "الإعدادات الأساسية",
+    "description": "展示在编辑框的标题"
+  },
+  "title.seoConfig": {
+    "message": "إعدادات SEO",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editAdmins": {
+    "message": "تعديل المسؤولين",
+    "description": "展示在编辑框的标题"
+  },
+  "title.featuresConfig": {
+    "message": "إعدادات الميزات",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editTitle": {
+    "message": "تعديل العنوان",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editOrigin": {
+    "message": "تعديل النطاق",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editKeywords": {
+    "message": "تعديل الكلمات الرئيسية",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editLogo": {
+    "message": "تعديل الشعار",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editFavicon": {
+    "message": "تعديل الأيقونة",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDescription": {
+    "message": "تعديل الوصف",
+    "description": "展示在编辑框的标题"
+  },
+  "title.distributionConfig": {
+    "message": "إعدادات التوزيع",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "تعديل المدعو الافتراضي",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "تعديل المدعو الإجباري",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editQR": {
+    "message": "تعديل رمز الاستجابة السريع",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editUrl": {
+    "message": "تعديل الرابط",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.title": {
+    "message": "أدخل عنوان الموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.origin": {
+    "message": "أدخل نطاق الموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editUrl": {
+    "message": "أدخل الرابط",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.description": {
+    "message": "أدخل وصف الموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.keywords": {
+    "message": "أدخل الكلمات الرئيسية للموقع",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "أدخل معرف المدعو الافتراضي",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "أدخل معرف المدعو الإجباري",
+    "description": "展示在编辑框的标题"
+  },
+  "message.uploadImageExceed": {
+    "message": "تجاوز تحميل الصورة للحد المسموح به",
+    "description": "上传图片超过限制的提示"
+  },
+  "message.uploadImageError": {
+    "message": "خطأ في تحميل الصورة",
+    "description": "上传图片错误的提示"
+  },
+  "message.editLogoTip": {
+    "message": "الأبعاد الموصى بها: 200 * 60 بكسل",
+    "description": "上传图片的提示语言"
+  },
+  "message.editQRTip": {
+    "message": "الأبعاد الموصى بها: 200 * 200 بكسل",
+    "description": "上传图片的提示语言"
+  },
+  "message.editFaviconTip": {
+    "message": "الأبعاد الموصى بها: 32 * 32 بكسل",
+    "description": "上传图片的提示语言"
+  },
+  "message.editUrl": {
+    "message": "أدخل الرابط",
+    "description": "إدخال رابط التحذير"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "يجب الاحتفاظ بمدير واحد على الأقل",
+    "description": "تحذير بوجود مدير واحد على الأقل"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "معرف المستخدم للداعي الافتراضي، إذا لم يحمل رابط التوزيع مع معلمة inviter_id، يتم استخدام هذا المعرف كداعٍ افتراضي.",
+    "description": "تحذير بمعرف الداعي الافتراضي"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "معرف المستخدم للداعي الإجباري، إذا تم تعيين هذا المعرف، بغض النظر عما إذا كان رابط التوزيع يحمل معلمة inviter_id أم لا، يتم استخدام هذا المعرف كداعٍ.",
+    "description": "تحذير بمعرف الداعي الإجباري"
+  },
+  "message.originTip": {
+    "message": "اسم مجال الموقع، يتم ربط إعداد الموقع باسم المجال، ولا يمكن تغيير اسم المجال.",
+    "description": "تحذير باسم مجال الموقع"
+  },
+  "message.titleTip": {
+    "message": "عنوان الموقع، يُعرض في علامة التبويب بالمتصفح.",
+    "description": "تحذير بعنوان الموقع"
+  },
+  "message.descriptionTip": {
+    "message": "وصف الموقع، موجود في معلومات الموقع الوصفية، يُستخدم لتحسين SEO للموقع.",
+    "description": "تحذير بوصف الموقع"
+  },
+  "message.logoTip": {
+    "message": "شعار الموقع، يُظهر في أعلى قائمة الموقع عند فتح القائمة.",
+    "description": "تحذير بشعار الموقع"
+  },
+  "message.faviconTip": {
+    "message": "رمز الموقع، يُعرض في علامة التبويب بالمتصفح.",
+    "description": "تحذير برمز الموقع"
+  },
+  "message.adminsTip": {
+    "message": "معرفات مديري الموقع، المستخدم الذي أنشأ الموقع لأول مرة سيكون مديرًا افتراضيًا، فقط مديري الموقع يمكنهم إدارة الموقع.",
+    "description": "تحذير بمديري الموقع"
+  },
+  "message.adminsTip2": {
+    "message": "يمكنك إضافة أو حذف معرفات المدير هنا، يمكنك زيارة https://auth.acedata.cloud لرؤية معرفات المستخدم",
+    "description": "تحذير بمديري الموقع"
+  },
+  "message.keywordsTip": {
+    "message": "كلمات مفتاحية للموقع، موجودة في معلومات الموقع الوصفية، تُستخدم لتحسين SEO للموقع.",
+    "description": "تحذير بكلمات مفتاحية للموقع"
+  },
+  "message.keywordsTip2": {
+    "message": "يمكنك إضافة أو حذف كلمات مفتاحية هنا، كلما كانت الكلمات المفتاحية أكثر دقة، كانت أفضل لتحسين SEO.",
+    "description": "تحذير بكلمات مفتاحية للموقع"
+  },
+  "message.featuresChat": {
+    "message": "تفعيل أو تعطيل وحدة وظيفة الدردشة.",
+    "description": "وصف لوظيفة الدردشة"
+  },
+  "message.featuresMidjourney": {
+    "message": "تفعيل أو تعطيل وحدة وظيفة Midjourney.",
+    "description": "وصف لوظيفة Midjourney"
+  },
+  "message.featuresChatdoc": {
+    "message": "تفعيل أو تعطيل وحدة وظيفة Chatdoc.",
+    "description": "وصف لوظيفة Chatdoc"
+  },
+  "message.featuresQrart": {
+    "message": "تفعيل أو تعطيل وحدة وظيفة Qrart.",
+    "description": "وصف لوظيفة Qrart"
+  },
+  "message.featuresSuno": {
+    "message": "تفعيل أو تعطيل وحدة وظيفة Suno.",
+    "description": "وصف لوظيفة Suno"
+  },
+  "message.featuresLuma": {
+    "message": "تفعيل أو تعطيل وحدة وظيفة Luma.",
+    "description": "وصف لوظيفة Luma"
+  },
+  "message.featuresSupport": {
+    "message": "تفعيل أو تعطيل دعم خدمة العملاء",
+    "description": "وصف لوظيفة الدعم"
+  },
+  "message.featuresI18n": {
+    "message": "تفعيل أو تعطيل دعم متعدد اللغات، بعد التعطيل، يمكن للمستخدمين استخدام اللغة الافتراضية فقط.",
+    "description": "وصف دعم متعدد اللغات"
+  },
+  "button.upload": {
+    "message": "رفع",
+    "description": "رفع"
+  },
+  "button.enabled": {
+    "message": "مفعل",
+    "description": "نص الزر الذي يدل على أنه مفعل"
+  },
+  "button.disabled": {
+    "message": "معطل",
+    "description": "نص الزر الذي يدل على أنه معطل"
+  }
+}

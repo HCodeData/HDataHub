@@ -1,0 +1,158 @@
+{
+  "button.extend": {
+    "message": "Συνεχίστε την παραγωγή",
+    "description": "Κείμενο κουμπιού για να συνεχίσετε την παραγωγή"
+  },
+  "button.download": {
+    "message": "Λήψη",
+    "description": "Κείμενο κουμπιού λήψης"
+  },
+  "button.video": {
+    "message": "Βίντεο",
+    "description": "Κείμενο κουμπιού βίντεο"
+  },
+  "model.model1": {
+    "message": "v2",
+    "description": "Μοντέλο για την παραγωγή μουσικής"
+  },
+  "model.model2": {
+    "message": "v3",
+    "description": "Μοντέλο για την παραγωγή μουσικής"
+  },
+  "name.instrumental": {
+    "message": "Χωρίς στίχους",
+    "description": "Περιγραφή της παραμέτρου 'instrumental'"
+  },
+  "model.model3": {
+    "message": "v3.5",
+    "description": "Μοντέλο για την παραγωγή μουσικής"
+  },
+  "name.taskId": {
+    "message": "Ταυτότητα εργασίας",
+    "description": "Ταυτότητα της εργασίας"
+  },
+  "name.type": {
+    "message": "Προσαρμοσμένο μοντέλο",
+    "description": "Όνομα του προσαρμοσμένου μοντέλου"
+  },
+  "name.prompt": {
+    "message": "Περιγραφή τραγουδιού",
+    "description": "Πρόταση για την είσοδο περιεχομένου"
+  },
+  "name.extend": {
+    "message": "Επέκταση τραγουδιού από",
+    "description": "Πρόταση για την είσοδο περιεχομένου"
+  },
+  "name.lyrics": {
+    "message": "Περιεχόμενο στίχων",
+    "description": "Πρόταση για την είσοδο στίχων"
+  },
+  "name.style": {
+    "message": "Στυλ τραγουδιού",
+    "description": "Πρόταση για την είσοδο στυλ τραγουδιού"
+  },
+  "name.title": {
+    "message": "Τίτλος τραγουδιού",
+    "description": "Πρόταση για την είσοδο τίτλου τραγουδιού"
+  },
+  "name.failureReason": {
+    "message": "Λόγος αποτυχίας",
+    "description": "Λόγος αποτυχίας της εργασίας"
+  },
+  "name.status": {
+    "message": "Κατάσταση",
+    "description": "Κατάσταση της εργασίας"
+  },
+  "name.traceId": {
+    "message": "Ταυτότητα παρακολούθησης",
+    "description": "Ταυτότητα παρακολούθησης της εργασίας"
+  },
+  "name.sunoBot": {
+    "message": "Suno Bot",
+    "description": "Όνομα του γεννήτορα Suno"
+  },
+  "description.prompt": {
+    "message": "Συμπληρώστε το στυλ και το θέμα της μουσικής που θέλετε να δημιουργήσετε, π.χ. acoustic pop για τις διακοπές",
+    "description": "Περιγραφή της παραμέτρου 'prompt'"
+  },
+  "description.lyrics": {
+    "message": "Περιεχόμενο στίχων",
+    "description": "Περιγραφή της παραμέτρου 'lyrics'"
+  },
+  "description.style": {
+    "message": "Περιεχόμενο στυλ τραγουδιού",
+    "description": "Περιγραφή της παραμέτρου 'style'"
+  },
+  "description.title": {
+    "message": "Περιεχόμενο τίτλου τραγουδιού",
+    "description": "Περιγραφή της παραμέτρου 'title'"
+  },
+  "status.pending": {
+    "message": "Σε αναμονή",
+    "description": "Κατάσταση αναμονής της εργασίας"
+  },
+  "placeholder.prompt": {
+    "message": "Εισάγετε λέξεις-κλειδιά για το τραγούδι...",
+    "description": "Placeholder για την εισαγωγή λέξεων-κλειδιών"
+  },
+  "placeholder.lyrics": {
+    "message": "Εισάγετε στίχους...",
+    "description": "Placeholder για το επίπεδο στίχων"
+  },
+  "placeholder.extend.lyrics": {
+    "message": "Εισάγετε τους στίχους που χρειάζεστε για επέκταση...",
+    "description": "Placeholder για το επίπεδο στίχων"
+  },
+  "placeholder.extend.continue_at": {
+    "message": "Εισάγετε από ποιο δευτερόλεπτο του τραγουδιού χρειάζεστε επέκταση...",
+    "description": "Placeholder για το επίπεδο στίχων"
+  },
+  "placeholder.style": {
+    "message": "Εισάγετε λέξεις-κλειδιά για το στυλ του τραγουδιού που θέλετε να δημιουργήσετε, π.χ. acoustic pop",
+    "description": "Placeholder κειμένου στο πεδίο πρότασης"
+  },
+  "placeholder.title": {
+    "message": "Εισάγετε λέξεις-κλειδιά για τον τίτλο του τραγουδιού που θέλετε να δημιουργήσετε, π.χ. holiday song",
+    "description": "Placeholder για την εισαγωγή σπόρου"
+  },
+  "placeholder.select": {
+    "message": "Επιλέξτε μοντέλο...",
+    "description": "Placeholder για την εισαγωγή θέση"
+  },
+  "placeholder.position": {
+    "message": "Επιλέξτε...",
+    "description": "Placeholder για την εισαγωγή θέση"
+  },
+  "button.generate": {
+    "message": "Δημιουργία",
+    "description": "Κείμενο κουμπιού για την δημιουργία"
+  },
+  "message.startingTask": {
+    "message": "Εκκινώντας εργασία...",
+    "description": "Μήνυμα κατά την εκκίνηση της εργασίας δημιουργίας μουσικής"
+  },
+  "message.startTaskSuccess": {
+    "message": "Επιτυχής εκκίνηση της εργασίας δημιουργίας μουσικής",
+    "description": "Επιτυχές μήνυμα κατά την εκκίνηση της εργασίας δημιουργίας μουσικής"
+  },
+  "message.startTaskFailed": {
+    "message": "Αποτυχία εκκίνησης της εργασίας δημιουργίας μουσικής",
+    "description": "Μήνυμα σφάλματος κατά την αποτυχία εκκίνησης της εργασίας"
+  },
+  "message.generating": {
+    "message": "Δημιουργία σε εξέλιξη...",
+    "description": "Μήνυμα κατά την δημιουργία μουσικής"
+  },
+  "message.generateFailed": {
+    "message": "Αποτυχία δημιουργίας μουσικής",
+    "description": "Μήνυμα κατά την αποτυχία δημιουργίας μουσικής"
+  },
+  "message.noOperations": {
+    "message": "Δεν υπάρχουν διαθέσιμες λειτουργίες",
+    "description": "Μήνυμα όταν δεν υπάρχουν διαθέσιμες λειτουργίες"
+  },
+  "message.noTasks": {
+    "message": "Δεν υπάρχουν ιστορικές εργασίες, παρακαλώ δημιουργήστε μουσική από τη ρύθμιση στα αριστερά",
+    "description": "Μήνυμα όταν δεν υπάρχουν εργασίες"
+  }
+}

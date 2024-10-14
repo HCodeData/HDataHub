@@ -1,0 +1,210 @@
+{
+  "type.period": {
+    "message": "Okres",
+    "description": "Usługa okresu."
+  },
+  "type.usage": {
+    "message": "Limit",
+    "description": "Limit usługi."
+  },
+  "field.expiredAt": {
+    "message": "Data wygaśnięcia",
+    "description": "Data wygaśnięcia zgłoszenia."
+  },
+  "button.goDocument": {
+    "message": "Dokument",
+    "description": "Tekst przycisku, kliknięcie tego przycisku przeniesie do strony dokumentu."
+  },
+  "button.goCredentials": {
+    "message": "Poświadczenia",
+    "description": "Tekst przycisku, kliknięcie tego przycisku przeniesie do strony poświadczeń."
+  },
+  "button.buyMore": {
+    "message": "Kup więcej",
+    "description": "Tekst przycisku, kliknięcie tego przycisku przeniesie do strony zakupu więcej."
+  },
+  "button.createOrder": {
+    "message": "Utwórz zamówienie",
+    "description": "Tekst przycisku, kliknięcie tego przycisku przeniesie do strony utworzenia zamówienia."
+  },
+  "button.custom": {
+    "message": "Dostosuj",
+    "description": "Tekst przycisku, kliknięcie tego przycisku przeniesie do strony dostosowania."
+  },
+  "button.query": {
+    "message": "Zapytanie",
+    "description": "Tekst przycisku, kliknięcie tego przycisku przeniesie do strony zapytania."
+  },
+  "button.usage": {
+    "message": "Historia użycia",
+    "description": "Tekst przycisku, kliknięcie tego przycisku przeniesie do strony historii użycia."
+  },
+  "field.application": {
+    "message": "Podanie",
+    "description": "Podanie usługi."
+  },
+  "field.status": {
+    "message": "Status",
+    "description": "Status podania."
+  },
+  "field.id": {
+    "message": "ID podania",
+    "description": "ID podania."
+  },
+  "field.remainingAmount": {
+    "message": "Pozostała ilość",
+    "description": "Pozostała ilość podania."
+  },
+  "field.usedAmount": {
+    "message": "Ilość używana",
+    "description": "Ilość używana w podaniu."
+  },
+  "field.apiKey": {
+    "message": "Klucz API",
+    "description": "Klucz API."
+  },
+  "field.service": {
+    "message": "Usługa",
+    "description": "Usługa zgłoszenia."
+  },
+  "field.operation": {
+    "message": "Operacja",
+    "description": "Operacja zgłoszenia."
+  },
+  "field.amount": {
+    "message": "Ilość",
+    "description": "Ilość zgłoszenia."
+  },
+  "field.traceId": {
+    "message": "Identyfikator śledzenia",
+    "description": "Identyfikator śledzenia jednego wywołania API w podaniu usługi API, nie tłumaczyć, zostaw 'Identyfikator śledzenia'."
+  },
+  "field.shouldPayPrice": {
+    "message": "Ostateczna cena",
+    "description": "Ostateczna cena zgłoszenia."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "To jest usługa online, która dostarcza usługi użytkownikowi poprzez API."
+  },
+  "field.proxy": {
+    "message": "Proxy",
+    "description": "To jest usługa online, która dostarcza usługi użytkownikowi poprzez HTTP proxy (do przesyłania danych)."
+  },
+  "field.credential": {
+    "message": "Poświadczenie",
+    "description": "Poświadczenie zgłoszenia."
+  },
+  "field.name": {
+    "message": "Nazwa",
+    "description": "Nazwa zgłoszenia."
+  },
+  "field.package": {
+    "message": "Pakiet",
+    "description": "Pakiet reprezentuje różne pakiety cenowe, na przykład 100 dolarów za 10000 punktów, 200 dolarów za 20000 punktów."
+  },
+  "field.type": {
+    "message": "Typ",
+    "description": "Typ zgłoszenia."
+  },
+  "field.freeAmount": {
+    "message": "Ilość darmowa",
+    "description": "Darmowa ilość zgłoszenia."
+  },
+  "field.extraPrice": {
+    "message": "Cena",
+    "description": "Dodatkowa cena, którą użytkownik powinien zapłacić za zgłoszenie."
+  },
+  "message.alreadyApplied": {
+    "message": "Już zgłosiłeś tę usługę, sprawdź konsolę",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy już zgłosił tę usługę."
+  },
+  "message.applySuccessfully": {
+    "message": "Zgłoszenie zakończone pomyślnie",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy pomyślnie zgłosił tę usługę."
+  },
+  "message.notApplied": {
+    "message": "Nie zgłosiłeś jeszcze tej usługi, zgłoś ją przed użyciem",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy jeszcze nie zgłosił tej usługi."
+  },
+  "message.yourApplication": {
+    "message": "Twoje zgłoszenie",
+    "description": "Komunikat wyświetlany użytkownikowi podczas zgłoszenia."
+  },
+  "message.unverified": {
+    "message": "Musisz ukończyć weryfikację tożsamości, aby zgłosić tę usługę",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy jeszcze nie ukończył weryfikacji tożsamości."
+  },
+  "message.goVerify": {
+    "message": "Przejdź do weryfikacji tożsamości",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy jeszcze nie ukończył weryfikacji tożsamości."
+  },
+  "message.requiredParameter": {
+    "message": "Wymagany parametr",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy nie wprowadził wymaganego parametru."
+  },
+  "message.example": {
+    "message": "Przykład",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy nie wprowadził wymaganego parametru."
+  },
+  "message.createCredentialSuccessfully": {
+    "message": "Pomyślnie utworzono poświadczenie",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy pomyślnie utworzył poświadczenie."
+  },
+  "message.readPolicy": {
+    "message": "Przeczytałem i zgadzam się",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy przeczytał i zgodził się z polityką."
+  },
+  "message.policy": {
+    "message": "Umowa o korzystaniu z usług technologii danych",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy przeczytał i zgodził się z polityką."
+  },
+  "message.notAgreePolicy": {
+    "message": "Nie zgodziłeś się na umowę o korzystaniu z usług technologii danych",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy nie zgodził się z polityką."
+  },
+  "message.confirmApplying": {
+    "message": "Potwierdź zgłoszenie usługi",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy potwierdza zgłoszenie usługi."
+  },
+  "message.rotateCredential": {
+    "message": "Resetuj klucz",
+    "description": "Kiedy użytkownik resetuje klucz, wyświetlana jest ta wiadomość."
+  },
+  "message.rotateCredentialConfirm": {
+    "message": "Czy na pewno chcesz zresetować klucz? Po resecie nie będzie można go odzyskać",
+    "description": "Kiedy użytkownik potwierdza reset klucza, wyświetlana jest ta wiadomość."
+  },
+  "message.idDoesNotExist": {
+    "message": "Wniosek nie istnieje",
+    "description": "Kiedy wniosek nie istnieje, wyświetlana jest ta wiadomość."
+  },
+  "message.rotateCredentialSuccessfully": {
+    "message": "Klucz został pomyślnie zresetowany",
+    "description": "Kiedy klucz został pomyślnie zresetowany, wyświetlana jest ta wiadomość."
+  },
+  "message.rotateCredentialFailed": {
+    "message": "Reset klucza nie powiódł się, proszę skontaktować się z obsługą",
+    "description": "Kiedy reset klucza nie powiódł się, wyświetlana jest ta wiadomość."
+  },
+  "message.updateFailed": {
+    "message": "Modyfikacja nie powiodła się",
+    "description": "Kiedy modyfikacja nie powiodła się, wyświetlana jest ta wiadomość."
+  },
+  "message.updateSuccessfully": {
+    "message": "Modyfikacja zakończona sukcesem",
+    "description": "Kiedy modyfikacja zakończy się sukcesem, wyświetlana jest ta wiadomość."
+  },
+  "title.buyService": {
+    "message": "Kup usługę",
+    "description": "Tytuł strony, gdy użytkownik chce kupić usługę."
+  },
+  "title.applicationRemainingCount": {
+    "message": "Liczba modyfikacji",
+    "description": "Tytuł strony, gdy użytkownik chce zmienić liczbę wniosków."
+  },
+  "title.manageApplication": {
+    "message": "Zarządzanie wnioskami",
+    "description": "Tytuł strony, gdy użytkownik chce zarządzać wnioskami."
+  }
+}

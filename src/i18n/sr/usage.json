@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "Vreme korišćenja",
+    "description": "Vreme kada je korišćenje zabeleženo."
+  },
+  "field.statusCode": {
+    "message": "Status kod",
+    "description": "Status kod korišćenja."
+  },
+  "field.application": {
+    "message": "Aplikacija",
+    "description": "Program aplikacije za uslugu."
+  },
+  "field.status": {
+    "message": "Status",
+    "description": "Status aplikacije."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "API usluge."
+  },
+  "field.usedAmount": {
+    "message": "Količina korišćena",
+    "description": "Količina resursa koja je korišćena."
+  },
+  "field.deductedAmount": {
+    "message": "Količina odbijena",
+    "description": "Količina resursa koja je odbijena."
+  },
+  "field.remainingAmount": {
+    "message": "Preostala količina",
+    "description": "Količina resursa koja je preostala."
+  },
+  "field.metadata": {
+    "message": "Metapodaci",
+    "description": "Metapodaci korišćenja."
+  }
+}

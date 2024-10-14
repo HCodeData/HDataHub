@@ -1,0 +1,450 @@
+{
+  "button.setup": {
+    "message": "إعداد",
+    "description": "نص الزر، يستخدم لإعداد بعض المحتويات"
+  },
+  "button.copy": {
+    "message": "نسخ",
+    "description": "نص الزر، يستخدم لإعداد بعض المحتويات"
+  },
+  "button.restart": {
+    "message": "إعادة توليد",
+    "description": "نص الزر، يستخدم لإعداد بعض المحتويات"
+  },
+  "button.preview": {
+    "message": "معاينة",
+    "description": "نص الزر، يستخدم لفتح معاينة ملف ما عبر URL"
+  },
+  "button.seeRawImage": {
+    "message": "عرض الصورة الأصلية",
+    "description": "نص الزر، يستخدم لعرض الصورة الأصلية"
+  },
+  "button.seeRawVideo": {
+    "message": "عرض الفيديو",
+    "description": "نص الزر، يستخدم لعرض الفيديو الأصلي"
+  },
+  "button.edit": {
+    "message": "تعديل",
+    "description": "نص الزر، يستخدم لتعديل بعض المحتويات"
+  },
+  "button.login": {
+    "message": "تسجيل دخول",
+    "description": "نص الزر، يستخدم لتسجيل الدخول"
+  },
+  "button.logout": {
+    "message": "تسجيل خروج",
+    "description": "نص الزر، يستخدم لتسجيل الخروج"
+  },
+  "button.new": {
+    "message": "جديد",
+    "description": "نص الزر، يستخدم لإنشاء مشروع جديد"
+  },
+  "button.delete": {
+    "message": "حذف",
+    "description": "نص الزر، يستخدم لحذف بعض المحتويات"
+  },
+  "button.confirm": {
+    "message": "تأكيد",
+    "description": "نص الزر، يستخدم لتأكيد بعض المحتويات"
+  },
+  "button.cancel": {
+    "message": "إلغاء",
+    "description": "نص الزر، يستخدم لإلغاء بعض العمليات"
+  },
+  "button.alert": {
+    "message": "تحذير",
+    "description": "نص الزر، يستخدم لتحذير بشأن بعض المحتويات"
+  },
+  "button.info": {
+    "message": "معلومات",
+    "description": "نص الزر، يستخدم لعرض المعلومات"
+  },
+  "button.publish": {
+    "message": "نشر",
+    "description": "نص الزر، يستخدم لنشر بعض المحتويات"
+  },
+  "button.watch": {
+    "message": "شاهد",
+    "description": "نص الزر، يستخدم لمشاهدة بعض المحتويات"
+  },
+  "button.verify": {
+    "message": "التحقق من الهوية",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من التحقق من الهوية"
+  },
+  "button.profile": {
+    "message": "الملف الشخصي",
+    "description": "نص الزر، يستخدم لعرض الملف الشخصي"
+  },
+  "button.console": {
+    "message": "وحدة التحكم",
+    "description": "نص الزر، يستخدم لعرض صفحة وحدة التحكم للتحكم في بعض المحتويات في الصفحة"
+  },
+  "button.learn": {
+    "message": "تعلم",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من تعلم بعض المحتويات"
+  },
+  "button.buy": {
+    "message": "شراء",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من شراء بعض المحتويات"
+  },
+  "button.try": {
+    "message": "جرب",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من تجربة بعض المحتويات"
+  },
+  "button.startForFree": {
+    "message": "ابدأ مجانًا",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من البدء في الاستخدام مجانًا"
+  },
+  "button.apply": {
+    "message": "تقديم طلب",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من تقديم طلب لخدمة API"
+  },
+  "button.refresh": {
+    "message": "تحديث",
+    "description": "نص الزر، يستخدم لتحديث الصفحة"
+  },
+  "button.pay": {
+    "message": "دفع",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من دفع رسوم الخدمة"
+  },
+  "button.repay": {
+    "message": "استمر في الدفع",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من الاستمرار في دفع رسوم الخدمة"
+  },
+  "button.applied": {
+    "message": "تم التقديم",
+    "description": "نص الزر، يستخدم لعرض أن المستخدم قد قدم طلبًا لهذه الخدمة"
+  },
+  "button.acquire": {
+    "message": "الحصول على",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من الحصول على رمز أو مفتاح خدمة API"
+  },
+  "button.fillExample": {
+    "message": "ملء نموذج",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من ملء بيانات مثالية"
+  },
+  "button.buyMore": {
+    "message": "شراء المزيد",
+    "description": "نص الزر، يستخدم لتمكين المستخدم من شراء محتويات إضافية"
+  },
+  "button.update": {
+    "message": "تحديث",
+    "description": "نص الزر، يستخدم لتحديث بعض المحتويات"
+  },
+  "button.view": {
+    "message": "عرض",
+    "description": "نص الزر، يستخدم لعرض بعض المحتويات"
+  },
+  "button.create": {
+    "message": "إنشاء",
+    "description": "نص الزر، يستخدم لإنشاء بعض المحتويات"
+  },
+  "button.referralEarnings": {
+    "message": "أرباح الإحالة",
+    "description": "نص الزر، يستخدم لعرض أرباح الإحالة، حيث يدل على أن المستخدم يمكنه كسب المال من خلال دعوة الآخرين لاستخدام الخدمة"
+  },
+  "button.finish": {
+    "message": "إنهاء",
+    "description": "نص الزر، يستخدم لإنهاء بعض المحتويات"
+  },
+  "entity.website": {
+    "message": "Ace Data Cloud",
+    "description": "اسم الموقع، لا حاجة للترجمة، ابق كما هو 'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "حقوق الطبع والنشر",
+    "description": "استخدام النص لعرض معلومات حقوق الطبع والنشر"
+  },
+  "entity.platform": {
+    "message": "المنصة",
+    "description": "نص يشير إلى أن هذه هي منصة خدمة API"
+  },
+  "entity.title": {
+    "message": "العنوان",
+    "description": "عنوان الكيان"
+  },
+  "entity.icon": {
+    "message": "الأيقونة",
+    "description": "أيقونة الكيان"
+  },
+  "entity.status": {
+    "message": "الحالة",
+    "description": "حالة الكيان"
+  },
+  "entity.operation": {
+    "message": "العملية",
+    "description": "عملية الكيان"
+  },
+  "entity.description": {
+    "message": "الوصف",
+    "description": "وصف الكيان"
+  },
+  "entity.createdAt": {
+    "message": "تاريخ الإنشاء",
+    "description": "وقت إنشاء الكيان"
+  },
+  "entity.updatedAt": {
+    "message": "تاريخ التحديث",
+    "description": "وقت تحديث الكيان"
+  },
+  "entity.order": {
+    "message": "طلب",
+    "description": "طلب الكيان الذي يحتوي على المبلغ ومعلومات الخدمة، يجب على المستخدم دفعه"
+  },
+  "message.usedAmount": {
+    "message": "المبلغ المستخدم",
+    "description": "لعرض المبلغ الذي تم استخدامه من الخدمة"
+  },
+  "message.remainingAmount": {
+    "message": "المبلغ المتبقي",
+    "description": "لعرض المبلغ المتبقي من الخدمة"
+  },
+  "message.copied": {
+    "message": "تم النسخ بنجاح",
+    "description": "لعرض رسالة تفيد بأنه تم نسخ المحتوى بنجاح"
+  },
+  "message.restart": {
+    "message": "إعادة توليد",
+    "description": "لعرض رسالة تفيد بأن المحتوى تم نسخه بنجاح"
+  },
+  "message.confirmDelete": {
+    "message": "هل أنت متأكد أنك تريد الحذف؟",
+    "description": "لتأكيد ما إذا كان المستخدم يريد حذف بعض المحتويات"
+  },
+  "message.expiredAt": {
+    "message": "تاريخ انتهاء الصلاحية",
+    "description": "لعرض تاريخ انتهاء صلاحية الخدمة"
+  },
+  "message.alert": {
+    "message": "تحذير",
+    "description": "لعرض رسالة تحذر المستخدم"
+  },
+  "message.info": {
+    "message": "تذكير ودي",
+    "description": "لعرض رسالة معلومات"
+  },
+  "message.free": {
+    "message": "مجاني",
+    "description": "لعرض رسالة تفيد بأن الخدمة مجانية، مما يعني أن المستخدم ليس بحاجة للدفع"
+  },
+  "message.startPrice": {
+    "message": "سعر البداية",
+    "description": "لعرض أقل سعر للخدمة"
+  },
+  "message.joinDiscord": {
+    "message": "انضم إلى Discord",
+    "description": "لجعل المستخدم ينضم إلى قناة Discord"
+  },
+  "message.addWeChat": {
+    "message": "إضافة WeChat",
+    "description": "لجعل المستخدم يضيف WeChat"
+  },
+  "message.serviceTech": {
+    "message": "دعم فني",
+    "description": "لعرض رسالة دعم تقني للخدمة"
+  },
+  "message.businessCooperation": {
+    "message": "تعاون تجاري",
+    "description": "لعرض رسالة تعاون تجاري"
+  },
+  "message.noData": {
+    "message": "لا توجد بيانات",
+    "description": "لعرض رسالة عدم وجود بيانات في جدول أو قائمة"
+  },
+  "nav.home": {
+    "message": "الصفحة الرئيسية",
+    "description": "النص في شريط التنقل بالموقع لعرض الصفحة الرئيسية"
+  },
+  "nav.content": {
+    "message": "المحتوى",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة المحتوى"
+  },
+  "nav.category": {
+    "message": "التصنيف",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة التصنيف"
+  },
+  "nav.service": {
+    "message": "الخدمة",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة الخدمة"
+  },
+  "nav.profile": {
+    "message": "ملفي الشخصي",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة الملف الشخصي"
+  },
+  "nav.products": {
+    "message": "المنتجات",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة المنتجات"
+  },
+  "nav.referral": {
+    "message": "الإيرادات الترويجية",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة التوصية"
+  },
+  "nav.apiPlatform": {
+    "message": "منصة API",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة منصة API"
+  },
+  "nav.document": {
+    "message": "المستندات",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة المستندات"
+  },
+  "nav.console": {
+    "message": "وحدة التحكم",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة وحدة التحكم"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة الدردشة، يرجى عدم ترجمة هذا الحقل، يجب أن يبقى 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة منتصف الرحلة، يرجى عدم ترجمة هذا الحقل، يجب أن يبقى 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة مستندات الدردشة، يرجى عدم ترجمة هذا الحقل، يجب أن يبقى 'Chatdoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة فن QR، يرجى عدم ترجمة هذا الحقل، يجب أن يبقى 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة Suno، يرجى عدم ترجمة هذا الحقل، يجب أن يبقى 'Suno'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة Luma، يرجى عدم ترجمة هذا الحقل، يجب أن يبقى 'Luma'"
+  },
+  "nav.distribution": {
+    "message": "الإيرادات الترويجية",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة الإيرادات الترويجية"
+  },
+  "nav.logOut": {
+    "message": "تسجيل الخروج",
+    "description": "النص في شريط التنقل بالموقع لتسجيل الخروج"
+  },
+  "nav.site": {
+    "message": "إعدادات الموقع",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة إعدادات الموقع"
+  },
+  "nav.locale": {
+    "message": "إعدادات اللغة",
+    "description": "النص في شريط التنقل بالموقع لتغيير اللغة"
+  },
+  "nav.support": {
+    "message": "دعم العملاء",
+    "description": "النص في شريط التنقل بالموقع لعرض صفحة الدعم"
+  },
+  "nav.darkMode": {
+    "message": "وضع الظلام",
+    "description": "النص في شريط التنقل على الموقع، يُستخدم للتبديل إلى السمة الداكنة"
+  },
+  "title.alert": {
+    "message": "تنبيه",
+    "description": "عنوان رسالة التنبيه"
+  },
+  "title.placeholderOfSelect": {
+    "message": "يرجى الاختيار",
+    "description": "نص العنصر النائب في صندوق الإدخال المخصص للاختيار"
+  },
+  "title.placeholderOfInput": {
+    "message": "يرجى الملء",
+    "description": "نص العنصر النائب في صندوق الإدخال"
+  },
+  "title.allApplications": {
+    "message": "جميع الطلبات",
+    "description": "عنوان الصفحة الذي يعرض جميع الطلبات"
+  },
+  "title.allOrders": {
+    "message": "جميع الطلبات",
+    "description": "عنوان الصفحة الذي يعرض جميع الطلبات"
+  },
+  "title.orderInfo": {
+    "message": "معلومات الطلب",
+    "description": "عنوان الصفحة الذي يعرض معلومات الطلب"
+  },
+  "title.buyMore": {
+    "message": "شراء المزيد",
+    "description": "عنوان الصفحة التي تسمح للمستخدم بشراء المزيد"
+  },
+  "title.distribution": {
+    "message": "إيرادات التوصية",
+    "description": "عنوان الصفحة التي تعرض إيرادات التوصية، مما يدل على أن المستخدم يمكنه كسب المال من خلال دعوة الآخرين لاستخدام الخدمة"
+  },
+  "title.site": {
+    "message": "إعدادات الموقع",
+    "description": "عنوان الصفحة التي تعرض إعدادات الموقع"
+  },
+  "title.distributionHistory": {
+    "message": "تاريخ التوصية",
+    "description": "عنوان الصفحة التي تعرض تاريخ التوصية"
+  },
+  "title.invitee": {
+    "message": "المُدعَى",
+    "description": "عنوان الصفحة التي تعرض المُدعَى"
+  },
+  "title.allUsages": {
+    "message": "تاريخ الاستخدام",
+    "description": "عنوان الصفحة التي تعرض جميع سجلات استخدام خدمة API"
+  },
+  "title.allCredentials": {
+    "message": "المصادقات",
+    "description": "عنوان الصفحة التي تعرض جميع المصادقات المستخدمة للوصول إلى API"
+  },
+  "about.title1": {
+    "message": "اتصل بنا",
+    "description": "عنوان قسم عرض معلومات الاتصال"
+  },
+  "about.title2": {
+    "message": "الموارد",
+    "description": "عنوان قسم عرض الروابط"
+  },
+  "about.title3": {
+    "message": "الروابط",
+    "description": "عنوان قسم عرض معلومات الدعم"
+  },
+  "about.address": {
+    "message": "الولايات المتحدة الأمريكية، ولاية ديلاوير، مدينة ميدلتون، شارع نورث برود 201",
+    "description": "عنوان الشركة"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "البريد الإلكتروني للشركة"
+  },
+  "about.link1": {
+    "message": "الخدمات",
+    "description": "رابط صفحة الخدمات"
+  },
+  "about.link2": {
+    "message": "الوثائق",
+    "description": "رابط صفحة الوثائق"
+  },
+  "about.link3": {
+    "message": "لوحة التحكم",
+    "description": "رابط صفحة لوحة التحكم"
+  },
+  "about.link4": {
+    "message": "الملف الشخصي",
+    "description": "رابط صفحة الملف الشخصي"
+  },
+  "about.link5": {
+    "message": "المركز",
+    "description": "رابط صفحة المركز"
+  },
+  "about.link6": {
+    "message": "إيرادات التوصية",
+    "description": "رابط صفحة إيرادات التوصية"
+  },
+  "about.link7": {
+    "message": "الدعم",
+    "description": "رابط صفحة الدعم"
+  },
+  "about.link8": {
+    "message": "شروط الخدمة",
+    "description": "رابط صفحة شروط الخدمة"
+  },
+  "about.link9": {
+    "message": "سياسة الخصوصية",
+    "description": "رابط صفحة سياسة الخصوصية"
+  }
+}
