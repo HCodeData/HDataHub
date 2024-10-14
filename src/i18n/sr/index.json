@@ -1,0 +1,106 @@
+{
+  "title.chat": {
+    "message": "AI Pitanja i Odgovori",
+    "description": "AI Pitanja i Odgovori poglavlje naslov"
+  },
+  "title.midjourney": {
+    "message": "AI Slikanje",
+    "description": "AI Slikanje poglavlje naslov"
+  },
+  "title.qrart": {
+    "message": "AI Umjetnički QR kodovi",
+    "description": "AI Umjetnički QR kodovi poglavlje naslov"
+  },
+  "title.suno": {
+    "message": "AI Muzika",
+    "description": "AI Muzika poglavlje naslov"
+  },
+  "title.luma": {
+    "message": "AI Video",
+    "description": "AI Video poglavlje naslov"
+  },
+  "title.comments": {
+    "message": "Klijent pregled",
+    "description": "Klijent pregled poglavlje naslov"
+  },
+  "title.introduction": {
+    "message": "Naše Usluge",
+    "description": "Sažetak stranice"
+  },
+  "subtitle.banner": {
+    "message": "AI pojačan, sveobuhvatno unapređenje vaše produktivnosti.",
+    "description": "Podnaslov stranice"
+  },
+  "subtitle.chat": {
+    "message": "Podržava više modela pitanja i odgovora, sa funkcijama povezivanja, sposobno prepoznati slike, dokumente i video sadržaj.",
+    "description": "AI Pitanja i Odgovori poglavlje naslov"
+  },
+  "subtitle.midjourney": {
+    "message": "Povezivanje sa najnovijim Midjourney modelom, jednim klikom generišite slike različitih stilova i postavite kontinuirane fino podešavanja.",
+    "description": "AI Slikanje poglavlje naslov"
+  },
+  "subtitle.qrart": {
+    "message": "Podržava više stilova umjetničkih QR kodova, omogućava upload postojećih QR kodova, lako ih obogaćuje, stvarajući jedinstvene vizuelne efekte.",
+    "description": "AI Umjetnički QR kodovi poglavlje naslov"
+  },
+  "subtitle.suno": {
+    "message": "Podržava različite stilove muzike, lako generiše muziku koju želite, a podržava i fleksibilne opcije proširenja dužine.",
+    "description": "AI Muzika poglavlje naslov"
+  },
+  "subtitle.luma": {
+    "message": "Povezivanje sa najnovijim Luma modelom, jednim klikom generišite prilagođene video sadržaje, a podržava i fleksibilne opcije proširenja videa.",
+    "description": "AI Video poglavlje naslov"
+  },
+  "subtitle.comments": {
+    "message": "Drago nam je što možemo pomoći ovim klijentima, koji su visoko ocenili naše usluge.",
+    "description": "Klijent pregled poglavlje naslov"
+  },
+  "subtitle.introduction": {
+    "message": "Pružamo sveobuhvatne AI usluge, uključujući pitanja i odgovore, slikanje, QR kodove, muziku i još mnogo toga, kako bismo zadovoljili vaše raznovrsne potrebe.",
+    "description": "Sažetak stranice"
+  },
+  "button.try": {
+    "message": "Započni besplatno",
+    "description": "Sadržaj unutar teksta"
+  },
+  "button.testEnv": {
+    "message": "Testno Okruženje",
+    "description": "Testno okruženje dugme"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "Ime klijenta"
+  },
+  "customers.job1": {
+    "message": "Softverski Inženjer",
+    "description": "Pozicija klijenta"
+  },
+  "customers.comment1": {
+    "message": "Ova integrisana usluga je jednostavno sjajna, mogu koristiti razne AI alate na jednoj platformi, fantastično!",
+    "description": "Komentar klijenta"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "Ime klijenta"
+  },
+  "customers.job2": {
+    "message": "Menadžer Proizvoda",
+    "description": "Pozicija klijenta"
+  },
+  "customers.comment2": {
+    "message": "Platforma je veoma korisna, kvalitet usluge je odličan, a znacajno oslobađa moju produktivnost.",
+    "description": "Komentar klijenta"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "Ime klijenta"
+  },
+  "customers.job3": {
+    "message": "Dizajner",
+    "description": "Pozicija klijenta"
+  },
+  "customers.comment3": {
+    "message": "Postoji mnogo AI platformi, ali ova je zaista laka za korišćenje i pristupačna, nadam se da će postati još bolja!",
+    "description": "Komentar klijenta"
+  }
+}

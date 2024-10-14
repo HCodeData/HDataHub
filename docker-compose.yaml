@@ -1,0 +1,8 @@
+version: '3'
+services:
+  hcodedata-hub-frontend:
+    container_name: 'hcodedata-hub-frontend'
+    build: ./
+    image: 'ccr.ccs.tencentyun.com/hcodedata/hub-frontend:${BUILD_NUMBER}'
+    ports:
+      - '8080:80'

@@ -1,0 +1,26 @@
+{
+  "field.id": {
+    "message": "ユーザーID",
+    "description": "ユーザーID"
+  },
+  "field.isVerified": {
+    "message": "確認済み",
+    "description": "ユーザーが実際の情報に基づいて確認されているかどうかを示すフラグ"
+  },
+  "field.email": {
+    "message": "メールアドレス",
+    "description": "ユーザーのメールアドレス"
+  },
+  "field.nickname": {
+    "message": "ニックネーム",
+    "description": "ユーザーのニックネーム"
+  },
+  "field.username": {
+    "message": "ユーザー名",
+    "description": "ユーザーのユーザー名"
+  },
+  "field.dateJoined": {
+    "message": "登録日",
+    "description": "ユーザーの登録日"
+  }
+}

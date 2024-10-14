@@ -1,0 +1,146 @@
+{
+  "entity.requestQueries": {
+    "message": "Anfrageparameter",
+    "description": "HTTP-Anfrage der Abfrageparameter."
+  },
+  "entity.requestBody": {
+    "message": "Anfragekörper",
+    "description": "HTTP-Anfrage des Anfragekörpers."
+  },
+  "entity.responseBody": {
+    "message": "Antwortkörper",
+    "description": "HTTP-Antwort des Antwortkörpers."
+  },
+  "entity.requestHeaders": {
+    "message": "Anfrageheader",
+    "description": "HTTP-Anfrage der Anfrageheader."
+  },
+  "entity.requestHeader": {
+    "message": "Anfrageheader",
+    "description": "HTTP-Anfrage des Anfrageheaders, nur die Einzelform des Anfrageheaders."
+  },
+  "entity.responseHeaders": {
+    "message": "Antwortheader",
+    "description": "HTTP-Antwort der Antwortheader."
+  },
+  "entity.response": {
+    "message": "Antwort",
+    "description": "HTTP-Antwort."
+  },
+  "entity.success": {
+    "message": "Erfolg",
+    "description": "Erfolgreiche Antwort."
+  },
+  "entity.failure": {
+    "message": "Fehler",
+    "description": "Fehlerhafte Antwort."
+  },
+  "entity.responseExample": {
+    "message": "Beispiel",
+    "description": "Beispiel der Antwort."
+  },
+  "entity.authentication": {
+    "message": "Authentifizierung",
+    "description": "Authentifizierungsinformationen."
+  },
+  "entity.arrayOf": {
+    "message": "Array",
+    "description": "Array von Entitäten."
+  },
+  "entity.apiKey": {
+    "message": "API-Schlüssel",
+    "description": "API-Schlüssel."
+  },
+  "message.free": {
+    "message": "Kostenlos",
+    "description": "Zeigt an, dass der Preis kostenlos ist und beim Verwenden des API-Dienstes keine Punkte oder Währungen ausgegeben werden müssen."
+  },
+  "message.appliedCount": {
+    "message": "Anzahl der Anfragen",
+    "description": "Anzahl der beantragten API-Dienste."
+  },
+  "message.firstFree": {
+    "message": "Erster kostenlos",
+    "description": "Zeigt an, dass die erste Verwendung des API-Dienstes kostenlos ist und keine Punkte oder Währungen benötigt werden."
+  },
+  "message.custom": {
+    "message": "Festgelegter Betrag",
+    "description": "Zeigt an, dass der Preis festgelegt ist und beim Verwenden des API-Dienstes die festgelegten Punkte oder Währungen benötigt werden."
+  },
+  "message.present": {
+    "message": "Geschenk",
+    "description": "Bei der ersten Nutzung des API-Dienstes werden wir Ihnen Punkte schenken."
+  },
+  "message.around": {
+    "message": "Ungefähr",
+    "description": "Der Preis ist ungefähr, der tatsächliche Preis kann abweichen."
+  },
+  "message.successRate15min": {
+    "message": "Echtzeit-Erfolgsrate",
+    "description": "Echtzeit-Erfolgsrate des API-Dienstes in den letzten 15 Minuten."
+  },
+  "message.ySuccessRate": {
+    "message": "Erfolgsrate (100%)",
+    "description": "Erfolgsrate des API-Dienstes."
+  },
+  "message.xMinutes": {
+    "message": "Zeit (Minuten)",
+    "description": "Zeit (Minuten)."
+  },
+  "message.streamUsage": {
+    "message": "Hinweis: Für Streaming-Anfragen kann der obige Code möglicherweise nicht vollständig anwendbar sein. Bitte beziehen Sie sich auf die Integrationsdokumentation zur Anpassung.",
+    "description": "Für Streaming-Anfragen kann der obige Code möglicherweise nicht vollständig anwendbar sein. Bitte beziehen Sie sich auf die Integrationsdokumentation zur Anpassung."
+  },
+  "message.alphaStage": {
+    "message": "Diese API befindet sich in der Alpha-Phase, dies ist eine frühe Vorschauversion und kann potenziell instabil sein, das API-Format kann sich erheblich ändern, die Verwendung in einer Produktionsumgebung wird nicht empfohlen. Der aktuelle Preis ist relativ niedrig, in Zukunft kann es zu erheblichen Preisänderungen kommen.",
+    "description": "Diese API befindet sich in der Alpha-Phase, dies ist eine frühe Vorschauversion und kann potenziell instabil sein, das API-Format kann sich erheblich ändern, die Verwendung in einer Produktionsumgebung wird nicht empfohlen. Der aktuelle Preis ist relativ niedrig, in Zukunft kann es zu erheblichen Preisänderungen kommen."
+  },
+  "message.betaStage": {
+    "message": "Diese API befindet sich in der Beta-Phase, das API-Format wird sich nicht stark ändern, kann jedoch potenziell instabil sein, daher ist Vorsicht bei der Verwendung in einer Produktionsumgebung geboten. Der aktuelle Preis ist relativ niedrig, in Zukunft kann es zu moderaten Preisänderungen kommen.",
+    "description": "Diese API befindet sich in der Beta-Phase, das API-Format wird sich nicht stark ändern, kann jedoch potenziell instabil sein, daher ist Vorsicht bei der Verwendung in einer Produktionsumgebung geboten. Der aktuelle Preis ist relativ niedrig, in Zukunft kann es zu moderaten Preisänderungen kommen."
+  },
+  "unit.credit": {
+    "message": "Punkte",
+    "description": "Punkte sind die virtuelle Währung, die im API-Dienst verwendet wird."
+  },
+  "unit.Credit": {
+    "message": "Punkt",
+    "description": "Punkt ist die virtuelle Währung, die im API-Dienst verwendet wird, dies ist die Großschreibform."
+  },
+  "unit.credits": {
+    "message": "Punkte",
+    "description": "Punkte sind die virtuelle Währung, die im API-Dienst verwendet wird, dies ist die Pluralform."
+  },
+  "unit.Credits": {
+    "message": "Punkte",
+    "description": "Punkte sind die virtuelle Währung, die im API-Dienst verwendet wird, dies ist die Großschreib- und Pluralform."
+  },
+  "unit.call": {
+    "message": "Aufruf",
+    "description": "Aufruf bezeichnet die Anzahl der in Anspruch genommenen API-Dienste."
+  },
+  "unit.count": {
+    "message": "Mal",
+    "description": "Mal bezeichnet die Anzahl der in Anspruch genommenen API-Dienste."
+  },
+  "unit.Call": {
+    "message": "Aufruf",
+    "description": "Aufruf bezeichnet die Anzahl der in Anspruch genommenen API-Dienste, dies ist die Großschreibform."
+  },
+  "unit.calls": {
+    "message": "Aufrufe",
+    "description": "Aufruf bezeichnet die Anzahl der in Anspruch genommenen API-Dienste, dies ist die Pluralform."
+  },
+  "unit.Calls": {
+    "message": "Aufrufe",
+    "description": "Aufruf bezeichnet die Anzahl der in Anspruch genommenen API-Dienste, dies ist die Großschreib- und Pluralform."
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "MB steht für Megabyte, eine Einheit zur Speicherung digitaler Informationen."
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "GB steht für Gigabyte, eine Einheit zur Speicherung digitaler Informationen."
+  }
+}

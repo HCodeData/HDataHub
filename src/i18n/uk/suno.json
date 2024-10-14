@@ -1,0 +1,158 @@
+{
+  "button.extend": {
+    "message": "Продовжити генерувати",
+    "description": "Текст кнопки для продовження генерації"
+  },
+  "button.download": {
+    "message": "Завантажити",
+    "description": "Текст кнопки для завантаження"
+  },
+  "button.video": {
+    "message": "Відео",
+    "description": "Текст кнопки для відео"
+  },
+  "model.model1": {
+    "message": "v2",
+    "description": "Модель для генерації музики"
+  },
+  "model.model2": {
+    "message": "v3",
+    "description": "Модель для генерації музики"
+  },
+  "name.instrumental": {
+    "message": "Без слів",
+    "description": "Опис параметра 'instrumental'"
+  },
+  "model.model3": {
+    "message": "v3.5",
+    "description": "Модель для генерації музики"
+  },
+  "name.taskId": {
+    "message": "ID завдання",
+    "description": "ID завдання"
+  },
+  "name.type": {
+    "message": "Кастомізований режим",
+    "description": "Назва кастомізованого режиму"
+  },
+  "name.prompt": {
+    "message": "Опис пісні",
+    "description": "Запит для введення контенту"
+  },
+  "name.extend": {
+    "message": "Розширити пісню з",
+    "description": "Запит для введення контенту"
+  },
+  "name.lyrics": {
+    "message": "Текст пісні",
+    "description": "Запит для введення тексту пісні"
+  },
+  "name.style": {
+    "message": "Стиль пісні",
+    "description": "Запит для введення стилю пісні"
+  },
+  "name.title": {
+    "message": "Назва пісні",
+    "description": "Запит для введення назви пісні"
+  },
+  "name.failureReason": {
+    "message": "Причина невдачі",
+    "description": "Причина, чому завдання не вдалося"
+  },
+  "name.status": {
+    "message": "Статус",
+    "description": "Статус завдання"
+  },
+  "name.traceId": {
+    "message": "ID трекінгу",
+    "description": "ID трекінгу завдання"
+  },
+  "name.sunoBot": {
+    "message": "Suno Bot",
+    "description": "Назва генератора Suno"
+  },
+  "description.prompt": {
+    "message": "Заповніть стиль і тему музики, яку ви хочете згенерувати, наприклад, acoustic pop про свята",
+    "description": "Опис параметра 'prompt'"
+  },
+  "description.lyrics": {
+    "message": "Зміст тексту пісні",
+    "description": "Опис параметра 'lyrics'"
+  },
+  "description.style": {
+    "message": "Зміст стилю пісні",
+    "description": "Опис параметра 'style'"
+  },
+  "description.title": {
+    "message": "Зміст назви пісні",
+    "description": "Опис параметра 'title'"
+  },
+  "status.pending": {
+    "message": "Очікування",
+    "description": "Стан очікування завдання"
+  },
+  "placeholder.prompt": {
+    "message": "Введіть підказку для пісні...",
+    "description": "Плейсхолдер для введення шуму"
+  },
+  "placeholder.lyrics": {
+    "message": "Введіть текст...",
+    "description": "Плейсхолдер для текстового рівня"
+  },
+  "placeholder.extend.lyrics": {
+    "message": "Введіть текст для розширення...",
+    "description": "Плейсхолдер для текстового рівня"
+  },
+  "placeholder.extend.continue_at": {
+    "message": "Введіть, з якої секунди розширити пісню...",
+    "description": "Плейсхолдер для текстового рівня"
+  },
+  "placeholder.style": {
+    "message": "Введіть підказку для стилю пісні, наприклад, acoustic pop",
+    "description": "Плейсхолдер для підказки в полі"
+  },
+  "placeholder.title": {
+    "message": "Введіть підказку для назви пісні, наприклад, holiday song",
+    "description": "Плейсхолдер для входу в систему"
+  },
+  "placeholder.select": {
+    "message": "Виберіть модель...",
+    "description": "Плейсхолдер для введення позиції"
+  },
+  "placeholder.position": {
+    "message": "Виберіть...",
+    "description": "Плейсхолдер для введення позиції"
+  },
+  "button.generate": {
+    "message": "Генерувати",
+    "description": "Текст кнопки для генерації"
+  },
+  "message.startingTask": {
+    "message": "Запуск завдання...",
+    "description": "Повідомлення, коли розпочинається завдання з генерації музики"
+  },
+  "message.startTaskSuccess": {
+    "message": "Успішно запущено завдання з генерації музики",
+    "description": "Повідомлення про успіх при запуску завдання з генерації музики"
+  },
+  "message.startTaskFailed": {
+    "message": "Не вдалося запустити завдання з генерації музики",
+    "description": "Повідомлення про помилку при невдалому запуску завдання з генерації музики"
+  },
+  "message.generating": {
+    "message": "Генерація...",
+    "description": "Повідомлення під час генерації музики"
+  },
+  "message.generateFailed": {
+    "message": "Генерація музики не вдалася",
+    "description": "Повідомлення про невдалу генерацію музики"
+  },
+  "message.noOperations": {
+    "message": "Немає доступних дій",
+    "description": "Повідомлення при відсутності доступних дій"
+  },
+  "message.noTasks": {
+    "message": "Немає історичних завдань, будь ласка, згенеруйте музику в лівій панелі налаштувань",
+    "description": "Повідомлення при відсутності завдань"
+  }
+}

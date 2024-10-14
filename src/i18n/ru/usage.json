@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "Время использования",
+    "description": "Время создания записи использования."
+  },
+  "field.statusCode": {
+    "message": "Код состояния",
+    "description": "Код состояния записи использования."
+  },
+  "field.application": {
+    "message": "Заявка",
+    "description": "Программа заявки на услуги."
+  },
+  "field.status": {
+    "message": "Статус",
+    "description": "Статус программы заявки."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "API услуги."
+  },
+  "field.usedAmount": {
+    "message": "Использованное количество",
+    "description": "Количество использованных ресурсов."
+  },
+  "field.deductedAmount": {
+    "message": "Выходящее количество",
+    "description": "Количество вычтенных ресурсов."
+  },
+  "field.remainingAmount": {
+    "message": "Оставшееся количество",
+    "description": "Количество оставшихся ресурсов."
+  },
+  "field.metadata": {
+    "message": "Метаданные",
+    "description": "Метаданные записи использования."
+  }
+}

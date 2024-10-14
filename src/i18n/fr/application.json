@@ -1,0 +1,210 @@
+{
+  "type.period": {
+    "message": "Période",
+    "description": "Service de la période."
+  },
+  "type.usage": {
+    "message": "Quota",
+    "description": "Quota du service."
+  },
+  "field.expiredAt": {
+    "message": "Date d'expiration",
+    "description": "Date d'expiration de la demande."
+  },
+  "button.goDocument": {
+    "message": "Document",
+    "description": "Texte du bouton, cliquer sur ce bouton vous mènera à la page de documentation."
+  },
+  "button.goCredentials": {
+    "message": "Identifiants",
+    "description": "Texte du bouton, cliquer sur ce bouton vous mènera à la page des identifiants."
+  },
+  "button.buyMore": {
+    "message": "Acheter plus",
+    "description": "Texte du bouton, cliquer sur ce bouton vous mènera à la page d'achat supplémentaire."
+  },
+  "button.createOrder": {
+    "message": "Créer une commande",
+    "description": "Texte du bouton, cliquer sur ce bouton vous mènera à la page de création de commande."
+  },
+  "button.custom": {
+    "message": "Personnaliser",
+    "description": "Texte du bouton, cliquer sur ce bouton vous mènera à la page de personnalisation."
+  },
+  "button.query": {
+    "message": "Interroger",
+    "description": "Texte du bouton, cliquer sur ce bouton vous mènera à la page d'interrogation."
+  },
+  "button.usage": {
+    "message": "Historique d'utilisation",
+    "description": "Texte du bouton, cliquer sur ce bouton vous mènera à la page de l'historique d'utilisation."
+  },
+  "field.application": {
+    "message": "Demande",
+    "description": "Demande de service."
+  },
+  "field.status": {
+    "message": "Statut",
+    "description": "Statut de la demande."
+  },
+  "field.id": {
+    "message": "ID de demande",
+    "description": "ID de la demande."
+  },
+  "field.remainingAmount": {
+    "message": "Quantité restante",
+    "description": "Quantité restante de la demande."
+  },
+  "field.usedAmount": {
+    "message": "Quantité utilisée",
+    "description": "Quantité utilisée de la demande."
+  },
+  "field.apiKey": {
+    "message": "Clé API",
+    "description": "Clé API."
+  },
+  "field.service": {
+    "message": "Service",
+    "description": "Service de la demande."
+  },
+  "field.operation": {
+    "message": "Opération",
+    "description": "Opération de la demande."
+  },
+  "field.amount": {
+    "message": "Quantité",
+    "description": "Quantité de la demande."
+  },
+  "field.traceId": {
+    "message": "Trace ID",
+    "description": "Trace ID d'un appel API de la demande de service API, ne pas traduire, garder comme 'Trace ID'."
+  },
+  "field.shouldPayPrice": {
+    "message": "Prix final",
+    "description": "Prix final de la demande."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "C'est un service en ligne sous la forme de services fournis aux utilisateurs via une API."
+  },
+  "field.proxy": {
+    "message": "Proxy",
+    "description": "C'est un service en ligne sous la forme d'un proxy HTTP (pour transférer des données) fournissant des services aux utilisateurs."
+  },
+  "field.credential": {
+    "message": "Identifiants",
+    "description": "Identifiants de la demande."
+  },
+  "field.name": {
+    "message": "Nom",
+    "description": "Nom de la demande."
+  },
+  "field.package": {
+    "message": "Forfait",
+    "description": "Le forfait représente différents forfaits de prix, par exemple 100 dollars pour 10 000 points, 200 dollars pour 20 000 points."
+  },
+  "field.type": {
+    "message": "Type",
+    "description": "Type de la demande."
+  },
+  "field.freeAmount": {
+    "message": "Quantité gratuite",
+    "description": "Quantité gratuite de la demande."
+  },
+  "field.extraPrice": {
+    "message": "Prix",
+    "description": "Prix supplémentaire que l'utilisateur doit payer pour la demande."
+  },
+  "message.alreadyApplied": {
+    "message": "Vous avez déjà fait cette demande, veuillez vérifier le tableau de bord.",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci a déjà fait cette demande."
+  },
+  "message.applySuccessfully": {
+    "message": "Demande réussie",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci a réussi à faire cette demande."
+  },
+  "message.notApplied": {
+    "message": "Vous n'avez pas encore fait cette demande, veuillez faire cette demande avant utilisation.",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci n'a pas encore fait cette demande."
+  },
+  "message.yourApplication": {
+    "message": "Votre demande",
+    "description": "Message affiché à l'utilisateur concernant sa demande."
+  },
+  "message.unverified": {
+    "message": "Vous devez compléter votre identification avant de pouvoir faire cette demande.",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci n'a pas encore complété son identification."
+  },
+  "message.goVerify": {
+    "message": "Aller à l'identification",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci n'a pas encore complété son identification."
+  },
+  "message.requiredParameter": {
+    "message": "Paramètre requis",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci n'a pas saisi un paramètre requis."
+  },
+  "message.example": {
+    "message": "Exemple",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci n'a pas saisi un paramètre requis."
+  },
+  "message.createCredentialSuccessfully": {
+    "message": "Identifiants créés avec succès",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci a réussi à créer des identifiants."
+  },
+  "message.readPolicy": {
+    "message": "J'ai lu et j'accepte",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci a lu et accepté la politique."
+  },
+  "message.policy": {
+    "message": "Accord d'utilisation des services technologiques",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci a lu et accepté la politique."
+  },
+  "message.notAgreePolicy": {
+    "message": "Vous n'avez pas encore accepté l'accord d'utilisation des services technologiques.",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci n'a pas encore accepté la politique."
+  },
+  "message.confirmApplying": {
+    "message": "Confirmer la demande de service",
+    "description": "Message affiché à l'utilisateur lorsqu'il confirme sa demande de service."
+  },
+  "message.rotateCredential": {
+    "message": "Réinitialiser la clé",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci réinitialise la clé."
+  },
+  "message.rotateCredentialConfirm": {
+    "message": "Êtes-vous sûr de vouloir réinitialiser la clé ? Une fois réinitialisée, elle ne pourra pas être récupérée.",
+    "description": "Message affiché à l'utilisateur lorsque celui-ci confirme la réinitialisation de la clé."
+  },
+  "message.idDoesNotExist": {
+    "message": "La demande n'existe pas",
+    "description": "Message affiché à l'utilisateur lorsque la demande n'existe pas."
+  },
+  "message.rotateCredentialSuccessfully": {
+    "message": "Réinitialisation de la clé réussie",
+    "description": "Message affiché à l'utilisateur lorsque la réinitialisation de la clé est réussie."
+  },
+  "message.rotateCredentialFailed": {
+    "message": "Échec de la réinitialisation de la clé, veuillez contacter le support",
+    "description": "Message affiché à l'utilisateur lorsque la réinitialisation de la clé a échoué."
+  },
+  "message.updateFailed": {
+    "message": "Échec de la modification",
+    "description": "Message affiché à l'utilisateur lorsque la modification échoue."
+  },
+  "message.updateSuccessfully": {
+    "message": "Modification réussie",
+    "description": "Message affiché à l'utilisateur lorsque la modification est réussie."
+  },
+  "title.buyService": {
+    "message": "Acheter un service",
+    "description": "Titre de la page lorsque l'utilisateur souhaite acheter un service."
+  },
+  "title.applicationRemainingCount": {
+    "message": "Quantité de modifications",
+    "description": "Titre de la page lorsque l'utilisateur souhaite modifier le nombre de demandes."
+  },
+  "title.manageApplication": {
+    "message": "Gestion des demandes",
+    "description": "Titre de la page lorsque l'utilisateur souhaite gérer les demandes."
+  }
+}

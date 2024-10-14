@@ -1,0 +1,450 @@
+{
+  "button.setup": {
+    "message": "Aseta",
+    "description": "Buttons text used to set something"
+  },
+  "button.copy": {
+    "message": "Kopioi",
+    "description": "Buttons text used to set something"
+  },
+  "button.restart": {
+    "message": "Uudelleen genereeraa",
+    "description": "Buttons text used to set something"
+  },
+  "button.preview": {
+    "message": "Esikatselu",
+    "description": "Buttons text used to open a preview of a file via URL"
+  },
+  "button.seeRawImage": {
+    "message": "Näytä alkuperäinen kuva",
+    "description": "Buttons text used to view the original image"
+  },
+  "button.seeRawVideo": {
+    "message": "Näytä video",
+    "description": "Buttons text used to view the original video"
+  },
+  "button.edit": {
+    "message": "Muokkaa",
+    "description": "Buttons text used to edit something"
+  },
+  "button.login": {
+    "message": "Kirjaudu sisään",
+    "description": "Buttons text used to login"
+  },
+  "button.logout": {
+    "message": "Kirjaudu ulos",
+    "description": "Buttons text used to logout"
+  },
+  "button.new": {
+    "message": "Uusi",
+    "description": "Buttons text used to create a new item"
+  },
+  "button.delete": {
+    "message": "Poista",
+    "description": "Buttons text used to delete something"
+  },
+  "button.confirm": {
+    "message": "Vahvista",
+    "description": "Buttons text used to confirm something"
+  },
+  "button.cancel": {
+    "message": "Peruuta",
+    "description": "Buttons text used to cancel an operation"
+  },
+  "button.alert": {
+    "message": "Varoitus",
+    "description": "Buttons text used to warn about something"
+  },
+  "button.info": {
+    "message": "Tietoa",
+    "description": "Buttons text used to display information"
+  },
+  "button.publish": {
+    "message": "Julkaise",
+    "description": "Buttons text used to publish something"
+  },
+  "button.watch": {
+    "message": "Katso",
+    "description": "Buttons text used to watch something"
+  },
+  "button.verify": {
+    "message": "Todista henkilöllisyys",
+    "description": "Buttons text used to let users verify their identity"
+  },
+  "button.profile": {
+    "message": "Profiili",
+    "description": "Buttons text used to display user profile"
+  },
+  "button.console": {
+    "message": "Konsoli",
+    "description": "Buttons text used to show the console page to control certain content on the web page"
+  },
+  "button.learn": {
+    "message": "Opiskele",
+    "description": "Buttons text used to let users learn something"
+  },
+  "button.buy": {
+    "message": "Osta",
+    "description": "Buttons text used to let users buy something"
+  },
+  "button.try": {
+    "message": "Kokeile",
+    "description": "Buttons text used to let users try something"
+  },
+  "button.startForFree": {
+    "message": "Aloita ilmaiseksi",
+    "description": "Buttons text used to let users start using for free"
+  },
+  "button.apply": {
+    "message": "Hae",
+    "description": "Buttons text used to let users apply for API services"
+  },
+  "button.refresh": {
+    "message": "Päivitä",
+    "description": "Buttons text used to refresh the page"
+  },
+  "button.pay": {
+    "message": "Maksa",
+    "description": "Buttons text used to let users pay for services"
+  },
+  "button.repay": {
+    "message": "Jatka maksua",
+    "description": "Buttons text used to let users continue paying for services"
+  },
+  "button.applied": {
+    "message": "On haettu",
+    "description": "Buttons text used to indicate that a user has applied for the service"
+  },
+  "button.acquire": {
+    "message": "Hanki",
+    "description": "Buttons text used to let users obtain API service tokens or keys"
+  },
+  "button.fillExample": {
+    "message": "Täytä esimerkki",
+    "description": "Buttons text used to let users fill in example data"
+  },
+  "button.buyMore": {
+    "message": "Osta lisää",
+    "description": "Buttons text used to let users buy more content"
+  },
+  "button.update": {
+    "message": "Päivitä",
+    "description": "Buttons text used to update something"
+  },
+  "button.view": {
+    "message": "Näytä",
+    "description": "Buttons text used to view something"
+  },
+  "button.create": {
+    "message": "Luo",
+    "description": "Buttons text used to create something"
+  },
+  "button.referralEarnings": {
+    "message": "Viittausansiot",
+    "description": "Buttons text used to display referral earnings, indicating that users can earn money by inviting others to use the service"
+  },
+  "button.finish": {
+    "message": "Valmis",
+    "description": "Buttons text used to finish something"
+  },
+  "entity.website": {
+    "message": "Ace Data Cloud",
+    "description": "Website name, no need to translate, keep as 'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "Tekijänoikeus",
+    "description": "Text used to display copyright information"
+  },
+  "entity.platform": {
+    "message": "Alusta",
+    "description": "Text indicating this is the platform for the API service"
+  },
+  "entity.title": {
+    "message": "Otsikko",
+    "description": "Title of the entity"
+  },
+  "entity.icon": {
+    "message": "Ikoni",
+    "description": "Icon of the entity"
+  },
+  "entity.status": {
+    "message": "Tila",
+    "description": "Status of the entity"
+  },
+  "entity.operation": {
+    "message": "Toiminta",
+    "description": "Operation of the entity"
+  },
+  "entity.description": {
+    "message": "Kuvaus",
+    "description": "Description of the entity"
+  },
+  "entity.createdAt": {
+    "message": "Luontiaika",
+    "description": "Entiteetin luontiaika"
+  },
+  "entity.updatedAt": {
+    "message": "Päivitetty aika",
+    "description": "Entiteetin päivitysaika"
+  },
+  "entity.order": {
+    "message": "Tilaus",
+    "description": "Entiteetin tilaus, sisältää summan, palvelutiedot, käyttäjän on maksettava siitä"
+  },
+  "message.usedAmount": {
+    "message": "Käytetty summa",
+    "description": "Näyttää käytetyn palvelusumman"
+  },
+  "message.remainingAmount": {
+    "message": "Jäljellä oleva summa",
+    "description": "Näyttää jäljellä olevan palvelusumman"
+  },
+  "message.copied": {
+    "message": "Onnistuneesti kopioitu",
+    "description": "Näyttää viestin siitä, että sisältö on onnistuneesti kopioitu"
+  },
+  "message.restart": {
+    "message": "Uudista",
+    "description": "Näyttää viestin siitä, että sisältö on onnistuneesti kopioitu"
+  },
+  "message.confirmDelete": {
+    "message": "Haluatko varmasti poistaa?",
+    "description": "Vahvistaa, haluaako käyttäjä poistaa jotain"
+  },
+  "message.expiredAt": {
+    "message": "Voimassaolon päättymisaika",
+    "description": "Näyttää palvelun voimassaolon päättymisajan"
+  },
+  "message.alert": {
+    "message": "Varoitus",
+    "description": "Viiesti varoittaa käyttäjiä"
+  },
+  "message.info": {
+    "message": "Ystävällinen muistutus",
+    "description": "Näyttää informaatioviestin"
+  },
+  "message.free": {
+    "message": "Ilmainen",
+    "description": "Näyttää palvelun olevan ilmainen, mikä tarkoittaa, ettei käyttäjän tarvitse maksaa"
+  },
+  "message.startPrice": {
+    "message": "Alkaen hinta",
+    "description": "Näyttää palvelun alhaisimman hinnan"
+  },
+  "message.joinDiscord": {
+    "message": "Liity Discordiin",
+    "description": "Viestin käyttäjälle, joka kehottaa liittymään Discord-kanavaan"
+  },
+  "message.addWeChat": {
+    "message": "Lisää WeChat",
+    "description": "Viestin käyttäjälle, joka kehottaa lisäämään WeChatin"
+  },
+  "message.serviceTech": {
+    "message": "Tekninen tuki",
+    "description": "Näyttää palvelun teknisen tuen"
+  },
+  "message.businessCooperation": {
+    "message": "Liiketoimintayhteistyö",
+    "description": "Näyttää liiketoimintayhteistyöviestin"
+  },
+  "message.noData": {
+    "message": "Ei tietoja",
+    "description": "Näyttää viestin, jossa ei ole tietoja taulukossa tai luettelossa"
+  },
+  "nav.home": {
+    "message": "Etusivu",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää etusivun"
+  },
+  "nav.content": {
+    "message": "Sisältö",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää sisältösivun"
+  },
+  "nav.category": {
+    "message": "Kategoria",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää kategoriat"
+  },
+  "nav.service": {
+    "message": "Palvelu",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää palvelusivun"
+  },
+  "nav.profile": {
+    "message": "Minä",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää profiilisivun"
+  },
+  "nav.products": {
+    "message": "Tuotteet",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää tuotesivun"
+  },
+  "nav.referral": {
+    "message": "Suositustulo",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää suositussivun"
+  },
+  "nav.apiPlatform": {
+    "message": "API-alusta",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää API-alustasivun"
+  },
+  "nav.document": {
+    "message": "Dokumentaatio",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää dokumentaatiosivun"
+  },
+  "nav.console": {
+    "message": "Konsoli",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää konsolisivun"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää chat-sivun, älä käännä tätä kenttää, sen on pysyttävä 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää Midjourney-sivun, älä käännä tätä kenttää, sen on pysyttävä 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää chat-dokumenttisivun, älä käännä tätä kenttää, sen on pysyttävä 'ChatDoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää QR-taidesivun, älä käännä tätä kenttää, sen on pysyttävä 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää Suno-sivun, älä käännä tätä kenttää, sen on pysyttävä 'Suno'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää Luma-sivun, älä käännä tätä kenttää, sen on pysyttävä 'Luma'"
+  },
+  "nav.distribution": {
+    "message": "Suositustulo",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää suositustulo-sivun"
+  },
+  "nav.logOut": {
+    "message": "Kirjaudu ulos",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka kirjautuu ulos"
+  },
+  "nav.site": {
+    "message": "Sivuston asetukset",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää sivuston asetussivun"
+  },
+  "nav.locale": {
+    "message": "Kieliasetukset",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka muuttaa kielen"
+  },
+  "nav.support": {
+    "message": "Asiakastuki",
+    "description": "Verkkosivuston navigaatiopalkissa oleva teksti, joka näyttää tukisivun"
+  },
+  "nav.darkMode": {
+    "message": "Tumma tila",
+    "description": "Verkkosivuston navigointipalkissa oleva teksti, joka vaihtaa tummaan teeman"
+  },
+  "title.alert": {
+    "message": "Varoitus",
+    "description": "Varoitusviestin otsikko"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Valitse",
+    "description": "Valintaruutu placeholder-teksti"
+  },
+  "title.placeholderOfInput": {
+    "message": "Täytä kenttä",
+    "description": "Syöttöruudun placeholder-teksti"
+  },
+  "title.allApplications": {
+    "message": "Kaikki hakemukset",
+    "description": "Sivun otsikko, joka näyttää kaikki hakemukset"
+  },
+  "title.allOrders": {
+    "message": "Kaikki tilaukset",
+    "description": "Sivun otsikko, joka näyttää kaikki tilaukset"
+  },
+  "title.orderInfo": {
+    "message": "Tilaustiedot",
+    "description": "Sivun otsikko, joka näyttää tilaustiedot"
+  },
+  "title.buyMore": {
+    "message": "Osta lisää",
+    "description": "Sivun otsikko, joka kehottaa käyttäjää ostamaan lisää"
+  },
+  "title.distribution": {
+    "message": "Suosittelutulot",
+    "description": "Sivun otsikko, joka näyttää suosittelutulot, mikä tarkoittaa, että käyttäjä voi ansaita kutsumalla muita käyttämään palvelua"
+  },
+  "title.site": {
+    "message": "Sivuston asetukset",
+    "description": "Sivun otsikko, joka näyttää sivuston asetukset"
+  },
+  "title.distributionHistory": {
+    "message": "Suositteluhistoria",
+    "description": "Sivun otsikko, joka näyttää suositteluhistorian"
+  },
+  "title.invitee": {
+    "message": "Kutsuja",
+    "description": "Sivun otsikko, joka näyttää kutsuja"
+  },
+  "title.allUsages": {
+    "message": "Käyttöhistoria",
+    "description": "Sivun otsikko, joka näyttää kaikki API-palvelun käyttöennätykset"
+  },
+  "title.allCredentials": {
+    "message": "Todistukset",
+    "description": "Sivun otsikko, joka näyttää kaikki todistukset, jotka tarvitaan API:hin pääsyyn"
+  },
+  "about.title1": {
+    "message": "Ota meihin yhteyttä",
+    "description": "Osa, joka näyttää yhteystiedot, otsikko"
+  },
+  "about.title2": {
+    "message": "Resurssit",
+    "description": "Osa, joka näyttää linkit, otsikko"
+  },
+  "about.title3": {
+    "message": "Linkit",
+    "description": "Osa, joka näyttää tukitiedot, otsikko"
+  },
+  "about.address": {
+    "message": "Yhdysvallat, Delaware, Middletown, N Broad St, toimisto 201",
+    "description": "Yrityksen osoite"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "Yrityksen sähköpostiosoite"
+  },
+  "about.link1": {
+    "message": "Palvelut",
+    "description": "Linkki palvelusivulle"
+  },
+  "about.link2": {
+    "message": "Dokumentaatio",
+    "description": "Linkki dokumentaatiosivulle"
+  },
+  "about.link3": {
+    "message": "Konsoli",
+    "description": "Linkki konsolisivulle"
+  },
+  "about.link4": {
+    "message": "Profiili",
+    "description": "Linkki profiilisivulle"
+  },
+  "about.link5": {
+    "message": "Keskus",
+    "description": "Linkki keskussivulle"
+  },
+  "about.link6": {
+    "message": "Suosittelutulot",
+    "description": "Linkki suosittelutulojen sivulle"
+  },
+  "about.link7": {
+    "message": "Tuki",
+    "description": "Linkki tukisivulle"
+  },
+  "about.link8": {
+    "message": "Käyttöehdot",
+    "description": "Linkki käyttöehdot sivulle"
+  },
+  "about.link9": {
+    "message": "Yksityisyyskäytäntö",
+    "description": "Linkki yksityisyyskäytäntö sivulle"
+  }
+}

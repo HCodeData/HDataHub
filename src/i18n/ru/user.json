@@ -1,0 +1,26 @@
+{
+  "field.id": {
+    "message": "Пользовательский ID",
+    "description": "Пользовательский ID"
+  },
+  "field.isVerified": {
+    "message": "Подтверждено",
+    "description": "Флаг, указывающий, был ли пользователь подтвержден на основе реальной информации"
+  },
+  "field.email": {
+    "message": "Электронная почта",
+    "description": "Электронная почта пользователя"
+  },
+  "field.nickname": {
+    "message": "Псевдоним",
+    "description": "Псевдоним пользователя"
+  },
+  "field.username": {
+    "message": "Имя пользователя",
+    "description": "Имя пользователя"
+  },
+  "field.dateJoined": {
+    "message": "Дата регистрации",
+    "description": "Дата регистрации пользователя"
+  }
+}
