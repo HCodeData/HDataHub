@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "使用時間",
+    "description": "使用記録作成の時間。"
+  },
+  "field.statusCode": {
+    "message": "ステータスコード",
+    "description": "使用記録のステータスコード。"
+  },
+  "field.application": {
+    "message": "申請",
+    "description": "サービスの申請プログラム。"
+  },
+  "field.status": {
+    "message": "状態",
+    "description": "申請プログラムの状態。"
+  },
+  "field.api": {
+    "message": "API",
+    "description": "サービスのAPI。"
+  },
+  "field.usedAmount": {
+    "message": "使用済み数量",
+    "description": "使用されたリソースの数量。"
+  },
+  "field.deductedAmount": {
+    "message": "控除済み数量",
+    "description": "控除されたリソースの数量。"
+  },
+  "field.remainingAmount": {
+    "message": "残り数量",
+    "description": "残っているリソースの数量。"
+  },
+  "field.metadata": {
+    "message": "メタデータ",
+    "description": "使用記録のメタデータ。"
+  }
+}

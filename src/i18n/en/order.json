@@ -1,0 +1,142 @@
+{
+  "button.pay": {
+    "message": "Pay",
+    "description": "Button text for paying the order."
+  },
+  "button.continuePay": {
+    "message": "Continue Payment",
+    "description": "Button text for continuing the payment of the order."
+  },
+  "button.checkDetail": {
+    "message": "View Details",
+    "description": "Button text for viewing order details."
+  },
+  "button.query": {
+    "message": "Query",
+    "description": "Button text for querying the order."
+  },
+  "button.finish": {
+    "message": "Finish Manually",
+    "description": "Button text for manually completing the order."
+  },
+  "button.update": {
+    "message": "Update",
+    "description": "Button text for updating the order."
+  },
+  "field.id": {
+    "message": "Order Number",
+    "description": "The number of the order."
+  },
+  "field.amount": {
+    "message": "Amount",
+    "description": "The point amount of the order."
+  },
+  "field.price": {
+    "message": "Amount",
+    "description": "The point amount of the order."
+  },
+  "field.description": {
+    "message": "Order Description",
+    "description": "The description of the order."
+  },
+  "field.state": {
+    "message": "Status",
+    "description": "The status of the order."
+  },
+  "field.createdAt": {
+    "message": "Creation Time",
+    "description": "The creation time of the order."
+  },
+  "field.service": {
+    "message": "Service Name",
+    "description": "The name of the service."
+  },
+  "field.payWay": {
+    "message": "Payment Method",
+    "description": "The payment method for the order."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "API is an online service."
+  },
+  "field.proxy": {
+    "message": "Proxy",
+    "description": "Proxy is an online service for transmitting data via HTTP."
+  },
+  "message.paidSuccessfully": {
+    "message": "Payment Successful",
+    "description": "Message for a successful payment."
+  },
+  "message.orderExpired": {
+    "message": "The order has expired, please create a new order to make a payment.",
+    "description": "Message indicating the order has expired."
+  },
+  "message.createFailed": {
+    "message": "Creation Failed",
+    "description": "Message indicating failure to create."
+  },
+  "message.wechatPayHelp": {
+    "message": "Please open WeChat on your phone and scan the code to complete the payment.",
+    "description": "Message for WeChat payment help."
+  },
+  "message.free": {
+    "message": "Free",
+    "description": "Message for free orders."
+  },
+  "message.buyInExternalUrl": {
+    "message": "Please complete the payment in the external link.",
+    "description": "Message for payment via external link."
+  },
+  "message.updateFailed": {
+    "message": "Update Failed",
+    "description": "Message indicating failure to update."
+  },
+  "message.updateSuccessfully": {
+    "message": "Update Successful",
+    "description": "Message for successful update."
+  },
+  "message.confirmFinish": {
+    "message": "This action will manually set the order to paid status and complete distribution processing, and cannot be undone. Please confirm the customer has completed the payment, would you like to proceed?",
+    "description": "Message for confirming completion."
+  },
+  "state.pending": {
+    "message": "Pending Payment",
+    "description": "The status of the order, indicating this order is still waiting for the user to pay."
+  },
+  "state.paid": {
+    "message": "Paid",
+    "description": "The status of the order, indicating this order has been paid."
+  },
+  "state.finished": {
+    "message": "Finished",
+    "description": "The status of the order, indicating this order has been completed."
+  },
+  "state.expired": {
+    "message": "Payment Timeout",
+    "description": "The status of the order, indicating this order has expired."
+  },
+  "state.failed": {
+    "message": "Payment Failed",
+    "description": "The status of the order, indicating this order payment failed."
+  },
+  "title.info": {
+    "message": "Order Information",
+    "description": "Title used for the website indicating order information."
+  },
+  "title.wechatPay": {
+    "message": "WeChat Pay",
+    "description": "Title used for the website indicating WeChat payment."
+  },
+  "title.aliPay": {
+    "message": "Alipay",
+    "description": "Title used for the website indicating Alipay payment, Alipay payment is an online payment."
+  },
+  "title.stripe": {
+    "message": "Stripe",
+    "description": "Title used for the website indicating Stripe payment, Stripe payment is an online payment."
+  },
+  "title.manageOrder": {
+    "message": "Manage Order",
+    "description": "Title used for the website indicating order management."
+  }
+}

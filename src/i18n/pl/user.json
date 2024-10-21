@@ -1,0 +1,26 @@
+{
+  "field.id": {
+    "message": "ID użytkownika",
+    "description": "ID użytkownika"
+  },
+  "field.isVerified": {
+    "message": "Zweryfikowany",
+    "description": "Wskaźnik, czy użytkownik został zweryfikowany na podstawie prawdziwych informacji"
+  },
+  "field.email": {
+    "message": "E-mail",
+    "description": "E-mail użytkownika"
+  },
+  "field.nickname": {
+    "message": "Pseudonim",
+    "description": "Pseudonim użytkownika"
+  },
+  "field.username": {
+    "message": "Nazwa użytkownika",
+    "description": "Nazwa użytkownika"
+  },
+  "field.dateJoined": {
+    "message": "Data rejestracji",
+    "description": "Data rejestracji użytkownika"
+  }
+}

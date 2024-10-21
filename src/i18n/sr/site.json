@@ -1,0 +1,282 @@
+{
+  "field.title": {
+    "message": "Naslov sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.origin": {
+    "message": "Domen sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.description": {
+    "message": "Opis sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.keywords": {
+    "message": "Ključne reči sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.logo": {
+    "message": "Logo sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.favicon": {
+    "message": "Favicon sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.qr": {
+    "message": "QR kod",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.url": {
+    "message": "Link",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.admins": {
+    "message": "ID administratora sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "ID podrazumevanog pozivaoca",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.distributionForceInviterId": {
+    "message": "ID obaveznog pozivaoca",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.featuresChat": {
+    "message": "Chat",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.featuresSupport": {
+    "message": "Podrška korisnicima",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "field.featuresI18n": {
+    "message": "Podrška za više jezika",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.basicConfig": {
+    "message": "Osnovna konfiguracija",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.seoConfig": {
+    "message": "SEO konfiguracija",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editAdmins": {
+    "message": "Uredi administratore",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.featuresConfig": {
+    "message": "Konfiguracija funkcija",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editTitle": {
+    "message": "Uredi naslov",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editOrigin": {
+    "message": "Uredi domen",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editKeywords": {
+    "message": "Uredi ključne reči",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editLogo": {
+    "message": "Uredi logo",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editFavicon": {
+    "message": "Uredi favicon",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editDescription": {
+    "message": "Uredi opis",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.distributionConfig": {
+    "message": "Konfiguracija distribucije",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Uredi podrazumevanog pozivaoca",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Uredi obaveznog pozivaoca",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editQR": {
+    "message": "Uredi QR kod",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "title.editUrl": {
+    "message": "Uredi link",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "placeholder.title": {
+    "message": "Unesite naslov sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "placeholder.origin": {
+    "message": "Unesite domen sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "placeholder.editUrl": {
+    "message": "Unesite link",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "placeholder.description": {
+    "message": "Unesite opis sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "placeholder.keywords": {
+    "message": "Unesite ključne reči sajta",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Unesite ID podrazumevanog pozivaoca",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Unesite ID obaveznog pozivaoca",
+    "description": "Prikazuje se kao naslov u okviru za uređivanje"
+  },
+  "message.uploadImageExceed": {
+    "message": "Prekoračena granica za upload slike",
+    "description": "Poruka upozorenja kada je prekoračena granica za upload slike"
+  },
+  "message.uploadImageError": {
+    "message": "Greška prilikom upload-a slike",
+    "description": "Poruka upozorenja kada dođe do greške prilikom upload-a slike"
+  },
+  "message.editLogoTip": {
+    "message": "Preporučena dimenzija: 200*60px",
+    "description": "Poruka koja se prikazuje kao uputstvo za upload slike"
+  },
+  "message.editQRTip": {
+    "message": "Preporučena dimenzija: 200*200px",
+    "description": "Poruka koja se prikazuje kao uputstvo za upload slike"
+  },
+  "message.editFaviconTip": {
+    "message": "Preporučena dimenzija: 32*32px",
+    "description": "Poruka koja se prikazuje kao uputstvo za upload slike"
+  },
+  "message.editUrl": {
+    "message": "Унесите линк",
+    "description": "提示 за уношење линка"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Мора да постоји најмање један администратор",
+    "description": "提示 да мора да постоји најмање један администратор"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "ID корисника по подразумеваном позиватеља. Ако дистрибутивна линк не садржи параметар inviter_id, аутоматски се користи овај ID као позиватељ.",
+    "description": "提示 за ID позиватеља по подразумеваној вредности"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "ID корисника принудног позиватеља. Ако је овај ID постављен, без обзира на то да ли дистрибутивна линк садржи параметар inviter_id, принудно се користи овај ID као позиватељ.",
+    "description": "提示 за принудни ID позиватеља"
+  },
+  "message.originTip": {
+    "message": "Домен сајта, конфигурација сајта је повезана са доменом и не може се променити.",
+    "description": "提示 за домен сајта"
+  },
+  "message.titleTip": {
+    "message": "Наслов сајта, приказује се на картицама прегледача.",
+    "description": "提示 за наслов сајта"
+  },
+  "message.descriptionTip": {
+    "message": "Опис сајта, налази се у мета информацијама сајта и користи се за оптимизацију SEO.",
+    "description": "提示 за опис сајта"
+  },
+  "message.logoTip": {
+    "message": "Лого сајта, приказује се на врху менија када се мени прошири.",
+    "description": "提示 за лого сајта"
+  },
+  "message.faviconTip": {
+    "message": "Favicon сајта, приказује се на картицама прегледача.",
+    "description": "提示 за favicon сајта"
+  },
+  "message.adminsTip": {
+    "message": "ID администраторовa сајта. По подразумеваној вредности, први корисник који креира сајт постаје администратор. Само администратори могу управљати сајтом.",
+    "description": "提示 за администраторе сајта"
+  },
+  "message.adminsTip2": {
+    "message": "Можете додавати или уклонити администраторе овде. Можете посетити https://auth.acedata.cloud за преглед ID корисника.",
+    "description": "提示 за администраторе сајта"
+  },
+  "message.keywordsTip": {
+    "message": "Кључне речи сајта, налазе се у мета информацијама сајта и користе се за оптимизацију SEO.",
+    "description": "提示 за кључне речи сајта"
+  },
+  "message.keywordsTip2": {
+    "message": "Можете додавати или уклонити кључне речи овде. Што су кључне речи прецизније, то је боља оптимизација за SEO.",
+    "description": "提示 за кључне речи сајта"
+  },
+  "message.featuresChat": {
+    "message": "Укључите или искључите модул функције Чат.",
+    "description": "描述 функције Чат"
+  },
+  "message.featuresMidjourney": {
+    "message": "Укључите или искључите модул функције Мидјурни.",
+    "description": "描述 функције Мидјурни"
+  },
+  "message.featuresChatdoc": {
+    "message": "Укључите или искључите модул функције Чатдок.",
+    "description": "描述 функције Чатдок"
+  },
+  "message.featuresQrart": {
+    "message": "Укључите или искључите модул функције Qrart.",
+    "description": "描述 функције Qrart"
+  },
+  "message.featuresSuno": {
+    "message": "Укључите или искључите модул функције Суну.",
+    "description": "描述 функције Суна"
+  },
+  "message.featuresLuma": {
+    "message": "Укључите или искључите модул функције Лума.",
+    "description": "描述 функције Лума"
+  },
+  "message.featuresSupport": {
+    "message": "Укључите или искључите корисничку подршку",
+    "description": "描述 функције подршке"
+  },
+  "message.featuresI18n": {
+    "message": "Укључите или искључите аудио-визуелну подршку. Када је искључена, корисници могу користити само подешени језик.",
+    "description": "描述 функције вишезначне подршке"
+  },
+  "button.upload": {
+    "message": "Отпреми",
+    "description": "Отпреми"
+  },
+  "button.enabled": {
+    "message": "Омогућено",
+    "description": "Текст прекидача, означава да је омогућено"
+  },
+  "button.disabled": {
+    "message": "Искључено",
+    "description": "Текст прекидача, означава да је искључено"
+  }
+}

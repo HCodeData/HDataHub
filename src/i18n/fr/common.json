@@ -1,0 +1,450 @@
+{
+  "button.setup": {
+    "message": "Configurer",
+    "description": "Bouton texte, utilisé pour configurer certains éléments"
+  },
+  "button.copy": {
+    "message": "Copier",
+    "description": "Bouton texte, utilisé pour copier certains éléments"
+  },
+  "button.restart": {
+    "message": "Régénérer",
+    "description": "Bouton texte, utilisé pour régénérer certains éléments"
+  },
+  "button.preview": {
+    "message": "Aperçu",
+    "description": "Bouton texte, utilisé pour ouvrir un aperçu d'un fichier via URL"
+  },
+  "button.seeRawImage": {
+    "message": "Voir l'image originale",
+    "description": "Bouton texte, utilisé pour voir l'image originale"
+  },
+  "button.seeRawVideo": {
+    "message": "Voir la vidéo",
+    "description": "Bouton texte, utilisé pour voir la vidéo originale"
+  },
+  "button.edit": {
+    "message": "Éditer",
+    "description": "Bouton texte, utilisé pour éditer certains éléments"
+  },
+  "button.login": {
+    "message": "Se connecter",
+    "description": "Bouton texte, utilisé pour se connecter"
+  },
+  "button.logout": {
+    "message": "Se déconnecter",
+    "description": "Bouton texte, utilisé pour se déconnecter"
+  },
+  "button.new": {
+    "message": "Nouveau",
+    "description": "Bouton texte, utilisé pour créer un nouveau projet"
+  },
+  "button.delete": {
+    "message": "Supprimer",
+    "description": "Bouton texte, utilisé pour supprimer certains éléments"
+  },
+  "button.confirm": {
+    "message": "Confirmer",
+    "description": "Bouton texte, utilisé pour confirmer certains éléments"
+  },
+  "button.cancel": {
+    "message": "Annuler",
+    "description": "Bouton texte, utilisé pour annuler certaines actions"
+  },
+  "button.alert": {
+    "message": "Alerte",
+    "description": "Bouton texte, utilisé pour alerter sur certains éléments"
+  },
+  "button.info": {
+    "message": "Information",
+    "description": "Bouton texte, utilisé pour afficher des informations"
+  },
+  "button.publish": {
+    "message": "Publier",
+    "description": "Bouton texte, utilisé pour publier certains éléments"
+  },
+  "button.watch": {
+    "message": "Regarder",
+    "description": "Bouton texte, utilisé pour regarder certains éléments"
+  },
+  "button.verify": {
+    "message": "Vérification d'identité",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur de vérifier son identité"
+  },
+  "button.profile": {
+    "message": "Profil",
+    "description": "Bouton texte, utilisé pour afficher le profil de l'utilisateur"
+  },
+  "button.console": {
+    "message": "Console",
+    "description": "Bouton texte, utilisé pour afficher la page de la console afin de contrôler certains éléments dans la page web"
+  },
+  "button.learn": {
+    "message": "Apprendre",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur d'apprendre certains éléments"
+  },
+  "button.buy": {
+    "message": "Acheter",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur d'acheter certains éléments"
+  },
+  "button.try": {
+    "message": "Essayer",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur d'essayer certains éléments"
+  },
+  "button.startForFree": {
+    "message": "Commencer gratuitement",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur de commencer à utiliser le service gratuitement"
+  },
+  "button.apply": {
+    "message": "Faire une demande",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur de demander un service API"
+  },
+  "button.refresh": {
+    "message": "Rafraîchir",
+    "description": "Bouton texte, utilisé pour rafraîchir la page"
+  },
+  "button.pay": {
+    "message": "Payer",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur de payer pour un service"
+  },
+  "button.repay": {
+    "message": "Continuer le paiement",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur de continuer à payer pour un service"
+  },
+  "button.applied": {
+    "message": "Demande effectuée",
+    "description": "Bouton texte, utilisé pour indiquer que l'utilisateur a déjà demandé ce service"
+  },
+  "button.acquire": {
+    "message": "Obtenir",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur d'obtenir un token ou une clé pour le service API"
+  },
+  "button.fillExample": {
+    "message": "Remplir l'exemple",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur de remplir des données d'exemple"
+  },
+  "button.buyMore": {
+    "message": "Acheter plus",
+    "description": "Bouton texte, utilisé pour permettre à l'utilisateur d'acheter plus de contenu"
+  },
+  "button.update": {
+    "message": "Mettre à jour",
+    "description": "Bouton texte, utilisé pour mettre à jour certains éléments"
+  },
+  "button.view": {
+    "message": "Voir",
+    "description": "Bouton texte, utilisé pour voir certains éléments"
+  },
+  "button.create": {
+    "message": "Créer",
+    "description": "Bouton texte, utilisé pour créer certains éléments"
+  },
+  "button.referralEarnings": {
+    "message": "Gains de parrainage",
+    "description": "Bouton texte, utilisé pour afficher les gains de parrainage, indiquant que l'utilisateur peut gagner de l'argent en invitant d'autres à utiliser le service"
+  },
+  "button.finish": {
+    "message": "Terminer",
+    "description": "Bouton texte, utilisé pour terminer certains éléments"
+  },
+  "entity.website": {
+    "message": "Ace Data Cloud",
+    "description": "Nom du site, pas besoin de traduire, garder comme 'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "Droits d'auteur",
+    "description": "Texte utilisé pour afficher les informations sur les droits d'auteur"
+  },
+  "entity.platform": {
+    "message": "Plateforme",
+    "description": "Texte indiquant que ceci est la plateforme pour le service API"
+  },
+  "entity.title": {
+    "message": "Titre",
+    "description": "Titre de l'entité"
+  },
+  "entity.icon": {
+    "message": "Icône",
+    "description": "Icône de l'entité"
+  },
+  "entity.status": {
+    "message": "Statut",
+    "description": "Statut de l'entité"
+  },
+  "entity.operation": {
+    "message": "Opération",
+    "description": "Opération de l'entité"
+  },
+  "entity.description": {
+    "message": "Description",
+    "description": "Description de l'entité"
+  },
+  "entity.createdAt": {
+    "message": "Date de création",
+    "description": "Entité créée à la date"
+  },
+  "entity.updatedAt": {
+    "message": "Date de mise à jour",
+    "description": "Entité mise à jour à la date"
+  },
+  "entity.order": {
+    "message": "Commande",
+    "description": "Commande de l'entité, la commande comprend le montant, les informations sur le service, et l'utilisateur doit payer"
+  },
+  "message.usedAmount": {
+    "message": "Montant utilisé",
+    "description": "Utilisé pour afficher le montant du service utilisé"
+  },
+  "message.remainingAmount": {
+    "message": "Montant restant",
+    "description": "Utilisé pour afficher le montant restant du service"
+  },
+  "message.copied": {
+    "message": "Copié avec succès",
+    "description": "Utilisé pour afficher un message indiquant que le contenu a été copié avec succès"
+  },
+  "message.restart": {
+    "message": "Générer à nouveau",
+    "description": "Utilisé pour montrer que le contenu a été copié avec succès"
+  },
+  "message.confirmDelete": {
+    "message": "Êtes-vous sûr de vouloir supprimer ?",
+    "description": "Utilisé pour confirmer si l'utilisateur veut supprimer certains contenus"
+  },
+  "message.expiredAt": {
+    "message": "Date d'expiration",
+    "description": "Utilisé pour afficher la date d'expiration du service"
+  },
+  "message.alert": {
+    "message": "Alerte",
+    "description": "Utilisé pour avertir l'utilisateur"
+  },
+  "message.info": {
+    "message": "Information",
+    "description": "Utilisé pour afficher un message informatif"
+  },
+  "message.free": {
+    "message": "Gratuit",
+    "description": "Utilisé pour afficher que le service est gratuit, signifiant que l'utilisateur n'a pas besoin de payer"
+  },
+  "message.startPrice": {
+    "message": "Prix de départ",
+    "description": "Utilisé pour afficher le prix le plus bas du service"
+  },
+  "message.joinDiscord": {
+    "message": "Rejoindre Discord",
+    "description": "Utilisé pour inviter l'utilisateur à rejoindre le canal Discord"
+  },
+  "message.addWeChat": {
+    "message": "Ajouter WeChat",
+    "description": "Utilisé pour inviter l'utilisateur à ajouter WeChat"
+  },
+  "message.serviceTech": {
+    "message": "Support technique",
+    "description": "Utilisé pour afficher un message sur le support technique du service"
+  },
+  "message.businessCooperation": {
+    "message": "Coopération commerciale",
+    "description": "Utilisé pour afficher un message sur la coopération commerciale"
+  },
+  "message.noData": {
+    "message": "Aucune donnée",
+    "description": "Utilisé pour afficher un message indiquant qu'il n'y a pas de données dans le tableau ou la liste"
+  },
+  "nav.home": {
+    "message": "Accueil",
+    "description": "Texte dans la barre de navigation du site pour afficher la page d'accueil"
+  },
+  "nav.content": {
+    "message": "Contenu",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de contenu"
+  },
+  "nav.category": {
+    "message": "Catégorie",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de catégorie"
+  },
+  "nav.service": {
+    "message": "Service",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de service"
+  },
+  "nav.profile": {
+    "message": "Profil",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de profil"
+  },
+  "nav.products": {
+    "message": "Produits",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de produits"
+  },
+  "nav.referral": {
+    "message": "Revenus de recommandation",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de recommandation"
+  },
+  "nav.apiPlatform": {
+    "message": "Plateforme API",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de la plateforme API"
+  },
+  "nav.document": {
+    "message": "Documentation",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de documentation"
+  },
+  "nav.console": {
+    "message": "Console",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de la console"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de chat, ne doit pas être traduit, doit rester 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Texte dans la barre de navigation du site pour afficher la page Midjourney, ne doit pas être traduit, doit rester 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de documents de chat, ne doit pas être traduit, doit rester 'ChatDoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Texte dans la barre de navigation du site pour afficher la page d'art QR, ne doit pas être traduit, doit rester 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "Texte dans la barre de navigation du site pour afficher la page Suno, ne doit pas être traduit, doit rester 'Suno'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "Texte dans la barre de navigation du site pour afficher la page Luma, ne doit pas être traduit, doit rester 'Suno'"
+  },
+  "nav.distribution": {
+    "message": "Revenus de recommandation",
+    "description": "Texte dans la barre de navigation du site pour afficher la page des revenus de recommandation"
+  },
+  "nav.logOut": {
+    "message": "Se déconnecter",
+    "description": "Texte dans la barre de navigation du site pour se déconnecter"
+  },
+  "nav.site": {
+    "message": "Configuration du site",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de configuration du site"
+  },
+  "nav.locale": {
+    "message": "Paramètres de langue",
+    "description": "Texte dans la barre de navigation du site pour changer la langue"
+  },
+  "nav.support": {
+    "message": "Support client",
+    "description": "Texte dans la barre de navigation du site pour afficher la page de support"
+  },
+  "nav.darkMode": {
+    "message": "Mode sombre",
+    "description": "Texte dans la barre de navigation du site, utilisé pour basculer vers le thème sombre"
+  },
+  "title.alert": {
+    "message": "Alerte",
+    "description": "Titre du message d'alerte"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Veuillez sélectionner",
+    "description": "Placeholder pour le champ de sélection"
+  },
+  "title.placeholderOfInput": {
+    "message": "Veuillez remplir",
+    "description": "Placeholder pour le champ de saisie"
+  },
+  "title.allApplications": {
+    "message": "Toutes les demandes",
+    "description": "Titre de la page affichant toutes les demandes"
+  },
+  "title.allOrders": {
+    "message": "Toutes les commandes",
+    "description": "Titre de la page affichant toutes les commandes"
+  },
+  "title.orderInfo": {
+    "message": "Informations sur la commande",
+    "description": "Titre de la page affichant les informations sur la commande"
+  },
+  "title.buyMore": {
+    "message": "Acheter plus",
+    "description": "Titre de la page permettant à l'utilisateur d'acheter plus"
+  },
+  "title.distribution": {
+    "message": "Revenus recommandés",
+    "description": "Titre de la page affichant les revenus recommandés, indiquant que l'utilisateur peut gagner de l'argent en invitant d'autres à utiliser le service"
+  },
+  "title.site": {
+    "message": "Configuration du site",
+    "description": "Titre de la page affichant la configuration du site"
+  },
+  "title.distributionHistory": {
+    "message": "Historique des recommandations",
+    "description": "Titre de la page affichant l'historique des recommandations"
+  },
+  "title.invitee": {
+    "message": "Invité",
+    "description": "Titre de la page affichant l'invité"
+  },
+  "title.allUsages": {
+    "message": "Historique des utilisations",
+    "description": "Titre de la page affichant tous les enregistrements d'utilisation du service API"
+  },
+  "title.allCredentials": {
+    "message": "Identifiants",
+    "description": "Titre de la page affichant tous les identifiants utilisés pour accéder à l'API"
+  },
+  "about.title1": {
+    "message": "Nous contacter",
+    "description": "Titre de la section affichant les informations de contact"
+  },
+  "about.title2": {
+    "message": "Ressources",
+    "description": "Titre de la section affichant les liens"
+  },
+  "about.title3": {
+    "message": "Liens",
+    "description": "Titre de la section affichant les informations de support"
+  },
+  "about.address": {
+    "message": "États-Unis, Delaware, Middletown, N Broad St, Bureau 201",
+    "description": "Adresse de la société"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "Email de la société"
+  },
+  "about.link1": {
+    "message": "Services",
+    "description": "Lien vers la page des services"
+  },
+  "about.link2": {
+    "message": "Documentation",
+    "description": "Lien vers la page de documentation"
+  },
+  "about.link3": {
+    "message": "Console",
+    "description": "Lien vers la page de la console"
+  },
+  "about.link4": {
+    "message": "Profil",
+    "description": "Lien vers la page de profil"
+  },
+  "about.link5": {
+    "message": "Centre",
+    "description": "Lien vers la page du centre"
+  },
+  "about.link6": {
+    "message": "Revenus recommandés",
+    "description": "Lien vers la page des revenus recommandés"
+  },
+  "about.link7": {
+    "message": "Support",
+    "description": "Lien vers la page de support"
+  },
+  "about.link8": {
+    "message": "Conditions de service",
+    "description": "Lien vers la page des conditions de service"
+  },
+  "about.link9": {
+    "message": "Politique de confidentialité",
+    "description": "Lien vers la page de politique de confidentialité"
+  }
+}

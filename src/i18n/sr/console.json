@@ -1,0 +1,110 @@
+{
+  "button.suggested": {
+    "message": "Preporučeno",
+    "description": "Text dugmeta koji označava preporučeni sadržaj"
+  },
+  "menu.orderList": {
+    "message": "Lista narudžbina",
+    "description": "Tekst u meniju sajta koji se odnosi na narudžbine korisnika"
+  },
+  "menu.applicationList": {
+    "message": "Lista aplikacija",
+    "description": "Tekst u meniju sajta koji se odnosi na aplikacije korisnika"
+  },
+  "menu.userProfile": {
+    "message": "Profil korisnika",
+    "description": "Tekst u meniju sajta koji se odnosi na lične podatke korisnika"
+  },
+  "menu.idVerify": {
+    "message": "Verifikacija identiteta",
+    "description": "Tekst u meniju sajta koji se odnosi na proveru identiteta korisnika"
+  },
+  "menu.manageApplication": {
+    "message": "Upravljanje aplikacijama",
+    "description": "Tekst u meniju sajta koji se odnosi na upravljanje korisničkim aplikacijama"
+  },
+  "menu.distributionIndex": {
+    "message": "Preporučeni prihodi",
+    "description": "Tekst u meniju sajta koji se odnosi na prihode od preporuka korisnika"
+  },
+  "menu.developerPlatform": {
+    "message": "Platforma za programere",
+    "description": "Tekst u meniju sajta koji se odnosi na platformu namenjenu programerima"
+  },
+  "menu.usageList": {
+    "message": "Istorija korišćenja",
+    "description": "Tekst u meniju sajta koji se odnosi na istoriju korišćenja API servisa od strane korisnika"
+  },
+  "menu.credentialIndex": {
+    "message": "Kredencijali",
+    "description": "Tekst u meniju sajta koji se odnosi na kredencijale za pristup API-ju"
+  },
+  "menu.manageOrder": {
+    "message": "Upravljenje narudžbinama",
+    "description": "Tekst u meniju sajta koji se odnosi na upravljanje narudžbinama korisnika"
+  },
+  "menu.manageDistributionStatus": {
+    "message": "Upravljanje statusom distribucije",
+    "description": "Tekst u meniju sajta koji se odnosi na upravljanje statusom distribucije korisnika"
+  },
+  "message.benefit1": {
+    "message": "Ekskluzivna podrška za korisnike",
+    "description": "Tekst na početnoj stranici sajta koji označava podršku za korisnike"
+  },
+  "message.benefit2": {
+    "message": "Prioritetno testiranje novih funkcija",
+    "description": "Tekst na početnoj stranici sajta koji označava prioritetno testiranje funkcija"
+  },
+  "message.buyExtra": {
+    "message": "Kupite dodatak",
+    "description": "Tekst na početnoj stranici sajta koji se odnosi na kupovinu dodatnog kredita"
+  },
+  "message.subscribe": {
+    "message": "Pretplatite se",
+    "description": "Tekst na početnoj stranici sajta koji se odnosi na pretplatu na članstvo"
+  },
+  "message.doNotWantSubscribe": {
+    "message": "Ne želite da se pretplatite na članstvo? Možete pokušati da kupite samo jedan kredita.",
+    "description": "Tekst na početnoj stranici sajta koji označava korisnikovu želju da ne pretplaćuje članstvo"
+  },
+  "message.doNotWantExtra": {
+    "message": "Ne želite da kupite kredit? Možete pokušati da se pretplatite na članstvo.",
+    "description": "Tekst na početnoj stranici sajta koji označava korisnikovu želju da ne kupuje dodatni kredit"
+  },
+  "subscription.3days": {
+    "message": "Trojdnevna probna članstva",
+    "description": "Tip članstva, trojdnevno probno članstvo"
+  },
+  "subscription.3days.description": {
+    "message": "Probno članstvo, pogodno za kratkoročnu upotrebu.",
+    "description": "Opis tipa članstva, pogodno za kratkoročno korišćenje"
+  },
+  "subscription.weekly": {
+    "message": "Nedeljno članstvo",
+    "description": "Tip članstva, nedeljno članstvo"
+  },
+  "subscription.monthly": {
+    "message": "Mesečno članstvo",
+    "description": "Tip članstva, mesečno članstvo"
+  },
+  "subscription.yearly": {
+    "message": "Godišnje članstvo",
+    "description": "Tip članstva, godišnje članstvo"
+  },
+  "subscription.weekly.description": {
+    "message": "Probno nedeljno članstvo, pogodno za kratkoročnu upotrebu.",
+    "description": "Opis međudržavnog tipa članstva, nedeljno članstvo"
+  },
+  "subscription.monthly.description": {
+    "message": "Fleksibilno mesečno članstvo, pogodno za dugotrajnu upotrebu.",
+    "description": "Opis mesečnog tipa članstva"
+  },
+  "subscription.yearly.description": {
+    "message": "Izvrsno godišnje članstvo, najbolja ponuda.",
+    "description": "Opis godišnjeg tipa članstva"
+  },
+  "subscription.introduction": {
+    "message": "Pretplatite se kako biste otključali sve AI usluge na sajtu.",
+    "description": "Uvod u članstvo"
+  }
+}

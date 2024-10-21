@@ -1,0 +1,562 @@
+{
+  "name.taskId": {
+    "message": "Идентификатор задачи",
+    "description": "Идентификатор задачи"
+  },
+  "name.type": {
+    "message": "Тип",
+    "description": "Тип контента, который нужно сгенерировать в QR-коде, например, 'ссылка', 'текст' и т. д."
+  },
+  "name.failure": {
+    "message": "Не удалось",
+    "description": "Состояние неудачи задачи"
+  },
+  "name.failureReason": {
+    "message": "Причина неудачи",
+    "description": "Причина, по которой задача не удалась"
+  },
+  "name.status": {
+    "message": "Статус",
+    "description": "Статус задачи"
+  },
+  "name.traceId": {
+    "message": "Идентификатор отслеживания",
+    "description": "Идентификатор отслеживания задачи"
+  },
+  "name.size": {
+    "message": "Размер",
+    "description": "Размер QR-кода, который нужно сгенерировать"
+  },
+  "name.createdAt": {
+    "message": "Дата создания",
+    "description": "Дата и время генерации QR-кода"
+  },
+  "name.pixelStyle": {
+    "message": "Стиль пикселей",
+    "description": "Стиль пикселей QR-кода, который нужно сгенерировать"
+  },
+  "name.startImageUrl": {
+    "message": "Начальное изображение",
+    "description": "Семя для генерации QR-кода"
+  },
+  "name.videoUrl": {
+    "message": "Пользовательское видео",
+    "description": "Семя для генерации QR-кода"
+  },
+  "name.endImageUrl": {
+    "message": "Конечное изображение",
+    "description": "Семя для генерации QR-кода"
+  },
+  "name.paddingLevel": {
+    "message": "Уровень заполнения",
+    "description": "Уровень заполнения QR-кода, который нужно сгенерировать"
+  },
+  "name.paddingNoise": {
+    "message": "Шум заполнения",
+    "description": "Шум заполнения QR-кода, который нужно сгенерировать"
+  },
+  "name.content": {
+    "message": "Содержание",
+    "description": "Содержимое, которое нужно сгенерировать в QR-коде"
+  },
+  "name.ecl": {
+    "message": "Уровень коррекции ошибок",
+    "description": "Уровень коррекции ошибок QR-кода, который нужно сгенерировать"
+  },
+  "name.position": {
+    "message": "Позиция",
+    "description": "Позиция QR-кода"
+  },
+  "name.prompt": {
+    "message": "Подсказка видео",
+    "description": "Подсказка для ввода содержимого"
+  },
+  "name.rotate": {
+    "message": "Угол вращения",
+    "description": "Вращение QR-кода, который нужно сгенерировать"
+  },
+  "name.enhancement": {
+    "message": "Усиление подсказок",
+    "description": "Расширенные настройки QR-кода"
+  },
+  "name.custom": {
+    "message": "Расширение пользовательского видео",
+    "description": "Пользовательское расширение видео"
+  },
+  "name.extend": {
+    "message": "Расширенное видео из",
+    "description": "Подсказка для ввода содержимого"
+  },
+  "name.loop": {
+    "message": "Циклическое воспроизведение видео",
+    "description": "Расширенные настройки QR-кода"
+  },
+  "name.aspectRatio": {
+    "message": "Соотношение сторон",
+    "description": "Соотношение сторон QR-кода, который нужно сгенерировать"
+  },
+  "name.markerShape": {
+    "message": "Форма маркера",
+    "description": "Форма маркера QR-кода, который нужно сгенерировать"
+  },
+  "name.subMarker": {
+    "message": "Подмаркер",
+    "description": "Подмаркер QR-кода, который нужно сгенерировать"
+  },
+  "name.qrw": {
+    "message": "Видимость",
+    "description": "Название генератора QR-кодов"
+  },
+  "name.steps": {
+    "message": "Шаги генерации",
+    "description": "Количество шагов для генерации QR-кода"
+  },
+  "name.preset": {
+    "message": "Предустановленный стиль",
+    "description": "Предустановленный QR-код, который нужно сгенерировать"
+  },
+  "name.lumaBot": {
+    "message": "Luma Bot",
+    "description": "Название генератора видео Luma"
+  },
+  "name.contentImageUrl": {
+    "message": "Ссылка на изображение содержания",
+    "description": "URL изображения содержимого, которое нужно сгенерировать в QR-коде"
+  },
+  "inputWay.input": {
+    "message": "Введите содержимое",
+    "description": "Способ ввода"
+  },
+  "inputWay.upload": {
+    "message": "Загрузите QR-код",
+    "description": "Способ ввода"
+  },
+  "description.loop": {
+    "message": "Включите циклическое воспроизведение для сгенерированного видео.",
+    "description": "Описание параметра 'qrw'"
+  },
+  "description.enhancement": {
+    "message": "Если вы не уверены, как составить текст подсказки, включите функцию усиления подсказок для ввода.",
+    "description": "Описание параметра 'qrw'"
+  },
+  "description.custom": {
+    "message": "Если вы хотите загрузить свое собственное видео для расширенного видео, включите эту кнопку.",
+    "description": "Описание параметра 'qrw'"
+  },
+  "description.startImageUrl": {
+    "message": "URL начального изображения, которое будет первым кадром сгенерированного видео.",
+    "description": "Описание параметра 'steps'"
+  },
+  "description.videoUrl": {
+    "message": "Загрузите URL пользовательского расширенного видео, которое будет видео для расширенного видео.",
+    "description": "Описание параметра 'steps'"
+  },
+  "description.endImageUrl": {
+    "message": "URL конечного изображения, которое будет последним кадром сгенерированного видео.",
+    "description": "Описание параметра 'steps'"
+  },
+  "description.prompt": {
+    "message": "Подсказки для генерации видео Luma",
+    "description": "Описание параметра 'prompt'"
+  },
+  "status.pending": {
+    "message": "В ожидании",
+    "description": "Состояние ожидания задачи"
+  },
+  "status.processing": {
+    "message": "В процессе",
+    "description": "Состояние ожидания задачи"
+  },
+  "placeholder.paddingNoise": {
+    "message": "Пожалуйста, выберите...",
+    "description": "Заполнитель для ввода шума заполнения"
+  },
+  "placeholder.paddingLevel": {
+    "message": "Пожалуйста, выберите...",
+    "description": "Заполнитель для уровня заполнения"
+  },
+  "placeholder.prompt": {
+    "message": "Введите текст подсказки для стиля видео, который нужно сгенерировать, например: Астронавты пересаживаются из космоса в вулкан",
+    "description": "Заполнитель для поля подсказки"
+  },
+  "placeholder.startImageUrl": {
+    "message": "Ссылка на начальное изображение",
+    "description": "Заполнитель для ввода семени"
+  },
+  "placeholder.endImageUrl": {
+    "message": "Ссылка на конечное изображение",
+    "description": "Заполнитель для ввода семени"
+  },
+  "placeholder.position": {
+    "message": "Пожалуйста, выберите...",
+    "description": "Заполнитель для ввода позиции"
+  },
+  "placeholder.content": {
+    "message": "Введите содержимое для QR-кода, например: https://www.google.com",
+    "description": "Заполнитель для поля содержимого"
+  },
+  "placeholder.aspectRatio": {
+    "message": "Пожалуйста, выберите...",
+    "description": "Заполнитель для ввода соотношения сторон"
+  },
+  "placeholder.preset": {
+    "message": "Пожалуйста, выберите...",
+    "description": "Заполнитель для ввода пресета"
+  },
+  "placeholder.markerShape": {
+    "message": "Пожалуйста, выберите...",
+    "description": "Заполнитель для ввода формы маркера"
+  },
+  "placeholder.rotate": {
+    "message": "Пожалуйста, выберите...",
+    "description": "Заполнитель для ввода вращения"
+  },
+  "placeholder.subMarker": {
+    "message": "Пожалуйста, выберите...",
+    "description": "Заполнитель для ввода подмаркера"
+  },
+  "button.generate": {
+    "message": "Сгенерировать",
+    "description": "Текст кнопки для генерации видео Luma"
+  },
+  "button.extend": {
+    "message": "Расширить видео",
+    "description": "Текст кнопки для расширения видео"
+  },
+  "button.download": {
+    "message": "Скачать видео",
+    "description": "Текст кнопки для скачивания видео"
+  },
+  "button.uploadStartImageUrl": {
+    "message": "Загрузить изображение",
+    "description": "Текст кнопки для загрузки QR-кода"
+  },
+  "button.uploadVideoUrl": {
+    "message": "Загрузить видео",
+    "description": "Текст кнопки для загрузки QR-кода"
+  },
+  "button.uploadEndImageUrl": {
+    "message": "Загрузить изображение",
+    "description": "Текст кнопки для загрузки QR-кода"
+  },
+  "preset.sunset": {
+    "message": "Закат",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.floral": {
+    "message": "Цветочный",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.snowflakes": {
+    "message": "Снежинки",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.feathers": {
+    "message": "Перья",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.raindrops": {
+    "message": "Капли дождя",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.ultraRealism": {
+    "message": "Ультрареализм",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.epicRealms": {
+    "message": "Эпические царства",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.intricateStudio": {
+    "message": "Сложная студия",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.symmetricMasterpiece": {
+    "message": "Симметричный шедевр",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.luminousHighway": {
+    "message": "Светящийся путь",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.celestialJourney": {
+    "message": "Небесное путешествие",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.neonMech": {
+    "message": "Неоновый мех",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.etherealLowPoly": {
+    "message": "Эфирный лоуполи",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.goldenVista": {
+    "message": "Золотой вид",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.cinematicExpanse": {
+    "message": "Кинематографическая ширь",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.cinematicWarm": {
+    "message": "Кинематографическое тепло",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.desolateWilderness": {
+    "message": "Пустынная дикая природа",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.vibrantPalette": {
+    "message": "Яркая палитра",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.enigmaticJourney": {
+    "message": "Загадочное путешествие",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.timelessCinematic": {
+    "message": "Вневременная кинематография",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.regalGalaxy": {
+    "message": "Королевская галактика",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.illustriousCanvas": {
+    "message": "Прославленное полотно",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.expressiveMural": {
+    "message": "Выразительная фреска",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "preset.sereneHaze": {
+    "message": "Спокойный туман",
+    "description": "Предустановленный стиль QR-кода для генерации"
+  },
+  "message.uploadQr": {
+    "message": "Загрузите изображение QR-кода, чтобы сгенерировать художественный QR-код, соответствующий содержимому QR-кода",
+    "description": "Инструкция по загрузке QR-кода"
+  },
+  "message.promptPlaceholder": {
+    "message": "Введите описание изображения, которое вы хотите сгенерировать, например: 'милый кот'. Дополнительные параметры заменят параметры пресета по умолчанию.",
+    "description": "Заполнитель в поле подсказки"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Максимум можно загрузить 5 изображений",
+    "description": "Сообщение об ошибке, когда количество загружаемых изображений превышает лимит"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Изображение успешно загружено",
+    "description": "Сообщение об успешной загрузке изображения"
+  },
+  "message.uploadReferencesError": {
+    "message": "Не удалось загрузить изображение, пожалуйста, попробуйте позже",
+    "description": "Сообщение об ошибке при загрузке изображения"
+  },
+  "message.startingTask": {
+    "message": "Запуск задачи...",
+    "description": "Сообщение при запуске задачи рисования"
+  },
+  "message.startTaskSuccess": {
+    "message": "Задача по генерации успешно запущена",
+    "description": "Сообщение об успешном запуске задачи"
+  },
+  "message.startTaskFailed": {
+    "message": "Не удалось запустить задачу, пожалуйста, свяжитесь с администратором",
+    "description": "Сообщение об ошибке при запуске задачи рисования"
+  },
+  "message.usedUp": {
+    "message": "Ваши кредиты исчерпаны, пожалуйста, купите больше кредитов для продолжения использования",
+    "description": "Сообщение при исчерпании кредитов"
+  },
+  "message.generating": {
+    "message": "Генерация...",
+    "description": "Сообщение во время генерации изображения"
+  },
+  "message.downloadVideo": {
+    "message": "Скачать это видео",
+    "description": "Сообщение, когда изображение генерируется"
+  },
+  "message.extendVideo": {
+    "message": "Продолжить генерацию этого видео",
+    "description": "Сообщение, когда изображение генерируется"
+  },
+  "message.generateFailed": {
+    "message": "Ошибка генерации изображения",
+    "description": "Сообщение при ошибке генерации изображения"
+  },
+  "message.uploadVideoExceed": {
+    "message": "Количество загружаемых изображений первого кадра превышает лимит",
+    "description": "Сообщение об ошибке, когда количество загружаемых изображений первого кадра превышает лимит"
+  },
+  "message.uploadVideoSizeExceed": {
+    "message": "Размер загружаемого файла не должен превышать 10 МБ!",
+    "description": "Сообщение об ошибке, когда размер загружаемого файла не должен превышать 10 МБ!"
+  },
+  "message.uploadVideoTypeFailed": {
+    "message": "Загружаемый файл должен быть формата MP4!",
+    "description": "Сообщение об ошибке, когда загружаемый файл должен быть формата MP4!"
+  },
+  "message.uploadStartImageExceed": {
+    "message": "Количество загружаемых изображений первого кадра превышает лимит",
+    "description": "Сообщение об ошибке, когда количество загружаемых изображений первого кадра превышает лимит"
+  },
+  "message.uploadEndImageExceed": {
+    "message": "Количество загружаемых изображений последнего кадра превышает лимит",
+    "description": "Сообщение об ошибке, когда количество загружаемых изображений последнего кадра превышает лимит"
+  },
+  "message.uploadStartImageError": {
+    "message": "Ошибка загрузки изображения первого кадра",
+    "description": "Сообщение об ошибке, когда произошла ошибка загрузки изображения первого кадра"
+  },
+  "message.uploadVideoError": {
+    "message": "Ошибка загрузки видео",
+    "description": "Сообщение об ошибке, когда произошла ошибка загрузки видео"
+  },
+  "message.uploadEndImageError": {
+    "message": "Ошибка загрузки изображения последнего кадра",
+    "description": "Сообщение об ошибке, когда произошла ошибка загрузки изображения последнего кадра"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Ошибка загрузки документов",
+    "description": "Сообщение об ошибке, когда произошла ошибка загрузки документов"
+  },
+  "message.noOperations": {
+    "message": "Нет доступных операций",
+    "description": "Сообщение, когда нет доступных операций"
+  },
+  "message.noTasks": {
+    "message": "Нет историй задач, нажмите слева для создания видео",
+    "description": "Сообщение, когда нет задач"
+  },
+  "markerShape.square": {
+    "message": "Квадрат",
+    "description": "Форма маркера для генерации QR-кода"
+  },
+  "markerShape.circle": {
+    "message": "Круг",
+    "description": "Форма маркера для генерации QR-кода"
+  },
+  "markerShape.plus": {
+    "message": "Плюс",
+    "description": "Форма маркера для генерации QR-кода"
+  },
+  "markerShape.box": {
+    "message": "Прямоугольник",
+    "description": "Форма маркера для генерации QR-кода"
+  },
+  "markerShape.octagon": {
+    "message": "Восьмиугольник",
+    "description": "Форма маркера для генерации QR-кода"
+  },
+  "markerShape.tinyPlus": {
+    "message": "Миниплюс",
+    "description": "Форма маркера для генерации QR-кода"
+  },
+  "markerShape.random": {
+    "message": "Случайный",
+    "description": "Форма маркера для генерации QR-кода"
+  },
+  "subMarker.square": {
+    "message": "Квадрат",
+    "description": "Форма подмаркера для генерации QR-кода"
+  },
+  "subMarker.circle": {
+    "message": "Круг",
+    "description": "Форма подмаркера для генерации QR-кода"
+  },
+  "subMarker.plus": {
+    "message": "Плюс",
+    "description": "Форма подмаркера для генерации QR-кода"
+  },
+  "subMarker.box": {
+    "message": "Прямоугольник",
+    "description": "Форма подмаркера для генерации QR-кода"
+  },
+  "subMarker.random": {
+    "message": "Случайный",
+    "description": "Форма подмаркера для генерации QR-кода"
+  },
+  "position.center": {
+    "message": "Центр",
+    "description": "Положение для генерации QR-кода"
+  },
+  "position.topLeft": {
+    "message": "Слева вверху",
+    "description": "Положение для генерации QR-кода"
+  },
+  "position.topRight": {
+    "message": "Справа вверху",
+    "description": "Положение для генерации QR-кода"
+  },
+  "position.bottomLeft": {
+    "message": "Слева внизу",
+    "description": "Положение для генерации QR-кода"
+  },
+  "position.bottomRight": {
+    "message": "Справа внизу",
+    "description": "Положение для генерации QR-кода"
+  },
+  "position.top": {
+    "message": "Верх",
+    "description": "Положение для генерации QR-кода"
+  },
+  "position.bottom": {
+    "message": "Низ",
+    "description": "Положение для генерации QR-кода"
+  },
+  "position.left": {
+    "message": "Слева",
+    "description": "Положение для генерации QR-кода"
+  },
+  "position.right": {
+    "message": "Справа",
+    "description": "Положение для генерации QR-кода"
+  },
+  "pixelStyle.row": {
+    "message": "Ряд",
+    "description": "Стиль пикселей для генерации QR-кода"
+  },
+  "pixelStyle.column": {
+    "message": "Столбец",
+    "description": "Стиль пикселей для генерации QR-кода"
+  },
+  "pixelStyle.square": {
+    "message": "Квадрат",
+    "description": "Стиль пикселей для генерации QR-кода"
+  },
+  "pixelStyle.rounded": {
+    "message": "С закругленными углами",
+    "description": "Стиль пикселей для генерации QR-кода"
+  },
+  "pixelStyle.dot": {
+    "message": "Точка",
+    "description": "Стиль пикселей для генерации QR-кода"
+  },
+  "pixelStyle.squircle": {
+    "message": "Закругленный квадрат",
+    "description": "Стиль пикселей для генерации QR-кода"
+  },
+  "type.text": {
+    "message": "Текст",
+    "description": "Тип содержимого для генерации QR-кода"
+  },
+  "type.link": {
+    "message": "Ссылка",
+    "description": "Тип содержимого для генерации QR-кода"
+  },
+  "type.email": {
+    "message": "Электронная почта",
+    "description": "Тип содержимого для генерации QR-кода"
+  },
+  "type.phone": {
+    "message": "Телефон",
+    "description": "Тип содержимого для генерации QR-кода"
+  },
+  "type.sms": {
+    "message": "SMS",
+    "description": "Тип содержимого для генерации QR-кода"
+  }
+}

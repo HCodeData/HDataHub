@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "Data di creazione",
+    "description": "Tempo di creazione del record di utilizzo."
+  },
+  "field.statusCode": {
+    "message": "Codice di stato",
+    "description": "Codice di stato del record di utilizzo."
+  },
+  "field.application": {
+    "message": "Applicazione",
+    "description": "Programma di richiesta del servizio."
+  },
+  "field.status": {
+    "message": "Stato",
+    "description": "Stato del programma di richiesta."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "API del servizio."
+  },
+  "field.usedAmount": {
+    "message": "Quantità utilizzata",
+    "description": "Quantità di risorse utilizzate."
+  },
+  "field.deductedAmount": {
+    "message": "Quantità dedotta",
+    "description": "Quantità di risorse dedotte."
+  },
+  "field.remainingAmount": {
+    "message": "Quantità rimanente",
+    "description": "Quantità di risorse rimanenti."
+  },
+  "field.metadata": {
+    "message": "Metadati",
+    "description": "Metadati del record di utilizzo."
+  }
+}

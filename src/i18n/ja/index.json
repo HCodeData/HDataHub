@@ -1,0 +1,106 @@
+{
+  "title.chat": {
+    "message": "AI 質問応答",
+    "description": "AI 質問応答章のタイトル"
+  },
+  "title.midjourney": {
+    "message": "AI 絵画",
+    "description": "AI絵画章のタイトル"
+  },
+  "title.qrart": {
+    "message": "AI アート QRコード",
+    "description": "AI アート QRコード章のタイトル"
+  },
+  "title.suno": {
+    "message": "AI 音楽",
+    "description": "AI 音楽章のタイトル"
+  },
+  "title.luma": {
+    "message": "AI 動画",
+    "description": "AI 動画章のタイトル"
+  },
+  "title.comments": {
+    "message": "顧客の評価",
+    "description": "顧客の評価章のタイトル"
+  },
+  "title.introduction": {
+    "message": "私たちのサービス",
+    "description": "サイトの紹介"
+  },
+  "subtitle.banner": {
+    "message": "AIによる力強いサポートで、あなたの生産性を向上させます。",
+    "description": "サイトのサブタイトル"
+  },
+  "subtitle.chat": {
+    "message": "複数の質問応答モデルをサポートし、インターネットに接続し、画像やファイル、動画などのさまざまなコンテンツを認識します。",
+    "description": "AI 質問応答章のタイトル"
+  },
+  "subtitle.midjourney": {
+    "message": "最新の Midjourney モデルに接続し、ワンクリックでさまざまなスタイルの画像を生成し、連続微調整も可能です。",
+    "description": "AI絵画章のタイトル"
+  },
+  "subtitle.qrart": {
+    "message": "さまざまなアートQRコードスタイルをサポートし、既存のQRコードをアップロードして簡単にアート化し、独自のビジュアル効果を作成します。",
+    "description": "AI アート QRコード章のタイトル"
+  },
+  "subtitle.suno": {
+    "message": "さまざまな音楽スタイルをサポートし、欲しい音楽を簡単に生成でき、柔軟な長さの拡張オプションもあります。",
+    "description": "AI 音楽章のタイトル"
+  },
+  "subtitle.luma": {
+    "message": "最新の Luma モデルに接続し、ワンクリックでカスタマイズされた動画を生成し、柔軟な動画拡張オプションもサポートします。",
+    "description": "AI 音楽章のタイトル"
+  },
+  "subtitle.comments": {
+    "message": "私たちはこれらのお客様を支援できることを嬉しく思い、彼らは私たちのサービスに非常に高い評価を与えています。",
+    "description": "顧客の評価章のタイトル"
+  },
+  "subtitle.introduction": {
+    "message": "質問応答、絵画、QRコード、音楽など多様な機能を備えたワンストップのAIサービスを提供し、あなたの多様なニーズにお応えします。",
+    "description": "サイトの紹介"
+  },
+  "button.try": {
+    "message": "無料で始める",
+    "description": "ボタン内のテキスト"
+  },
+  "button.testEnv": {
+    "message": "テスト環境",
+    "description": "テスト環境用のボタン"
+  },
+  "customers.name1": {
+    "message": "フランク",
+    "description": "顧客の名前"
+  },
+  "customers.job1": {
+    "message": "ソフトウェアエンジニア",
+    "description": "顧客の職位"
+  },
+  "customers.comment1": {
+    "message": "この統合型サービスは本当に便利で、1つのプラットフォームで多くのAIツールを使えるので素晴らしいです！",
+    "description": "顧客のコメント"
+  },
+  "customers.name2": {
+    "message": "ジェイコブ",
+    "description": "顧客の名前"
+  },
+  "customers.job2": {
+    "message": "プロダクトマネージャー",
+    "description": "顧客の職位"
+  },
+  "customers.comment2": {
+    "message": "このプラットフォームはとても使いやすく、サービスの品質も非常に高く、私の生産性を大いに向上させてくれました。",
+    "description": "顧客のコメント"
+  },
+  "customers.name3": {
+    "message": "ラリー",
+    "description": "顧客の名前"
+  },
+  "customers.job3": {
+    "message": "デザイナー",
+    "description": "顧客の職位"
+  },
+  "customers.comment3": {
+    "message": "AIプラットフォームはたくさんありますが、このプラットフォームは本当に使いやすく、価格も合理的です。さらに良くなってほしいです！",
+    "description": "顧客のコメント"
+  }
+}

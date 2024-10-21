@@ -1,0 +1,130 @@
+{
+  "button.learnMore": {
+    "message": "Learn More",
+    "description": "Text displayed on the button to find out more about the service."
+  },
+  "button.apply": {
+    "message": "Apply Now",
+    "description": "Text displayed on the button for applying for the service."
+  },
+  "button.introduction": {
+    "message": "Service Introduction",
+    "description": "Text displayed on the button to view the service introduction."
+  },
+  "button.apis": {
+    "message": "API Description",
+    "description": "Text displayed on the button to view the API description."
+  },
+  "button.pricing": {
+    "message": "Pricing",
+    "description": "Text displayed on the button to view pricing information."
+  },
+  "field.price": {
+    "message": "Price",
+    "description": "The price of the service."
+  },
+  "field.introduction": {
+    "message": "Introduction",
+    "description": "An introduction to the service."
+  },
+  "field.apis": {
+    "message": "APIs",
+    "description": "The APIs of the service, which are a form of online service."
+  },
+  "field.proxies": {
+    "message": "Proxies",
+    "description": "The proxies of the service, which are a form of online service used for transferring data via HTTP."
+  },
+  "message.free": {
+    "message": "Free",
+    "description": "Text displayed when the service is free, indicating that the service is at no cost."
+  },
+  "message.around": {
+    "message": "Around",
+    "description": "Text displayed when a price is approximately at a specific value."
+  },
+  "message.welcomeCredits": {
+    "message": "Welcome Credits",
+    "description": "Text displayed when the service offers free welcome credits."
+  },
+  "message.appliedCount": {
+    "message": "Applied Count",
+    "description": "Text displayed when calculating the number of applications."
+  },
+  "message.indexTitle": {
+    "message": "Wise Choice for Your Digital Services",
+    "description": "The title of the homepage."
+  },
+  "message.indexSubtitle": {
+    "message": "Empowering your work and life with standard excellence in service.",
+    "description": "The subtitle of the homepage."
+  },
+  "message.fromPrice": {
+    "message": "From",
+    "description": "Text displayed before the price."
+  },
+  "message.packages": {
+    "message": "We offer various packages of credits; the more packages you purchase, the greater the discount.",
+    "description": "Text displayed when the service offers credit packages."
+  },
+  "message.offer": {
+    "message": "Offer",
+    "description": "Text displayed when the service provides an offer."
+  },
+  "message.partnersTitle": {
+    "message": "Trusted by Leading Partners",
+    "description": "The title of the partners section."
+  },
+  "title.apis": {
+    "message": "APIs",
+    "description": "The APIs of the service, which are a form of online service."
+  },
+  "title.proxies": {
+    "message": "Proxies",
+    "description": "The proxies of the service, which are a form of online service used for transferring data via HTTP."
+  },
+  "title.packages": {
+    "message": "Packages",
+    "description": "The packages of the service used to purchase credits, for instance, the service offers 3 packages: $100 for 100 credits, $200 for 200 credits, $300 for 300 credits."
+  },
+  "unit.credit": {
+    "message": "Credit",
+    "description": "Credits are the virtual currency used in the API service."
+  },
+  "unit.Credit": {
+    "message": "Credit",
+    "description": "Credits are the virtual currency used in the API service, in uppercase."
+  },
+  "unit.credits": {
+    "message": "Credits",
+    "description": "Credits are the virtual currency used in the API service, in plural form."
+  },
+  "unit.Credits": {
+    "message": "Credits",
+    "description": "Credits are the virtual currency used in the API service, in uppercase and plural form."
+  },
+  "unit.call": {
+    "message": "Call",
+    "description": "A call is the number of times the API service is invoked."
+  },
+  "unit.Call": {
+    "message": "Call",
+    "description": "A call is the number of times the API service is invoked, in uppercase."
+  },
+  "unit.calls": {
+    "message": "Calls",
+    "description": "Calls refer to the number of times the API service is invoked, in plural form."
+  },
+  "unit.Calls": {
+    "message": "Calls",
+    "description": "Calls refer to the number of times the API service is invoked, in uppercase and plural form."
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "MB stands for megabytes, a unit for digital information storage."
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "GB stands for gigabytes, a unit for digital information storage."
+  }
+}

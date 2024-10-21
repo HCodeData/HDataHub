@@ -1,0 +1,282 @@
+{
+  "field.title": {
+    "message": "Tytuł witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.origin": {
+    "message": "Domena witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.description": {
+    "message": "Opis witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.keywords": {
+    "message": "Słowa kluczowe witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.logo": {
+    "message": "Logo witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.favicon": {
+    "message": "Favicon witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.qr": {
+    "message": "Kod QR",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.url": {
+    "message": "Link",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.admins": {
+    "message": "ID administratora witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "ID domyślnego zapraszającego",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.distributionForceInviterId": {
+    "message": "ID wymuszonego zapraszającego",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.featuresChat": {
+    "message": "Czat",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.featuresSupport": {
+    "message": "Wsparcie klienta",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "field.featuresI18n": {
+    "message": "Wsparcie wielojęzyczne",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.basicConfig": {
+    "message": "Podstawowa konfiguracja",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.seoConfig": {
+    "message": "Konfiguracja SEO",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editAdmins": {
+    "message": "Edytuj administratorów",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.featuresConfig": {
+    "message": "Konfiguracja funkcji",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editTitle": {
+    "message": "Edytuj tytuł",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editOrigin": {
+    "message": "Edytuj domenę",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editKeywords": {
+    "message": "Edytuj słowa kluczowe",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editLogo": {
+    "message": "Edytuj logo",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editFavicon": {
+    "message": "Edytuj favicon",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editDescription": {
+    "message": "Edytuj opis",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.distributionConfig": {
+    "message": "Konfiguracja dystrybucji",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Edytuj domyślnego zapraszającego",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Edytuj wymuszonego zapraszającego",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editQR": {
+    "message": "Edytuj kod QR",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "title.editUrl": {
+    "message": "Edytuj link",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "placeholder.title": {
+    "message": "Wprowadź tytuł witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "placeholder.origin": {
+    "message": "Wprowadź domenę witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "placeholder.editUrl": {
+    "message": "Wprowadź link",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "placeholder.description": {
+    "message": "Wprowadź opis witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "placeholder.keywords": {
+    "message": "Wprowadź słowa kluczowe witryny",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Wprowadź ID domyślnego zapraszającego",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Wprowadź ID wymuszonego zapraszającego",
+    "description": "Wyświetlane w polu edycji"
+  },
+  "message.uploadImageExceed": {
+    "message": "Przekroczono limit przesyłania obrazu",
+    "description": "Komunikat o przekroczeniu limitu przesyłania obrazu"
+  },
+  "message.uploadImageError": {
+    "message": "Błąd przesyłania obrazu",
+    "description": "Komunikat o błędzie przesyłania obrazu"
+  },
+  "message.editLogoTip": {
+    "message": "Zalecany rozmiar: 200*60px",
+    "description": "Komunikat dotyczący przesyłania obrazu"
+  },
+  "message.editQRTip": {
+    "message": "Zalecany rozmiar: 200*200px",
+    "description": "Komunikat dotyczący przesyłania obrazu"
+  },
+  "message.editFaviconTip": {
+    "message": "Zalecany rozmiar: 32*32px",
+    "description": "Komunikat dotyczący przesyłania obrazu"
+  },
+  "message.editUrl": {
+    "message": "Wprowadź link",
+    "description": "Wprowadź linka jako wskazówkę"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Zachowaj przynajmniej jednego administratora",
+    "description": "Wskazówka, aby zachować przynajmniej jednego administratora"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "Domyślne ID zapraszającego, jeśli link dystrybucyjny nie zawiera parametru inviter_id, domyślnie używane jest to ID jako zapraszający.",
+    "description": "Wskazówka dla domyślnego ID zapraszającego"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "Wymuszone ID zapraszającego, jeśli to ID jest ustawione, niezależnie od tego, czy link dystrybucyjny zawiera parametr inviter_id, to ID jest wymuszone jako zapraszający.",
+    "description": "Wskazówka dla wymuszonego ID zapraszającego"
+  },
+  "message.originTip": {
+    "message": "Domena strony, konfiguracja witryny jest związana z domeną, domena strony nie może być zmieniana.",
+    "description": "Wskazówka dla domeny strony"
+  },
+  "message.titleTip": {
+    "message": "Tytuł strony, wyświetlany na karcie przeglądarki.",
+    "description": "Wskazówka dla tytułu strony"
+  },
+  "message.descriptionTip": {
+    "message": "Opis strony, znajduje się w meta informacjach strony, służy do optymalizacji SEO.",
+    "description": "Wskazówka dla opisu strony"
+  },
+  "message.logoTip": {
+    "message": "Logo strony, wyświetlane na górze menu strony, gdy menu jest rozwinięte.",
+    "description": "Wskazówka dla logo strony"
+  },
+  "message.faviconTip": {
+    "message": "Favicon strony, wyświetlany na karcie przeglądarki.",
+    "description": "Wskazówka dla faviconu strony"
+  },
+  "message.adminsTip": {
+    "message": "ID administratora strony, domyślnie pierwszy użytkownik tworzący tę stronę będzie administratorem, tylko administratorzy mogą zarządzać stroną.",
+    "description": "Wskazówka dla administratorów strony"
+  },
+  "message.adminsTip2": {
+    "message": "Można dodać lub usunąć ID administratorów, ID użytkowników można sprawdzić w https://auth.acedata.cloud",
+    "description": "Wskazówka dla administratorów strony"
+  },
+  "message.keywordsTip": {
+    "message": "Słowa kluczowe strony, znajdujące się w meta informacjach strony, służą do optymalizacji SEO.",
+    "description": "Wskazówka dla słów kluczowych strony"
+  },
+  "message.keywordsTip2": {
+    "message": "Można dodać lub usunąć słowa kluczowe, im bardziej precyzyjne słowa kluczowe, tym lepsza optymalizacja SEO.",
+    "description": "Wskazówka dla słów kluczowych strony"
+  },
+  "message.featuresChat": {
+    "message": "Włącz lub wyłącz moduł funkcji Chat.",
+    "description": "Opis funkcji Chat"
+  },
+  "message.featuresMidjourney": {
+    "message": "Włącz lub wyłącz moduł funkcji Midjourney.",
+    "description": "Opis funkcji Midjourney"
+  },
+  "message.featuresChatdoc": {
+    "message": "Włącz lub wyłącz moduł funkcji Chatdoc.",
+    "description": "Opis funkcji Chatdoc"
+  },
+  "message.featuresQrart": {
+    "message": "Włącz lub wyłącz moduł funkcji Qrart.",
+    "description": "Opis funkcji Qrart"
+  },
+  "message.featuresSuno": {
+    "message": "Włącz lub wyłącz moduł funkcji Suno.",
+    "description": "Opis funkcji Suno"
+  },
+  "message.featuresLuma": {
+    "message": "Włącz lub wyłącz moduł funkcji Luma.",
+    "description": "Opis funkcji Luma"
+  },
+  "message.featuresSupport": {
+    "message": "Włącz lub wyłącz wsparcie klienta",
+    "description": "Opis funkcji wsparcia"
+  },
+  "message.featuresI18n": {
+    "message": "Włącz lub wyłącz wsparcie wielojęzyczne, po wyłączeniu użytkownicy mogą korzystać tylko z domyślnego języka.",
+    "description": "Opis wsparcia wielojęzycznego"
+  },
+  "button.upload": {
+    "message": "Prześlij",
+    "description": "Prześlij"
+  },
+  "button.enabled": {
+    "message": "Włączone",
+    "description": "Tekst przełącznika, oznaczający, że jest włączone"
+  },
+  "button.disabled": {
+    "message": "Wyłączone",
+    "description": "Tekst przełącznika, oznaczający, że jest wyłączone"
+  }
+}

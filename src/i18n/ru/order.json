@@ -1,0 +1,142 @@
+{
+  "button.pay": {
+    "message": "Оплатить",
+    "description": "Кнопка для оплаты заказа."
+  },
+  "button.continuePay": {
+    "message": "Продолжить оплату",
+    "description": "Кнопка для продолжения оплаты заказа."
+  },
+  "button.checkDetail": {
+    "message": "Просмотреть детали",
+    "description": "Кнопка для просмотра деталей заказа."
+  },
+  "button.query": {
+    "message": "Запрос",
+    "description": "Кнопка для запроса заказа."
+  },
+  "button.finish": {
+    "message": "Завершить вручную",
+    "description": "Кнопка для ручного завершения заказа."
+  },
+  "button.update": {
+    "message": "Обновить",
+    "description": "Кнопка для обновления заказа."
+  },
+  "field.id": {
+    "message": "Номер заказа",
+    "description": "Идентификатор заказа."
+  },
+  "field.amount": {
+    "message": "Сумма",
+    "description": "Количество баллов по заказу."
+  },
+  "field.price": {
+    "message": "Сумма",
+    "description": "Количество баллов по заказу."
+  },
+  "field.description": {
+    "message": "Описание заказа",
+    "description": "Описание заказа."
+  },
+  "field.state": {
+    "message": "Состояние",
+    "description": "Состояние заказа."
+  },
+  "field.createdAt": {
+    "message": "Дата создания",
+    "description": "Дата создания заказа."
+  },
+  "field.service": {
+    "message": "Название услуги",
+    "description": "Название услуги."
+  },
+  "field.payWay": {
+    "message": "Способ оплаты",
+    "description": "Способ оплаты заказа."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "API — это онлайн-сервис."
+  },
+  "field.proxy": {
+    "message": "Прокси",
+    "description": "Прокси — это онлайн-сервис для передачи данных через HTTP."
+  },
+  "message.paidSuccessfully": {
+    "message": "Оплата успешна",
+    "description": "Сообщение об успешной оплате."
+  },
+  "message.orderExpired": {
+    "message": "Заказ истек, пожалуйста, создайте новый заказ для оплаты.",
+    "description": "Сообщение о том, что заказ истек."
+  },
+  "message.createFailed": {
+    "message": "Ошибка создания",
+    "description": "Сообщение об ошибке создания."
+  },
+  "message.wechatPayHelp": {
+    "message": "Пожалуйста, откройте WeChat на телефоне и отсканируйте QR-код для завершения оплаты",
+    "description": "Сообщение помощи по WeChat оплате."
+  },
+  "message.free": {
+    "message": "Бесплатно",
+    "description": "Сообщение о бесплатном заказе."
+  },
+  "message.buyInExternalUrl": {
+    "message": "Пожалуйста, завершите оплату по внешней ссылке",
+    "description": "Сообщение о платеже по внешней ссылке."
+  },
+  "message.updateFailed": {
+    "message": "Ошибка обновления",
+    "description": "Сообщение об ошибке обновления."
+  },
+  "message.updateSuccessfully": {
+    "message": "Обновление успешно",
+    "description": "Сообщение об успешном обновлении."
+  },
+  "message.confirmFinish": {
+    "message": "Это действие вручную установит заказ в состояние оплаты и завершит распределение, отменить нельзя. Пожалуйста, подтвердите, что клиент завершил оплату, хотите продолжить?",
+    "description": "Сообщение о подтверждении завершения."
+  },
+  "state.pending": {
+    "message": "Ожидает оплаты",
+    "description": "Состояние заказа, означающее, что этот заказ все еще ожидает оплаты от пользователя."
+  },
+  "state.paid": {
+    "message": "Оплачено",
+    "description": "Состояние заказа, означающее, что этот заказ уже оплачен."
+  },
+  "state.finished": {
+    "message": "Завершено",
+    "description": "Состояние заказа, означающее, что этот заказ уже завершен."
+  },
+  "state.expired": {
+    "message": "Оплата истекла",
+    "description": "Состояние заказа, означающее, что этот заказ уже истек."
+  },
+  "state.failed": {
+    "message": "Ошибка оплаты",
+    "description": "Состояние заказа, означающее, что оплата за этот заказ не удалась."
+  },
+  "title.info": {
+    "message": "Информация о заказе",
+    "description": "Заголовок для сайта, обозначающий информацию о заказе."
+  },
+  "title.wechatPay": {
+    "message": "WeChat Оплата",
+    "description": "Заголовок для сайта, обозначающий WeChat оплату."
+  },
+  "title.aliPay": {
+    "message": "支付宝",
+    "description": "Заголовок для сайта, обозначающий оплату через Alipay, который является онлайн-платежом."
+  },
+  "title.stripe": {
+    "message": "Stripe",
+    "description": "Заголовок для сайта, обозначающий оплату через Stripe, который является онлайн-платежом."
+  },
+  "title.manageOrder": {
+    "message": "Управление заказами",
+    "description": "Заголовок для сайта, обозначающий управление заказами."
+  }
+}

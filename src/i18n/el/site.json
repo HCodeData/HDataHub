@@ -1,0 +1,282 @@
+{
+  "field.title": {
+    "message": "Τίτλος ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "field.origin": {
+    "message": "Διεύθυνση τομέα ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "field.description": {
+    "message": "Περιγραφή ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "field.keywords": {
+    "message": "Κλειδωμένες λέξεις ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "field.logo": {
+    "message": "Λογότυπο ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "field.favicon": {
+    "message": "Favicon ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "field.qr": {
+    "message": "Κωδικός QR",
+    "description": "展示在编辑框的标题"
+  },
+  "field.url": {
+    "message": "Σύνδεσμος",
+    "description": "展示在编辑框的标题"
+  },
+  "field.admins": {
+    "message": "ID διαχειριστών ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "ID προεπιλεγμένου προσκαλέσματος",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionForceInviterId": {
+    "message": "ID υποχρεωτικού προσκαλέσματος",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChat": {
+    "message": "Συνομιλία",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSupport": {
+    "message": "Υποστήριξη πελατών",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresI18n": {
+    "message": "Πολυγλωσσία υποστήριξη",
+    "description": "展示在编辑框的标题"
+  },
+  "title.basicConfig": {
+    "message": "Βασική παραμετροποίηση",
+    "description": "展示在编辑框的标题"
+  },
+  "title.seoConfig": {
+    "message": "Ρυθμίσεις SEO",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editAdmins": {
+    "message": "Επεξεργασία διαχειριστών",
+    "description": "展示在编辑框的标题"
+  },
+  "title.featuresConfig": {
+    "message": "Ρυθμίσεις λειτουργιών",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editTitle": {
+    "message": "Επεξεργασία τίτλου",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editOrigin": {
+    "message": "Επεξεργασία διεύθυνσης τομέα",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editKeywords": {
+    "message": "Επεξεργασία κλειδωμένων λέξεων",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editLogo": {
+    "message": "Επεξεργασία λογοτύπου",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editFavicon": {
+    "message": "Επεξεργασία favicon",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDescription": {
+    "message": "Επεξεργασία περιγραφής",
+    "description": "展示在编辑框的标题"
+  },
+  "title.distributionConfig": {
+    "message": "Ρυθμίσεις διανομής",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Επεξεργασία προεπιλεγμένου προσκαλέσματος",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Επεξεργασία υποχρεωτικού προσκαλέσματος",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editQR": {
+    "message": "Επεξεργασία κωδικού QR",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editUrl": {
+    "message": "Επεξεργασία συνδέσμου",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.title": {
+    "message": "Εισάγετε τον τίτλο του ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.origin": {
+    "message": "Εισάγετε τη διεύθυνση τομέα του ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editUrl": {
+    "message": "Εισάγετε τον σύνδεσμο",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.description": {
+    "message": "Εισάγετε την περιγραφή του ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.keywords": {
+    "message": "Εισάγετε τις κλειδωμένες λέξεις του ιστότοπου",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Εισάγετε ID προεπιλεγμένου προσκαλέσματος",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Εισάγετε ID υποχρεωτικού προσκαλέσματος",
+    "description": "展示在编辑框的标题"
+  },
+  "message.uploadImageExceed": {
+    "message": "Η φόρτωση εικόνας υπερβαίνει το όριο",
+    "description": "上传图片超过限制的提示"
+  },
+  "message.uploadImageError": {
+    "message": "Σφάλμα φόρτωσης εικόνας",
+    "description": "上传图片错误的提示"
+  },
+  "message.editLogoTip": {
+    "message": "Προτεινόμενες διαστάσεις: 200*60px",
+    "description": "上传图片的提示语言"
+  },
+  "message.editQRTip": {
+    "message": "Προτεινόμενες διαστάσεις: 200*200px",
+    "description": "上传图片的提示语言"
+  },
+  "message.editFaviconTip": {
+    "message": "Προτεινόμενες διαστάσεις: 32*32px",
+    "description": "上传图片的提示语言"
+  },
+  "message.editUrl": {
+    "message": "Εισάγετε το σύνδεσμο",
+    "description": "Εισάγετε το σύνδεσμο της προτροπής"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Πρέπει να υπάρχει τουλάχιστον ένας διαχειριστής",
+    "description": "Προτροπή για τουλάχιστον έναν διαχειριστή"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "Το ID χρήστη του προεπιλεγμένου προσκεκλημένου. Εάν ο σύνδεσμος διανομής δεν περιέχει την παράμετρο inviter_id, τότε θα χρησιμοποιηθεί αυτό το ID χρήστη ως προσκεκλημένος.",
+    "description": "Προτροπή για το ID του προεπιλεγμένου προσκεκλημένου"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "ID χρήστη για υποχρεωτικό προσκεκλημένο. Εάν οριστεί αυτό το ID, θα χρησιμοποιηθεί υποχρεωτικά ως προσκεκλημένος, ανεξάρτητα από το αν ο σύνδεσμος διανομής περιέχει την παράμετρο inviter_id.",
+    "description": "Προτροπή για το ID του υποχρεωτικού προσκεκλημένου"
+  },
+  "message.originTip": {
+    "message": "Το όνομα τομέα του ιστότοπου. Η ρύθμιση του ιστότοπου είναι συνδεδεμένη με το όνομα τομέα και δεν μπορεί να αλλάξει.",
+    "description": "Προτροπή για το όνομα τομέα του ιστότοπου"
+  },
+  "message.titleTip": {
+    "message": "Τίτλος ιστότοπου, εμφανίζεται στην καρτέλα του προγράμματος περιήγησης.",
+    "description": "Προτροπή για τον τίτλο του ιστότοπου"
+  },
+  "message.descriptionTip": {
+    "message": "Περιγραφή ιστότοπου, βρίσκεται στα μεταδεδομένα του ιστότοπου, χρησιμοποιείται για την SEO βελτιστοποίηση.",
+    "description": "Προτροπή για την περιγραφή του ιστότοπου"
+  },
+  "message.logoTip": {
+    "message": "Λογότυπο ιστότοπου, εμφανίζεται στο επάνω μέρος του μενού όταν το μενού είναι ανοιχτό.",
+    "description": "Προτροπή για το λογότυπο του ιστότοπου"
+  },
+  "message.faviconTip": {
+    "message": "Favicon ιστότοπου, εμφανίζεται στην καρτέλα του προγράμματος περιήγησης.",
+    "description": "Προτροπή για το favicon του ιστότοπου"
+  },
+  "message.adminsTip": {
+    "message": "ID διαχειριστή ιστότοπου, ο χρήστης που πρώτος δημιούργησε τον ιστότοπο θα γίνει διαχειριστής, μόνο οι διαχειριστές του ιστότοπου μπορούν να τον διαχειρίζονται.",
+    "description": "Προτροπή για τους διαχειριστές του ιστότοπου"
+  },
+  "message.adminsTip2": {
+    "message": "Μπορείτε να προσθέσετε ή να αφαιρέσετε ID διαχειριστών εδώ. Μπορείτε να δείτε το ID χρήστη στο https://auth.acedata.cloud",
+    "description": "Προτροπή για τους διαχειριστές του ιστότοπου"
+  },
+  "message.keywordsTip": {
+    "message": "Λέξεις-κλειδιά ιστότοπου, βρίσκονται στα μεταδεδομένα του ιστότοπου, χρησιμοποιούνται για την SEO βελτιστοποίηση.",
+    "description": "Προτροπή για τις λέξεις-κλειδιά του ιστότοπου"
+  },
+  "message.keywordsTip2": {
+    "message": "Μπορείτε να προσθέσετε ή να αφαιρέσετε λέξεις-κλειδιά για τον ιστότοπο εδώ. Όσο πιο ακριβείς είναι οι λέξεις-κλειδιά, τόσο καλύτερη είναι η SEO βελτιστοποίηση.",
+    "description": "Προτροπή για τις λέξεις-κλειδιά του ιστότοπου"
+  },
+  "message.featuresChat": {
+    "message": "Ενεργοποιήστε ή απενεργοποιήστε το module Chat.",
+    "description": "Περιγραφή για τη δυνατότητα Chat"
+  },
+  "message.featuresMidjourney": {
+    "message": "Ενεργοποιήστε ή απενεργοποιήστε το module Midjourney.",
+    "description": "Περιγραφή για τη δυνατότητα Midjourney"
+  },
+  "message.featuresChatdoc": {
+    "message": "Ενεργοποιήστε ή απενεργοποιήστε το module Chatdoc.",
+    "description": "Περιγραφή για τη δυνατότητα Chatdoc"
+  },
+  "message.featuresQrart": {
+    "message": "Ενεργοποιήστε ή απενεργοποιήστε το module Qrart.",
+    "description": "Περιγραφή για τη δυνατότητα Qrart"
+  },
+  "message.featuresSuno": {
+    "message": "Ενεργοποιήστε ή απενεργοποιήστε το module Suno.",
+    "description": "Περιγραφή για τη δυνατότητα Suno"
+  },
+  "message.featuresLuma": {
+    "message": "Ενεργοποιήστε ή απενεργοποιήστε το module Luma.",
+    "description": "Περιγραφή για τη δυνατότητα Luma"
+  },
+  "message.featuresSupport": {
+    "message": "Ενεργοποιήστε ή απενεργοποιήστε την υποστήριξη πελατών",
+    "description": "Περιγραφή για τη δυνατότητα υποστήριξης"
+  },
+  "message.featuresI18n": {
+    "message": "Ενεργοποιείτε ή απενεργοποιείτε την υποστήριξη πολλών γλωσσών. Όταν είναι απενεργοποιημένη, οι χρήστες μπορούν να χρησιμοποιούν μόνο τη προεπιλεγμένη γλώσσα.",
+    "description": "Περιγραφή για την υποστήριξη πολλών γλωσσών"
+  },
+  "button.upload": {
+    "message": "Μεταφόρτωση",
+    "description": "Μεταφόρτωση"
+  },
+  "button.enabled": {
+    "message": "Ενεργοποιημένο",
+    "description": "Κείμενο διακόπτη, που δηλώνει ότι έχει ενεργοποιηθεί"
+  },
+  "button.disabled": {
+    "message": "Απενεργοποιημένο",
+    "description": "Κείμενο διακόπτη, που δηλώνει ότι έχει απενεργοποιηθεί"
+  }
+}

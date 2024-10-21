@@ -1,0 +1,130 @@
+{
+  "button.learnMore": {
+    "message": "Saznajte više",
+    "description": "Tekst koji se prikazuje na dugmetu za saznanje više informacija o usluzi."
+  },
+  "button.apply": {
+    "message": "Prijavite se odmah",
+    "description": "Tekst koji se prikazuje na dugmetu za prijavu na uslugu."
+  },
+  "button.introduction": {
+    "message": "Uvod u uslugu",
+    "description": "Tekst koji se prikazuje na dugmetu za pregled uvoda u uslugu."
+  },
+  "button.apis": {
+    "message": "Opis API-ja",
+    "description": "Tekst koji se prikazuje na dugmetu za pregled opisa API-ja."
+  },
+  "button.pricing": {
+    "message": "Cene",
+    "description": "Tekst koji se prikazuje na dugmetu za pregled informacija o cenama."
+  },
+  "field.price": {
+    "message": "Cena",
+    "description": "Cena usluge."
+  },
+  "field.introduction": {
+    "message": "Uvod",
+    "description": "Uvod u uslugu."
+  },
+  "field.apis": {
+    "message": "API",
+    "description": "API usluge, API je oblik online usluge."
+  },
+  "field.proxies": {
+    "message": "Proksiji",
+    "description": "Proksiji za uslugu, proksiji su oblik online usluge za prenos podataka, HTTP proksiji."
+  },
+  "message.free": {
+    "message": "Besplatno",
+    "description": "Tekst koji se prikazuje kada je usluga besplatna, označava da je usluga bez troška."
+  },
+  "message.around": {
+    "message": "oko",
+    "description": "Tekst koji se prikazuje kada je cena približno na nekoj specifičnoj vrednosti."
+  },
+  "message.welcomeCredits": {
+    "message": "Pozdravni bodovi",
+    "description": "Tekst koji se prikazuje kada usluga nudi besplatne pozdravne bodove."
+  },
+  "message.appliedCount": {
+    "message": "Broj prijava",
+    "description": "Tekst koji se prikazuje prilikom brojanja prijava."
+  },
+  "message.indexTitle": {
+    "message": "Pametan izbor za vaše digitalne usluge",
+    "description": "Naslov na početnoj stranici."
+  },
+  "message.indexSubtitle": {
+    "message": "Osnažujemo vaš rad i život kroz standarde izvrsnosti usluge.",
+    "description": "Podnaslov na početnoj stranici."
+  },
+  "message.fromPrice": {
+    "message": "Od",
+    "description": "Tekst koji se prikazuje pre cene."
+  },
+  "message.packages": {
+    "message": "Nudimo razne pakete bodova. Što više paketa kupite, veći su popusti.",
+    "description": "Tekst koji se prikazuje kada usluga nudi pakete bodova."
+  },
+  "message.offer": {
+    "message": "Ponuda",
+    "description": "Tekst koji se prikazuje kada usluga nudi popust."
+  },
+  "message.partnersTitle": {
+    "message": "Poverenje vodećih partnera",
+    "description": "Naslov sekcije partnera."
+  },
+  "title.apis": {
+    "message": "API",
+    "description": "API usluge, API je oblik online usluge."
+  },
+  "title.proxies": {
+    "message": "Proksiji",
+    "description": "Proksiji za uslugu, proksiji su oblik online usluge za prenos podataka, HTTP proksiji."
+  },
+  "title.packages": {
+    "message": "Paketi",
+    "description": "Paketi usluga, paketi se koriste za kupovinu bodova, na primer, usluga nudi 3 paketa: 100 dolara za 100 bodova, 200 dolara za 200 bodova, 300 dolara za 300 bodova."
+  },
+  "unit.credit": {
+    "message": "Bod",
+    "description": "Bodovi su virtualna valuta koja se koristi u API uslugama."
+  },
+  "unit.Credit": {
+    "message": "Bod",
+    "description": "Bodovi su virtualna valuta koja se koristi u API uslugama, ovo je velika forma."
+  },
+  "unit.credits": {
+    "message": "Bodovi",
+    "description": "Bodovi su virtualna valuta koja se koristi u API uslugama, ovo je množina."
+  },
+  "unit.Credits": {
+    "message": "Bodovi",
+    "description": "Bodovi su virtualna valuta koja se koristi u API uslugama, ovo je velika i množinska forma."
+  },
+  "unit.call": {
+    "message": "Poziv",
+    "description": "Poziv je broj poziva API usluge."
+  },
+  "unit.Call": {
+    "message": "Poziv",
+    "description": "Poziv je broj poziva API usluge, ovo je velika forma."
+  },
+  "unit.calls": {
+    "message": "Pozivi",
+    "description": "Pozivi su broj poziva API usluge, ovo je množina."
+  },
+  "unit.Calls": {
+    "message": "Pozivi",
+    "description": "Pozivi su broj poziva API usluge, ovo je velika i množinska forma."
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "MB znači megabajt, jedinica za skladištenje digitalnih informacija."
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "GB znači gigabajt, jedinica za skladištenje digitalnih informacija."
+  }
+}
