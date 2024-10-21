@@ -1,0 +1,106 @@
+{
+  "title.chat": {
+    "message": "Domande e Risposte AI",
+    "description": "AI 问答章节标题"
+  },
+  "title.midjourney": {
+    "message": "Pittura AI",
+    "description": "AI绘画章节标题"
+  },
+  "title.qrart": {
+    "message": "Codice QR Artistico AI",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "title.suno": {
+    "message": "Musica AI",
+    "description": "AI 音乐章节标题"
+  },
+  "title.luma": {
+    "message": "Video AI",
+    "description": "AI 视频章节标题"
+  },
+  "title.comments": {
+    "message": "Recensioni dei Clienti",
+    "description": "客户评价章节标题"
+  },
+  "title.introduction": {
+    "message": "I Nostri Servizi",
+    "description": "站点简介"
+  },
+  "subtitle.banner": {
+    "message": "Potenziare l'AI per migliorare la tua produttività.",
+    "description": "站点副标题"
+  },
+  "subtitle.chat": {
+    "message": "Supporta diversi modelli di domande e risposte, con funzionalità di rete, in grado di riconoscere immagini, file e video.",
+    "description": "AI 问答章节标题"
+  },
+  "subtitle.midjourney": {
+    "message": "Collegamento ai più recenti modelli Midjourney, con generazione di immagini in vari stili e raffinamenti continui con un clic.",
+    "description": "AI绘画章节标题"
+  },
+  "subtitle.qrart": {
+    "message": "Supporta diversi stili di codici QR artistici, consente di caricare codici QR esistenti e di trasformarli facilmente in opere d'arte per effetti visivi unici.",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "subtitle.suno": {
+    "message": "Supporta vari stili musicali, generando facilmente la musica desiderata e supportando opzioni flessibili di estensione della durata.",
+    "description": "AI 音乐章节标题"
+  },
+  "subtitle.luma": {
+    "message": "Collegamento ai più recenti modelli Luma, generazione di video personalizzati con un clic e supporta opzioni flessibili di estensione video.",
+    "description": "AI 音乐章节标题"
+  },
+  "subtitle.comments": {
+    "message": "Siamo contenti di poter aiutare questi clienti, che hanno fornito ottime recensioni sui nostri servizi.",
+    "description": "客户评价章节标题"
+  },
+  "subtitle.introduction": {
+    "message": "Offriamo servizi AI a 360 gradi, inclusi domande e risposte, pittura, codici QR, musica e molto altro, per soddisfare le tue varie esigenze.",
+    "description": "站点简介"
+  },
+  "button.try": {
+    "message": "Inizia gratuitamente",
+    "description": "文字里面的内容"
+  },
+  "button.testEnv": {
+    "message": "Ambiente di Test",
+    "description": "测试环境按钮"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "客户的姓名"
+  },
+  "customers.job1": {
+    "message": "Ingegnere Software",
+    "description": "客户的职位"
+  },
+  "customers.comment1": {
+    "message": "Questo servizio integrato è incredibilmente comodo, posso utilizzare vari strumenti AI su una piattaforma, fantastico!",
+    "description": "客户的评论"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "客户的姓名"
+  },
+  "customers.job2": {
+    "message": "Product Manager",
+    "description": "客户的职位"
+  },
+  "customers.comment2": {
+    "message": "La piattaforma è molto facile da usare, la qualità del servizio è eccellente, e ha liberato enormemente la mia produttività.",
+    "description": "客户的评论"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "客户的姓名"
+  },
+  "customers.job3": {
+    "message": "Designer",
+    "description": "客户的职位"
+  },
+  "customers.comment3": {
+    "message": "Ci sono troppe piattaforme AI, ma questa è davvero facile da usare e ha un prezzo ragionevole, spero che diventi ancora migliore!",
+    "description": "客户的评论"
+  }
+}

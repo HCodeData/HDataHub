@@ -1,0 +1,110 @@
+{
+  "button.suggested": {
+    "message": "Suositus",
+    "description": "Painikkeen teksti, suositus tarkoittaa täydentävää painiketta"
+  },
+  "menu.orderList": {
+    "message": "Tilauksia lista",
+    "description": "Sivuston valikon teksti, tilaukset tarkoittaa käyttäjän ostamien palveluiden tilauksia"
+  },
+  "menu.applicationList": {
+    "message": "Hakemusten lista",
+    "description": "Sivuston valikon teksti, hakemukset tarkoittaa käyttäjän käyttämien palveluiden hakemuksia"
+  },
+  "menu.userProfile": {
+    "message": "Käyttäjäprofiili",
+    "description": "Sivuston valikon teksti, käyttäjäprofiili tarkoittaa käyttäjän henkilökohtaisia tietoja"
+  },
+  "menu.idVerify": {
+    "message": "Henkilöllisyyden vahvistus",
+    "description": "Sivuston valikon teksti, henkilöllisyyden vahvistus tarkoittaa käyttäjän henkilöllisyyden todentamista"
+  },
+  "menu.manageApplication": {
+    "message": "Hakemuksen hallinta",
+    "description": "Sivuston valikon teksti, hakemuksen hallinta tarkoittaa käyttäjän hakemusten hallintaa"
+  },
+  "menu.distributionIndex": {
+    "message": "Suositustuotto",
+    "description": "Sivuston valikon teksti, suositustuotto tarkoittaa käyttäjän suositusten tuottoa"
+  },
+  "menu.developerPlatform": {
+    "message": "Kehittäjien alusta",
+    "description": "Sivuston valikon teksti, kehittäjien alusta tarkoittaa kehittäjille suunnattua alustaa"
+  },
+  "menu.usageList": {
+    "message": "Käyttöhistoria",
+    "description": "Sivuston valikon teksti, käyttöhistoria tarkoittaa käyttäjän API-palvelun käytön historiaa"
+  },
+  "menu.credentialIndex": {
+    "message": "Todistukset",
+    "description": "Sivuston valikon teksti, todistukset tarkoittaa API:in pääsyyn tarvittavia todisteita"
+  },
+  "menu.manageOrder": {
+    "message": "Tilauksen hallinta",
+    "description": "Sivuston valikon teksti, tilauksen hallinta tarkoittaa käyttäjän tilausten hallintaa, tilaukset tarkoittaa käyttäjän ostamien palveluiden tilauksia"
+  },
+  "menu.manageDistributionStatus": {
+    "message": "Jakelun hallinta",
+    "description": "Sivuston valikon teksti, jakelun hallinta tarkoittaa käyttäjän jakelutilan hallintaa, joka liittyy käyttäjän suositusten tuloihin"
+  },
+  "message.benefit1": {
+    "message": "Erityinen asiakaspalvelu tuki",
+    "description": "Sivuston etusivun teksti, erityinen asiakaspalvelu tuki tarkoittaa, että käyttäjä voi saada erityistä asiakaspalvelutukea"
+  },
+  "message.benefit2": {
+    "message": "Etusija uusien ominaisuuksien kokeilussa",
+    "description": "Sivuston etusivun teksti, etusija uusien ominaisuuksien kokeilussa tarkoittaa, että käyttäjä voi kokeilla uusia ominaisuuksia etusijalla"
+  },
+  "message.buyExtra": {
+    "message": "Osta lisää",
+    "description": "Sivuston etusivun teksti, ostaa lisää tarkoittaa, että käyttäjä voi ostaa lisää käyttöoikeuksia"
+  },
+  "message.subscribe": {
+    "message": "Tilaa",
+    "description": "Sivuston etusivun teksti, tilaa jäsenyys tarkoittaa, että käyttäjä voi tilata jäsenyyden"
+  },
+  "message.doNotWantSubscribe": {
+    "message": "Et halua tilata koko sivuston jäsenyyttä? Voit myös kokeilla ostopaketointia yksittäisille palveluille.",
+    "description": "Sivuston etusivun teksti, et halua tilata tarkoittaa, että käyttäjä ei halua tilata jäsenyyttä"
+  },
+  "message.doNotWantExtra": {
+    "message": "Et halua ostaa lisää käyttöoikeuksia? Voit myös kokeilla koko sivuston jäsenyyden tilaamista.",
+    "description": "Sivuston etusivun teksti, et halua ostaa lisää käyttöoikeuksia tarkoittaa, että käyttäjä ei halua ostaa lisäkapasiteettia"
+  },
+  "subscription.3days": {
+    "message": "3 päivän kokeilujäsenyys",
+    "description": "Jäsenyyden tyyppi, 3 päivän kokeilujäsenyys"
+  },
+  "subscription.3days.description": {
+    "message": "Kokeilu jäsenyys, sopii lyhytaikaiseen käyttöön.",
+    "description": "Jäsenyyden tyyppi, sopii lyhytaikaiseen käyttöön"
+  },
+  "subscription.weekly": {
+    "message": "Viikkotilaus",
+    "description": "Jäsenyyden tyyppi, viikkotilaus tarkoittaa, että käyttäjän ostama jäsenyys on viikottain"
+  },
+  "subscription.monthly": {
+    "message": "Kuukausitilaus",
+    "description": "Jäsenyyden tyyppi, kuukausitilaus tarkoittaa, että käyttäjän ostama jäsenyys on kuukausittain"
+  },
+  "subscription.yearly": {
+    "message": "Vuositilaus",
+    "description": "Jäsenyyden tyyppi, vuositilaus tarkoittaa, että käyttäjän ostama jäsenyys on vuosittain"
+  },
+  "subscription.weekly.description": {
+    "message": "Kokeilu viikkotilaus, sopii lyhytaikaiseen käyttöön.",
+    "description": "Jäsenyyden tyyppiä kuvaava teksti, viikkotilaus tarkoittaa, että käyttäjän ostama jäsenyys on viikkotilaus"
+  },
+  "subscription.monthly.description": {
+    "message": "Joustava kuukausitilaus, sopii pitkäaikaiseen käyttöön.",
+    "description": "Jäsenyyden tyyppiä kuvaava teksti, kuukausitilaus tarkoittaa, että käyttäjän ostama jäsenyys on kuukausitilaus"
+  },
+  "subscription.yearly.description": {
+    "message": "Erittäin kannattava vuositilaus, paras vaihtoehto.",
+    "description": "Jäsenyyden tyyppiä kuvaava teksti, vuositilaus tarkoittaa, että käyttäjän ostama jäsenyys on vuositilaus"
+  },
+  "subscription.introduction": {
+    "message": "Tilaa jäsenyys, avaa kaikki AI-palvelut sivustolla.",
+    "description": "Jäsenyyden esittely tarkoittaa jäsenyyden esittelyä"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title.chat": {
+    "message": "AI Preguntas y Respuestas",
+    "description": "AI Preguntas y Respuestas capítulos título"
+  },
+  "title.midjourney": {
+    "message": "AI Dibujo",
+    "description": "AI Dibujo capítulos título"
+  },
+  "title.qrart": {
+    "message": "Código QR de Arte AI",
+    "description": "Código QR de Arte AI capítulos título"
+  },
+  "title.suno": {
+    "message": "AI Música",
+    "description": "AI Música capítulos título"
+  },
+  "title.luma": {
+    "message": "AI Video",
+    "description": "AI Video capítulos título"
+  },
+  "title.comments": {
+    "message": "Comentarios de Clientes",
+    "description": "Comentarios de Clientes capítulos título"
+  },
+  "title.introduction": {
+    "message": "Nuestros Servicios",
+    "description": "Descripción del sitio"
+  },
+  "subtitle.banner": {
+    "message": "Potenciado por AI, mejora tu productividad de manera integral.",
+    "description": "Subtítulo del sitio"
+  },
+  "subtitle.chat": {
+    "message": "Soporta múltiples modelos de preguntas y respuestas, con capacidad de conexión, y puede reconocer imágenes, archivos y videos entre otros contenidos.",
+    "description": "AI Preguntas y Respuestas capítulos título"
+  },
+  "subtitle.midjourney": {
+    "message": "Conecta con el último modelo de Midjourney, genera imágenes de varios estilos con un solo clic y ajusta de forma continua.",
+    "description": "AI Dibujo capítulos título"
+  },
+  "subtitle.qrart": {
+    "message": "Soporta múltiples estilos de código QR artístico, permite subir QR existentes y los transforma artísticamente para crear efectos visuales únicos.",
+    "description": "Código QR de Arte AI capítulos título"
+  },
+  "subtitle.suno": {
+    "message": "Soporta múltiples estilos musicales, genera la música que deseas de manera sencilla y ofrece opciones flexibles de extensión de duración.",
+    "description": "AI Música capítulos título"
+  },
+  "subtitle.luma": {
+    "message": "Conecta con el último modelo de Luma, genera videos personalizados con un solo clic y ofrece opciones flexibles de extensión de video.",
+    "description": "AI Música capítulos título"
+  },
+  "subtitle.comments": {
+    "message": "Estamos encantados de ayudar a estos clientes, que han dado valoraciones muy altas sobre nuestros servicios.",
+    "description": "Comentarios de Clientes capítulos título"
+  },
+  "subtitle.introduction": {
+    "message": "Ofrecemos un servicio AI todo en uno, que incluye preguntas y respuestas, dibujo, códigos QR, música, y más para satisfacer tus diversas necesidades.",
+    "description": "Descripción del sitio"
+  },
+  "button.try": {
+    "message": "Comienza Gratis",
+    "description": "Contenido del texto"
+  },
+  "button.testEnv": {
+    "message": "Entorno de Pruebas",
+    "description": "Botón de entorno de pruebas"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "Nombre del cliente"
+  },
+  "customers.job1": {
+    "message": "Ingeniero de Software",
+    "description": "Cargo del cliente"
+  },
+  "customers.comment1": {
+    "message": "Este servicio integrado es increíblemente conveniente, puedo usar varias herramientas AI en una sola plataforma, ¡es genial!",
+    "description": "Comentario del cliente"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "Nombre del cliente"
+  },
+  "customers.job2": {
+    "message": "Gerente de Producto",
+    "description": "Cargo del cliente"
+  },
+  "customers.comment2": {
+    "message": "La plataforma es muy fácil de usar, la calidad del servicio es excelente y ha liberado enormemente mi productividad.",
+    "description": "Comentario del cliente"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "Nombre del cliente"
+  },
+  "customers.job3": {
+    "message": "Diseñador",
+    "description": "Cargo del cliente"
+  },
+  "customers.comment3": {
+    "message": "Hay muchas plataformas de AI, pero esta es realmente fácil de usar y a un precio razonable, ¡espero que siga mejorando!",
+    "description": "Comentario del cliente"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "field.title": {
+    "message": "Seitentitel",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.origin": {
+    "message": "Seiten-Domain",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.description": {
+    "message": "Seitendbeschreibung",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.keywords": {
+    "message": "Seiten-Keywords",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.logo": {
+    "message": "Seiten-Logo",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.favicon": {
+    "message": "Seiten-Favicon",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.qr": {
+    "message": "QR-Code",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.url": {
+    "message": "Link",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.admins": {
+    "message": "Seiten-Administrator-ID",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "Standard-Einladender-ID",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.distributionForceInviterId": {
+    "message": "Zwangseinladender-ID",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.featuresChat": {
+    "message": "Chat",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.featuresSupport": {
+    "message": "Kundensupport",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "field.featuresI18n": {
+    "message": "Mehrsprachige Unterstützung",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.basicConfig": {
+    "message": "Grundkonfiguration",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.seoConfig": {
+    "message": "SEO-Konfiguration",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editAdmins": {
+    "message": "Administratoren bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.featuresConfig": {
+    "message": "Funktionskonfiguration",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editTitle": {
+    "message": "Titel bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editOrigin": {
+    "message": "Domain bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editKeywords": {
+    "message": "Keywords bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editLogo": {
+    "message": "Logo bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editFavicon": {
+    "message": "Favicon bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editDescription": {
+    "message": "Beschreibung bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.distributionConfig": {
+    "message": "Vertriebskonfiguration",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Standard-Einladender bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Zwangseinladender bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editQR": {
+    "message": "QR-Code bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "title.editUrl": {
+    "message": "Link bearbeiten",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "placeholder.title": {
+    "message": "Bitte Seitentitel eingeben",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "placeholder.origin": {
+    "message": "Bitte Seiten-Domain eingeben",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "placeholder.editUrl": {
+    "message": "Bitte Link eingeben",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "placeholder.description": {
+    "message": "Bitte Seitendbeschreibung eingeben",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "placeholder.keywords": {
+    "message": "Bitte Seiten-Keywords eingeben",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Bitte Standard-Einladender-ID eingeben",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Bitte Zwangseinladender-ID eingeben",
+    "description": "Anzeige im Bearbeitungsfeld für den Titel"
+  },
+  "message.uploadImageExceed": {
+    "message": "Bild-Upload überschreitet das Limit",
+    "description": "Hinweis, dass der Bild-Upload das Limit überschreitet"
+  },
+  "message.uploadImageError": {
+    "message": "Bild-Upload-Fehler",
+    "description": "Hinweis auf einen Fehler beim Bild-Upload"
+  },
+  "message.editLogoTip": {
+    "message": "Empfohlene Größe: 200*60px",
+    "description": "Hinweis zur Hochladung von Bildern"
+  },
+  "message.editQRTip": {
+    "message": "Empfohlene Größe: 200*200px",
+    "description": "Hinweis zur Hochladung von Bildern"
+  },
+  "message.editFaviconTip": {
+    "message": "Empfohlene Größe: 32*32px",
+    "description": "Hinweis zur Hochladung von Bildern"
+  },
+  "message.editUrl": {
+    "message": "Bitte Link eingeben",
+    "description": "Eingabeaufforderung für den Link"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Mindestens einen Administrator behalten",
+    "description": "Hinweis, dass mindestens ein Administrator behalten werden muss"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "Die Benutzer-ID des standardmäßigen Einladers. Wenn der Verteilungslink keinen inviter_id-Parameter enthält, wird diese Benutzer-ID standardmäßig als Einlader verwendet.",
+    "description": "Hinweis zur standardmäßigen Einladungs-ID"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "Benutzer-ID des zwangsweisen Einladers. Wenn diese ID festgelegt ist, wird unabhängig davon, ob der Verteilungslink einen inviter_id-Parameter enthält, diese Benutzer-ID zwangsläufig als Einlader verwendet.",
+    "description": "Hinweis zur zwangsweisen Einladungs-ID"
+  },
+  "message.originTip": {
+    "message": "Domain der Website. Die Konfiguration der Website ist an die Domain gebunden und die Domain kann nicht geändert werden.",
+    "description": "Hinweis zur Domain der Website"
+  },
+  "message.titleTip": {
+    "message": "Titel der Website, angezeigt im Tab des Browsers.",
+    "description": "Hinweis zum Titel der Website"
+  },
+  "message.descriptionTip": {
+    "message": "Beschreibung der Website, die sich in den Metainformationen der Website befindet und für die SEO-Optimierung verwendet wird.",
+    "description": "Hinweis zur Beschreibung der Website"
+  },
+  "message.logoTip": {
+    "message": "Logo der Website, wird angezeigt, wenn das Menü erweitert wird, oben im Menü der Website.",
+    "description": "Hinweis zum Logo der Website"
+  },
+  "message.faviconTip": {
+    "message": "Favicon der Website, angezeigt im Tab des Browsers.",
+    "description": "Hinweis zum Favicon der Website"
+  },
+  "message.adminsTip": {
+    "message": "Benutzer-ID der Website-Administratoren. Standardmäßig wird der Benutzer, der die Website zum ersten Mal erstellt, Administrator. Nur Administratoren können die Website verwalten.",
+    "description": "Hinweis zu den Website-Administratoren"
+  },
+  "message.adminsTip2": {
+    "message": "Hier können Administrator-IDs hinzugefügt oder entfernt werden. Benutzer-IDs können unter https://auth.acedata.cloud eingesehen werden",
+    "description": "Hinweis zu den Website-Administratoren"
+  },
+  "message.keywordsTip": {
+    "message": "Schlüsselwörter der Website, die sich in den Metainformationen der Website befinden und für die SEO-Optimierung verwendet werden.",
+    "description": "Hinweis zu den Schlüsselwörtern der Website"
+  },
+  "message.keywordsTip2": {
+    "message": "Hier können die Schlüsselwörter der Website hinzugefügt oder entfernt werden. Je präziser die Schlüsselwörter, desto besser für die SEO-Optimierung.",
+    "description": "Hinweis zu den Schlüsselwörtern der Website"
+  },
+  "message.featuresChat": {
+    "message": "Chat-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Chat-Funktion"
+  },
+  "message.featuresMidjourney": {
+    "message": "Midjourney-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Midjourney-Funktion"
+  },
+  "message.featuresChatdoc": {
+    "message": "Chatdoc-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Chatdoc-Funktion"
+  },
+  "message.featuresQrart": {
+    "message": "Qrart-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Qrart-Funktion"
+  },
+  "message.featuresSuno": {
+    "message": "Suno-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Suno-Funktion"
+  },
+  "message.featuresLuma": {
+    "message": "Luma-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Luma-Funktion"
+  },
+  "message.featuresSupport": {
+    "message": "Kundensupport aktivieren oder deaktivieren",
+    "description": "Beschreibung der Support-Funktion"
+  },
+  "message.featuresI18n": {
+    "message": "Mehrsprachige Unterstützung aktivieren oder deaktivieren. Nach der Deaktivierung kann der Benutzer nur die Standardsprache verwenden.",
+    "description": "Beschreibung der mehrsprachigen Unterstützung"
+  },
+  "button.upload": {
+    "message": "Hochladen",
+    "description": "Hochladen"
+  },
+  "button.enabled": {
+    "message": "Aktiviert",
+    "description": "Schaltertext, der angibt, dass es aktiviert ist"
+  },
+  "button.disabled": {
+    "message": "Deaktiviert",
+    "description": "Schaltertext, der angibt, dass es deaktiviert ist"
+  }
+}

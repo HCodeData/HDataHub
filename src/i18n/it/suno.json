@@ -1,0 +1,158 @@
+{
+  "button.extend": {
+    "message": "Continua a generare",
+    "description": "Testo del pulsante continua a generare"
+  },
+  "button.download": {
+    "message": "Scarica",
+    "description": "Testo del pulsante scarica"
+  },
+  "button.video": {
+    "message": "Video",
+    "description": "Testo del pulsante video"
+  },
+  "model.model1": {
+    "message": "v2",
+    "description": "Modello utilizzato per generare musica"
+  },
+  "model.model2": {
+    "message": "v3",
+    "description": "Modello utilizzato per generare musica"
+  },
+  "name.instrumental": {
+    "message": "Senza parole",
+    "description": "Descrizione del parametro 'instrumental'"
+  },
+  "model.model3": {
+    "message": "v3.5",
+    "description": "Modello utilizzato per generare musica"
+  },
+  "name.taskId": {
+    "message": "ID attività",
+    "description": "ID dell'attività"
+  },
+  "name.type": {
+    "message": "Modalità personalizzata",
+    "description": "Nome della modalità personalizzata"
+  },
+  "name.prompt": {
+    "message": "Descrizione della canzone",
+    "description": "Suggerimento per l'input del contenuto"
+  },
+  "name.extend": {
+    "message": "Estendi la canzone da",
+    "description": "Suggerimento per l'input del contenuto"
+  },
+  "name.lyrics": {
+    "message": "Contenuto del testo",
+    "description": "Suggerimento per l'input del contenuto del testo"
+  },
+  "name.style": {
+    "message": "Stile della canzone",
+    "description": "Suggerimento per l'input del contenuto dello stile della canzone"
+  },
+  "name.title": {
+    "message": "Titolo della canzone",
+    "description": "Suggerimento per l'input del contenuto del titolo della canzone"
+  },
+  "name.failureReason": {
+    "message": "Motivo di fallimento",
+    "description": "Motivo per cui l'attività è fallita"
+  },
+  "name.status": {
+    "message": "Stato",
+    "description": "Stato dell'attività"
+  },
+  "name.traceId": {
+    "message": "ID di tracciamento",
+    "description": "ID di tracciamento dell'attività"
+  },
+  "name.sunoBot": {
+    "message": "Suno Bot",
+    "description": "Nome del generatore di Suno"
+  },
+  "description.prompt": {
+    "message": "Inserisci lo stile e il tema della musica che vuoi generare, ad esempio pop acustico sulle vacanze",
+    "description": "Descrizione del parametro 'prompt'"
+  },
+  "description.lyrics": {
+    "message": "Contenuto del testo",
+    "description": "Descrizione del parametro 'lyrics'"
+  },
+  "description.style": {
+    "message": "Contenuto dello stile della canzone",
+    "description": "Descrizione del parametro 'style'"
+  },
+  "description.title": {
+    "message": "Contenuto del titolo della canzone",
+    "description": "Descrizione del parametro 'title'"
+  },
+  "status.pending": {
+    "message": "In attesa",
+    "description": "Stato di attesa dell'attività"
+  },
+  "placeholder.prompt": {
+    "message": "Inserisci le parole chiave della canzone...",
+    "description": "Segnaposto per l'input del rumore"
+  },
+  "placeholder.lyrics": {
+    "message": "Inserisci il testo...",
+    "description": "Segnaposto per il livello di riempimento"
+  },
+  "placeholder.extend.lyrics": {
+    "message": "Inserisci il testo da estendere...",
+    "description": "Segnaposto per il livello di riempimento"
+  },
+  "placeholder.extend.continue_at": {
+    "message": "Inserisci da quale secondo della canzone estendere...",
+    "description": "Segnaposto per il livello di riempimento"
+  },
+  "placeholder.style": {
+    "message": "Inserisci le parole chiave dello stile della canzone che vuoi generare, ad esempio pop acustico",
+    "description": "Testo segnaposto nel campo di suggerimento"
+  },
+  "placeholder.title": {
+    "message": "Inserisci le parole chiave del titolo della canzone che vuoi generare, ad esempio canzone delle vacanze",
+    "description": "Segnaposto per l'input del seme"
+  },
+  "placeholder.select": {
+    "message": "Seleziona un modello...",
+    "description": "Segnaposto per l'input della posizione"
+  },
+  "placeholder.position": {
+    "message": "Seleziona...",
+    "description": "Segnaposto per l'input della posizione"
+  },
+  "button.generate": {
+    "message": "Genera",
+    "description": "Testo del pulsante genera"
+  },
+  "message.startingTask": {
+    "message": "Avvio del compito...",
+    "description": "Messaggio all'inizio del compito di generazione musicale"
+  },
+  "message.startTaskSuccess": {
+    "message": "Compito di generazione musicale avviato con successo",
+    "description": "Messaggio di successo all'avvio del compito di generazione musicale"
+  },
+  "message.startTaskFailed": {
+    "message": "Avvio del compito di generazione musicale fallito",
+    "description": "Messaggio di errore all'avvio del compito di generazione musicale"
+  },
+  "message.generating": {
+    "message": "Generazione in corso...",
+    "description": "Messaggio durante la generazione musicale"
+  },
+  "message.generateFailed": {
+    "message": "Generazione musicale fallita",
+    "description": "Messaggio quando la generazione musicale fallisce"
+  },
+  "message.noOperations": {
+    "message": "Nessuna operazione disponibile",
+    "description": "Messaggio quando non ci sono operazioni disponibili"
+  },
+  "message.noTasks": {
+    "message": "Nessun compito storico, si prega di generare musica nella barra di configurazione a sinistra",
+    "description": "Messaggio quando non ci sono compiti"
+  }
+}
