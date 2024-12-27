@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "AIカスタムサービス",
+    "description": "AI問答章のタイトル"
+  },
+  "subtitle.ai_custom": {
+    "message": "専用AIサービスのカスタマイズを提供し、機能拡張と深いカスタマイズをサポートし、あなたの個別ニーズを満たし、プロジェクトを効率的に実現します。",
+    "description": "AIカスタムサービス"
+  },
+  "title.chat": {
+    "message": "AI人気テキスト",
+    "description": "AI問答章のタイトル"
+  },
+  "title.midjourney": {
+    "message": "テキストから画像へ",
+    "description": "AI画作章のタイトル"
+  },
+  "title.qrart": {
+    "message": "AIアートQRコード",
+    "description": "AIアートQRコード章のタイトル"
+  },
+  "title.digital_man": {
+    "message": "AIデジタル人",
+    "description": "AIアートQRコード章のタイトル"
+  },
+  "title.sound_cloning": {
+    "message": "AI音声クローン",
+    "description": "AIアートQRコード章のタイトル"
+  },
+  "title.suno": {
+    "message": "AI音楽制作",
+    "description": "AI音楽章のタイトル"
+  },
+  "title.luma": {
+    "message": "AIビデオ",
+    "description": "AIビデオ章のタイトル"
+  },
+  "title.headshots": {
+    "message": "AI証明写真",
+    "description": "AI証明写真章のタイトル"
+  },
+  "title.comments": {
+    "message": "-- ユーザー評価 --",
+    "description": "顧客評価章のタイトル"
+  },
+  "title.introduction": {
+    "message": "-- スーパーAIアシスタント --",
+    "description": "サイトの紹介"
+  },
+  "subtitle.banner": {
+    "message": "HarBO AI企業スーパーAIアシスタント",
+    "description": "サイトの副タイトル"
+  },
+  "subtitle.chat": {
+    "message": "複数の問答モデルをサポートし、ネットワーク機能を備え、画像、ファイル、ビデオなどさまざまなコンテンツを認識できます。",
+    "description": "AI問答章のタイトル"
+  },
+  "subtitle.midjourney": {
+    "message": "最新のMidjourneyモデルに接続し、ワンクリックでさまざまなスタイルの画像を生成し、連続微調整が可能です。",
+    "description": "AI画作章のタイトル"
+  },
+  "subtitle.qrart": {
+    "message": "さまざまなアートQRコードスタイルをサポートし、既存のQRコードをアップロードし、簡単にアート化し、独特のビジュアルエフェクトを作成できます。",
+    "description": "AIアートQRコード章のタイトル"
+  },
+  "subtitle.digital_man": {
+    "message": "仮想デジタル人ソリューションを提供し、リアルタイムインタラクション、宣伝、トレーニング説明などの多様なシーンでの応用をサポートします。",
+    "description": "AIアートQRコード章のタイトル"
+  },
+  "subtitle.suno": {
+    "message": "さまざまな音楽スタイルをサポートし、希望する音楽を簡単に生成でき、柔軟な長さの拡張オプションをサポートしています。",
+    "description": "AI音楽章のタイトル"
+  },
+  "subtitle.luma": {
+    "message": "最新のLumaモデルに接続し、ワンクリックでカスタムビデオを生成し、柔軟なビデオ拡張オプションをサポートします。",
+    "description": "AI音楽章のタイトル"
+  },
+  "subtitle.headshots": {
+    "message": "最新のAIモデルに接続し、ワンクリックでカスタムテンプレートの証明写真を生成し、さまざまな分割の証明写真をサポートします。",
+    "description": "AI証明写真章のタイトル"
+  },
+  "subtitle.comments": {
+    "message": "これらの顧客を助けることができたのを非常に嬉しく思います。彼らは私たちのサービスに高い評価を与えてくれました。",
+    "description": "顧客評価章のタイトル"
+  },
+  "subtitle.introduction": {
+    "message": "私たちは、問答、画作、QRコード、音楽などのさまざまな機能を含むワンストップのAIサービスを提供し、あなたの多様なニーズを満たします。",
+    "description": "サイトの紹介"
+  },
+  "button.try": {
+    "message": "クリックして体験",
+    "description": "テキストの中の内容"
+  },
+  "button.testEnv": {
+    "message": "テスト環境",
+    "description": "テスト環境ボタン"
+  },
+  "customers.name1": {
+    "message": "フランク",
+    "description": "顧客の名前"
+  },
+  "customers.job1": {
+    "message": "ソフトウェアエンジニア",
+    "description": "顧客の職業"
+  },
+  "customers.comment1": {
+    "message": "この統合されたサービスは非常に便利で、一つのプラットフォームでさまざまなAIツールを利用でき、とても素晴らしいです！",
+    "description": "顧客のコメント"
+  },
+  "customers.name2": {
+    "message": "ジェイコブ",
+    "description": "顧客の名前"
+  },
+  "customers.job2": {
+    "message": "プロダクトマネージャー",
+    "description": "顧客の職業"
+  },
+  "customers.comment2": {
+    "message": "プラットフォームは非常に使いやすく、サービスの質も非常に高く、私の生産性を大幅に解放してくれました。",
+    "description": "顧客のコメント"
+  },
+  "customers.name3": {
+    "message": "ラリー",
+    "description": "顧客の名前"
+  },
+  "customers.job3": {
+    "message": "デザイナー",
+    "description": "顧客の職業"
+  },
+  "customers.comment3": {
+    "message": "AIプラットフォームはたくさんありますが、これは本当に使いやすく、価格も手頃で、さらに良くなることを願っています！",
+    "description": "顧客のコメント"
+  }
+}

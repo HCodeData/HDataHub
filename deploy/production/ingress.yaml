@@ -1,0 +1,22 @@
+kind: Ingress
+apiVersion: networking.k8s.io/v1
+metadata:
+  name: hub-frontend-ingress
+  namespace: hcodedata
+spec:
+  ingressClassName: traefik
+  tls:
+    - hosts:
+        - hub.hcodedata.cn
+      secretName: hub-hcodedata-cn-tls
+  rules:
+    - host: hub.hcodedata.cn
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: hub-frontend
+                port:
+                  number: 8083

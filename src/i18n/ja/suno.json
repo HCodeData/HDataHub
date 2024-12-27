@@ -1,0 +1,170 @@
+{
+  "button.extend": {
+    "message": "生成を続ける",
+    "description": "生成を続けるボタンのテキスト"
+  },
+  "button.download": {
+    "message": "ダウンロード",
+    "description": "ダウンロードボタンのテキスト"
+  },
+  "button.video": {
+    "message": "ビデオ",
+    "description": "ビデオボタンのテキスト"
+  },
+  "button.download_video": {
+    "message": "ビデオをダウンロード",
+    "description": "ビデオをダウンロードするボタンのテキスト"
+  },
+  "button.download_audio": {
+    "message": "音楽をダウンロード",
+    "description": "音楽をダウンロードするボタンのテキスト"
+  },
+  "model.model1": {
+    "message": "v2",
+    "description": "音楽生成に使用されるモデル"
+  },
+  "model.model2": {
+    "message": "v3",
+    "description": "音楽生成に使用されるモデル"
+  },
+  "name.instrumental": {
+    "message": "インストゥルメンタル",
+    "description": "パラメータ'instrumental'の説明"
+  },
+  "model.model3": {
+    "message": "v3.5",
+    "description": "音楽生成に使用されるモデル"
+  },
+  "model.model4": {
+    "message": "v4.0",
+    "description": "音楽生成に使用されるモデル"
+  },
+  "name.taskId": {
+    "message": "タスク ID",
+    "description": "タスクの ID"
+  },
+  "name.type": {
+    "message": "カスタマイズモード",
+    "description": "カスタマイズモードの名前"
+  },
+  "name.prompt": {
+    "message": "曲の説明",
+    "description": "内容入力のプロンプト"
+  },
+  "name.extend": {
+    "message": "拡張曲の出所",
+    "description": "内容入力のプロンプト"
+  },
+  "name.lyrics": {
+    "message": "歌詞の内容",
+    "description": "歌詞内容入力のプロンプト"
+  },
+  "name.style": {
+    "message": "曲のスタイル",
+    "description": "曲のスタイル内容入力のプロンプト"
+  },
+  "name.title": {
+    "message": "曲のタイトル",
+    "description": "曲のタイトル内容入力のプロンプト"
+  },
+  "name.failureReason": {
+    "message": "失敗理由",
+    "description": "タスク失敗の理由"
+  },
+  "name.status": {
+    "message": "ステータス",
+    "description": "タスクのステータス"
+  },
+  "name.traceId": {
+    "message": "トレース ID",
+    "description": "タスクのトレース ID"
+  },
+  "name.sunoBot": {
+    "message": "Suno Bot",
+    "description": "Suno生成器の名前"
+  },
+  "description.prompt": {
+    "message": "生成したい音楽のスタイルとテーマを入力してください。例えば、ホリデーに関するアコースティックポップ。",
+    "description": "パラメータ'prompt'の説明"
+  },
+  "description.lyrics": {
+    "message": "歌詞の内容",
+    "description": "パラメータ'lyrics'の説明"
+  },
+  "description.style": {
+    "message": "曲のスタイルの内容",
+    "description": "パラメータ'style'の説明"
+  },
+  "description.title": {
+    "message": "曲のタイトルの内容",
+    "description": "パラメータ'title'の説明"
+  },
+  "status.pending": {
+    "message": "待機中",
+    "description": "タスクの待機状態"
+  },
+  "placeholder.prompt": {
+    "message": "曲のヒントを入力してください...",
+    "description": "入力フィールドのプレースホルダー"
+  },
+  "placeholder.lyrics": {
+    "message": "歌詞を入力してください...",
+    "description": "入力フィールドのプレースホルダー"
+  },
+  "placeholder.extend.lyrics": {
+    "message": "拡張する必要がある歌詞を入力してください...",
+    "description": "入力フィールドのプレースホルダー"
+  },
+  "placeholder.extend.continue_at": {
+    "message": "どの秒から曲を拡張するか入力してください...",
+    "description": "入力フィールドのプレースホルダー"
+  },
+  "placeholder.style": {
+    "message": "生成する曲のスタイルのヒントを入力してください。例えば、アコースティックポップ",
+    "description": "ヒントフィールドのプレースホルダー"
+  },
+  "placeholder.title": {
+    "message": "生成する曲のタイトルのヒントを入力してください。例えば、ホリデーソング",
+    "description": "シード入力のプレースホルダー"
+  },
+  "placeholder.select": {
+    "message": "モデルを選択してください...",
+    "description": "位置入力のプレースホルダー"
+  },
+  "placeholder.position": {
+    "message": "選択してください...",
+    "description": "位置入力のプレースホルダー"
+  },
+  "button.generate": {
+    "message": "生成",
+    "description": "生成ボタンのテキスト"
+  },
+  "message.startingTask": {
+    "message": "タスクを開始しています...",
+    "description": "音楽生成タスク開始時のメッセージ"
+  },
+  "message.startTaskSuccess": {
+    "message": "音楽生成タスクが成功裏に開始されました",
+    "description": "音楽生成タスクが成功裏に開始された時の成功メッセージ"
+  },
+  "message.startTaskFailed": {
+    "message": "音楽生成タスクの起動に失敗しました",
+    "description": "音楽生成タスクの起動に失敗した時のエラーメッセージ"
+  },
+  "message.generating": {
+    "message": "生成中...",
+    "description": "音楽が生成されている時のメッセージ"
+  },
+  "message.generateFailed": {
+    "message": "音楽の生成に失敗しました",
+    "description": "音楽生成が失敗した時のメッセージ"
+  },
+  "message.noOperations": {
+    "message": "利用可能な操作がありません",
+    "description": "利用可能な操作がない時のメッセージ"
+  },
+  "message.noTasks": {
+    "message": "履歴タスクがありません。左側の設定バーから音楽を生成してください。",
+    "description": "タスクがない時のメッセージ"
+  }
+}

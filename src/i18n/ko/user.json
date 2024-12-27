@@ -1,0 +1,26 @@
+{
+  "field.id": {
+    "message": "사용자 ID",
+    "description": "사용자 ID"
+  },
+  "field.isVerified": {
+    "message": "검증됨",
+    "description": "사용자가 실제 정보를 기반으로 검증되었는지를 나타내는 플래그"
+  },
+  "field.email": {
+    "message": "이메일",
+    "description": "사용자의 이메일"
+  },
+  "field.nickname": {
+    "message": "닉네임",
+    "description": "사용자의 닉네임"
+  },
+  "field.username": {
+    "message": "사용자명",
+    "description": "사용자의 사용자명"
+  },
+  "field.dateJoined": {
+    "message": "가입 날짜",
+    "description": "사용자의 가입 날짜"
+  }
+}

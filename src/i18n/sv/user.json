@@ -1,0 +1,26 @@
+{
+  "field.id": {
+    "message": "Användar-ID",
+    "description": "Användar-ID"
+  },
+  "field.isVerified": {
+    "message": "Verifierad",
+    "description": "En indikator för om användaren är verifierad baserat på verklig information"
+  },
+  "field.email": {
+    "message": "E-post",
+    "description": "Användarens e-postadress"
+  },
+  "field.nickname": {
+    "message": "Smeknamn",
+    "description": "Användarens smeknamn"
+  },
+  "field.username": {
+    "message": "Användarnamn",
+    "description": "Användarens användarnamn"
+  },
+  "field.dateJoined": {
+    "message": "Registreringsdatum",
+    "description": "Användarens registreringsdatum"
+  }
+}

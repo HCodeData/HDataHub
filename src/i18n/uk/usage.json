@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "Час використання",
+    "description": "Час створення запису використання."
+  },
+  "field.statusCode": {
+    "message": "Код статусу",
+    "description": "Код статусу запису використання."
+  },
+  "field.application": {
+    "message": "Заява",
+    "description": "Програма-заява для послуги."
+  },
+  "field.status": {
+    "message": "Статус",
+    "description": "Статус програми-заяви."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "API послуги."
+  },
+  "field.usedAmount": {
+    "message": "Використана кількість",
+    "description": "Кількість використаних ресурсів."
+  },
+  "field.deductedAmount": {
+    "message": "Вирахувана кількість",
+    "description": "Кількість вирахуваних ресурсів."
+  },
+  "field.remainingAmount": {
+    "message": "Залишкова кількість",
+    "description": "Кількість залишкових ресурсів."
+  },
+  "field.metadata": {
+    "message": "Метадані",
+    "description": "Метадані запису використання."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "field.id": {
+    "message": "Korisnički ID",
+    "description": "Korisnički ID"
+  },
+  "field.isVerified": {
+    "message": "Verifikovan",
+    "description": "Oznaka koja pokazuje da li je korisnik verifikovan na osnovu pravih informacija"
+  },
+  "field.email": {
+    "message": "Email",
+    "description": "Korisnikov email"
+  },
+  "field.nickname": {
+    "message": "Nadimak",
+    "description": "Korisnikov nadimak"
+  },
+  "field.username": {
+    "message": "Korisničko ime",
+    "description": "Korisničko ime korisnika"
+  },
+  "field.dateJoined": {
+    "message": "Datum registracije",
+    "description": "Datum kada je korisnik registrovan"
+  }
+}

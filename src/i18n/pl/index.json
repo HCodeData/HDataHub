@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "Usługi dostosowane AI",
+    "description": "AI 问答章节标题"
+  },
+  "subtitle.ai_custom": {
+    "message": "Oferujemy dostosowane usługi AI, wspierające rozszerzenia funkcji i głęboką personalizację, spełniając Twoje indywidualne potrzeby i wspierając efektywne realizowanie projektów.",
+    "description": "AI 定制服务"
+  },
+  "title.chat": {
+    "message": "Popularne teksty AI",
+    "description": "AI 问答章节标题"
+  },
+  "title.midjourney": {
+    "message": "Tekst na obraz",
+    "description": "AI绘画章节标题"
+  },
+  "title.qrart": {
+    "message": "Kod QR sztuki AI",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "title.digital_man": {
+    "message": "Cyfrowy człowiek AI",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "title.sound_cloning": {
+    "message": "Klona dźwięku AI",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "title.suno": {
+    "message": "Tworzenie muzyki AI",
+    "description": "AI 音乐章节标题"
+  },
+  "title.luma": {
+    "message": "Wideo AI",
+    "description": "AI 视频章节标题"
+  },
+  "title.headshots": {
+    "message": "Zdjęcia identyfikacyjne AI",
+    "description": "AI 证件照章节标题"
+  },
+  "title.comments": {
+    "message": "-- Opinie użytkowników --",
+    "description": "客户评价章节标题"
+  },
+  "title.introduction": {
+    "message": "-- Super AI Asystent --",
+    "description": "站点简介"
+  },
+  "subtitle.banner": {
+    "message": "HarBO AI - Super Asystent AI dla firm",
+    "description": "站点副标题"
+  },
+  "subtitle.chat": {
+    "message": "Obsługuje różne modele pytań i odpowiedzi, ma możliwość łączenia z internetem oraz potrafi rozpoznać różnorodne treści, takie jak obrazy, pliki i wideo.",
+    "description": "AI 问答章节标题"
+  },
+  "subtitle.midjourney": {
+    "message": "Integracja z najnowszym modelem Midjourney, generowanie różnych stylów obrazów jednym kliknięciem oraz ciągłe dostosowywanie.",
+    "description": "AI绘画章节标题"
+  },
+  "subtitle.qrart": {
+    "message": "Obsługuje różne style kodów QR sztuki, umożliwia przesyłanie istniejących kodów QR, łatwo przekształca je w sztukę, tworząc unikalny efekt wizualny.",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "subtitle.digital_man": {
+    "message": "Oferuje rozwiązania w zakresie wirtualnych cyfrowych ludzi, wspierające interakcje w czasie rzeczywistym, promocję i szkolenia w różnych scenariuszach.",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "subtitle.suno": {
+    "message": "Obsługuje różne style muzyczne, łatwo generuje muzykę, której pragniesz, oraz wspiera elastyczne opcje rozszerzenia długości.",
+    "description": "AI 音乐章节标题"
+  },
+  "subtitle.luma": {
+    "message": "Integracja z najnowszym modelem Luma, generowanie dostosowanych filmów jednym kliknięciem oraz elastyczne opcje rozszerzenia wideo.",
+    "description": "AI 音乐章节标题"
+  },
+  "subtitle.headshots": {
+    "message": "Integracja z najnowszym modelem AI, jedno kliknięcie, aby wygenerować dostosowane zdjęcia identyfikacyjne w różnych formatach.",
+    "description": "AI 证件照章节标题"
+  },
+  "subtitle.comments": {
+    "message": "Cieszymy się, że mogliśmy pomóc tym klientom, którzy wyrazili bardzo pozytywne opinie o naszych usługach.",
+    "description": "客户评价章节标题"
+  },
+  "subtitle.introduction": {
+    "message": "Oferujemy kompleksowe usługi AI, obejmujące pytania i odpowiedzi, malarstwo, kody QR, muzykę i wiele innych, aby sprostać Twoim zróżnicowanym potrzebom.",
+    "description": "站点简介"
+  },
+  "button.try": {
+    "message": "Kliknij, aby spróbować",
+    "description": "文字里面的内容"
+  },
+  "button.testEnv": {
+    "message": "Środowisko testowe",
+    "description": "测试环境按钮"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "客户的姓名"
+  },
+  "customers.job1": {
+    "message": "Inżynier oprogramowania",
+    "description": "客户的职位"
+  },
+  "customers.comment1": {
+    "message": "Ta zintegrowana usługa jest niezwykle wygodna, mogę korzystać z różnych narzędzi AI na jednej platformie, to rewelacyjne!",
+    "description": "客户的评论"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "客户的姓名"
+  },
+  "customers.job2": {
+    "message": "Kierownik produktu",
+    "description": "客户的职位"
+  },
+  "customers.comment2": {
+    "message": "Platforma jest bardzo użyteczna, jakość usług jest wspaniała, a także znacznie uwolniła moją produktywność.",
+    "description": "客户的评论"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "客户的姓名"
+  },
+  "customers.job3": {
+    "message": "Projektant",
+    "description": "客户的职位"
+  },
+  "customers.comment3": {
+    "message": "Jest tak wiele platform AI, ale ta naprawdę jest łatwa w użyciu, w rozsądnej cenie, mam nadzieję, że stanie się jeszcze lepsza!",
+    "description": "客户的评论"
+  }
+}

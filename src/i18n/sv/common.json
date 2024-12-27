@@ -1,0 +1,478 @@
+{
+  "button.setup": {
+    "message": "Inställningar",
+    "description": "Knapptext för att ställa in vissa saker"
+  },
+  "button.copy": {
+    "message": "Kopiera",
+    "description": "Knapptext för att kopiera viss information"
+  },
+  "button.restart": {
+    "message": "Återställ",
+    "description": "Knapptext för att återgenerera något"
+  },
+  "button.preview": {
+    "message": "Förhandsgranska",
+    "description": "Knapptext för att öppna en förhandsgranskning av en fil via URL"
+  },
+  "button.seeRawImage": {
+    "message": "Visa originalbild",
+    "description": "Knapptext för att visa den ursprungliga bilden"
+  },
+  "button.seeRawVideo": {
+    "message": "Visa video",
+    "description": "Knapptext för att visa originalvideon"
+  },
+  "button.edit": {
+    "message": "Redigera",
+    "description": "Knapptext för att redigera viss information"
+  },
+  "button.login": {
+    "message": "Logga in",
+    "description": "Knapptext för att logga in"
+  },
+  "button.logout": {
+    "message": "Logga ut",
+    "description": "Knapptext för att logga ut"
+  },
+  "button.new": {
+    "message": "Skapa ny",
+    "description": "Knapptext för att skapa ett nytt projekt"
+  },
+  "button.delete": {
+    "message": "Ta bort",
+    "description": "Knapptext för att ta bort viss information"
+  },
+  "button.confirm": {
+    "message": "Bekräfta",
+    "description": "Knapptext för att bekräfta viss information"
+  },
+  "button.cancel": {
+    "message": "Avbryt",
+    "description": "Knapptext för att avbryta vissa åtgärder"
+  },
+  "button.alert": {
+    "message": "Varning",
+    "description": "Knapptext för att varna om viss information"
+  },
+  "button.info": {
+    "message": "Information",
+    "description": "Knapptext för att visa information"
+  },
+  "button.publish": {
+    "message": "Publicera",
+    "description": "Knapptext för att publicera viss information"
+  },
+  "button.watch": {
+    "message": "Titta",
+    "description": "Knapptext för att titta på viss information"
+  },
+  "button.verify": {
+    "message": "Verifiera identitet",
+    "description": "Knapptext för att låta användaren verifiera sin identitet"
+  },
+  "button.profile": {
+    "message": "Profil",
+    "description": "Knapptext för att visa användarens profil"
+  },
+  "button.console": {
+    "message": "Konsol",
+    "description": "Knapptext för att visa konsolsidan för att kontrollera viss information på webbplatsen"
+  },
+  "button.learn": {
+    "message": "Lär dig",
+    "description": "Knapptext för att låta användare lära sig viss information"
+  },
+  "button.buy": {
+    "message": "Köp",
+    "description": "Knapptext för att låta användaren köpa viss information"
+  },
+  "button.try": {
+    "message": "Testa",
+    "description": "Knapptext för att låta användare prova viss information"
+  },
+  "button.startForFree": {
+    "message": "Börja med HarBO AI",
+    "description": "Knapptext för att låta användaren börja använda gratis"
+  },
+  "button.apply": {
+    "message": "Ansök",
+    "description": "Knapptext för att låta användaren ansöka om API-tjänster"
+  },
+  "button.refresh": {
+    "message": "Uppdatera",
+    "description": "Knapptext för att uppdatera sidan"
+  },
+  "button.pay": {
+    "message": "Betala",
+    "description": "Knapptext för att låta användaren betala för tjänster"
+  },
+  "button.repay": {
+    "message": "Fortsätt betala",
+    "description": "Knapptext för att låta användaren fortsätta betala för tjänster"
+  },
+  "button.applied": {
+    "message": "Ansökt",
+    "description": "Knapptext för att visa att användaren har ansökt om tjänsten"
+  },
+  "button.acquire": {
+    "message": "Få tag på",
+    "description": "Knapptext för att låta användaren få en token eller nyckel för API-tjänster"
+  },
+  "button.fillExample": {
+    "message": "Fyll i exempel",
+    "description": "Knapptext för att låta användaren fylla i exempeldata"
+  },
+  "button.buyMore": {
+    "message": "Köp mer",
+    "description": "Knapptext för att låta användaren köpa mer information"
+  },
+  "button.update": {
+    "message": "Uppdatera",
+    "description": "Knapptext för att uppdatera viss information"
+  },
+  "button.view": {
+    "message": "Visa",
+    "description": "Knapptext för att visa viss information"
+  },
+  "button.create": {
+    "message": "Skapa",
+    "description": "Knapptext för att skapa viss information"
+  },
+  "button.referralEarnings": {
+    "message": "Rekommendationsintäkter",
+    "description": "Knapptext för att visa rekommendationsintäkter, vilket betyder att användaren kan tjäna pengar genom att bjuda in andra till tjänsten"
+  },
+  "button.finish": {
+    "message": "Slutför",
+    "description": "Knapptext för att slutföra vissa åtgärder"
+  },
+  "entity.website": {
+    "message": "Ace Data Cloud",
+    "description": "Webbplatsens namn, ingen översättning behövs, behåll som 'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "Upphovsrätt",
+    "description": "Text för att visa upphovsrättsinformation"
+  },
+  "entity.platform": {
+    "message": "Plattform",
+    "description": "Text som indikerar att detta är plattformen för API-tjänster"
+  },
+  "entity.title": {
+    "message": "Titel",
+    "description": "Titel för enheten"
+  },
+  "entity.icon": {
+    "message": "Ikon",
+    "description": "Ikon för enheten"
+  },
+  "entity.status": {
+    "message": "Status",
+    "description": "Status för enheten"
+  },
+  "entity.operation": {
+    "message": "Operation",
+    "description": "Operation för enheten"
+  },
+  "entity.description": {
+    "message": "Beskrivning",
+    "description": "Beskrivning av enheten"
+  },
+  "entity.createdAt": {
+    "message": "Skapat datum",
+    "description": "Tidpunkt för när entiteten skapades"
+  },
+  "entity.updatedAt": {
+    "message": "Uppdaterat datum",
+    "description": "Tidpunkt för när entiteten uppdaterades"
+  },
+  "entity.order": {
+    "message": "Beställning",
+    "description": "Beställningen av entiteten, beställningen innehåller belopp och tjänsteinformation, användaren behöver betala för den"
+  },
+  "message.usedAmount": {
+    "message": "Använt belopp",
+    "description": "Används för att visa det belopp som har använts för tjänsten"
+  },
+  "message.remainingAmount": {
+    "message": "Återstående belopp",
+    "description": "Används för att visa det belopp som återstår för tjänsten"
+  },
+  "message.copied": {
+    "message": "Kopierad",
+    "description": "Används för att visa att innehållet har kopierats framgångsrikt"
+  },
+  "message.restart": {
+    "message": "Återställ",
+    "description": "Används för att visa att innehållet har kopierats framgångsrikt"
+  },
+  "message.confirmDelete": {
+    "message": "Vill du verkligen ta bort?",
+    "description": "Används för att bekräfta om användaren vill ta bort viss information"
+  },
+  "message.expiredAt": {
+    "message": "Utgångsdatum",
+    "description": "Används för att visa utgångsdatumet för tjänsten"
+  },
+  "message.alert": {
+    "message": "Varning",
+    "description": "Används för att varna användaren"
+  },
+  "message.info": {
+    "message": "Vänlig påminnelse",
+    "description": "Används för att visa information"
+  },
+  "message.free": {
+    "message": "Gratis",
+    "description": "Används för att visa att tjänsten är gratis, vilket innebär att användaren inte behöver betala"
+  },
+  "message.startPrice": {
+    "message": "Startpris",
+    "description": "Används för att visa det lägsta priset för tjänsten"
+  },
+  "message.joinDiscord": {
+    "message": "Gå med i Discord",
+    "description": "Används för att låta användaren gå med i Discord-kanalen"
+  },
+  "message.addWeChat": {
+    "message": "Lägg till WeChat",
+    "description": "Används för att låta användaren lägga till WeChat"
+  },
+  "message.serviceTech": {
+    "message": "Teknisk support",
+    "description": "Används för att visa teknisk support för tjänsten"
+  },
+  "message.businessCooperation": {
+    "message": "Affärssamarbete",
+    "description": "Används för att visa affärssamarbete"
+  },
+  "message.noData": {
+    "message": "Inga data",
+    "description": "Används för att visa att det inte finns några data i tabellen eller listan"
+  },
+  "nav.home": {
+    "message": "Hem",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa hemsidan"
+  },
+  "nav.content": {
+    "message": "Innehåll",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa innehållssidan"
+  },
+  "nav.category": {
+    "message": "Kategori",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa kategorisidan"
+  },
+  "nav.service": {
+    "message": "Tjänst",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa tjänstsidan"
+  },
+  "nav.profile": {
+    "message": "Jag",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa profilsidan"
+  },
+  "nav.products": {
+    "message": "Produkter",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa produktsidan"
+  },
+  "nav.referral": {
+    "message": "Rekommendationsintäkter",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa rekommendationssidan"
+  },
+  "nav.apiPlatform": {
+    "message": "API-plattform",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa API-plattformssidan"
+  },
+  "nav.document": {
+    "message": "Dokument",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa dokumentsidan"
+  },
+  "nav.console": {
+    "message": "Konsol",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa konsolsidan"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa chatt sidan, får inte översättas, måste hållas som 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa Midjourney-sidan, får inte översättas, måste hållas som 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa chatdokument sidan, får inte översättas, måste hållas som 'ChatDoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa QRArt sidan, får inte översättas, måste hållas som 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa Suno-sidan, får inte översättas, måste hållas som 'Suno'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa Luma-sidan, får inte översättas, måste hållas som 'Suno'"
+  },
+  "nav.distribution": {
+    "message": "Rekommendationsintäkter",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa sidan för rekommendationsintäkter"
+  },
+  "nav.logOut": {
+    "message": "Logga ut",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att logga ut"
+  },
+  "nav.site": {
+    "message": "Sitekonfiguration",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa sidan för sitekonfiguration"
+  },
+  "nav.headshots": {
+    "message": "AI-ID-foton",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att visa sidan för AI-ID-foton"
+  },
+  "nav.locale": {
+    "message": "Språkinställningar",
+    "description": "Text i navigeringsfältet på webbplatsen, används för att ändra språk"
+  },
+  "nav.support": {
+    "message": "Om oss",
+    "description": "Text i webbplatsens navigeringsfält för att visa supportsidan"
+  },
+  "nav.midjourney_tutorials": {
+    "message": "Midjourney-handböcker",
+    "description": "Text i webbplatsens navigeringsfält för att visa supportsidan"
+  },
+  "nav.ai_tutorials": {
+    "message": "AI-nyckelord",
+    "description": "Text i webbplatsens navigeringsfält för att visa supportsidan"
+  },
+  "nav.ai_tutorials1": {
+    "message": "gpt-nyckelord grundläggande",
+    "description": "Text i webbplatsens navigeringsfält för att visa supportsidan"
+  },
+  "nav.ai_tutorials2": {
+    "message": "gpt-nyckelord avancerad",
+    "description": "Text i webbplatsens navigeringsfält för att visa supportsidan"
+  },
+  "nav.ai_tutorials3": {
+    "message": "gpt-nyckelord skrivande",
+    "description": "Text i webbplatsens navigeringsfält för att visa supportsidan"
+  },
+  "nav.free_user": {
+    "message": "Gratis provperiod",
+    "description": "Text i webbplatsens navigeringsfält för att visa supportsidan"
+  },
+  "nav.darkMode": {
+    "message": "Mörkt läge",
+    "description": "Text i webbplatsens navigeringsfält för att växla till mörkt tema"
+  },
+  "title.alert": {
+    "message": "Varning",
+    "description": "Rubriken för varningsmeddelandet"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Vänligen välj",
+    "description": "Platshållare för urvalsinputfält"
+  },
+  "title.placeholderOfInput": {
+    "message": "Vänligen fyll i",
+    "description": "Platshållare för inputfält"
+  },
+  "title.allApplications": {
+    "message": "Alla ansökningar",
+    "description": "Rubriken för sidan som visar alla ansökningar"
+  },
+  "title.allOrders": {
+    "message": "Alla beställningar",
+    "description": "Rubriken för sidan som visar alla beställningar"
+  },
+  "title.orderInfo": {
+    "message": "Beställningsinformation",
+    "description": "Rubriken för sidan som visar beställningsinformation"
+  },
+  "title.buyMore": {
+    "message": "Köp fler",
+    "description": "Rubriken för sidan som låter användare köpa fler"
+  },
+  "title.distribution": {
+    "message": "Rekommenderad inkomst",
+    "description": "Rubriken för sidan som visar rekommenderad inkomst, vilket innebär att användare kan tjäna pengar genom att bjuda in andra till tjänsten"
+  },
+  "title.site": {
+    "message": "Webbplatskonfiguration",
+    "description": "Rubriken för sidan som visar webbplatskonfiguration"
+  },
+  "title.distributionHistory": {
+    "message": "Rekommendationens historia",
+    "description": "Rubriken för sidan som visar rekommendationens historia"
+  },
+  "title.invitee": {
+    "message": "Inbjuden",
+    "description": "Rubriken för sidan som visar inbjudna"
+  },
+  "title.allUsages": {
+    "message": "Användningshistorik",
+    "description": "Rubriken för sidan som visar alla användningsregister för API-tjänsten"
+  },
+  "title.allCredentials": {
+    "message": "Referenser",
+    "description": "Rubriken för sidan som visar alla referenser, dessa referenser används för att få åtkomst till API"
+  },
+  "about.title1": {
+    "message": "Kontakta oss",
+    "description": "Rubriken för delen som visar kontaktinformation"
+  },
+  "about.title2": {
+    "message": "Resurser",
+    "description": "Rubriken för delen som visar länkar"
+  },
+  "about.title3": {
+    "message": "Länkar",
+    "description": "Rubriken för delen som visar stödinformation"
+  },
+  "about.address": {
+    "message": "USA Delaware Middletown N Broad St, Office 201",
+    "description": "Företagets adress"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "Företagets e-post"
+  },
+  "about.link1": {
+    "message": "Tjänster",
+    "description": "Länk till tjänstersidan"
+  },
+  "about.link2": {
+    "message": "Dokumentation",
+    "description": "Länk till dokumentationssidan"
+  },
+  "about.link3": {
+    "message": "Konsol",
+    "description": "Länk till konsolsidan"
+  },
+  "about.link4": {
+    "message": "Profil",
+    "description": "Länk till profilsidan"
+  },
+  "about.link5": {
+    "message": "Center",
+    "description": "Länk till centralsidan"
+  },
+  "about.link6": {
+    "message": "Rekommenderad inkomst",
+    "description": "Länk till sidan för rekommenderad inkomst"
+  },
+  "about.link7": {
+    "message": "Support",
+    "description": "Länk till supportsidan"
+  },
+  "about.link8": {
+    "message": "Användarvillkor",
+    "description": "Länk till sidan för användarvillkor"
+  },
+  "about.link9": {
+    "message": "Integritetspolicy",
+    "description": "Länk till sidan för integritetspolicy"
+  }
+}

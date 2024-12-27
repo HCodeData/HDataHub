@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "AI Anpassad Tjänst",
+    "description": "AI 问答章节标题"
+  },
+  "subtitle.ai_custom": {
+    "message": "Erbjuder skräddarsydd AI-tjänst, stöd för funktionsexpansion och djup anpassning för att möta dina personliga behov och stödja effektiva projektgenomföranden.",
+    "description": "AI 定制服务"
+  },
+  "title.chat": {
+    "message": "AI Populär Text",
+    "description": "AI 问答章节标题"
+  },
+  "title.midjourney": {
+    "message": "Text till Bild",
+    "description": "AI绘画章节标题"
+  },
+  "title.qrart": {
+    "message": "AI Konst QR-kod",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "title.digital_man": {
+    "message": "AI Digital Människa",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "title.sound_cloning": {
+    "message": "AI Ljudkloning",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "title.suno": {
+    "message": "AI Musikskapande",
+    "description": "AI 音乐章节标题"
+  },
+  "title.luma": {
+    "message": "AI Video",
+    "description": "AI 视频章节标题"
+  },
+  "title.headshots": {
+    "message": "AI ID-foto",
+    "description": "AI 证件照章节标题"
+  },
+  "title.comments": {
+    "message": "-- Kundrecensioner --",
+    "description": "客户评价章节标题"
+  },
+  "title.introduction": {
+    "message": "-- Super AI Assistent --",
+    "description": "站点简介"
+  },
+  "subtitle.banner": {
+    "message": "HarBO AI Företags Super AI Assistent",
+    "description": "站点副标题"
+  },
+  "subtitle.chat": {
+    "message": "Stöder flera fråge-svar modeller med internetanslutning, kan känna igen bilder, filer och video samt flera typer av innehåll.",
+    "description": "AI 问答章节标题"
+  },
+  "subtitle.midjourney": {
+    "message": "Anslut till den senaste Midjourney-modellen för att enkelt generera bilder i olika stilar och finjustera.",
+    "description": "AI绘画章节标题"
+  },
+  "subtitle.qrart": {
+    "message": "Stöder flera stilar av konst QR-koder, tillåter uppladdning av befintliga QR-koder för att enkelt konstalisera dem och skapa unika visuella effekter.",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "subtitle.digital_man": {
+    "message": "Erbjuder lösningar för virtuella digitala människor, stödjer interaktiva tillämpningar, marknadsföring och utbildning inom flera scenarier.",
+    "description": "AI 艺术二维码章节标题"
+  },
+  "subtitle.suno": {
+    "message": "Stöder flera musikinriktningar, enkelt skapa den musik du vill ha och stödjer flexibla längdoptions.",
+    "description": "AI 音乐章节标题"
+  },
+  "subtitle.luma": {
+    "message": "Anslut till den senaste Luma-modellen för att enkelt generera anpassade videor och stödja flexibla videoexpansionsalternativ.",
+    "description": "AI 音乐章节标题"
+  },
+  "subtitle.headshots": {
+    "message": "Anslut till den senaste AI-modellen för att enkelt generera ID-foton med anpassade mallar och stödja flera format.",
+    "description": "AI 证件照章节标题"
+  },
+  "subtitle.comments": {
+    "message": "Vi är glada att kunna hjälpa dessa kunder, som har gett oss mycket positiva recensioner.",
+    "description": "客户评价章节标题"
+  },
+  "subtitle.introduction": {
+    "message": "Vi erbjuder en helhetslösning för AI-tjänster, inklusive fråge-svar, konstskapande, QR-kod, musik och mer för att möta dina varierande behov.",
+    "description": "站点简介"
+  },
+  "button.try": {
+    "message": "Klicka för att uppleva",
+    "description": "文字里面的内容"
+  },
+  "button.testEnv": {
+    "message": "Testmiljö",
+    "description": "测试环境按钮"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "客户的姓名"
+  },
+  "customers.job1": {
+    "message": "Mjukvaruingenjör",
+    "description": "客户的职位"
+  },
+  "customers.comment1": {
+    "message": "Denna integrerade tjänst är verkligen bekväm, jag kan använda olika AI-verktyg på en plattform, mycket bra!",
+    "description": "客户的评论"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "客户的姓名"
+  },
+  "customers.job2": {
+    "message": "Produktchef",
+    "description": "客户的职位"
+  },
+  "customers.comment2": {
+    "message": "Plattformen är mycket användarvänlig, servicekvaliteten är mycket bra och den har avsevärt ökat min produktivitet.",
+    "description": "客户的评论"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "客户的姓名"
+  },
+  "customers.job3": {
+    "message": "Designer",
+    "description": "客户的职位"
+  },
+  "customers.comment3": {
+    "message": "Det finns så många AI-plattformar, men den här är verkligen lättanvänd och prisvärd, jag hoppas att den blir ännu bättre!",
+    "description": "客户的评论"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "button.edit": {
+    "message": "メッセージを編集",
+    "description": "送信したメッセージを編集"
+  },
+  "model.35Standard": {
+    "message": "GPT 3.5 ベース",
+    "description": "サービスのモデル名で、GPT 3.5 ベース"
+  },
+  "model.35StandardDescription": {
+    "message": "日常のタスクに適しています。",
+    "description": "3.5標準モデルの説明"
+  },
+  "model.35Browsing": {
+    "message": "GPT 3.5 ブラウジング",
+    "description": "サービスのモデル名で、GPT 3.5 ブラウジング"
+  },
+  "model.35BrowsingDescription": {
+    "message": "リアルタイムで情報を検索できます。",
+    "description": "3.5ブラウジングモデルの説明"
+  },
+  "model.4Standard": {
+    "message": "GPT 4.0 標準",
+    "description": "サービスのモデル名で、GPT 4.0 標準"
+  },
+  "model.4StandardDescription": {
+    "message": "より強力なモデルで、複雑なタスクに適しています。",
+    "description": "4.0標準モデルの説明"
+  },
+  "model.4Browsing": {
+    "message": "GPT 4.0 ブラウジング",
+    "description": "サービスのモデル名で、GPT 4.0 ブラウジング"
+  },
+  "model.4BrowsingDescription": {
+    "message": "強力でリアルタイムで情報を検索できます。",
+    "description": "4.0ブラウジングモデルの説明"
+  },
+  "model.4Vision": {
+    "message": "GPT 4.0 ビジョン",
+    "description": "サービスのモデル名で、GPT 4.0 ビジョン"
+  },
+  "model.4All": {
+    "message": "GPT 4.0 オール",
+    "description": "サービスのモデル名で、GPT 4.0 オール"
+  },
+  "model.4VisionDescription": {
+    "message": "画像を分析できます。",
+    "description": "4.0ビジョンモデルの説明"
+  },
+  "model.4AllDescription": {
+    "message": "オールマイティなモデル",
+    "description": "4.0オールマイティモデルの説明"
+  },
+  "message.startNewChat": {
+    "message": "新しいチャットを開始",
+    "description": "ウェブページのメッセージで、ユーザーに新しいチャットを開始するよう伝えます"
+  },
+  "message.uploadFile": {
+    "message": "ファイルをアップロード",
+    "description": "ウェブページのメッセージで、ユーザーにファイルをアップロードするよう伝えます"
+  },
+  "message.noToken": {
+    "message": "先にサービスを申請してください",
+    "description": "ウェブページのメッセージで、ユーザーに先にサービスを申請するよう伝えます"
+  },
+  "message.newMessagePlaceholder": {
+    "message": "質問を入力してください...",
+    "description": "ウェブページのプレースホルダーで、ユーザーに質問を入力するよう伝えます"
+  },
+  "message.noInput": {
+    "message": "質問は空にできません",
+    "description": "ウェブページのメッセージで、ユーザーに質問は空にできないと伝えます"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "1つのファイルのみアップロード可能です",
+    "description": "ウェブページのメッセージで、ユーザーに最大1つのファイルのみアップロードできると伝えます"
+  },
+  "message.uploadReferencesError": {
+    "message": "ファイルのアップロードに失敗しました、後でもう一度お試しください",
+    "description": "ウェブページのメッセージで、ユーザーにファイルのアップロードに失敗したことを伝え、後でもう一度試すよう促します"
+  },
+  "message.notApplied": {
+    "message": "このサービスにはまだ申し込んでいません、先に申し込んでください",
+    "description": "ウェブページのメッセージで、ユーザーにこのサービスにはまだ申し込んでいないと伝えます"
+  },
+  "message.tryForFree": {
+    "message": "無料トライアル",
+    "description": "ウェブページのメッセージで、ユーザーに無料トライアルを提供することを伝えます"
+  },
+  "message.question1": {
+    "message": "トレーニングプランを作成",
+    "description": "対話を開始するためのサンプル質問で、ユーザーにHello Worldを出力するJavaScriptコードを書かせます"
+  },
+  "message.question2": {
+    "message": "個人のウェブページを作成",
+    "description": "対話を開始するためのサンプル質問で、ユーザーにMikeに引越しを報告するメールを書かせます"
+  },
+  "message.question3": {
+    "message": "面白いプログラミングゲームを設計",
+    "description": "対話を開始するためのサンプル質問で、ユーザーに量子計算の基本原理を簡単に説明させます"
+  },
+  "message.question4": {
+    "message": "地元の人のようにソウルを体験",
+    "description": "対話を開始するためのサンプル質問で、ユーザーに仮想現実がアート制作にどのような影響を与えているかを説明させます"
+  },
+  "message.errorApiError": {
+    "message": "回答に失敗しました、後でもう一度お試しください",
+    "description": "ウェブページのメッセージで、ユーザーに回答に失敗したことを伝え、後でもう一度試すよう促します"
+  },
+  "message.errorBadRequest": {
+    "message": "リクエスト内容が不正です、再度質問してください",
+    "description": "ウェブページのメッセージで、ユーザーにリクエスト内容が不正であることを伝え、再度質問するよう促します"
+  },
+  "message.errorNoConversation": {
+    "message": "会話は存在しないか、期限切れです、新しい会話を開始してください",
+    "description": "ウェブページのメッセージで、ユーザーに会話が存在しないか期限切れであることを伝え、新しい会話を開始するよう促します"
+  },
+  "message.errorContentTooLarge": {
+    "message": "質問の内容が長すぎます、短くして再試行してください",
+    "description": "ウェブページのメッセージで、ユーザーに質問内容が長すぎることを伝え、短くして再試行するよう促します"
+  },
+  "message.errorTooManyRequests": {
+    "message": "操作が頻繁すぎます、後でもう一度お試しください",
+    "description": "ウェブページのメッセージで、ユーザーに操作が頻繁すぎることを伝え、後でもう一度試すよう促します"
+  },
+  "message.errorUsedUp": {
+    "message": "プランの回数を使い切りました、もっと回数を購入して続けて利用してください",
+    "description": "ウェブページのメッセージで、ユーザーにプランの回数を使い切ったことを伝え、もっと回数を購入するよう促します"
+  },
+  "message.errorUnknown": {
+    "message": "サーバーで未知のエラーが発生しました。後で再試行するか、カスタマーサポートにお問い合わせください。",
+    "description": "ウェブページのメッセージ、ユーザーにサーバーで未知のエラーが発生したことを知らせ、後で再試行するかカスタマーサポートにお問い合わせするよう伝える"
+  },
+  "message.errorTimeout": {
+    "message": "質問の回答がタイムアウトしました。後で再試行してください。",
+    "description": "ウェブページのメッセージ、ユーザーに質問の回答がタイムアウトしたことを知らせ、後で再試行するよう伝える"
+  },
+  "message.errorNotApplied": {
+    "message": "まだこのサービスを申し込んでいません。先に申し込みをしてから続けて質問してください。",
+    "description": "ウェブページのメッセージ、ユーザーにまだこのサービスを申し込んでいないことを知らせ、先に申し込みをしてから続けて質問するよう伝える"
+  },
+  "message.confirmDelete": {
+    "message": "削除を確認",
+    "description": "ウェブページのメッセージ、ユーザーに削除を確認するよう伝える"
+  },
+  "message.howToUse": {
+    "message": "AIは間違える可能性があります。重要な情報を確認してください。",
+    "description": "ウェブページのメッセージ、ユーザーにAIが間違える可能性があることを知らせ、重要な情報を確認するよう伝える"
+  },
+  "title.chat": {
+    "message": "AIチャット",
+    "description": "ウェブページのタイトル、AIチャット"
+  },
+  "title.example": {
+    "message": "例",
+    "description": "ウェブページのタイトル、例"
+  },
+  "title.capabilities": {
+    "message": "機能",
+    "description": "ウェブページのタイトル、機能"
+  },
+  "title.limitations": {
+    "message": "制限",
+    "description": "ウェブページのタイトル、サービスの技術的制限についての内容を示す"
+  },
+  "title.complexQuestion": {
+    "message": "複雑な質問に回答",
+    "description": "ウェブページのタイトル、サービスの複雑な質問に対する回答能力についての内容を示す"
+  },
+  "title.professionalQuestion": {
+    "message": "専門的な質問を相談",
+    "description": "ウェブページのタイトル、サービスの専門的な質問に対する相談能力についての内容を示す"
+  },
+  "title.getTips": {
+    "message": "インスピレーションとアイデアを得る",
+    "description": "ウェブページのタイトル、サービスのインスピレーションとアイデアを得る能力についての内容を示す"
+  },
+  "group.today": {
+    "message": "今日",
+    "description": "ウェブページのグループ名、今日"
+  },
+  "group.yesterday": {
+    "message": "昨日",
+    "description": "ウェブページのグループ名、昨日"
+  },
+  "group.thisWeek": {
+    "message": "今週",
+    "description": "ウェブページのグループ名、今週"
+  },
+  "group.earlier": {
+    "message": "以前",
+    "description": "ウェブページのグループ名、以前"
+  }
+}

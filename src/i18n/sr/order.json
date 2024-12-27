@@ -1,0 +1,142 @@
+{
+  "button.pay": {
+    "message": "Plati",
+    "description": "Tekst na dugmetu za plaćanje narudžbine."
+  },
+  "button.continuePay": {
+    "message": "Nastavi plaćanje",
+    "description": "Tekst na dugmetu za nastavak plaćanja narudžbine."
+  },
+  "button.checkDetail": {
+    "message": "Pogledaj detalje",
+    "description": "Tekst na dugmetu za pregled detalja narudžbine."
+  },
+  "button.query": {
+    "message": "Pretraži",
+    "description": "Tekst na dugmetu za pretragu narudžbine."
+  },
+  "button.finish": {
+    "message": "Ručno završi",
+    "description": "Tekst na dugmetu za ručno završavanje narudžbine."
+  },
+  "button.update": {
+    "message": "Ažuriraj",
+    "description": "Tekst na dugmetu za ažuriranje narudžbine."
+  },
+  "field.id": {
+    "message": "ID narudžbine",
+    "description": "Identifikator narudžbine."
+  },
+  "field.amount": {
+    "message": "Iznos",
+    "description": "Iznos bodova za narudžbinu."
+  },
+  "field.price": {
+    "message": "Iznos",
+    "description": "Iznos bodova za narudžbinu."
+  },
+  "field.description": {
+    "message": "Opis narudžbine",
+    "description": "Opis narudžbine."
+  },
+  "field.state": {
+    "message": "Status",
+    "description": "Status narudžbine."
+  },
+  "field.createdAt": {
+    "message": "Datum kreiranja",
+    "description": "Datum kada je narudžbina kreirana."
+  },
+  "field.service": {
+    "message": "Naziv usluge",
+    "description": "Naziv usluge."
+  },
+  "field.payWay": {
+    "message": "Metoda plaćanja",
+    "description": "Metoda plaćanja za narudžbinu."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "API je vrsta online usluge."
+  },
+  "field.proxy": {
+    "message": "Proxy",
+    "description": "Proxy je vrsta online usluge koja se koristi za prenos podataka putem HTTP-a."
+  },
+  "message.paidSuccessfully": {
+    "message": "Plaćanje uspešno",
+    "description": "Poruka o uspešnom plaćanju."
+  },
+  "message.orderExpired": {
+    "message": "Narudžbina je istekao, molimo kreirajte novu narudžbinu za plaćanje.",
+    "description": "Poruka o isteku narudžbine."
+  },
+  "message.createFailed": {
+    "message": "Kreiranje nije uspelo",
+    "description": "Poruka o neuspešnom kreiranju."
+  },
+  "message.wechatPayHelp": {
+    "message": "Otvorite WeChat na telefonu i skenirajte kod za dovršetak plaćanja.",
+    "description": "Poruka o pomoći za WeChat plaćanje."
+  },
+  "message.free": {
+    "message": "Besplatno",
+    "description": "Poruka o besplatnoj narudžbini."
+  },
+  "message.buyInExternalUrl": {
+    "message": "Molimo dovršite plaćanje na spoljašnjem linku.",
+    "description": "Poruka o plaćanju putem spoljašnjeg linka."
+  },
+  "message.updateFailed": {
+    "message": "Ažuriranje nije uspelo",
+    "description": "Poruka o neuspešnom ažuriranju."
+  },
+  "message.updateSuccessfully": {
+    "message": "Ažuriranje uspešno",
+    "description": "Poruka o uspešnom ažuriranju."
+  },
+  "message.confirmFinish": {
+    "message": "Ova radnja će ručno postaviti narudžbinu u status plaćanja i završiti je, nije moguće opozvati. Molimo potvrdite da je kupac završio plaćanje, da li želite nastaviti?",
+    "description": "Poruka za potvrdu završetka."
+  },
+  "state.pending": {
+    "message": "Čeka na plaćanje",
+    "description": "Status narudžbine koji znači da narudžbina čeka na korisničko plaćanje."
+  },
+  "state.paid": {
+    "message": "Plaćeno",
+    "description": "Status narudžbine koji označava da je narudžbina plaćena."
+  },
+  "state.finished": {
+    "message": "Završeno",
+    "description": "Status narudžbine koji označava da je narudžbina završena."
+  },
+  "state.expired": {
+    "message": "Plaćanje je isteklo",
+    "description": "Status narudžbine koji označava da je narudžbina istekla."
+  },
+  "state.failed": {
+    "message": "Plaćanje nije uspelo",
+    "description": "Status narudžbine koji označava da je plaćanje neuspešno."
+  },
+  "title.info": {
+    "message": "Informacije o narudžbini",
+    "description": "Naslov koji se koristi kao naslov stranice, označava informacije o narudžbini."
+  },
+  "title.wechatPay": {
+    "message": "WeChat Plaćanje",
+    "description": "Naslov koji se koristi kao naslov stranice, označava WeChat plaćanje."
+  },
+  "title.aliPay": {
+    "message": "Alipay",
+    "description": "Naslov koji se koristi kao naslov stranice, označava Alipay plaćanje, Alipay plaćanje je vrsta online plaćanja."
+  },
+  "title.stripe": {
+    "message": "Stripe",
+    "description": "Naslov koji se koristi kao naslov stranice, označava Stripe plaćanje, Stripe plaćanje je vrsta online plaćanja."
+  },
+  "title.manageOrder": {
+    "message": "Upravljanje narudžbinama",
+    "description": "Naslov koji se koristi kao naslov stranice, označava upravljanje narudžbinama."
+  }
+}

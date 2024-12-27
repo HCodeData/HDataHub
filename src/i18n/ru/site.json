@@ -1,0 +1,290 @@
+{
+  "field.title": {
+    "message": "Название сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "field.origin": {
+    "message": "Домен сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "field.description": {
+    "message": "Описание сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "field.keywords": {
+    "message": "Ключевые слова сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "field.logo": {
+    "message": "Логотип сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "field.favicon": {
+    "message": "Favicon сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "field.qr": {
+    "message": "QR-код",
+    "description": "展示在编辑框的标题"
+  },
+  "field.url": {
+    "message": "Ссылка",
+    "description": "展示在编辑框的标题"
+  },
+  "field.admins": {
+    "message": "ID администраторов сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "ID дефолтного приглашателя",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionForceInviterId": {
+    "message": "ID обязательного приглашателя",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChat": {
+    "message": "Чат",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresHeadshots": {
+    "message": "AI фотография",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSupport": {
+    "message": "Поддержка клиентов",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresI18n": {
+    "message": "Поддержка нескольких языков",
+    "description": "展示在编辑框的标题"
+  },
+  "title.basicConfig": {
+    "message": "Основная конфигурация",
+    "description": "展示在编辑框的标题"
+  },
+  "title.seoConfig": {
+    "message": "Конфигурация SEO",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editAdmins": {
+    "message": "Редактирование администраторов",
+    "description": "展示在编辑框的标题"
+  },
+  "title.featuresConfig": {
+    "message": "Конфигурация функций",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editTitle": {
+    "message": "Редактирование названия",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editOrigin": {
+    "message": "Редактирование домена",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editKeywords": {
+    "message": "Редактирование ключевых слов",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editLogo": {
+    "message": "Редактирование логотипа",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editFavicon": {
+    "message": "Редактирование Favicon",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDescription": {
+    "message": "Редактирование описания",
+    "description": "展示在编辑框的标题"
+  },
+  "title.distributionConfig": {
+    "message": "Конфигурация распределения",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Редактирование дефолтного приглашателя",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Редактирование обязательного приглашателя",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editQR": {
+    "message": "Редактирование QR-кода",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editUrl": {
+    "message": "Редактирование ссылки",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.title": {
+    "message": "Введите название сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.origin": {
+    "message": "Введите домен сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editUrl": {
+    "message": "Введите ссылку",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.description": {
+    "message": "Введите описание сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.keywords": {
+    "message": "Введите ключевые слова сайта",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Введите ID дефолтного приглашателя",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Введите ID обязательного приглашателя",
+    "description": "展示在编辑框的标题"
+  },
+  "message.uploadImageExceed": {
+    "message": "Загрузка изображения превышает лимит",
+    "description": "上传图片超过限制的提示"
+  },
+  "message.uploadImageError": {
+    "message": "Ошибка при загрузке изображения",
+    "description": "上传图片错误的提示"
+  },
+  "message.editLogoTip": {
+    "message": "Рекомендуемые размеры: 200*60px",
+    "description": "上传图片的提示语言"
+  },
+  "message.editQRTip": {
+    "message": "Рекомендуемые размеры: 200*200px",
+    "description": "上传图片的提示语言"
+  },
+  "message.editFaviconTip": {
+    "message": "Рекомендуемый размер: 32*32px",
+    "description": "Язык подсказки для загрузки изображения"
+  },
+  "message.editUrl": {
+    "message": "Пожалуйста, введите ссылку",
+    "description": "Подсказка для ввода ссылки"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Оставьте хотя бы одного администратора",
+    "description": "Подсказка о необходимости оставить хотя бы одного администратора"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "Идентификатор пользователя по умолчанию для пригласившего, если в ссылке на распределение нет параметра inviter_id, используется этот идентификатор.",
+    "description": "Подсказка для идентификатора пригласившего по умолчанию"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "Принудительный идентификатор пригласившего, если установлен этот идентификатор, он будет использоваться независимо от наличия параметра inviter_id в ссылке на распределение.",
+    "description": "Подсказка для принудительного идентификатора пригласившего"
+  },
+  "message.originTip": {
+    "message": "Домен сайта, конфигурация сайта связана с доменным именем, домен сайта не может быть изменен.",
+    "description": "Подсказка для домена сайта"
+  },
+  "message.titleTip": {
+    "message": "Название сайта, отображается на вкладке браузера.",
+    "description": "Подсказка для названия сайта"
+  },
+  "message.descriptionTip": {
+    "message": "Описание сайта, находится в метаинформации сайта, используется для SEO-оптимизации.",
+    "description": "Подсказка для описания сайта"
+  },
+  "message.logoTip": {
+    "message": "Логотип сайта, отображается в верхней части меню сайта при раскрытии меню.",
+    "description": "Подсказка для логотипа сайта"
+  },
+  "message.faviconTip": {
+    "message": "Favicon сайта, отображается на вкладке браузера.",
+    "description": "Подсказка для favicon сайта"
+  },
+  "message.adminsTip": {
+    "message": "Идентификаторы администраторов сайта, по умолчанию первый созданный сайт пользователь будет администратором, только администраторы сайта могут управлять сайтом.",
+    "description": "Подсказка для администраторов сайта"
+  },
+  "message.adminsTip2": {
+    "message": "Можно добавлять и удалять идентификаторы администраторов здесь, идентификаторы пользователей можно просмотреть на https://auth.acedata.cloud",
+    "description": "Подсказка для администраторов сайта"
+  },
+  "message.keywordsTip": {
+    "message": "Ключевые слова сайта, находятся в метаинформации сайта, используются для SEO-оптимизации.",
+    "description": "Подсказка для ключевых слов сайта"
+  },
+  "message.keywordsTip2": {
+    "message": "Можно добавлять и удалять ключевые слова сайта здесь, чем более точными будут ключевые слова, тем лучше для SEO.",
+    "description": "Подсказка для ключевых слов сайта"
+  },
+  "message.featuresChat": {
+    "message": "Включить или отключить модуль Chat.",
+    "description": "Описание функции Chat"
+  },
+  "message.featuresMidjourney": {
+    "message": "Включить или отключить модуль Midjourney.",
+    "description": "Описание функции Midjourney"
+  },
+  "message.featuresChatdoc": {
+    "message": "Включить или отключить модуль Chatdoc.",
+    "description": "Описание функции Chatdoc"
+  },
+  "message.featuresQrart": {
+    "message": "Включить или отключить модуль Qrart.",
+    "description": "Описание функции Qrart"
+  },
+  "message.featuresSuno": {
+    "message": "Включить или отключить модуль Suno.",
+    "description": "Описание функции Suno"
+  },
+  "message.featuresLuma": {
+    "message": "Включить или отключить модуль Luma.",
+    "description": "Описание функции Luma"
+  },
+  "message.featuresHeadshots": {
+    "message": "Включить или отключить модуль AI-документального фото.",
+    "description": "Описание функции AI-документального фото"
+  },
+  "message.featuresSupport": {
+    "message": "Включить или отключить поддержку клиента",
+    "description": "Описание функции поддержки"
+  },
+  "message.featuresI18n": {
+    "message": "Включить или отключить многозначную поддержку, при отключении пользователи смогут использовать только язык по умолчанию.",
+    "description": "Описание поддержки многоязычия"
+  },
+  "button.upload": {
+    "message": "Загрузить",
+    "description": "Загрузить"
+  },
+  "button.enabled": {
+    "message": "Включено",
+    "description": "Текст переключателя, указывающий, что включено"
+  },
+  "button.disabled": {
+    "message": "Отключено",
+    "description": "Текст переключателя, указывающий, что отключено"
+  }
+}

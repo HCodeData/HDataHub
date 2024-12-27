@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "خدمة AI مخصصة",
+    "description": "عنوان قسم الأسئلة والأجوبة عن AI"
+  },
+  "subtitle.ai_custom": {
+    "message": "تقديم خدمة AI مخصصة، تدعم توسيع الوظائف والتخصيص العميق، لتلبية احتياجاتك الشخصية، والمساعدة في تنفيذ المشروع بكفاءة.",
+    "description": "خدمة AI مخصصة"
+  },
+  "title.chat": {
+    "message": "نص AI الشائع",
+    "description": "عنوان قسم الأسئلة والأجوبة عن AI"
+  },
+  "title.midjourney": {
+    "message": "تحويل النص إلى صورة",
+    "description": "عنوان قسم الرسم بواسطة AI"
+  },
+  "title.qrart": {
+    "message": "رمز QR فن AI",
+    "description": "عنوان قسم رمز QR فن AI"
+  },
+  "title.digital_man": {
+    "message": "شخصية رقمية AI",
+    "description": "عنوان قسم رمز QR فن AI"
+  },
+  "title.sound_cloning": {
+    "message": "نسخ صوت AI",
+    "description": "عنوان قسم رمز QR فن AI"
+  },
+  "title.suno": {
+    "message": "إنشاء موسيقى AI",
+    "description": "عنوان قسم الموسيقى AI"
+  },
+  "title.luma": {
+    "message": "فيديو AI",
+    "description": "عنوان قسم الفيديو AI"
+  },
+  "title.headshots": {
+    "message": "صورة شخصية AI",
+    "description": "عنوان قسم الصورة الشخصية AI"
+  },
+  "title.comments": {
+    "message": "-- تقييمات المستخدمين --",
+    "description": "عنوان قسم تقييمات العملاء"
+  },
+  "title.introduction": {
+    "message": "-- مساعد AI فائق --",
+    "description": "مقدمة الموقع"
+  },
+  "subtitle.banner": {
+    "message": "مساعد AI الفائق لشركة HarBO AI",
+    "description": "العنوان الفرعي للموقع"
+  },
+  "subtitle.chat": {
+    "message": "يدعم نماذج متعددة للإجابة، ويتميز بميزة الاتصال، ويستطيع التعرف على الصور والملفات ومقاطع الفيديو والعديد من المحتويات الأخرى.",
+    "description": "عنوان قسم الأسئلة والأجوبة عن AI"
+  },
+  "subtitle.midjourney": {
+    "message": "يدمج مع أحدث نموذج Midjourney، لإنشاء صور بأنماط مختلفة بضغطة زر، وضبط دقيق مستمر.",
+    "description": "عنوان قسم الرسم بواسطة AI"
+  },
+  "subtitle.qrart": {
+    "message": "يدعم أنماط متعددة من رموز QR الفنية، ويسمح بتحميل رموز QR الحالية، مما يسهل تحويلها إلى أعمال فنية، لإنشاء تأثير بصري فريد.",
+    "description": "عنوان قسم رمز QR فن AI"
+  },
+  "subtitle.digital_man": {
+    "message": "يوفر حلول شخصية رقمية افتراضية، تدعم التفاعل الفوري، والترويج، والتدريب، والشرح في سيناريوهات متعددة.",
+    "description": "عنوان قسم رمز QR فن AI"
+  },
+  "subtitle.suno": {
+    "message": "يدعم أنماط متعددة من الموسيقى، ويسهل عليك إنشاء الموسيقى التي تريدها، ويدعم خيارات التمديد المرنة للطول.",
+    "description": "عنوان قسم الموسيقى AI"
+  },
+  "subtitle.luma": {
+    "message": "يدمج مع أحدث نموذج Luma، لإنشاء فيديوهات مخصصة بضغطة زر، ويدعم خيارات التمديد المرنة للفيديو.",
+    "description": "عنوان قسم الموسيقى AI"
+  },
+  "subtitle.headshots": {
+    "message": "يدمج مع أحدث نماذج AI، لإنشاء صور شخصية مخصصة مع قوالب متنوعة، ويدعم عدة أنماط من الصور الشخصية.",
+    "description": "عنوان قسم الصورة الشخصية AI"
+  },
+  "subtitle.comments": {
+    "message": "نحن سعداء بمساعدتنا لهؤلاء العملاء، الذين أعطونا تقييمات عالية لخدماتنا.",
+    "description": "عنوان قسم تقييمات العملاء"
+  },
+  "subtitle.introduction": {
+    "message": "نحن نقدم خدمات AI متكاملة، تشمل الإجابة، والرسم، ورموز QR، والموسيقى، وغيرها الكثير، لتلبية احتياجاتك المتنوعة.",
+    "description": "مقدمة الموقع"
+  },
+  "button.try": {
+    "message": "انقر لتجربة",
+    "description": "المحتوى داخل النص"
+  },
+  "button.testEnv": {
+    "message": "بيئة الاختبار",
+    "description": "زر بيئة الاختبار"
+  },
+  "customers.name1": {
+    "message": "فرانك",
+    "description": "اسم العميل"
+  },
+  "customers.job1": {
+    "message": "مهندس برمجيات",
+    "description": "وظيفة العميل"
+  },
+  "customers.comment1": {
+    "message": "هذه الخدمة المدمجة مريحة للغاية، يمكنني استخدام مجموعة متنوعة من أدوات AI على منصة واحدة، ممتازة!",
+    "description": "تعليق العميل"
+  },
+  "customers.name2": {
+    "message": "جاكوب",
+    "description": "اسم العميل"
+  },
+  "customers.job2": {
+    "message": "مدير المنتج",
+    "description": "وظيفة العميل"
+  },
+  "customers.comment2": {
+    "message": "المنصة سهلة الاستخدام، وجودة الخدمة ممتازة، وقد حررت بشكل كبير إنتاجيتي.",
+    "description": "تعليق العميل"
+  },
+  "customers.name3": {
+    "message": "لاري",
+    "description": "اسم العميل"
+  },
+  "customers.job3": {
+    "message": "مصمم",
+    "description": "وظيفة العميل"
+  },
+  "customers.comment3": {
+    "message": "هناك العديد من منصات AI، لكن هذه سهلة الاستخدام حقًا، وسعرها معقول، آمل أن تتحسن أكثر!",
+    "description": "تعليق العميل"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "type.period": {
+    "message": "Jakso",
+    "description": "Palvelun jakso."
+  },
+  "type.usage": {
+    "message": "Määrä",
+    "description": "Palvelun määrä."
+  },
+  "field.expiredAt": {
+    "message": "Voimassaolopäivämäärä",
+    "description": "Hakemuksen voimassaolopäivämäärä."
+  },
+  "button.goDocument": {
+    "message": "Asiakirja",
+    "description": "Painikkeen teksti, napsauttamalla tätä painiketta siirrytään asiakirjasivulle."
+  },
+  "button.goCredentials": {
+    "message": "Todistukset",
+    "description": "Painikkeen teksti, napsauttamalla tätä painiketta siirrytään todistus-sivulle."
+  },
+  "button.buyMore": {
+    "message": "Osta lisää",
+    "description": "Painikkeen teksti, napsauttamalla tätä painiketta siirrytään osta lisää -sivulle."
+  },
+  "button.createOrder": {
+    "message": "Luo tilaus",
+    "description": "Painikkeen teksti, napsauttamalla tätä painiketta siirrytään tilauksen luomisen sivulle."
+  },
+  "button.custom": {
+    "message": "Mukautettu",
+    "description": "Painikkeen teksti, napsauttamalla tätä painiketta siirrytään mukautetulle sivulle."
+  },
+  "button.query": {
+    "message": "Kysely",
+    "description": "Painikkeen teksti, napsauttamalla tätä painiketta siirrytään kyselysivulle."
+  },
+  "button.usage": {
+    "message": "Käyttöhistoria",
+    "description": "Painikkeen teksti, napsauttamalla tätä painiketta siirrytään käyttöhistoria-sivulle."
+  },
+  "field.application": {
+    "message": "Hakemus",
+    "description": "Palvelun hakemus."
+  },
+  "field.status": {
+    "message": "Tila",
+    "description": "Hakemuksen tila."
+  },
+  "field.id": {
+    "message": "Hakemus ID",
+    "description": "Hakemuksen ID."
+  },
+  "field.remainingAmount": {
+    "message": "Jäljellä oleva määrä",
+    "description": "Hakemuksen jäljellä oleva määrä."
+  },
+  "field.usedAmount": {
+    "message": "Käytetty määrä",
+    "description": "Hakemuksen käytetty määrä."
+  },
+  "field.apiKey": {
+    "message": "API-avain",
+    "description": "API-avain."
+  },
+  "field.service": {
+    "message": "Palvelu",
+    "description": "Hakemuksen palvelu."
+  },
+  "field.operation": {
+    "message": "Toiminto",
+    "description": "Hakemuksen toiminto."
+  },
+  "field.amount": {
+    "message": "Määrä",
+    "description": "Hakemuksen määrä."
+  },
+  "field.traceId": {
+    "message": "Seurantatunnus",
+    "description": "API-palvelun hakemuksen API-kutsun seurantatunnus, älä käännä, pidä se 'Seurantatunnus'."
+  },
+  "field.shouldPayPrice": {
+    "message": "Loppuhinta",
+    "description": "Hakemuksen loppuhinta."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "Tämä on verkkopalvelu, joka tarjoaa palveluja käyttäjille API:n kautta."
+  },
+  "field.proxy": {
+    "message": "Välimies",
+    "description": "Tämä on verkkopalvelu, joka tarjoaa palveluja käyttäjille HTTP-välimiehen (tiedonsiirtoon) kautta."
+  },
+  "field.credential": {
+    "message": "Todistus",
+    "description": "Hakemuksen todistus."
+  },
+  "field.name": {
+    "message": "Nimi",
+    "description": "Hakemuksen nimi."
+  },
+  "field.package": {
+    "message": "Paketti",
+    "description": "Paketti tarkoittaa erilaisia hinnastoja, esimerkiksi 100 dollaria saa 10 000 pistettä, 200 dollaria saa 20 000 pistettä."
+  },
+  "field.type": {
+    "message": "Tyyppi",
+    "description": "Hakemuksen tyyppi."
+  },
+  "field.freeAmount": {
+    "message": "Ilmainen määrä",
+    "description": "Hakemuksen ilmainen määrä."
+  },
+  "field.extraPrice": {
+    "message": "Hinta",
+    "description": "Käyttäjän hakemuksen lisähinta."
+  },
+  "message.alreadyApplied": {
+    "message": "Olet jo hakenut tätä palvelua, tarkista ohjauspaneeli",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän on jo hakenut tätä palvelua."
+  },
+  "message.applySuccessfully": {
+    "message": "Hakemus onnistui",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hänen hakemuksensa palvelua onnistui."
+  },
+  "message.notApplied": {
+    "message": "Et ole vielä hakenut tätä palvelua, hae palvelua ennen käyttöä",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän ei ole vielä hakenut tätä palvelua."
+  },
+  "message.yourApplication": {
+    "message": "Hakemuksesi",
+    "description": "Viesti, joka näytetään käyttäjälle hänen hakemuksensa jälkeen."
+  },
+  "message.unverified": {
+    "message": "Sinun on suoritettava henkilöllisyysverifiointi ennen tämän palvelun hakemista",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän ei ole vielä suorittanut henkilöllisyysverifiointia."
+  },
+  "message.goVerify": {
+    "message": "Siirry henkilöllisyysverifiointaan",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän ei ole vielä suorittanut henkilöllisyysverifiointia."
+  },
+  "message.requiredParameter": {
+    "message": "Pakollinen parametri",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän ei ole vielä syöttänyt pakollista parametria."
+  },
+  "message.example": {
+    "message": "Esimerkki",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän ei ole vielä syöttänyt pakollista parametria."
+  },
+  "message.createCredentialSuccessfully": {
+    "message": "Todistus luotiin onnistuneesti",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän on onnistuneesti luonut todistuksen."
+  },
+  "message.readPolicy": {
+    "message": "Olen lukenut ja hyväksyn",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän on lukenut ja hyväksynyt käytännön."
+  },
+  "message.policy": {
+    "message": "Tieto- ja teknologiapalveluiden käyttöehto",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän on lukenut ja hyväksynyt käytännön."
+  },
+  "message.notAgreePolicy": {
+    "message": "Et ole vielä hyväksynyt tieto- ja teknologiapalveluiden käyttöehtoja",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän ei ole vielä hyväksynyt käytännön."
+  },
+  "message.confirmApplying": {
+    "message": "Vahvista palvelun hakemus",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hän vahvistaa palvelun hakemuksen."
+  },
+  "message.rotateCredential": {
+    "message": "Nollaa avain",
+    "description": "Viesti, joka näytetään käyttäjälle, kun käyttäjä nollaa avaimen."
+  },
+  "message.rotateCredentialConfirm": {
+    "message": "Oletko varma, että haluat nollata avaimen? Nollaamisen jälkeen sitä ei voi palauttaa.",
+    "description": "Viesti, joka näytetään käyttäjälle, kun käyttäjä vahvistaa avaimen nollaamisen."
+  },
+  "message.idDoesNotExist": {
+    "message": "Hakemus ei olemassa",
+    "description": "Viesti, joka näytetään käyttäjälle, kun hakemusta ei ole olemassa."
+  },
+  "message.rotateCredentialSuccessfully": {
+    "message": "Avaimen nollaus onnistui",
+    "description": "Viesti, joka näytetään käyttäjälle, kun avaimen nollaus onnistuu."
+  },
+  "message.rotateCredentialFailed": {
+    "message": "Avaimen nollaus epäonnistui, ota yhteyttä tukeen",
+    "description": "Viesti, joka näytetään käyttäjälle, kun avaimen nollaus epäonnistuu."
+  },
+  "message.updateFailed": {
+    "message": "Päivitys epäonnistui",
+    "description": "Viesti, joka näytetään käyttäjälle, kun päivitys epäonnistuu."
+  },
+  "message.updateSuccessfully": {
+    "message": "Päivitys onnistui",
+    "description": "Viesti, joka näytetään käyttäjälle, kun päivitys onnistuu."
+  },
+  "title.buyService": {
+    "message": "Osta palvelu",
+    "description": "Sivun otsikko, kun käyttäjä haluaa ostaa palvelun."
+  },
+  "title.applicationRemainingCount": {
+    "message": "Muutosmäärä",
+    "description": "Sivun otsikko, kun käyttäjä haluaa muuttaa hakemuksen määrää."
+  },
+  "title.manageApplication": {
+    "message": "Hakemusten hallinta",
+    "description": "Sivun otsikko, kun käyttäjä haluaa hallita hakemuksia."
+  }
+}

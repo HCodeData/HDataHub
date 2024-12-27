@@ -1,0 +1,210 @@
+{
+  "type.period": {
+    "message": "مدة",
+    "description": "خدمة المدة."
+  },
+  "type.usage": {
+    "message": "الحد",
+    "description": "حد الخدمة."
+  },
+  "field.expiredAt": {
+    "message": "وقت انتهاء الصلاحية",
+    "description": "وقت انتهاء الصلاحية للطلب."
+  },
+  "button.goDocument": {
+    "message": "الوثائق",
+    "description": "نص الزر، بالنقر على هذا الزر سيتم الانتقال إلى صفحة الوثائق."
+  },
+  "button.goCredentials": {
+    "message": "الاعتمادات",
+    "description": "نص الزر، بالنقر على هذا الزر سيتم الانتقال إلى صفحة الاعتمادات."
+  },
+  "button.buyMore": {
+    "message": "شراء المزيد",
+    "description": "نص الزر، بالنقر على هذا الزر سيتم الانتقال إلى صفحة شراء المزيد."
+  },
+  "button.createOrder": {
+    "message": "إنشاء طلب",
+    "description": "نص الزر، بالنقر على هذا الزر سيتم الانتقال إلى صفحة إنشاء الطلب."
+  },
+  "button.custom": {
+    "message": "تخصيص",
+    "description": "نص الزر، بالنقر على هذا الزر سيتم الانتقال إلى صفحة التخصيص."
+  },
+  "button.query": {
+    "message": "استعلام",
+    "description": "نص الزر، بالنقر على هذا الزر سيتم الانتقال إلى صفحة الاستعلام."
+  },
+  "button.usage": {
+    "message": "سجل الاستخدام",
+    "description": "نص الزر، بالنقر على هذا الزر سيتم الانتقال إلى صفحة سجل الاستخدام."
+  },
+  "field.application": {
+    "message": "الطلب",
+    "description": "طلب الخدمة."
+  },
+  "field.status": {
+    "message": "الحالة",
+    "description": "حالة الطلب."
+  },
+  "field.id": {
+    "message": "معرف الطلب",
+    "description": "معرف الطلب."
+  },
+  "field.remainingAmount": {
+    "message": "الكمية المتبقية",
+    "description": "الكمية المتبقية للطلب."
+  },
+  "field.usedAmount": {
+    "message": "الكمية المستخدمة",
+    "description": "الكمية المستخدمة في الطلب."
+  },
+  "field.apiKey": {
+    "message": "مفتاح API",
+    "description": "مفتاح API."
+  },
+  "field.service": {
+    "message": "الخدمة",
+    "description": "الخدمة المطلوبة."
+  },
+  "field.operation": {
+    "message": "العملية",
+    "description": "العملية المطلوبة."
+  },
+  "field.amount": {
+    "message": "كمية",
+    "description": "الكمية المطلوبة."
+  },
+  "field.traceId": {
+    "message": "معرف التتبع",
+    "description": "معرف التتبع لطلب API معين، لا تترجم، ابقِ كما هو 'معرف التتبع'."
+  },
+  "field.shouldPayPrice": {
+    "message": "السعر النهائي",
+    "description": "السعر النهائي للطلب."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "هذه خدمة عبر الإنترنت تُقدم بشكل API."
+  },
+  "field.proxy": {
+    "message": "وكيل",
+    "description": "هذه خدمة عبر الإنترنت تُقدم بشكل وكيل HTTP (لنقل البيانات)."
+  },
+  "field.credential": {
+    "message": "الاعتماد",
+    "description": "الاعتماد المطلوب."
+  },
+  "field.name": {
+    "message": "الاسم",
+    "description": "اسم الطلب."
+  },
+  "field.package": {
+    "message": "الباقة",
+    "description": "تشير الباقة إلى حزم أسعار مختلفة مثل 100 دولار مقابل 10000 نقطة، و200 دولار مقابل 20000 نقطة."
+  },
+  "field.type": {
+    "message": "النوع",
+    "description": "نوع الطلب."
+  },
+  "field.freeAmount": {
+    "message": "الكمية المجانية",
+    "description": "الكمية المجانية للطلب."
+  },
+  "field.extraPrice": {
+    "message": "السعر",
+    "description": "السعر الإضافي الذي يجب على المستخدم دفعه للطلب."
+  },
+  "message.alreadyApplied": {
+    "message": "لقد قدمت طلباً لهذه الخدمة، يرجى مراجعة لوحة التحكم.",
+    "description": "الرسالة التي تظهر للمستخدم عند تقديمه طلباً لهذه الخدمة بالفعل."
+  },
+  "message.applySuccessfully": {
+    "message": "تم تقديم الطلب بنجاح",
+    "description": "الرسالة التي تظهر للمستخدم عند تقديم طلبه بنجاح."
+  },
+  "message.notApplied": {
+    "message": "لم تقدم طلباً لهذه الخدمة بعد، يرجى تقديم الطلب قبل الاستخدام.",
+    "description": "الرسالة التي تظهر للمستخدم عند عدم تقديمه طلباً لهذه الخدمة بعد."
+  },
+  "message.yourApplication": {
+    "message": "طلبك",
+    "description": "الرسالة التي تظهر للمستخدم عند عرض طلبه."
+  },
+  "message.unverified": {
+    "message": "يجب عليك إكمال التحقق من الهوية قبل تقديم الطلب لهذه الخدمة.",
+    "description": "الرسالة التي تظهر للمستخدم عندما لم يكمل التحقق من الهوية بعد."
+  },
+  "message.goVerify": {
+    "message": "اذهب لإثبات الهوية",
+    "description": "الرسالة التي تظهر للمستخدم عندما لم يكمل التحقق من الهوية بعد."
+  },
+  "message.requiredParameter": {
+    "message": "معلمة مطلوبة",
+    "description": "الرسالة التي تظهر للمستخدم عندما لم يقم بإدخال معلمة مطلوبة."
+  },
+  "message.example": {
+    "message": "مثال",
+    "description": "الرسالة التي تظهر للمستخدم عند تقديم مثال."
+  },
+  "message.createCredentialSuccessfully": {
+    "message": "تم إنشاء الاعتماد بنجاح",
+    "description": "الرسالة التي تظهر للمستخدم عند إنشاء الاعتماد بنجاح."
+  },
+  "message.readPolicy": {
+    "message": "لقد قرأت ووافقت",
+    "description": "الرسالة التي تظهر للمستخدم عندما يقرأ ويوافق على السياسة."
+  },
+  "message.policy": {
+    "message": "اتفاقية استخدام خدمات التقنية البيانية",
+    "description": "الرسالة التي تظهر للمستخدم عندما يقرأ ويوافق على السياسة."
+  },
+  "message.notAgreePolicy": {
+    "message": "لم توافق على اتفاقية استخدام خدمات التقنية البيانية بعد.",
+    "description": "الرسالة التي تظهر للمستخدم عندما لم يوافق على السياسة بعد."
+  },
+  "message.confirmApplying": {
+    "message": "تأكيد تقديم الطلب للخدمة",
+    "description": "الرسالة التي تظهر للمستخدم عند تأكيده تقديم الطلب للخدمة."
+  },
+  "message.rotateCredential": {
+    "message": "إعادة تعيين المفتاح",
+    "description": "الرسالة التي تظهر للمستخدم عند إعادة تعيين المفتاح."
+  },
+  "message.rotateCredentialConfirm": {
+    "message": "هل أنت متأكد أنك تريد إعادة تعيين المفتاح؟ لن يمكن استعادته بعد إعادة التعيين",
+    "description": "الرسالة التي تظهر للمستخدم عند تأكيد إعادة تعيين المفتاح."
+  },
+  "message.idDoesNotExist": {
+    "message": "الطلب غير موجود",
+    "description": "الرسالة التي تظهر للمستخدم عندما لا يوجد طلب."
+  },
+  "message.rotateCredentialSuccessfully": {
+    "message": "تم إعادة تعيين المفتاح بنجاح",
+    "description": "الرسالة التي تظهر للمستخدم عند نجاح إعادة تعيين المفتاح."
+  },
+  "message.rotateCredentialFailed": {
+    "message": "فشلت إعادة تعيين المفتاح، يرجى الاتصال بالدعم",
+    "description": "الرسالة التي تظهر للمستخدم عندما تفشل إعادة تعيين المفتاح."
+  },
+  "message.updateFailed": {
+    "message": "فشلت التحديثات",
+    "description": "الرسالة التي تظهر للمستخدم عندما تفشل التحديثات."
+  },
+  "message.updateSuccessfully": {
+    "message": "تم التحديث بنجاح",
+    "description": "الرسالة التي تظهر للمستخدم عند نجاح التحديث."
+  },
+  "title.buyService": {
+    "message": "شراء الخدمة",
+    "description": "عنوان الصفحة عندما يرغب المستخدم في شراء خدمة."
+  },
+  "title.applicationRemainingCount": {
+    "message": "عدد التعديلات",
+    "description": "عنوان الصفحة عندما يرغب المستخدم في تعديل عدد الطلبات."
+  },
+  "title.manageApplication": {
+    "message": "إدارة الطلبات",
+    "description": "عنوان الصفحة عندما يرغب المستخدم في إدارة الطلبات."
+  }
+}

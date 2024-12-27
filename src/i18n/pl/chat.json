@@ -1,0 +1,194 @@
+{
+  "button.edit": {
+    "message": "Edytuj wiadomość",
+    "description": "Edytuj wysłaną wiadomość"
+  },
+  "model.35Standard": {
+    "message": "GPT 3.5 Standard",
+    "description": "Nazwa modelu usługi, czyli GPT 3.5 Standard"
+  },
+  "model.35StandardDescription": {
+    "message": "Do codziennych zadań.",
+    "description": "Opis modelu 3.5 Standard"
+  },
+  "model.35Browsing": {
+    "message": "GPT 3.5 Przeglądanie",
+    "description": "Nazwa modelu usługi, czyli GPT 3.5 Przeglądanie"
+  },
+  "model.35BrowsingDescription": {
+    "message": "Można wyszukiwać informacje w czasie rzeczywistym.",
+    "description": "Opis modelu 3.5 Przeglądanie"
+  },
+  "model.4Standard": {
+    "message": "GPT 4.0 Standard",
+    "description": "Nazwa modelu usługi, czyli GPT 4.0 Standard"
+  },
+  "model.4StandardDescription": {
+    "message": "Potężniejszy model, odpowiedni do złożonych zadań.",
+    "description": "Opis modelu 4.0 Standard"
+  },
+  "model.4Browsing": {
+    "message": "GPT 4.0 Przeglądanie",
+    "description": "Nazwa modelu usługi, czyli GPT 4.0 Przeglądanie"
+  },
+  "model.4BrowsingDescription": {
+    "message": "Potężny i umożliwia wyszukiwanie informacji w czasie rzeczywistym.",
+    "description": "Opis modelu 4.0 Przeglądanie"
+  },
+  "model.4Vision": {
+    "message": "GPT 4.0 Wizja",
+    "description": "Nazwa modelu usługi, czyli GPT 4.0 Wizja"
+  },
+  "model.4All": {
+    "message": "GPT 4.0 All",
+    "description": "Nazwa modelu usługi, czyli GPT 4.0 All"
+  },
+  "model.4VisionDescription": {
+    "message": "Można analizować obrazy.",
+    "description": "Opis modelu 4.0 Wizja"
+  },
+  "model.4AllDescription": {
+    "message": "Uniwersalny model",
+    "description": "Opis modelu 4.0 All"
+  },
+  "message.startNewChat": {
+    "message": "Rozpocznij nową rozmowę",
+    "description": "Wiadomość na stronie, informująca użytkownika o rozpoczęciu nowej rozmowy"
+  },
+  "message.uploadFile": {
+    "message": "Prześlij plik",
+    "description": "Wiadomość na stronie, informująca użytkownika o przesłaniu pliku"
+  },
+  "message.noToken": {
+    "message": "Proszę najpierw zgłosić się o odpowiednią usługę",
+    "description": "Wiadomość na stronie, informująca użytkownika o zgłoszeniu się o odpowiednią usługę"
+  },
+  "message.newMessagePlaceholder": {
+    "message": "Wprowadź swoje pytanie...",
+    "description": "Placeholder na stronie, informujący użytkownika o wprowadzeniu pytania"
+  },
+  "message.noInput": {
+    "message": "Pytanie nie może być puste",
+    "description": "Wiadomość na stronie, informująca użytkownika, że pytanie nie może być puste"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Można przesłać maksymalnie 1 plik",
+    "description": "Wiadomość na stronie, informująca użytkownika, że można przesłać maksymalnie 1 plik"
+  },
+  "message.uploadReferencesError": {
+    "message": "Przesyłanie pliku nie powiodło się, spróbuj ponownie później",
+    "description": "Wiadomość na stronie, informująca użytkownika o niepowodzeniu w przesyłaniu pliku, spróbuj ponownie później"
+  },
+  "message.notApplied": {
+    "message": "Nie złożyłeś wniosku o tę usługę, proszę najpierw złożyć wniosek",
+    "description": "Wiadomość na stronie, informująca użytkownika, że nie złożył wniosku o tę usługę, proszę najpierw złożyć wniosek"
+  },
+  "message.tryForFree": {
+    "message": "Wypróbuj za darmo",
+    "description": "Wiadomość na stronie, informująca użytkownika o możliwości wypróbowania za darmo"
+  },
+  "message.question1": {
+    "message": "Stwórz plan treningowy",
+    "description": "Przykładowe pytanie do rozpoczęcia rozmowy, proszące użytkownika o napisanie kodu JavaScript, który wyświetli 'Hello World'"
+  },
+  "message.question2": {
+    "message": "Stwórz swoją stronę osobistą",
+    "description": "Przykładowe pytanie do rozpoczęcia rozmowy, proszące użytkownika o napisanie e-maila do Mike'a, informującego go o przeprowadzce"
+  },
+  "message.question3": {
+    "message": "Zaprojektuj interesującą grę programistyczną",
+    "description": "Przykładowe pytanie do rozpoczęcia rozmowy, proszące użytkownika o wyjaśnienie podstawowych zasad kwantowego obliczenia w prostych słowach"
+  },
+  "message.question4": {
+    "message": "Doświadczaj Seulu jak lokalny",
+    "description": "Przykładowe pytanie do rozpoczęcia rozmowy, proszące użytkownika o wyjaśnienie, jaki wpływ ma wirtualna rzeczywistość na tworzenie sztuki"
+  },
+  "message.errorApiError": {
+    "message": "Odpowiedź nie powiodła się, spróbuj ponownie później",
+    "description": "Wiadomość na stronie, informująca użytkownika, że odpowiedź nie powiodła się, spróbuj ponownie później"
+  },
+  "message.errorBadRequest": {
+    "message": "Nieprawidłowa treść zapytania, proszę ponownie zadać pytanie",
+    "description": "Wiadomość na stronie, informująca użytkownika, że treść zapytania jest nieprawidłowa, proszę ponownie zadać pytanie"
+  },
+  "message.errorNoConversation": {
+    "message": "Rozmowa nie istnieje lub wygasła, proszę rozpocząć nową rozmowę",
+    "description": "Wiadomość na stronie, informująca użytkownika, że rozmowa nie istnieje lub wygasła, proszę rozpocząć nową rozmowę"
+  },
+  "message.errorContentTooLarge": {
+    "message": "Treść pytania jest zbyt długa, proszę skrócić i spróbować ponownie",
+    "description": "Wiadomość na stronie, informująca użytkownika, że treść pytania jest zbyt długa, proszę skrócić i spróbować ponownie"
+  },
+  "message.errorTooManyRequests": {
+    "message": "Twoje działanie jest zbyt częste, proszę spróbować ponownie później",
+    "description": "Wiadomość na stronie, informująca użytkownika, że jego działanie jest zbyt częste, proszę spróbować ponownie później"
+  },
+  "message.errorUsedUp": {
+    "message": "Wydałeś już wszystkie dostępne próby, proszę kupić więcej prób, aby kontynuować korzystanie",
+    "description": "Wiadomość na stronie, informująca użytkownika, że wydał już wszystkie dostępne próby, proszę kupić więcej prób, aby kontynuować korzystanie"
+  },
+  "message.errorUnknown": {
+    "message": "Wystąpił nieznany błąd serwera, spróbuj ponownie później lub skontaktuj się z obsługą klienta",
+    "description": "Wiadomość na stronie informująca użytkownika, że wystąpił nieznany błąd serwera, spróbuj ponownie później lub skontaktuj się z obsługą klienta"
+  },
+  "message.errorTimeout": {
+    "message": "Odpowiedź na pytanie przekroczyła czas, spróbuj ponownie później",
+    "description": "Wiadomość na stronie informująca użytkownika, że odpowiedź na pytanie przekroczyła czas, spróbuj ponownie później"
+  },
+  "message.errorNotApplied": {
+    "message": "Nie złożyłeś wniosku o tę usługę, najpierw złóż wniosek, a potem kontynuuj zadawanie pytania",
+    "description": "Wiadomość na stronie informująca użytkownika, że nie złożył wniosku o tę usługę, najpierw złóż wniosek, a potem kontynuuj zadawanie pytania"
+  },
+  "message.confirmDelete": {
+    "message": "Potwierdź usunięcie",
+    "description": "Wiadomość na stronie informująca użytkownika o konieczności potwierdzenia usunięcia"
+  },
+  "message.howToUse": {
+    "message": "AI może popełniać błędy, sprawdź ważne informacje.",
+    "description": "Wiadomość na stronie informująca użytkownika, że AI może popełniać błędy, sprawdź ważne informacje"
+  },
+  "title.chat": {
+    "message": "Czat AI",
+    "description": "Tytuł strony, czyli czat AI"
+  },
+  "title.example": {
+    "message": "Przykład",
+    "description": "Tytuł strony, czyli przykład"
+  },
+  "title.capabilities": {
+    "message": "Funkcje",
+    "description": "Tytuł strony, czyli funkcje"
+  },
+  "title.limitations": {
+    "message": "Ograniczenia",
+    "description": "Tytuł na stronie, wskazujący, że ta część dotyczy technicznych ograniczeń usługi"
+  },
+  "title.complexQuestion": {
+    "message": "Odpowiadanie na złożone pytania",
+    "description": "Tytuł na stronie, wskazujący, że ta część dotyczy zdolności usługi do odpowiadania na złożone pytania"
+  },
+  "title.professionalQuestion": {
+    "message": "Konsultacja kwestii profesjonalnych",
+    "description": "Tytuł na stronie, wskazujący, że ta część dotyczy zdolności usługi do konsultacji kwestii profesjonalnych"
+  },
+  "title.getTips": {
+    "message": "Uzyskaj inspiracje i pomysły",
+    "description": "Tytuł na stronie, wskazujący, że ta część dotyczy zdolności usługi do uzyskiwania inspiracji i pomysłów"
+  },
+  "group.today": {
+    "message": "Dzisiaj",
+    "description": "Nazwa grupy na stronie, czyli dzisiaj"
+  },
+  "group.yesterday": {
+    "message": "Wczoraj",
+    "description": "Nazwa grupy na stronie, czyli wczoraj"
+  },
+  "group.thisWeek": {
+    "message": "W tym tygodniu",
+    "description": "Nazwa grupy na stronie, czyli w tym tygodniu"
+  },
+  "group.earlier": {
+    "message": "Wcześniej",
+    "description": "Nazwa grupy na stronie, czyli wcześniej"
+  }
+}

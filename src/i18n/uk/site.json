@@ -1,0 +1,290 @@
+{
+  "field.title": {
+    "message": "Заголовок сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "field.origin": {
+    "message": "Домен сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "field.description": {
+    "message": "Опис сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "field.keywords": {
+    "message": "Ключові слова сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "field.logo": {
+    "message": "Логотип сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "field.favicon": {
+    "message": "Favicon сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "field.qr": {
+    "message": "QR-код",
+    "description": "展示在编辑框的标题"
+  },
+  "field.url": {
+    "message": "Посилання",
+    "description": "展示在编辑框的标题"
+  },
+  "field.admins": {
+    "message": "ID адміністраторів сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "ID запрошувача за замовчуванням",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionForceInviterId": {
+    "message": "ID обов'язкового запрошувача",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChat": {
+    "message": "Чат",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresHeadshots": {
+    "message": "AI портрети",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSupport": {
+    "message": "Підтримка клієнтів",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresI18n": {
+    "message": "Підтримка кількох мов",
+    "description": "展示在编辑框的标题"
+  },
+  "title.basicConfig": {
+    "message": "Базова конфігурація",
+    "description": "展示在编辑框的标题"
+  },
+  "title.seoConfig": {
+    "message": "Конфігурація SEO",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editAdmins": {
+    "message": "Редагувати адміністраторів",
+    "description": "展示在编辑框的标题"
+  },
+  "title.featuresConfig": {
+    "message": "Конфігурація функцій",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editTitle": {
+    "message": "Редагувати заголовок",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editOrigin": {
+    "message": "Редагувати домен",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editKeywords": {
+    "message": "Редагувати ключові слова",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editLogo": {
+    "message": "Редагувати логотип",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editFavicon": {
+    "message": "Редагувати Favicon",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDescription": {
+    "message": "Редагувати опис",
+    "description": "展示在编辑框的标题"
+  },
+  "title.distributionConfig": {
+    "message": "Конфігурація дистрибуції",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Редагувати запрошувача за замовчуванням",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Редагувати обов'язкового запрошувача",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editQR": {
+    "message": "Редагувати QR-код",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editUrl": {
+    "message": "Редагувати посилання",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.title": {
+    "message": "Введіть заголовок сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.origin": {
+    "message": "Введіть домен сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editUrl": {
+    "message": "Введіть посилання",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.description": {
+    "message": "Введіть опис сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.keywords": {
+    "message": "Введіть ключові слова сайту",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Введіть ID запрошувача за замовчуванням",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Введіть ID обов'язкового запрошувача",
+    "description": "展示在编辑框的标题"
+  },
+  "message.uploadImageExceed": {
+    "message": "Перевищено обмеження розміру зображення",
+    "description": "上传图片超过限制的提示"
+  },
+  "message.uploadImageError": {
+    "message": "Помилка при завантаженні зображення",
+    "description": "上传图片错误的提示"
+  },
+  "message.editLogoTip": {
+    "message": "Рекомендований розмір: 200*60px",
+    "description": "上传图片的提示语言"
+  },
+  "message.editQRTip": {
+    "message": "Рекомендований розмір: 200*200px",
+    "description": "上传图片的提示语言"
+  },
+  "message.editFaviconTip": {
+    "message": "Рекомендований розмір: 32*32px",
+    "description": "Мова підказки для завантаження зображення"
+  },
+  "message.editUrl": {
+    "message": "Введіть посилання",
+    "description": "Підказка для введення посилання"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Принаймні один адміністратор має залишитись",
+    "description": "Підказка про принаймні одного адміністратора"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "ID користувача за замовчуванням для запрошувача, якщо в розподільчому посиланні відсутній параметр inviter_id, використовується цей ID як запрошувач.",
+    "description": "Підказка про ID запрошувача за замовчуванням"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "ID користувача для обов'язкового запрошувача, якщо цей ID задано, незалежно від того, чи включено inviter_id у розподільче посилання, цей ID буде використано як запрошувач.",
+    "description": "Підказка про ID обов'язкового запрошувача"
+  },
+  "message.originTip": {
+    "message": "Домен сайту, конфігурація сайту пов'язана з доменом, домен сайту не може бути змінений.",
+    "description": "Підказка про домен сайту"
+  },
+  "message.titleTip": {
+    "message": "Назва сайту, відображається на вкладці браузера.",
+    "description": "Підказка про назву сайту"
+  },
+  "message.descriptionTip": {
+    "message": "Опис сайту, розташований у метаінформації сайту, використовується для SEO оптимізації сайту.",
+    "description": "Підказка про опис сайту"
+  },
+  "message.logoTip": {
+    "message": "Логотип сайту, відображається у верхній частині меню сайту при його розгортанні.",
+    "description": "Підказка про логотип сайту"
+  },
+  "message.faviconTip": {
+    "message": "Favicon сайту, відображається на вкладці браузера.",
+    "description": "Підказка про Favicon сайту"
+  },
+  "message.adminsTip": {
+    "message": "ID адміністраторів сайту, за замовчуванням перший користувач, що створив цей сайт, стає адміністратором, тільки адміністратори можуть управляти сайтом.",
+    "description": "Підказка про адміністраторів сайту"
+  },
+  "message.adminsTip2": {
+    "message": "Тут ви можете додавати або видаляти ID адміністраторів, ID користувачів можна переглянути за посиланням https://auth.acedata.cloud",
+    "description": "Підказка про адміністраторів сайту"
+  },
+  "message.keywordsTip": {
+    "message": "Ключові слова сайту, розташовані у метаінформації сайту, використовуються для SEO оптимізації.",
+    "description": "Підказка про ключові слова сайту"
+  },
+  "message.keywordsTip2": {
+    "message": "Тут ви можете додавати або видаляти ключові слова сайту, чим точніші ключові слова, тим краще для SEO оптимізації.",
+    "description": "Підказка про ключові слова сайту"
+  },
+  "message.featuresChat": {
+    "message": "Включити або вимкнути модуль функції Chat.",
+    "description": "Опис функції Chat"
+  },
+  "message.featuresMidjourney": {
+    "message": "Включити або вимкнути модуль функції Midjourney.",
+    "description": "Опис функції Midjourney"
+  },
+  "message.featuresChatdoc": {
+    "message": "Включити або вимкнути модуль функції Chatdoc.",
+    "description": "Опис функції Chatdoc"
+  },
+  "message.featuresQrart": {
+    "message": "Включити або вимкнути модуль функції Qrart.",
+    "description": "Опис функції Qrart"
+  },
+  "message.featuresSuno": {
+    "message": "Включити або вимкнути модуль функції Suno.",
+    "description": "Опис функції Suno"
+  },
+  "message.featuresLuma": {
+    "message": "Включити або вимкнути модуль функції Luma.",
+    "description": "Опис функції Luma"
+  },
+  "message.featuresHeadshots": {
+    "message": "Включити або вимкнути модуль функції AI документ фото.",
+    "description": "Опис функції AI документ фото"
+  },
+  "message.featuresSupport": {
+    "message": "Включити або вимкнути підтримку клієнтів",
+    "description": "Опис функції підтримки"
+  },
+  "message.featuresI18n": {
+    "message": "Включити або вимкнути підтримку кількох мов, при вимкненні користувачі можуть використовувати лише мову за замовчуванням.",
+    "description": "Опис підтримки кількох мов"
+  },
+  "button.upload": {
+    "message": "Завантажити",
+    "description": "Завантажити"
+  },
+  "button.enabled": {
+    "message": "Увімкнено",
+    "description": "Текст перемикача, що вказує, що увімкнено"
+  },
+  "button.disabled": {
+    "message": "Вимкнено",
+    "description": "Текст перемикача, що вказує, що вимкнено"
+  }
+}

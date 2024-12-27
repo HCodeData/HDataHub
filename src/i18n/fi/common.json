@@ -1,0 +1,478 @@
+{
+  "button.setup": {
+    "message": "Asetukset",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden asettamiseen"
+  },
+  "button.copy": {
+    "message": "Kopioi",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden kopioimiseen"
+  },
+  "button.restart": {
+    "message": "Uudelleenluo",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden uudelleenluomiseen"
+  },
+  "button.preview": {
+    "message": "Esikatselu",
+    "description": "Painikkeen teksti, jota käytetään esikatselun avaamiseen URL-osoitteen kautta"
+  },
+  "button.seeRawImage": {
+    "message": "Näytä alkuperäinen kuva",
+    "description": "Painikkeen teksti, jota käytetään alkuperäisen kuvan katseluun"
+  },
+  "button.seeRawVideo": {
+    "message": "Näytä video",
+    "description": "Painikkeen teksti, jota käytetään alkuperäisen videon katseluun"
+  },
+  "button.edit": {
+    "message": "Muokkaa",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden muokkaamiseen"
+  },
+  "button.login": {
+    "message": "Kirjaudu sisään",
+    "description": "Painikkeen teksti, jota käytetään sisäänkirjautumiseen"
+  },
+  "button.logout": {
+    "message": "Kirjaudu ulos",
+    "description": "Painikkeen teksti, jota käytetään uloskirjautumiseen"
+  },
+  "button.new": {
+    "message": "Uusi",
+    "description": "Painikkeen teksti, jota käytetään uuden projektin luomiseen"
+  },
+  "button.delete": {
+    "message": "Poista",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden poistamiseen"
+  },
+  "button.confirm": {
+    "message": "Vahvista",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden vahvistamiseen"
+  },
+  "button.cancel": {
+    "message": "Peruuta",
+    "description": "Painikkeen teksti, jota käytetään joidenkin toimintojen peruuttamiseen"
+  },
+  "button.alert": {
+    "message": "Ilmoitus",
+    "description": "Painikkeen teksti, jota käytetään ilmoittamaan joistakin asioista"
+  },
+  "button.info": {
+    "message": "Tietoa",
+    "description": "Painikkeen teksti, jota käytetään tiedon näyttämiseen"
+  },
+  "button.publish": {
+    "message": "Julkaise",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden julkaisemiseen"
+  },
+  "button.watch": {
+    "message": "Katso",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden katsomiseen"
+  },
+  "button.verify": {
+    "message": "Todista henkilöllisyys",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien henkilöllisyyden todistamiseen"
+  },
+  "button.profile": {
+    "message": "Profiili",
+    "description": "Painikkeen teksti, jota käytetään käyttäjäprofiilin näyttämiseen"
+  },
+  "button.console": {
+    "message": "Konsoli",
+    "description": "Painikkeen teksti, jota käytetään konsolisivun näyttämiseen, jotta voidaan hallita verkkosivun sisältöjä"
+  },
+  "button.learn": {
+    "message": "Opi",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien opettamiseen"
+  },
+  "button.buy": {
+    "message": "Osta",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien asioiden ostamiseen"
+  },
+  "button.try": {
+    "message": "Kokeile",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien asioiden kokeilemiseen"
+  },
+  "button.startForFree": {
+    "message": "Aloita HarBO AI:lla",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien aloittamiseen ilmaiseksi"
+  },
+  "button.apply": {
+    "message": "Hae",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien API-palvelun hakemiseen"
+  },
+  "button.refresh": {
+    "message": "Päivitä",
+    "description": "Painikkeen teksti, jota käytetään sivun päivittämiseen"
+  },
+  "button.pay": {
+    "message": "Maksa",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien palvelumaksujen suorittamiseen"
+  },
+  "button.repay": {
+    "message": "Jatka maksamista",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien palvelumaksujen jatkamiseen"
+  },
+  "button.applied": {
+    "message": "On haettu",
+    "description": "Painikkeen teksti, jota käytetään näyttämään, että käyttäjä on hakenut palvelua"
+  },
+  "button.acquire": {
+    "message": "Hanki",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien API-palvelun tokenin tai avaimen hankkimiseen"
+  },
+  "button.fillExample": {
+    "message": "Täytä esimerkki",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien esimerkkidatan täyttämiseen"
+  },
+  "button.buyMore": {
+    "message": "Osta enemmän",
+    "description": "Painikkeen teksti, jota käytetään käyttäjien ostamaan lisää sisältöä"
+  },
+  "button.update": {
+    "message": "Päivitä",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden päivittämiseen"
+  },
+  "button.view": {
+    "message": "Näytä",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden näyttämiseen"
+  },
+  "button.create": {
+    "message": "Luo",
+    "description": "Painikkeen teksti, jota käytetään joitakin asioita luomaan"
+  },
+  "button.referralEarnings": {
+    "message": "Suositusansiot",
+    "description": "Painikkeen teksti, jota käytetään suositusansioiden näyttämiseen, tarkoittaen, että käyttäjä voi ansaita rahaa kutsumalla muita palvelun käyttöön"
+  },
+  "button.finish": {
+    "message": "Valmis",
+    "description": "Painikkeen teksti, jota käytetään joidenkin asioiden loppuun saattamiseen"
+  },
+  "entity.website": {
+    "message": "Ace Data Cloud",
+    "description": "Verkkosivuston nimi, ei tarvitse kääntää, pidä 'Ace Data Cloud' -nimisenä"
+  },
+  "entity.copyright": {
+    "message": "Tekijänoikeus",
+    "description": "Teksti, jota käytetään tekijänoikeustietojen näyttämiseen"
+  },
+  "entity.platform": {
+    "message": "Alusta",
+    "description": "Teksti, joka osoittaa, että tämä on API-palvelun alusta"
+  },
+  "entity.title": {
+    "message": "Otsikko",
+    "description": "Yksilön otsikko"
+  },
+  "entity.icon": {
+    "message": "Ikoni",
+    "description": "Yksilön ikoni"
+  },
+  "entity.status": {
+    "message": "Tila",
+    "description": "Yksilön tila"
+  },
+  "entity.operation": {
+    "message": "Toiminto",
+    "description": "Yksilön toiminto"
+  },
+  "entity.description": {
+    "message": "Kuvaus",
+    "description": "Yksilön kuvaus"
+  },
+  "entity.createdAt": {
+    "message": "Luontiaika",
+    "description": "Entiteetin luontiaika"
+  },
+  "entity.updatedAt": {
+    "message": "Päivitetty aika",
+    "description": "Entiteetin päivitetty aika"
+  },
+  "entity.order": {
+    "message": "Tilaus",
+    "description": "Entiteetin tilaus, joka sisältää summan ja palvelutiedot, käyttäjän on maksettava siitä"
+  },
+  "message.usedAmount": {
+    "message": "Käytetty summa",
+    "description": "Palvelun käytetyn summan näyttämiseen"
+  },
+  "message.remainingAmount": {
+    "message": "Jäljellä oleva summa",
+    "description": "Palvelun jäljellä olevan summan näyttämiseen"
+  },
+  "message.copied": {
+    "message": "Onnistuneesti kopioitu",
+    "description": "Näyttää viestin, että sisältö on onnistuneesti kopioitu"
+  },
+  "message.restart": {
+    "message": "Uudelleenluonti",
+    "description": "Näyttää viestin, että sisältö on onnistuneesti kopioitu"
+  },
+  "message.confirmDelete": {
+    "message": "Haluatko varmasti poistaa?",
+    "description": "Vahvistaa, haluaako käyttäjä poistaa tiettyjä sisältöjä"
+  },
+  "message.expiredAt": {
+    "message": "Vanhentumisaika",
+    "description": "Palvelun vanhentumisen ajan näyttämiseen"
+  },
+  "message.alert": {
+    "message": "Varoitus",
+    "description": "Varoittaa käyttäjää"
+  },
+  "message.info": {
+    "message": "Ystävällinen muistutus",
+    "description": "Näyttää tietoa"
+  },
+  "message.free": {
+    "message": "Ilmainen",
+    "description": "Näyttää viestin, että palvelu on ilmainen, tarkoittaen että käyttäjän ei tarvitse maksaa"
+  },
+  "message.startPrice": {
+    "message": "Alkuhinta",
+    "description": "Näyttää palvelun minimihinnan"
+  },
+  "message.joinDiscord": {
+    "message": "Liity Discordiin",
+    "description": "Kutsuu käyttäjän liittymään Discord-kanavalle"
+  },
+  "message.addWeChat": {
+    "message": "Lisää WeChat",
+    "description": "Kutsuu käyttäjän lisäämään WeChat"
+  },
+  "message.serviceTech": {
+    "message": "Tekninen tuki",
+    "description": "Näyttää palvelun teknisen tuen"
+  },
+  "message.businessCooperation": {
+    "message": "Liiketoimintayhteistyö",
+    "description": "Näyttää liiketoimintayhteistyön"
+  },
+  "message.noData": {
+    "message": "Ei tietoja",
+    "description": "Näyttää viestin, että taulukossa tai luettelossa ei ole tietoja"
+  },
+  "nav.home": {
+    "message": "Koti",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää etusivun"
+  },
+  "nav.content": {
+    "message": "Sisältö",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää sisältösivun"
+  },
+  "nav.category": {
+    "message": "Luokka",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää luokkasivun"
+  },
+  "nav.service": {
+    "message": "Palvelut",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää palvelusivun"
+  },
+  "nav.profile": {
+    "message": "Profiili",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää profiilisivun"
+  },
+  "nav.products": {
+    "message": "Tuotteet",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää tuotesivun"
+  },
+  "nav.referral": {
+    "message": "Suositustulot",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää suosittusivu"
+  },
+  "nav.apiPlatform": {
+    "message": "API-alusta",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää API-alustasivun"
+  },
+  "nav.document": {
+    "message": "Dokumentaatio",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää dokumentaatiosivun"
+  },
+  "nav.console": {
+    "message": "Ohjauspaneeli",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää ohjauspaneelisivun"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää chattasivun, ei saa kääntää, pitää pysyä 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää midjourneyn sivun, ei saa kääntää, pitää pysyä 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää chattidokumenttisivun, ei saa kääntää, pitää pysyä 'Chatdoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää QR-taidetta sivun, ei saa kääntää, pitää pysyä 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää Sunosivun, ei saa kääntää, pitää pysyä 'Suno'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää Lumasivun, ei saa kääntää, pitää pysyä 'Suno'"
+  },
+  "nav.distribution": {
+    "message": "Suositustulot",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää suositustulot sivun"
+  },
+  "nav.logOut": {
+    "message": "Kirjaudu ulos",
+    "description": "Sivuston navigointipalkin teksti, joka kirjautuu ulos"
+  },
+  "nav.site": {
+    "message": "Sivuston asetukset",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää sivuston asetussivun"
+  },
+  "nav.headshots": {
+    "message": "AI-passikuvat",
+    "description": "Sivuston navigointipalkin teksti, joka näyttää AI-passikuvien sivun"
+  },
+  "nav.locale": {
+    "message": "Kieliasetukset",
+    "description": "Sivuston navigointipalkin teksti kielen muuttamiseksi"
+  },
+  "nav.support": {
+    "message": "Tietoa meistä",
+    "description": "Verkkosivuston navigointipalkissa oleva teksti, joka näyttää tukisivun"
+  },
+  "nav.midjourney_tutorials": {
+    "message": "Midjourney-oppaat",
+    "description": "Verkkosivuston navigointipalkissa oleva teksti, joka näyttää tukisivun"
+  },
+  "nav.ai_tutorials": {
+    "message": "AI-vinkit",
+    "description": "Verkkosivuston navigointipalkissa oleva teksti, joka näyttää tukisivun"
+  },
+  "nav.ai_tutorials1": {
+    "message": "gpt-vinkit perusversio",
+    "description": "Verkkosivuston navigointipalkissa oleva teksti, joka näyttää tukisivun"
+  },
+  "nav.ai_tutorials2": {
+    "message": "gpt-vinkit edistyneet",
+    "description": "Verkkosivuston navigointipalkissa oleva teksti, joka näyttää tukisivun"
+  },
+  "nav.ai_tutorials3": {
+    "message": "gpt-vinkit kirjoittamiseen",
+    "description": "Verkkosivuston navigointipalkissa oleva teksti, joka näyttää tukisivun"
+  },
+  "nav.free_user": {
+    "message": "Ilmainen kokeilu",
+    "description": "Verkkosivuston navigointipalkissa oleva teksti, joka näyttää tukisivun"
+  },
+  "nav.darkMode": {
+    "message": "Tumma tila",
+    "description": "Verkkosivuston navigointipalkissa oleva teksti, joka vaihtaa tummalle teemapohjalle"
+  },
+  "title.alert": {
+    "message": "Ilmoitus",
+    "description": "Ilmoitusviestin otsikko"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Valitse",
+    "description": "Valintaruudun paikkaajat"
+  },
+  "title.placeholderOfInput": {
+    "message": "Täytä kenttä",
+    "description": "Syöttökentän paikkaajat"
+  },
+  "title.allApplications": {
+    "message": "Kaikki hakemukset",
+    "description": "Näyttää kaikki hakemukset -sivun otsikon"
+  },
+  "title.allOrders": {
+    "message": "Kaikki tilaukset",
+    "description": "Näyttää kaikki tilaukset -sivun otsikon"
+  },
+  "title.orderInfo": {
+    "message": "Tilaustiedot",
+    "description": "Näyttää tilaustiedot -sivun otsikon"
+  },
+  "title.buyMore": {
+    "message": "Osta lisää",
+    "description": "Antaa käyttäjille mahdollisuuden ostaa lisää -sivun otsikko"
+  },
+  "title.distribution": {
+    "message": "Suositustulot",
+    "description": "Näyttää suositustulot -sivun otsikon, joka kertoo käyttäjän voivan ansaita kutsumalla muita palvelun käyttöön"
+  },
+  "title.site": {
+    "message": "Sivuston asetukset",
+    "description": "Näyttää sivuston asetukset -sivun otsikon"
+  },
+  "title.distributionHistory": {
+    "message": "Suositushistoria",
+    "description": "Näyttää suositushistoria -sivun otsikon"
+  },
+  "title.invitee": {
+    "message": "Kutsuja",
+    "description": "Näyttää kutsujan -sivun otsikon"
+  },
+  "title.allUsages": {
+    "message": "Käyttöhistoria",
+    "description": "Näyttää API-palvelun kaikki käyttötietueet -sivun otsikon"
+  },
+  "title.allCredentials": {
+    "message": "Todistukset",
+    "description": "Näyttää kaikki todistukset -sivun otsikon, joita käytetään API:iin pääsyyn"
+  },
+  "about.title1": {
+    "message": "Ota yhteyttä",
+    "description": "Näyttää yhteystietojen osion otsikon"
+  },
+  "about.title2": {
+    "message": "Resurssit",
+    "description": "Näyttää linkkien osion otsikon"
+  },
+  "about.title3": {
+    "message": "Linkit",
+    "description": "Näyttää tukitietojen osion otsikon"
+  },
+  "about.address": {
+    "message": "Yhdysvallat, Delaware, Middletown, N Broad St, toimisto 201",
+    "description": "Yhtiön osoite"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "Yhtiön sähköposti"
+  },
+  "about.link1": {
+    "message": "Palvelut",
+    "description": "Palvelusivun linkki"
+  },
+  "about.link2": {
+    "message": "Dokumentaatio",
+    "description": "Dokumentaatiosivun linkki"
+  },
+  "about.link3": {
+    "message": "Ohjauspaneeli",
+    "description": "Ohjauspaneelisivun linkki"
+  },
+  "about.link4": {
+    "message": "Profiili",
+    "description": "Profiilisivun linkki"
+  },
+  "about.link5": {
+    "message": "Keskus",
+    "description": "Keskussivun linkki"
+  },
+  "about.link6": {
+    "message": "Suositustulot",
+    "description": "Suositustulot -sivun linkki"
+  },
+  "about.link7": {
+    "message": "Tuki",
+    "description": "Tukisivun linkki"
+  },
+  "about.link8": {
+    "message": "Käyttöehdot",
+    "description": "Käyttöehtosivun linkki"
+  },
+  "about.link9": {
+    "message": "Tietosuojakäytäntö",
+    "description": "Tietosuojakäytännön linkki"
+  }
+}

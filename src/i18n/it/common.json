@@ -1,0 +1,478 @@
+{
+  "button.setup": {
+    "message": "Impostazioni",
+    "description": "Testo nel pulsante, utilizzato per impostare certe opzioni"
+  },
+  "button.copy": {
+    "message": "Copia",
+    "description": "Testo nel pulsante, utilizzato per copiare contenuti"
+  },
+  "button.restart": {
+    "message": "Rigenera",
+    "description": "Testo nel pulsante, utilizzato per rigenerare contenuti"
+  },
+  "button.preview": {
+    "message": "Anteprima",
+    "description": "Testo nel pulsante, utilizzato per aprire l'anteprima di un file tramite URL"
+  },
+  "button.seeRawImage": {
+    "message": "Visualizza immagine originale",
+    "description": "Testo nel pulsante, utilizzato per visualizzare l'immagine originale"
+  },
+  "button.seeRawVideo": {
+    "message": "Visualizza video originale",
+    "description": "Testo nel pulsante, utilizzato per visualizzare il video originale"
+  },
+  "button.edit": {
+    "message": "Modifica",
+    "description": "Testo nel pulsante, utilizzato per modificare certe opzioni"
+  },
+  "button.login": {
+    "message": "Accedi",
+    "description": "Testo nel pulsante, utilizzato per effettuare il login"
+  },
+  "button.logout": {
+    "message": "Esci",
+    "description": "Testo nel pulsante, utilizzato per disconnettersi"
+  },
+  "button.new": {
+    "message": "Nuovo",
+    "description": "Testo nel pulsante, utilizzato per creare un nuovo progetto"
+  },
+  "button.delete": {
+    "message": "Elimina",
+    "description": "Testo nel pulsante, utilizzato per eliminare contenuti"
+  },
+  "button.confirm": {
+    "message": "Conferma",
+    "description": "Testo nel pulsante, utilizzato per confermare azioni"
+  },
+  "button.cancel": {
+    "message": "Annulla",
+    "description": "Testo nel pulsante, utilizzato per annullare azioni"
+  },
+  "button.alert": {
+    "message": "Avviso",
+    "description": "Testo nel pulsante, utilizzato per avvertire l'utente"
+  },
+  "button.info": {
+    "message": "Informazioni",
+    "description": "Testo nel pulsante, utilizzato per mostrare informazioni"
+  },
+  "button.publish": {
+    "message": "Pubblica",
+    "description": "Testo nel pulsante, utilizzato per pubblicare contenuti"
+  },
+  "button.watch": {
+    "message": "Guarda",
+    "description": "Testo nel pulsante, utilizzato per guardare contenuti"
+  },
+  "button.verify": {
+    "message": "Verifica identità",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di verificare la loro identità"
+  },
+  "button.profile": {
+    "message": "Profilo",
+    "description": "Testo nel pulsante, utilizzato per visualizzare il profilo utente"
+  },
+  "button.console": {
+    "message": "Console",
+    "description": "Testo nel pulsante, utilizzato per visualizzare la pagina della console per controllare certi contenuti"
+  },
+  "button.learn": {
+    "message": "Impara",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di apprendere nuove informazioni"
+  },
+  "button.buy": {
+    "message": "Acquista",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di acquistare contenuti"
+  },
+  "button.try": {
+    "message": "Prova",
+    "description": "Testo nel pulsante, utilizzato per permettere agli utenti di provare contenuti"
+  },
+  "button.startForFree": {
+    "message": "Inizia con HarBO AI",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di iniziare gratis"
+  },
+  "button.apply": {
+    "message": "Richiedi",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di richiedere i servizi API"
+  },
+  "button.refresh": {
+    "message": "Aggiorna",
+    "description": "Testo nel pulsante, utilizzato per aggiornare la pagina"
+  },
+  "button.pay": {
+    "message": "Paga",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di pagare per i servizi"
+  },
+  "button.repay": {
+    "message": "Continua pagamento",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di continuare a pagare per i servizi"
+  },
+  "button.applied": {
+    "message": "Richiesta inviata",
+    "description": "Testo nel pulsante, utilizzato per mostrare che l'utente ha già richiesto il servizio"
+  },
+  "button.acquire": {
+    "message": "Acquisisci",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di acquisire token o chiavi per il servizio API"
+  },
+  "button.fillExample": {
+    "message": "Compila esempio",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di compilare dati di esempio"
+  },
+  "button.buyMore": {
+    "message": "Acquista di più",
+    "description": "Testo nel pulsante, utilizzato per consentire agli utenti di acquistare più contenuti"
+  },
+  "button.update": {
+    "message": "Aggiorna",
+    "description": "Testo nel pulsante, utilizzato per aggiornare certi contenuti"
+  },
+  "button.view": {
+    "message": "Visualizza",
+    "description": "Testo nel pulsante, utilizzato per visualizzare alcuni contenuti"
+  },
+  "button.create": {
+    "message": "Crea",
+    "description": "Testo nel pulsante, utilizzato per creare nuovi contenuti"
+  },
+  "button.referralEarnings": {
+    "message": "Guadagni referral",
+    "description": "Testo nel pulsante, utilizzato per mostrare i guadagni referral, ovvero quanto gli utenti possono guadagnare invitando altri a usare il servizio"
+  },
+  "button.finish": {
+    "message": "Completa",
+    "description": "Testo nel pulsante, utilizzato per completare certe azioni"
+  },
+  "entity.website": {
+    "message": "Centro di Influenza Intelligenza Artificiale Rhea",
+    "description": "Nome del sito web, non necessita di traduzione, mantenere 'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "Copyright",
+    "description": "Testo utilizzato per mostrare le informazioni sul copyright"
+  },
+  "entity.platform": {
+    "message": "Piattaforma",
+    "description": "Testo che indica che questo è il testo della piattaforma per i servizi API"
+  },
+  "entity.title": {
+    "message": "Titolo",
+    "description": "Titolo dell'entità"
+  },
+  "entity.icon": {
+    "message": "Icona",
+    "description": "Icona dell'entità"
+  },
+  "entity.status": {
+    "message": "Stato",
+    "description": "Stato dell'entità"
+  },
+  "entity.operation": {
+    "message": "Operazione",
+    "description": "Operazione dell'entità"
+  },
+  "entity.description": {
+    "message": "Descrizione",
+    "description": "Descrizione dell'entità"
+  },
+  "entity.createdAt": {
+    "message": "Data di creazione",
+    "description": "Il tempo di creazione dell'entità"
+  },
+  "entity.updatedAt": {
+    "message": "Data di aggiornamento",
+    "description": "Il tempo di aggiornamento dell'entità"
+  },
+  "entity.order": {
+    "message": "Ordine",
+    "description": "L'ordine dell'entità, che include importo e informazioni sul servizio, l'utente deve pagarlo"
+  },
+  "message.usedAmount": {
+    "message": "Importo utilizzato",
+    "description": "Usato per visualizzare l'importo già utilizzato per il servizio"
+  },
+  "message.remainingAmount": {
+    "message": "Importo residuo",
+    "description": "Usato per visualizzare l'importo residuo del servizio"
+  },
+  "message.copied": {
+    "message": "Copiato con successo",
+    "description": "Usato per visualizzare un messaggio che conferma che il contenuto è stato copiato con successo"
+  },
+  "message.restart": {
+    "message": "Rigenera",
+    "description": "Usato per la rigenerazione del contenuto"
+  },
+  "message.confirmDelete": {
+    "message": "Sei sicuro di voler eliminare?",
+    "description": "Usato per confermare se l'utente desidera eliminare determinati contenuti"
+  },
+  "message.expiredAt": {
+    "message": "Data di scadenza",
+    "description": "Usato per visualizzare la data di scadenza del servizio"
+  },
+  "message.alert": {
+    "message": "Avviso",
+    "description": "Usato per avvisare l'utente"
+  },
+  "message.info": {
+    "message": "Promemoria",
+    "description": "Usato per visualizzare un messaggio informativo"
+  },
+  "message.free": {
+    "message": "Gratuito",
+    "description": "Usato per visualizzare un messaggio che indica che il servizio è gratuito, non è necessario pagare"
+  },
+  "message.startPrice": {
+    "message": "Prezzo di partenza",
+    "description": "Usato per visualizzare il prezzo minimo del servizio"
+  },
+  "message.joinDiscord": {
+    "message": "Unisciti a Discord",
+    "description": "Usato per invitare l'utente a unirsi al canale Discord"
+  },
+  "message.addWeChat": {
+    "message": "Aggiungi WeChat",
+    "description": "Usato per invitare l'utente ad aggiungere WeChat"
+  },
+  "message.serviceTech": {
+    "message": "Supporto tecnico",
+    "description": "Usato per visualizzare il messaggio di supporto tecnico del servizio"
+  },
+  "message.businessCooperation": {
+    "message": "Cooperazione commerciale",
+    "description": "Usato per visualizzare informazioni sulla cooperazione commerciale"
+  },
+  "message.noData": {
+    "message": "Nessun dato",
+    "description": "Usato per visualizzare un messaggio che indica che non ci sono dati nella tabella o nell'elenco"
+  },
+  "nav.home": {
+    "message": "Home",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la home page"
+  },
+  "nav.content": {
+    "message": "Contenuti",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina dei contenuti"
+  },
+  "nav.category": {
+    "message": "Categorie",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina delle categorie"
+  },
+  "nav.service": {
+    "message": "Servizi",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina dei servizi"
+  },
+  "nav.profile": {
+    "message": "Il mio profilo",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina del profilo personale"
+  },
+  "nav.products": {
+    "message": "Prodotti",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina dei prodotti"
+  },
+  "nav.referral": {
+    "message": "Guadagni referral",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina dei referral"
+  },
+  "nav.apiPlatform": {
+    "message": "Piattaforma API",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina della piattaforma API"
+  },
+  "nav.document": {
+    "message": "Documentazione",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina della documentazione"
+  },
+  "nav.console": {
+    "message": "Console",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina della console"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina della chat, non deve essere tradotto, deve rimanere 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina di Midjourney, non deve essere tradotto, deve rimanere 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina dei documenti di chat, non deve essere tradotto, deve rimanere 'ChatDoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina dell'arte QR, non deve essere tradotto, deve rimanere 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina di Suno, non deve essere tradotto, deve rimanere 'Suno'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina di Luma, non deve essere tradotto, deve rimanere 'Luma'"
+  },
+  "nav.distribution": {
+    "message": "Guadagni referral",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina dei guadagni referral"
+  },
+  "nav.logOut": {
+    "message": "Disconnettersi",
+    "description": "Testo nel menu di navigazione del sito, usato per disconnettersi"
+  },
+  "nav.site": {
+    "message": "Configurazione del sito",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina di configurazione del sito"
+  },
+  "nav.headshots": {
+    "message": "Foto profilo AI",
+    "description": "Testo nel menu di navigazione del sito, usato per visualizzare la pagina delle foto profilo"
+  },
+  "nav.locale": {
+    "message": "Impostazioni lingua",
+    "description": "Testo nel menu di navigazione del sito, usato per cambiare la lingua"
+  },
+  "nav.support": {
+    "message": "Chi siamo",
+    "description": "Testo nella barra di navigazione del sito, utilizzato per mostrare la pagina di supporto"
+  },
+  "nav.midjourney_tutorials": {
+    "message": "Tutorial di Midjourney",
+    "description": "Testo nella barra di navigazione del sito, utilizzato per mostrare la pagina di supporto"
+  },
+  "nav.ai_tutorials": {
+    "message": "Parole chiave AI",
+    "description": "Testo nella barra di navigazione del sito, utilizzato per mostrare la pagina di supporto"
+  },
+  "nav.ai_tutorials1": {
+    "message": "Versione base delle parole chiave gpt",
+    "description": "Testo nella barra di navigazione del sito, utilizzato per mostrare la pagina di supporto"
+  },
+  "nav.ai_tutorials2": {
+    "message": "Versione avanzata delle parole chiave gpt",
+    "description": "Testo nella barra di navigazione del sito, utilizzato per mostrare la pagina di supporto"
+  },
+  "nav.ai_tutorials3": {
+    "message": "Scrittura delle parole chiave gpt",
+    "description": "Testo nella barra di navigazione del sito, utilizzato per mostrare la pagina di supporto"
+  },
+  "nav.free_user": {
+    "message": "Prova gratuita",
+    "description": "Testo nella barra di navigazione del sito, utilizzato per mostrare la pagina di supporto"
+  },
+  "nav.darkMode": {
+    "message": "Modalità scura",
+    "description": "Testo nella barra di navigazione del sito, utilizzato per passare al tema scuro"
+  },
+  "title.alert": {
+    "message": "Avviso",
+    "description": "Titolo del messaggio di avviso"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Seleziona",
+    "description": "Placeholder del campo di selezione"
+  },
+  "title.placeholderOfInput": {
+    "message": "Compila",
+    "description": "Placeholder del campo di input"
+  },
+  "title.allApplications": {
+    "message": "Tutte le richieste",
+    "description": "Titolo della pagina che mostra tutte le richieste"
+  },
+  "title.allOrders": {
+    "message": "Tutti gli ordini",
+    "description": "Titolo della pagina che mostra tutti gli ordini"
+  },
+  "title.orderInfo": {
+    "message": "Informazioni sull'ordine",
+    "description": "Titolo della pagina che mostra le informazioni sull'ordine"
+  },
+  "title.buyMore": {
+    "message": "Acquista di più",
+    "description": "Titolo della pagina per permettere all'utente di acquistare di più"
+  },
+  "title.distribution": {
+    "message": "Guadagni da referral",
+    "description": "Titolo della pagina che mostra i guadagni da referral, indicando che gli utenti possono guadagnare invitando altri a utilizzare il servizio"
+  },
+  "title.site": {
+    "message": "Configurazione del sito",
+    "description": "Titolo della pagina che mostra la configurazione del sito"
+  },
+  "title.distributionHistory": {
+    "message": "Storia dei referral",
+    "description": "Titolo della pagina che mostra la storia dei referral"
+  },
+  "title.invitee": {
+    "message": "Invitatore",
+    "description": "Titolo della pagina che mostra l'invitante"
+  },
+  "title.allUsages": {
+    "message": "Storia degli utilizzi",
+    "description": "Titolo della pagina che mostra tutti i registri di utilizzo del servizio API"
+  },
+  "title.allCredentials": {
+    "message": "Credenziali",
+    "description": "Titolo della pagina che mostra tutte le credenziali utilizzate per accedere all'API"
+  },
+  "about.title1": {
+    "message": "Contattaci",
+    "description": "Titolo della sezione che mostra le informazioni di contatto"
+  },
+  "about.title2": {
+    "message": "Risorse",
+    "description": "Titolo della sezione che mostra i link"
+  },
+  "about.title3": {
+    "message": "Link",
+    "description": "Titolo della sezione che mostra le informazioni di supporto"
+  },
+  "about.address": {
+    "message": "USA, Delaware, Middletown, N Broad St, Ufficio 201",
+    "description": "Indirizzo della società"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "Email della società"
+  },
+  "about.link1": {
+    "message": "Servizio",
+    "description": "Link alla pagina dei servizi"
+  },
+  "about.link2": {
+    "message": "Documentazione",
+    "description": "Link alla pagina della documentazione"
+  },
+  "about.link3": {
+    "message": "Console",
+    "description": "Link alla pagina della console"
+  },
+  "about.link4": {
+    "message": "Profilo",
+    "description": "Link alla pagina del profilo"
+  },
+  "about.link5": {
+    "message": "Centro",
+    "description": "Link alla pagina del centro"
+  },
+  "about.link6": {
+    "message": "Guadagni da referral",
+    "description": "Link alla pagina dei guadagni da referral"
+  },
+  "about.link7": {
+    "message": "Supporto",
+    "description": "Link alla pagina di supporto"
+  },
+  "about.link8": {
+    "message": "Termini di servizio",
+    "description": "Link alla pagina dei termini di servizio"
+  },
+  "about.link9": {
+    "message": "Politica sulla privacy",
+    "description": "Link alla pagina della politica sulla privacy"
+  }
+}

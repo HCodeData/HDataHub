@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "AI Custom Services",
+    "description": "AI Q&A chapter title"
+  },
+  "subtitle.ai_custom": {
+    "message": "Offers exclusive AI service customization, supporting feature expansion and deep customization to meet your personalized needs and help project efficiency.",
+    "description": "AI Custom Services"
+  },
+  "title.chat": {
+    "message": "AI Hot Texts",
+    "description": "AI Q&A chapter title"
+  },
+  "title.midjourney": {
+    "message": "Text to Image",
+    "description": "AI Painting chapter title"
+  },
+  "title.qrart": {
+    "message": "AI Art QR Code",
+    "description": "AI Art QR Code chapter title"
+  },
+  "title.digital_man": {
+    "message": "AI Digital Human",
+    "description": "AI Digital Human chapter title"
+  },
+  "title.sound_cloning": {
+    "message": "AI Voice Cloning",
+    "description": "AI Voice Cloning chapter title"
+  },
+  "title.suno": {
+    "message": "AI Music Creation",
+    "description": "AI Music chapter title"
+  },
+  "title.luma": {
+    "message": "AI Video",
+    "description": "AI Video chapter title"
+  },
+  "title.headshots": {
+    "message": "AI ID Photos",
+    "description": "AI ID Photos chapter title"
+  },
+  "title.comments": {
+    "message": "-- User Reviews --",
+    "description": "Customer Reviews chapter title"
+  },
+  "title.introduction": {
+    "message": "-- Super AI Assistant --",
+    "description": "Site introduction"
+  },
+  "subtitle.banner": {
+    "message": "HarBO AI Enterprise Super AI Assistant",
+    "description": "Site subtitle"
+  },
+  "subtitle.chat": {
+    "message": "Supports various Q&A models, has online capabilities, and can recognize a variety of content such as images, files, and videos.",
+    "description": "AI Q&A chapter title"
+  },
+  "subtitle.midjourney": {
+    "message": "Integrates the latest Midjourney model, generates various styles of images with one click and allows fine-tuning.",
+    "description": "AI Painting chapter title"
+  },
+  "subtitle.qrart": {
+    "message": "Supports various artistic QR code styles, allows uploading of existing QR codes, and easily transforms them artistically for unique visual effects.",
+    "description": "AI Art QR Code chapter title"
+  },
+  "subtitle.digital_man": {
+    "message": "Provides solutions for virtual digital humans, supporting real-time interaction, promotion, and training for various applications.",
+    "description": "AI Digital Human chapter title"
+  },
+  "subtitle.suno": {
+    "message": "Supports various music styles, easily generates the music you want, and offers flexible length extension options.",
+    "description": "AI Music chapter title"
+  },
+  "subtitle.luma": {
+    "message": "Integrates the latest Luma model, generates custom videos with one click, and provides flexible video expansion options.",
+    "description": "AI Video chapter title"
+  },
+  "subtitle.headshots": {
+    "message": "Integrates the latest AI model, generates ID photos with customized templates at the click of a button, supporting various formats for ID photos.",
+    "description": "AI ID Photos chapter title"
+  },
+  "subtitle.comments": {
+    "message": "We are glad to have helped these clients, who have given high praise for our services.",
+    "description": "Customer Reviews chapter title"
+  },
+  "subtitle.introduction": {
+    "message": "We provide one-stop AI services, including Q&A, painting, QR codes, music, and more, to meet your diverse needs.",
+    "description": "Site introduction"
+  },
+  "button.try": {
+    "message": "Click to Experience",
+    "description": "Text content in the button"
+  },
+  "button.testEnv": {
+    "message": "Test Environment",
+    "description": "Test environment button"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "Customer's name"
+  },
+  "customers.job1": {
+    "message": "Software Engineer",
+    "description": "Customer's position"
+  },
+  "customers.comment1": {
+    "message": "This integrated service is incredibly convenient; I can use various AI tools on one platform, it's fantastic!",
+    "description": "Customer's comment"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "Customer's name"
+  },
+  "customers.job2": {
+    "message": "Product Manager",
+    "description": "Customer's position"
+  },
+  "customers.comment2": {
+    "message": "The platform is very user-friendly, the service quality is excellent, and it greatly boosts my productivity.",
+    "description": "Customer's comment"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "Customer's name"
+  },
+  "customers.job3": {
+    "message": "Designer",
+    "description": "Customer's position"
+  },
+  "customers.comment3": {
+    "message": "There are too many AI platforms, but this one is really easy to use, reasonably priced, and I hope it gets even better!",
+    "description": "Customer's comment"
+  }
+}

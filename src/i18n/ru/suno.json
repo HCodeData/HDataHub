@@ -1,0 +1,170 @@
+{
+  "button.extend": {
+    "message": "Продолжить генерацию",
+    "description": "Текст кнопки продолжения генерации"
+  },
+  "button.download": {
+    "message": "Скачать",
+    "description": "Текст кнопки для скачивания"
+  },
+  "button.video": {
+    "message": "Видео",
+    "description": "Текст кнопки для видео"
+  },
+  "button.download_video": {
+    "message": "Скачать видео",
+    "description": "Текст кнопки для скачивания видео"
+  },
+  "button.download_audio": {
+    "message": "Скачать музыку",
+    "description": "Текст кнопки для скачивания музыки"
+  },
+  "model.model1": {
+    "message": "v2",
+    "description": "Модель для генерации музыки"
+  },
+  "model.model2": {
+    "message": "v3",
+    "description": "Модель для генерации музыки"
+  },
+  "name.instrumental": {
+    "message": "Инструментал",
+    "description": "Описание параметра 'instrumental'"
+  },
+  "model.model3": {
+    "message": "v3.5",
+    "description": "Модель для генерации музыки"
+  },
+  "model.model4": {
+    "message": "v4.0",
+    "description": "Модель для генерации музыки"
+  },
+  "name.taskId": {
+    "message": "ID задачи",
+    "description": "ID задачи"
+  },
+  "name.type": {
+    "message": "Кастомный режим",
+    "description": "Название кастомного режима"
+  },
+  "name.prompt": {
+    "message": "Описание песни",
+    "description": "Подсказка для ввода содержания"
+  },
+  "name.extend": {
+    "message": "Расширить песню из",
+    "description": "Подсказка для ввода содержания"
+  },
+  "name.lyrics": {
+    "message": "Текст песни",
+    "description": "Подсказка для ввода текста песни"
+  },
+  "name.style": {
+    "message": "Стиль песни",
+    "description": "Подсказка для ввода стиля песни"
+  },
+  "name.title": {
+    "message": "Название песни",
+    "description": "Подсказка для ввода названия песни"
+  },
+  "name.failureReason": {
+    "message": "Причина неудачи",
+    "description": "Причина неудачи задачи"
+  },
+  "name.status": {
+    "message": "Статус",
+    "description": "Статус задачи"
+  },
+  "name.traceId": {
+    "message": "ID трассировки",
+    "description": "ID трассировки задачи"
+  },
+  "name.sunoBot": {
+    "message": "Суном Бот",
+    "description": "Название генератора Suno"
+  },
+  "description.prompt": {
+    "message": "Укажите стиль и тему музыки, которую хотите сгенерировать, например, акустический поп о праздниках",
+    "description": "Описание параметра 'prompt'"
+  },
+  "description.lyrics": {
+    "message": "Текст песни",
+    "description": "Описание параметра 'lyrics'"
+  },
+  "description.style": {
+    "message": "Содержание стиля песни",
+    "description": "Описание параметра 'style'"
+  },
+  "description.title": {
+    "message": "Содержание названия песни",
+    "description": "Описание параметра 'title'"
+  },
+  "status.pending": {
+    "message": "В ожидании",
+    "description": "Состояние ожидания задачи"
+  },
+  "placeholder.prompt": {
+    "message": "Введите подсказку для песни...",
+    "description": "Заполнитель для ввода шума"
+  },
+  "placeholder.lyrics": {
+    "message": "Введите текст песни...",
+    "description": "Заполнитель для уровня ввода"
+  },
+  "placeholder.extend.lyrics": {
+    "message": "Введите текст песни для расширения...",
+    "description": "Заполнитель для уровня ввода"
+  },
+  "placeholder.extend.continue_at": {
+    "message": "Введите, с какой секунды нужно продолжить песню...",
+    "description": "Заполнитель для уровня ввода"
+  },
+  "placeholder.style": {
+    "message": "Введите подсказку для стиля песни, например, акустический поп",
+    "description": "Заполнитель в поле подсказки"
+  },
+  "placeholder.title": {
+    "message": "Введите подсказку для названия песни, например, песня о праздниках",
+    "description": "Заполнитель для начального ввода"
+  },
+  "placeholder.select": {
+    "message": "Выберите модель...",
+    "description": "Заполнитель для ввода местоположения"
+  },
+  "placeholder.position": {
+    "message": "Выберите...",
+    "description": "Заполнитель для ввода местоположения"
+  },
+  "button.generate": {
+    "message": "Сгенерировать",
+    "description": "Текст кнопки генерации"
+  },
+  "message.startingTask": {
+    "message": "Запуск задачи...",
+    "description": "Сообщение при начале задачи генерации музыки"
+  },
+  "message.startTaskSuccess": {
+    "message": "Задача генерации музыки успешно запущена",
+    "description": "Сообщение об успешном запуске задачи генерации музыки"
+  },
+  "message.startTaskFailed": {
+    "message": "Не удалось запустить задачу генерации музыки",
+    "description": "Сообщение об ошибке при запуске задачи генерации музыки"
+  },
+  "message.generating": {
+    "message": "Генерация...",
+    "description": "Сообщение во время генерации музыки"
+  },
+  "message.generateFailed": {
+    "message": "Не удалось сгенерировать музыку",
+    "description": "Сообщение при неудаче генерации музыки"
+  },
+  "message.noOperations": {
+    "message": "Нет доступных операций",
+    "description": "Сообщение, когда операций нет"
+  },
+  "message.noTasks": {
+    "message": "Нет историй задач, пожалуйста, создайте музыку в левой панели настройки",
+    "description": "Сообщение, когда нет задач"
+  }
+}

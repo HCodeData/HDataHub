@@ -1,0 +1,290 @@
+{
+  "field.title": {
+    "message": "Titre du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.origin": {
+    "message": "Nom de domaine du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.description": {
+    "message": "Description du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.keywords": {
+    "message": "Mots-clés du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.logo": {
+    "message": "Logo du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.favicon": {
+    "message": "Favicon du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.qr": {
+    "message": "Code QR",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.url": {
+    "message": "Lien",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.admins": {
+    "message": "ID des administrateurs du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "ID de l'inviteur par défaut",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.distributionForceInviterId": {
+    "message": "ID de l'inviteur obligatoire",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.featuresChat": {
+    "message": "Chat",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.featuresHeadshots": {
+    "message": "Photo d'identité AI",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.featuresSupport": {
+    "message": "Support client",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "field.featuresI18n": {
+    "message": "Support multilingue",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.basicConfig": {
+    "message": "Configuration de base",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.seoConfig": {
+    "message": "Configuration SEO",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editAdmins": {
+    "message": "Modifier l'administrateur",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.featuresConfig": {
+    "message": "Configuration des fonctionnalités",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editTitle": {
+    "message": "Modifier le titre",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editOrigin": {
+    "message": "Modifier le nom de domaine",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editKeywords": {
+    "message": "Modifier les mots-clés",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editLogo": {
+    "message": "Modifier le logo",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editFavicon": {
+    "message": "Modifier le favicon",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editDescription": {
+    "message": "Modifier la description",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.distributionConfig": {
+    "message": "Configuration de distribution",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Modifier l'invitant par défaut",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Modifier l'invitant obligatoire",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editQR": {
+    "message": "Modifier le code QR",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "title.editUrl": {
+    "message": "Modifier le lien",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "placeholder.title": {
+    "message": "Veuillez entrer le titre du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "placeholder.origin": {
+    "message": "Veuillez entrer le nom de domaine du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "placeholder.editUrl": {
+    "message": "Veuillez entrer le lien",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "placeholder.description": {
+    "message": "Veuillez entrer la description du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "placeholder.keywords": {
+    "message": "Veuillez entrer les mots-clés du site",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Veuillez entrer l'ID de l'invitant par défaut",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Veuillez entrer l'ID de l'invitant obligatoire",
+    "description": "Affiché dans le champ d'édition comme titre"
+  },
+  "message.uploadImageExceed": {
+    "message": "Le téléchargement de l'image dépasse la limite",
+    "description": "Alerte lorsque le téléchargement de l'image dépasse la limite"
+  },
+  "message.uploadImageError": {
+    "message": "Erreur lors du téléchargement de l'image",
+    "description": "Alerte lorsque le téléchargement de l'image échoue"
+  },
+  "message.editLogoTip": {
+    "message": "Dimensions recommandées : 200*60px",
+    "description": "Langage d'instruction pour le téléchargement d'image"
+  },
+  "message.editQRTip": {
+    "message": "Dimensions recommandées : 200*200px",
+    "description": "Langage d'instruction pour le téléchargement d'image"
+  },
+  "message.editFaviconTip": {
+    "message": "Taille recommandée : 32*32px",
+    "description": "Langage de conseil pour le téléchargement d'images"
+  },
+  "message.editUrl": {
+    "message": "Veuillez entrer le lien",
+    "description": "Conseil pour entrer le lien"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Conservez au moins un administrateur",
+    "description": "Conseil pour conserver au moins un administrateur"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "ID utilisateur de l'invitant par défaut. Si le lien de distribution ne contient pas le paramètre inviter_id, cet ID utilisateur sera utilisé par défaut comme invitant.",
+    "description": "Conseil pour l'ID de l'invitant par défaut"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "ID utilisateur de l'invitant forcé. Si cet ID est défini, cet ID utilisateur sera utilisé comme invitant, que le lien de distribution contienne ou non le paramètre inviter_id.",
+    "description": "Conseil pour l'ID de l'invitant forcé"
+  },
+  "message.originTip": {
+    "message": "Nom de domaine du site, la configuration du site est liée au nom de domaine et celui-ci ne peut pas être modifié.",
+    "description": "Conseil pour le nom de domaine du site"
+  },
+  "message.titleTip": {
+    "message": "Titre du site, affiché dans l'onglet du navigateur.",
+    "description": "Conseil pour le titre du site"
+  },
+  "message.descriptionTip": {
+    "message": "Description du site, située dans les métadonnées du site, utilisée pour l'optimisation SEO.",
+    "description": "Conseil pour la description du site"
+  },
+  "message.logoTip": {
+    "message": "Logo du site, affiché en haut du menu du site lorsque le menu est développé.",
+    "description": "Conseil pour le logo du site"
+  },
+  "message.faviconTip": {
+    "message": "Favicon du site, affiché dans l'onglet du navigateur.",
+    "description": "Conseil pour le favicon du site"
+  },
+  "message.adminsTip": {
+    "message": "ID des administrateurs du site. Par défaut, l'utilisateur ayant créé le site pour la première fois devient administrateur. Seuls les administrateurs du site peuvent gérer le site.",
+    "description": "Conseil pour l'administrateur du site"
+  },
+  "message.adminsTip2": {
+    "message": "Vous pouvez ajouter ou supprimer des ID d'administrateurs ici. Vous pouvez consulter les ID utilisateur sur https://auth.acedata.cloud",
+    "description": "Conseil pour l'administrateur du site"
+  },
+  "message.keywordsTip": {
+    "message": "Mots-clés du site, situés dans les métadonnées du site, utilisés pour l'optimisation SEO.",
+    "description": "Conseil pour les mots-clés du site"
+  },
+  "message.keywordsTip2": {
+    "message": "Vous pouvez ajouter ou supprimer des mots-clés du site ici. Plus les mots-clés sont précis, plus cela aide à l'optimisation SEO.",
+    "description": "Conseil pour les mots-clés du site"
+  },
+  "message.featuresChat": {
+    "message": "Activer ou désactiver le module fonction Chat.",
+    "description": "Description de la fonction Chat"
+  },
+  "message.featuresMidjourney": {
+    "message": "Activer ou désactiver le module fonction Midjourney.",
+    "description": "Description de la fonction Midjourney"
+  },
+  "message.featuresChatdoc": {
+    "message": "Activer ou désactiver le module fonction Chatdoc.",
+    "description": "Description de la fonction Chatdoc"
+  },
+  "message.featuresQrart": {
+    "message": "Activer ou désactiver le module fonction Qrart.",
+    "description": "Description de la fonction Qrart"
+  },
+  "message.featuresSuno": {
+    "message": "Activer ou désactiver le module fonction Suno.",
+    "description": "Description de la fonction Suno"
+  },
+  "message.featuresLuma": {
+    "message": "Activer ou désactiver le module fonction Luma.",
+    "description": "Description de la fonction Luma"
+  },
+  "message.featuresHeadshots": {
+    "message": "Activer ou désactiver le module fonction Photo d'identité AI.",
+    "description": "Description de la fonction Photo d'identité AI"
+  },
+  "message.featuresSupport": {
+    "message": "Activer ou désactiver le support client",
+    "description": "Description de la fonction Support"
+  },
+  "message.featuresI18n": {
+    "message": "Activer ou désactiver le support multilingue. Si désactivé, les utilisateurs ne peuvent utiliser que la langue par défaut.",
+    "description": "Description du support multilingue"
+  },
+  "button.upload": {
+    "message": "Télécharger",
+    "description": "Télécharger"
+  },
+  "button.enabled": {
+    "message": "Activé",
+    "description": "Texte du bouton indiquant que c'est déjà activé"
+  },
+  "button.disabled": {
+    "message": "Désactivé",
+    "description": "Texte du bouton indiquant que c'est déjà désactivé"
+  }
+}

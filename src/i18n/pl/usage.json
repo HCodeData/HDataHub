@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "Czas użycia",
+    "description": "Czas utworzenia rekordu użycia."
+  },
+  "field.statusCode": {
+    "message": "Kod statusu",
+    "description": "Kod statusu rekordu użycia."
+  },
+  "field.application": {
+    "message": "Aplikacja",
+    "description": "Aplikacja usługowa."
+  },
+  "field.status": {
+    "message": "Status",
+    "description": "Status aplikacji."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "API usługi."
+  },
+  "field.usedAmount": {
+    "message": "Ilość użyta",
+    "description": "Ilość użytych zasobów."
+  },
+  "field.deductedAmount": {
+    "message": "Ilość odjęta",
+    "description": "Ilość odjętych zasobów."
+  },
+  "field.remainingAmount": {
+    "message": "Ilość pozostała",
+    "description": "Ilość pozostałych zasobów."
+  },
+  "field.metadata": {
+    "message": "Metadane",
+    "description": "Metadane rekordu użycia."
+  }
+}

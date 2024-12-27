@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "Användningstid",
+    "description": "Tid för skapande av användningspost."
+  },
+  "field.statusCode": {
+    "message": "Statuskod",
+    "description": "Statuskoden för användningsposten."
+  },
+  "field.application": {
+    "message": "Ansökan",
+    "description": "Programmet för tjänstens ansökan."
+  },
+  "field.status": {
+    "message": "Status",
+    "description": "Statusen för ansökningsprogrammet."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "Tjänstens API."
+  },
+  "field.usedAmount": {
+    "message": "Använd mängd",
+    "description": "Mängden resurser som har använts."
+  },
+  "field.deductedAmount": {
+    "message": "Avdraget mängd",
+    "description": "Mängden resurser som har avdragits."
+  },
+  "field.remainingAmount": {
+    "message": "Återstående mängd",
+    "description": "Mängden resurser som återstår."
+  },
+  "field.metadata": {
+    "message": "Metadata",
+    "description": "Metadata för användningsposten."
+  }
+}

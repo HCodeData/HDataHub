@@ -1,0 +1,290 @@
+{
+  "field.title": {
+    "message": "Website-Titel",
+    "description": "展示在编辑框的标题"
+  },
+  "field.origin": {
+    "message": "Website-Domain",
+    "description": "展示在编辑框的标题"
+  },
+  "field.description": {
+    "message": "Website-Beschreibung",
+    "description": "展示在编辑框的标题"
+  },
+  "field.keywords": {
+    "message": "Website-Schlüsselwörter",
+    "description": "展示在编辑框的标题"
+  },
+  "field.logo": {
+    "message": "Website-Logo",
+    "description": "展示在编辑框的标题"
+  },
+  "field.favicon": {
+    "message": "Website-Favicon",
+    "description": "展示在编辑框的标题"
+  },
+  "field.qr": {
+    "message": "QR-Code",
+    "description": "展示在编辑框的标题"
+  },
+  "field.url": {
+    "message": "Link",
+    "description": "展示在编辑框的标题"
+  },
+  "field.admins": {
+    "message": "Website-Administrator ID",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "Standard-Einladungs-ID",
+    "description": "展示在编辑框的标题"
+  },
+  "field.distributionForceInviterId": {
+    "message": "Zwangseinladungs-ID",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChat": {
+    "message": "Chat",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresHeadshots": {
+    "message": "AI-Personalausweisfoto",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresSupport": {
+    "message": "Kundensupport",
+    "description": "展示在编辑框的标题"
+  },
+  "field.featuresI18n": {
+    "message": "Mehrsprachige Unterstützung",
+    "description": "展示在编辑框的标题"
+  },
+  "title.basicConfig": {
+    "message": "Grundeinstellungen",
+    "description": "展示在编辑框的标题"
+  },
+  "title.seoConfig": {
+    "message": "SEO-Einstellungen",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editAdmins": {
+    "message": "Administrator bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.featuresConfig": {
+    "message": "Funktionen konfigurieren",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editTitle": {
+    "message": "Titel bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editOrigin": {
+    "message": "Domain bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editKeywords": {
+    "message": "Schlüsselwörter bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editLogo": {
+    "message": "Logo bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editFavicon": {
+    "message": "Favicon bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDescription": {
+    "message": "Beschreibung bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.distributionConfig": {
+    "message": "Vertriebseinstellungen",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Standard-Einladungsnehmer bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Zwangseinladungsnehmer bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editQR": {
+    "message": "QR-Code bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "title.editUrl": {
+    "message": "Link bearbeiten",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.title": {
+    "message": "Website-Titel eingeben",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.origin": {
+    "message": "Website-Domain eingeben",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editUrl": {
+    "message": "Link eingeben",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.description": {
+    "message": "Website-Beschreibung eingeben",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.keywords": {
+    "message": "Website-Schlüsselwörter eingeben",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Standard-Einladungs-ID eingeben",
+    "description": "展示在编辑框的标题"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Zwangseinladungs-ID eingeben",
+    "description": "展示在编辑框的标题"
+  },
+  "message.uploadImageExceed": {
+    "message": "Bild hochladen über dem Limit",
+    "description": "上传图片超过限制的提示"
+  },
+  "message.uploadImageError": {
+    "message": "Fehler beim Hochladen des Bildes",
+    "description": "上传图片错误的提示"
+  },
+  "message.editLogoTip": {
+    "message": "Empfohlene Größe: 200*60px",
+    "description": "上传图片的提示语言"
+  },
+  "message.editQRTip": {
+    "message": "Empfohlene Größe: 200*200px",
+    "description": "上传图片的提示语言"
+  },
+  "message.editFaviconTip": {
+    "message": "Empfohlene Größe: 32*32px",
+    "description": "Hilfe für das Hochladen von Bildern"
+  },
+  "message.editUrl": {
+    "message": "Bitte Link eingeben",
+    "description": "Hilfe für die Eingabe des Links"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Mindestens einen Administrator behalten",
+    "description": "Hilfe, um mindestens einen Administrator zu behalten"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "Standard-Einladenden Benutzer-ID. Wenn der Distributionslink keinen inviter_id-Parameter enthält, wird standardmäßig diese Benutzer-ID als Einladender verwendet.",
+    "description": "Hilfe für die Standard-Einladenden-ID"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "Eingeschränkte Einladenden Benutzer-ID. Wenn diese ID gesetzt ist, wird unabhängig davon, ob der Distributionslink einen inviter_id-Parameter enthält, diese Benutzer-ID als Einladender verwendet.",
+    "description": "Hilfe für die eingeschränkte Einladenden-ID"
+  },
+  "message.originTip": {
+    "message": "Seiten-Domain. Die Seitenkonfiguration ist an die Domain gebunden und kann nicht geändert werden.",
+    "description": "Hilfe für die Seiten-Domain"
+  },
+  "message.titleTip": {
+    "message": "Seitentitel, der im Browser-Tab angezeigt wird.",
+    "description": "Hilfe für den Seitentitel"
+  },
+  "message.descriptionTip": {
+    "message": "Seitenbeschreibung, die sich in den Seiten-Metadaten befindet und zur SEO-Optimierung dient.",
+    "description": "Hilfe für die Seitenbeschreibung"
+  },
+  "message.logoTip": {
+    "message": "Seiten-Logo, das angezeigt wird, wenn das Menü geöffnet ist.",
+    "description": "Hilfe für das Seiten-Logo"
+  },
+  "message.faviconTip": {
+    "message": "Seiten-Favicon, das im Browser-Tab angezeigt wird.",
+    "description": "Hilfe für das Seiten-Favicon"
+  },
+  "message.adminsTip": {
+    "message": "Seiten-Administrator-ID. Standardmäßig wird der Benutzer, der die Seite zuerst erstellt, Administrator und nur Seiten-Administratoren können die Seite verwalten.",
+    "description": "Hilfe für die Seiten-Administratoren"
+  },
+  "message.adminsTip2": {
+    "message": "Hier können Administrator-IDs hinzugefügt oder entfernt werden. Benutzer-IDs können unter https://auth.acedata.cloud eingesehen werden",
+    "description": "Hilfe für die Seiten-Administratoren"
+  },
+  "message.keywordsTip": {
+    "message": "Seiten-Schlüsselwörter, die in den Seiten-Metadaten enthalten sind und zur SEO-Optimierung dienen.",
+    "description": "Hilfe für die Seiten-Schlüsselwörter"
+  },
+  "message.keywordsTip2": {
+    "message": "Hier können Website-Schlüsselwörter hinzugefügt oder entfernt werden. Je präziser die Schlüsselwörter, desto besser für die SEO-Optimierung.",
+    "description": "Hilfe für die Seiten-Schlüsselwörter"
+  },
+  "message.featuresChat": {
+    "message": "Chat-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Chat-Funktion"
+  },
+  "message.featuresMidjourney": {
+    "message": "Midjourney-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Midjourney-Funktion"
+  },
+  "message.featuresChatdoc": {
+    "message": "Chatdoc-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Chatdoc-Funktion"
+  },
+  "message.featuresQrart": {
+    "message": "Qrart-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Qrart-Funktion"
+  },
+  "message.featuresSuno": {
+    "message": "Suno-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Suno-Funktion"
+  },
+  "message.featuresLuma": {
+    "message": "Luma-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der Luma-Funktion"
+  },
+  "message.featuresHeadshots": {
+    "message": "AI-Passfoto-Funktion aktivieren oder deaktivieren.",
+    "description": "Beschreibung der AI-Passfoto-Funktion"
+  },
+  "message.featuresSupport": {
+    "message": "Kundenservice-Support aktivieren oder deaktivieren",
+    "description": "Beschreibung der Support-Funktion"
+  },
+  "message.featuresI18n": {
+    "message": "Mehrsprachigkeit aktivieren oder deaktivieren. Bei Deaktivierung können Benutzer nur die Standardsprache verwenden.",
+    "description": "Beschreibung der mehrsprachigen Unterstützung"
+  },
+  "button.upload": {
+    "message": "Hochladen",
+    "description": "Hochladen"
+  },
+  "button.enabled": {
+    "message": "Aktiviert",
+    "description": "Schaltertext, der anzeigt, dass es aktiviert ist"
+  },
+  "button.disabled": {
+    "message": "Deaktiviert",
+    "description": "Schaltertext, der anzeigt, dass es deaktiviert ist"
+  }
+}

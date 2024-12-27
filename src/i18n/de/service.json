@@ -1,0 +1,130 @@
+{
+  "button.learnMore": {
+    "message": "Mehr erfahren",
+    "description": "Text auf dem Button, um mehr Informationen über den Service zu erhalten."
+  },
+  "button.apply": {
+    "message": "Jetzt bewerben",
+    "description": "Text auf dem Button, um sich für den Service zu bewerben."
+  },
+  "button.introduction": {
+    "message": "Serviceeinführung",
+    "description": "Text auf dem Button, um die Einführung des Services zu sehen."
+  },
+  "button.apis": {
+    "message": "API-Beschreibung",
+    "description": "Text auf dem Button, um die API-Beschreibung anzuzeigen."
+  },
+  "button.pricing": {
+    "message": "Preise",
+    "description": "Text auf dem Button, um Preisinformationen anzuzeigen."
+  },
+  "field.price": {
+    "message": "Preis",
+    "description": "Der Preis des Services."
+  },
+  "field.introduction": {
+    "message": "Einführung",
+    "description": "Die Einführung des Services."
+  },
+  "field.apis": {
+    "message": "APIs",
+    "description": "Die APIs des Services, APIs sind eine Form von Online-Diensten."
+  },
+  "field.proxies": {
+    "message": "Proxys",
+    "description": "Die Proxys des Services, Proxys sind eine Form von Online-Diensten, die zum Übertragen von Daten verwendet werden."
+  },
+  "message.free": {
+    "message": "Kostenlos",
+    "description": "Text, der angezeigt wird, wenn der Service kostenlos ist, was bedeutet, dass der Service kostenlos ist."
+  },
+  "message.around": {
+    "message": "ungefähr",
+    "description": "Text, der angezeigt wird, wenn der Preis ungefähr einen bestimmten Wert hat."
+  },
+  "message.welcomeCredits": {
+    "message": "Willkommenscredits",
+    "description": "Text, der angezeigt wird, wenn der Service kostenlose Willkommenscredits anbietet."
+  },
+  "message.appliedCount": {
+    "message": "Anzahl der Bewerbungen",
+    "description": "Text, der angezeigt wird, wenn die Anzahl der Bewerbungen gezählt wird."
+  },
+  "message.indexTitle": {
+    "message": "Die kluge Wahl für Ihre digitalen Dienste",
+    "description": "Der Titel auf der Startseite."
+  },
+  "message.indexSubtitle": {
+    "message": "Stärken Sie Ihre Arbeit und Ihr Leben mit den Standards der Exzellenz des Services.",
+    "description": "Der Untertitel auf der Startseite."
+  },
+  "message.fromPrice": {
+    "message": "Ab",
+    "description": "Text, der vor dem Preis angezeigt wird."
+  },
+  "message.packages": {
+    "message": "Wir bieten verschiedene Pakete von Credits an, je mehr Pakete Sie kaufen, desto mehr Rabatte erhalten Sie.",
+    "description": "Text, der angezeigt wird, wenn der Service Credit-Pakete anbietet."
+  },
+  "message.offer": {
+    "message": "Angebot",
+    "description": "Text, der angezeigt wird, wenn der Service ein Angebot macht."
+  },
+  "message.partnersTitle": {
+    "message": "Das Vertrauen führender Partner gewinnen",
+    "description": "Der Titel des Partnerbereichs."
+  },
+  "title.apis": {
+    "message": "APIs",
+    "description": "Die APIs des Services, APIs sind eine Form von Online-Diensten."
+  },
+  "title.proxies": {
+    "message": "Proxys",
+    "description": "Die Proxys des Services, Proxys sind eine Form von Online-Diensten, die zum Übertragen von Daten verwendet werden."
+  },
+  "title.packages": {
+    "message": "Pakete",
+    "description": "Die Pakete des Services, Pakete dienen zum Kauf von Credits, z.B. bietet der Service 3 Pakete an: 100 US-Dollar für 100 Credits, 200 US-Dollar für 200 Credits, und 300 US-Dollar für 300 Credits."
+  },
+  "unit.credit": {
+    "message": "Credit",
+    "description": "Credits sind die virtuelle Währung, die im API-Service verwendet wird."
+  },
+  "unit.Credit": {
+    "message": "Credit",
+    "description": "Credits sind die virtuelle Währung, die im API-Service verwendet wird, in Großbuchstaben."
+  },
+  "unit.credits": {
+    "message": "Credits",
+    "description": "Credits sind die virtuelle Währung, die im API-Service verwendet wird, in Pluralform."
+  },
+  "unit.Credits": {
+    "message": "Credits",
+    "description": "Credits sind die virtuelle Währung, die im API-Service verwendet wird, in Großbuchstaben und Pluralform."
+  },
+  "unit.call": {
+    "message": "Aufruf",
+    "description": "Ein Aufruf ist die Anzahl der Male, die der API-Service aufgerufen wird."
+  },
+  "unit.Call": {
+    "message": "Aufruf",
+    "description": "Ein Aufruf ist die Anzahl der Male, die der API-Service aufgerufen wird, in Großbuchstaben."
+  },
+  "unit.calls": {
+    "message": "Aufrufe",
+    "description": "Aufrufe sind die Anzahl der Male, die der API-Service aufgerufen wird, in Pluralform."
+  },
+  "unit.Calls": {
+    "message": "Aufrufe",
+    "description": "Aufrufe sind die Anzahl der Male, die der API-Service aufgerufen wird, in Großbuchstaben und Pluralform."
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "MB steht für Megabyte, eine Einheit zur Speicherung digitaler Informationen."
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "GB steht für Gigabyte, eine Einheit zur Speicherung digitaler Informationen."
+  }
+}

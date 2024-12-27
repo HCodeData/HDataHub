@@ -1,0 +1,1918 @@
+{
+  "style.cute": {
+    "message": "Niedlich",
+    "description": "Button-Text, der den 'Niedlich'-Stil repräsentiert"
+  },
+  "style.expressive": {
+    "message": "Ausdrucksstark",
+    "description": "Button-Text, der den 'Ausdrucksstark'-Stil repräsentiert"
+  },
+  "style.original": {
+    "message": "Original",
+    "description": "Button-Text, der den 'Original'-Stil repräsentiert"
+  },
+  "style.scenic": {
+    "message": "Szenerie",
+    "description": "Button-Text, der den 'Szenerie'-Stil repräsentiert"
+  },
+  "style.raw": {
+    "message": "Roh",
+    "description": "Button-Text, der den 'Roh'-Stil repräsentiert"
+  },
+  "styleCategory.special": {
+    "message": "Besonderheit",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Kategorie des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleCategory.chinese": {
+    "message": "Chinesischer Stil",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Kategorie des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleCategory.emotion": {
+    "message": "Emotion",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Kategorie des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleCategory.camera": {
+    "message": "Kamera",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Kategorie des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleCategory.styles": {
+    "message": "Stile",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Kategorie des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleCategory.lighting": {
+    "message": "Beleuchtung",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Kategorie des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleCategory.painters": {
+    "message": "Maler",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Kategorie des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleCategory.material": {
+    "message": "Material",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Kategorie des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleCategory.artists": {
+    "message": "Künstler",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Kategorie des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.watercolour": {
+    "message": "Aquarell",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.oilPainting": {
+    "message": "Ölgemälde",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.oldPhotograph": {
+    "message": "Altes Foto",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.oneLineDrawing": {
+    "message": "Einlinienzeichnung",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.sketchDrawing": {
+    "message": "Skizze",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.gouache": {
+    "message": "Gouache",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.filmStyle": {
+    "message": "Filmstil",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.photorealistic": {
+    "message": "Fotorealistisch",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.logo": {
+    "message": "Logo",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.cartoon": {
+    "message": "Cartoon",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.marbleStatue": {
+    "message": "Marmorskulptur",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.1800S": {
+    "message": "Neunzehntes Jahrhundert",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.1980S": {
+    "message": "Achtziger Jahre",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.isometricAnime": {
+    "message": "Isometrisches Anime",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.analyticDrawing": {
+    "message": "Analytische Zeichnung",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.coloringBook": {
+    "message": "Malbuch",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.infographicDrawing": {
+    "message": "Infografikzeichnung",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.doubleExposure": {
+    "message": "Doppelte Belichtung",
+    "description": "Wörtlich für die Beschreibung und Generierung von Bildern, die Stil des erzeugten Bildes soll dieses Etikett enthalten"
+  },
+  "styleTag.diagrammaticDrawing": {
+    "message": "Diagrammatische Zeichnung",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.2DIllustration": {
+    "message": "2D-Illustration",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.diagrammaticPortrait": {
+    "message": "Diagrammatisches Porträt",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.pixelArt": {
+    "message": "Pixelkunst",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.darkFantasy": {
+    "message": "Dunkle Fantasie",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.ukiyoEArt": {
+    "message": "Ukiyo-e Kunst",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.paperQuilling": {
+    "message": "Papierquilling",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.paperCutCraft": {
+    "message": "Papier-Cut-Handwerk",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.iridescent": {
+    "message": "Irideszent",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.patchworkCollage": {
+    "message": "Patchwork-Collage",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.opArt": {
+    "message": "Optische Täuschung Kunst",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.japaneseInk": {
+    "message": "Japanische Tinte",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.pastelDrawing": {
+    "message": "Pastellzeichnung",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.drippingArt": {
+    "message": "Tropfkunst",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.tattooArt": {
+    "message": "Tattoo Kunst",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.16Bit": {
+    "message": "16-Bit",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.8Bit": {
+    "message": "8-Bit",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.amber": {
+    "message": "Bernstein",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.anatomicalDrawing": {
+    "message": "Anatomische Zeichnung",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.ancient": {
+    "message": "Antik",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.anime": {
+    "message": "Anime",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.arabic": {
+    "message": "Arabisch",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.blocky": {
+    "message": "Blockartig",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.blueprint": {
+    "message": "Bauplan",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.comicbook": {
+    "message": "Comicbuch",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.caribbean": {
+    "message": "Karibisch",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.celestial": {
+    "message": "Himmlisch",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.cellulose": {
+    "message": "Cellulose",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.charcoalStyle": {
+    "message": "Kohlezeichnung",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.chromatic": {
+    "message": "Chromatisch",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.coral": {
+    "message": "Koralle",
+    "description": "Verwendet, um den Stil zum Beschreiben und Erzeugen von Bildern zu kennzeichnen. Die generierten Bilder sollten diesen Stil enthalten."
+  },
+  "styleTag.conceptArt": {
+    "message": "Konzeptkunst",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.fibonacci": {
+    "message": "Fibonacci",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.cyberpunk": {
+    "message": "Cyberpunk",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.diabolic": {
+    "message": "Diabolisch",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.diffractionGrading": {
+    "message": "Beugungsgradierung",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.lightspeed": {
+    "message": "Lichtgeschwindigkeit",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.liquid": {
+    "message": "Flüssig",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.dots": {
+    "message": "Punktmuster",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.dune": {
+    "message": "Düne",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.drippingPaint": {
+    "message": "Tropfende Farbe",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.electronicCircuitry": {
+    "message": "Elektronische Schaltungen",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.electrical": {
+    "message": "Elektrisch",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.futuristic": {
+    "message": "Futuristisch",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.etching": {
+    "message": "Radierung",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.extraterrestrial": {
+    "message": "Außerirdisch",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.glitchart": {
+    "message": "Fehlerkunst",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.floral": {
+    "message": "Blumenmuster",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.fractal": {
+    "message": "Fraktal",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.preHistoric": {
+    "message": "Vorgeschichte",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.prokaryotic": {
+    "message": "Prokaryotisch",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.horror": {
+    "message": "Horror",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.iceAge": {
+    "message": "Eiszeit",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.jurassic": {
+    "message": "Jurassisch",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.knitted": {
+    "message": "Gestrickt",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.polka": {
+    "message": "Punktemuster",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.latex": {
+    "message": "Latex",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.pastel": {
+    "message": "Pastell",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.mandala": {
+    "message": "Mandala",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.molecular": {
+    "message": "Molekular",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.merkaba": {
+    "message": "Merkaba",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.mitochondria": {
+    "message": "Mitochondrien",
+    "description": "用于描述和生成图像的风格词，生成的图像应包含此标签的风格。"
+  },
+  "styleTag.graffiti": {
+    "message": "Graffiti",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.graphicNovel": {
+    "message": "Grafischer Roman",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.multidimensional": {
+    "message": "Mehrdimensional",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.nasa": {
+    "message": "NASA",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.nebula": {
+    "message": "Nebula",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.neon": {
+    "message": "Neon",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.nuclear": {
+    "message": "Nuklear",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.orbital": {
+    "message": "Orbital",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.rayTracing": {
+    "message": "Strahlenverfolgung",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.realistic": {
+    "message": "Realistisch",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.renaissance": {
+    "message": "Renaissance",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.retro": {
+    "message": "Retro",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.risograph": {
+    "message": "Risographie",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.origami": {
+    "message": "Origami",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.ornamental": {
+    "message": "Zierlich",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.space": {
+    "message": "Weltraum",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.splatterPaint": {
+    "message": "Fleckenfarbe",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.sprayPaint": {
+    "message": "Sprayfarbe",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.squiggles": {
+    "message": "Gekritzel",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.stitching": {
+    "message": "Nähen",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.veins": {
+    "message": "Venen",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.streetArt": {
+    "message": "Straßenkunst",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.surreal": {
+    "message": "Surrealistisch",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.symmetric": {
+    "message": "Symmetrisch",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.synthWave": {
+    "message": "Synthwave",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.technological": {
+    "message": "Technologischer Stil",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.tron": {
+    "message": "Tron",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.tropical": {
+    "message": "Tropisch",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.ultraModern": {
+    "message": "Ultra-modern",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.wormhole": {
+    "message": "Wurmloch",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.wrinkled": {
+    "message": "Faltig",
+    "description": "Ein Stilwort zur Beschreibung und Generierung von Bildern, die Bilder sollten den Stil mit diesem Tag enthalten."
+  },
+  "styleTag.volcanic": {
+    "message": "Vulkan",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.wetPaint": {
+    "message": "Feuchte Farbe",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.wildWest": {
+    "message": "Wilder Westen",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.wind": {
+    "message": "Landschaft",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.miniatureFaking": {
+    "message": "Miniatur­simulation",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.accentLighting": {
+    "message": "Akzentbeleuchtung",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.backlight": {
+    "message": "Gegenlicht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.blacklight": {
+    "message": "UV-Licht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.goldenHourLight": {
+    "message": "Goldene Stunde Licht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.candlelight": {
+    "message": "Kerzenlicht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.concertLighting": {
+    "message": "Konzertbeleuchtung",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.crepuscularRays": {
+    "message": "Dämmerlichtstrahlen",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.directSunlight": {
+    "message": "Direktes Sonnenlicht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.dust": {
+    "message": "Staub",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.studioLighting": {
+    "message": "Studiolicht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.rimLight": {
+    "message": "Randschein",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.volumetricLighting": {
+    "message": "Volumenlicht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.fluorescent": {
+    "message": "Leuchtstofflampe",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.glowing": {
+    "message": "Leuchtend",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.glowStick": {
+    "message": "Leuchtstab",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.glowRadioactive": {
+    "message": "Radioaktives Leuchten",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.lavaGlow": {
+    "message": "Lava Leuchten",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.moonlight": {
+    "message": "Mondlicht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.naturalLighting": {
+    "message": "Naturlicht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.neonLamp": {
+    "message": "Neonlampe",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.nightclubLighting": {
+    "message": "Nachtklubbeleuchtung",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.nuclearWasteGlo": {
+    "message": "Nuklearschrott-leuchten",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.quantumDot": {
+    "message": "Quantenpunkt",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.spotlight": {
+    "message": "Scheinwerfer",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.edgeLight": {
+    "message": "Kantenlicht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.coldLight": {
+    "message": "Kaltlicht",
+    "description": "Ein Stilbegriff zur Beschreibung und Erstellung von Bildern, die diesen Stil enthalten sollten."
+  },
+  "styleTag.keyLighting": {
+    "message": "Schlüsselbeleuchtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.ambientLight": {
+    "message": "Umgebungslicht",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.highKeyLighting": {
+    "message": "Hochformatbeleuchtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.lowKeyLighting": {
+    "message": "Niederformatbeleuchtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.motivatedLighting": {
+    "message": "Motivierte Beleuchtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.3PointLighting": {
+    "message": "Dreipunktbeleuchtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.strobeLight": {
+    "message": "Blitzlicht",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.sunLight": {
+    "message": "Sonnenlicht",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.ultraviolet": {
+    "message": "Ultraviolett",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.beautifulLighting": {
+    "message": "Schöne Beleuchtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.moodyLighting": {
+    "message": "Stimmungsvolle Beleuchtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.softLighting": {
+    "message": "Sanfte Beleuchtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.michelangelo": {
+    "message": "Michelangelo",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.monet": {
+    "message": "Monet",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.paulCezanne": {
+    "message": "Paul Cézanne",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.markRothko": {
+    "message": "Mark Rothko",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.paulKlee": {
+    "message": "Paul Klee",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.picasso": {
+    "message": "Picasso",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.pietMondrian": {
+    "message": "Piet Mondrian",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.pierreAugusteRer": {
+    "message": "Pierre-Auguste Renoir",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.rembrandt": {
+    "message": "Rembrandt",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.reneMagritte": {
+    "message": "René Magritte",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.royLichtenstein": {
+    "message": "Roy Lichtenstein",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.salvadorDali": {
+    "message": "Salvador Dalí",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.sandroBotticelli": {
+    "message": "Sandro Botticelli",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.takashiMurakami": {
+    "message": "Murakami Takashi",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.vanGogh": {
+    "message": "Van Gogh",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.wassilyKandinsky": {
+    "message": "Wassily Kandinsky",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.matCollishaw": {
+    "message": "Mat Collishaw",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildstilen, die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.yayoiKusama": {
+    "message": "Yayoi Kusama",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.igorMorski": {
+    "message": "Igor Morski",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.shinkaiMakoto": {
+    "message": "Makoto Shinkai",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.pixar": {
+    "message": "Pixar",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.kyotoAnime": {
+    "message": "Kyoto Animation",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.jerryPinkney": {
+    "message": "Jerry Pinkney",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.hayaoMiyazaki": {
+    "message": "Hayao Miyazaki",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.beatrixPotter": {
+    "message": "Beatrix Potter",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.jonKlassen": {
+    "message": "Jon Klassen",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.kaySage": {
+    "message": "Kay Sage",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.jeffreyCatherineJones": {
+    "message": "Jeffrey Catherine Jones",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.yaacovAgam": {
+    "message": "Yaacov Agam",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.davidHockney": {
+    "message": "David Hockney",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.victorMoscoso": {
+    "message": "Victor Moscoso",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.raphaelite": {
+    "message": "Raphaelite",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.stefanKoidl": {
+    "message": "Stefan Koidl",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.suiIshida": {
+    "message": "Sui Ishida",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.swoon": {
+    "message": "Schwärmerei",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.tashaTudor": {
+    "message": "Tasha Tudor",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.tintoretto": {
+    "message": "Tintoretto",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.theodoreRobinsor": {
+    "message": "Theodore Robinson",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.titian": {
+    "message": "Titian",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.wlop": {
+    "message": "WLOP",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.yanjunCheng": {
+    "message": "Yanjun Cheng",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.yojiShinkawa": {
+    "message": "Yoji Shinkawa",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.zhelongXu": {
+    "message": "Zhelong Xu",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.alenaAenami": {
+    "message": "Alena Aenami",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.anntonFadeevi": {
+    "message": "Annton Fadeevi",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.charlieBowater": {
+    "message": "Charlie Bowater",
+    "description": "Wort zur Beschreibung und Generierung von Bildern im Stil dieses Tags. Die generierten Bilder sollten den Stil dieses Tags enthalten."
+  },
+  "styleTag.coryLoftis": {
+    "message": "Cory Loftis",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.fenghuaZhong": {
+    "message": "Fenghua Zhong",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.gregRutkowski": {
+    "message": "Greg Rutkowski",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.hongSoonsang": {
+    "message": "Hong Soonsang",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.dennisStock": {
+    "message": "Dennis Stock",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.michalLisowski": {
+    "message": "Michal Lisowski",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.paulLehr": {
+    "message": "Paul Lehr",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.rossTran": {
+    "message": "Ross Tran",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.antonPieck": {
+    "message": "Anton Pieck",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.carlBarks": {
+    "message": "Carl Barks",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.alphonseMucha": {
+    "message": "Alphonse Mucha",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.andyWarhol": {
+    "message": "Andy Warhol",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.banksy": {
+    "message": "Banksy",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.franciscoDeGoya": {
+    "message": "Francisco de Goya",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.caravaggio": {
+    "message": "Caravaggio",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.diegoRivera": {
+    "message": "Diego Rivera",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.marcChagall": {
+    "message": "Marc Chagall",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.edgarDegas": {
+    "message": "Edgar Degas",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.eugeneDelacroix": {
+    "message": "Eugène Delacroix",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.francisBacon": {
+    "message": "Francis Bacon",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.fridaKahlo": {
+    "message": "Frida Kahlo",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.garaldBrom": {
+    "message": "Gerald Brom",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.gustavKlimt": {
+    "message": "Gustav Klimt",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.henriMatisse": {
+    "message": "Henri Matisse",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.jackKirby": {
+    "message": "Jack Kirby",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.jacksonPollock": {
+    "message": "Jackson Pollock",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.johannesVermeer": {
+    "message": "Johannes Vermeer",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.jeanMichelBasquiat": {
+    "message": "Jean-Michel Basquiat",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.marcelDuchamp": {
+    "message": "Marcel Duchamp",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil dieses Tags."
+  },
+  "styleTag.aluminum": {
+    "message": "Aluminium",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.brick": {
+    "message": "Ziegel",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.bronze": {
+    "message": "Bronze",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.carbonFiber": {
+    "message": "Kohlenstofffaser",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.cardboard": {
+    "message": "Pappe",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.ceramic": {
+    "message": "Keramik",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.cotton": {
+    "message": "Baumwolle",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.fabric": {
+    "message": "Stoff",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.fiberOptic": {
+    "message": "Lichtwelle",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.foil": {
+    "message": "Folie",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.yarn": {
+    "message": "Garn",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.glass": {
+    "message": "Glas",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.gold": {
+    "message": "Gold",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.gummies": {
+    "message": "Gummibärchen",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.leather": {
+    "message": "Leder",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.magma": {
+    "message": "Magma",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.metallic": {
+    "message": "Metallisch",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.nickel": {
+    "message": "Nickel",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.nylon": {
+    "message": "Nylon",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.paper": {
+    "message": "Papier",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.plastic": {
+    "message": "Kunststoff",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.quartz": {
+    "message": "Quarz",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.wrap": {
+    "message": "Verpackung",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.wooden": {
+    "message": "Holz",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.slime": {
+    "message": "Schleim",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.engraving": {
+    "message": "Gravur",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.ivory": {
+    "message": "Elfenbein",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.basalt": {
+    "message": "Basalt",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.pine": {
+    "message": "Kiefer",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.diamond": {
+    "message": "Diamant",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.amethyst": {
+    "message": "Amethyst",
+    "description": "Wort für den Stil, das zur Beschreibung und Generierung von Bildern verwendet wird. Das generierte Bild sollte diesen Stil enthalten."
+  },
+  "styleTag.ruby": {
+    "message": "Rubin",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.highPolished": {
+    "message": "Hochglanz",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.brushed": {
+    "message": "Bürstfinish",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.matte": {
+    "message": "Matt",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.satin": {
+    "message": "Satin",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.sandblasted": {
+    "message": "Sandstrahl",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.ebony": {
+    "message": "Ebenholz",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.bokeh": {
+    "message": "Bokeh-Effekt",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.aerialView": {
+    "message": "Luftansicht",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.shotByDslr": {
+    "message": "Aufgenommen mit DSLR",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.360Panorama": {
+    "message": "360-Grad-Panorama",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.panorama": {
+    "message": "Panoramafoto",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.telephotoLens": {
+    "message": "Aufnahme mit Teleobjektiv",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.macroShot": {
+    "message": "Makroaufnahme",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.microscopy": {
+    "message": "Mikroskopische Beobachtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.magnification": {
+    "message": "Vergrößerungsbeobachtung",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.closeUp": {
+    "message": "Nahaufnahme",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.fullBody": {
+    "message": "Ganzkörperfoto",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.portrait": {
+    "message": "Porträtfoto",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.profile": {
+    "message": "Profilfoto",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.pinholeLens": {
+    "message": "Aufnahme mit Lochkamera",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.wideView": {
+    "message": "Weitwinkelansicht",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.telescopeLens": {
+    "message": "Aufnahme mit Teleskoplinse",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.satelliteImagery": {
+    "message": "Satellitenbildaufnahmen",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.headshot": {
+    "message": "Kopfaufnahme",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.extremeCloseup": {
+    "message": "Extreme Nahaufnahme",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.ultrawideShot": {
+    "message": "Ultraweitwinkelaufnahme",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.birdView": {
+    "message": "Vogelperspektive",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.topView": {
+    "message": "Ansicht von oben",
+    "description": "Verwendet zur Beschreibung und Generierung von Bildern im Stil, das generierte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.frontView": {
+    "message": "Vorderansicht",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.sideView": {
+    "message": "Seitenansicht",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.backView": {
+    "message": "Rückansicht",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.faceShot": {
+    "message": "Gesichtsnahaufnahme",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.chestShot": {
+    "message": "Brustnahaufnahme",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.waistShot": {
+    "message": "Taillennahaufnahme",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.extraLongShot": {
+    "message": "Extra lange Aufnahme",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.lookUp": {
+    "message": "Aufwärtsblick",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.isometricview": {
+    "message": "Isometrische Ansicht",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.highAngleView": {
+    "message": "Hohe Perspektive",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.lowAngleView": {
+    "message": "Niedrige Perspektive",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.happy": {
+    "message": "Glücklich",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.excited": {
+    "message": "Aufgeregt",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.angry": {
+    "message": "Wütend",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.ped": {
+    "message": "Verärgert",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.disgusted": {
+    "message": "Ekel",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.supnned": {
+    "message": "Überrascht",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.hopeful": {
+    "message": "Hoffnungsvoll",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.anxious": {
+    "message": "Ängstlich",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.elated": {
+    "message": "Überglücklich",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.fearful": {
+    "message": "Ängstlich",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.hateful": {
+    "message": "Hassend",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.apoow": {
+    "message": "Empört",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.dark": {
+    "message": "Dunkel",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.brutal": {
+    "message": "Brutal",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.hanfu": {
+    "message": "Hanfu",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.cheongsam": {
+    "message": "Qipao",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.chineseCostume": {
+    "message": "Chinesische Kleidung",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.chineseDress": {
+    "message": "Chinesisches Kleid",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.wuxia": {
+    "message": "Wuxia",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.chinesePhoenix": {
+    "message": "Phönix",
+    "description": "Ein Stilbegriff, um Bilder zu beschreiben und zu generieren. Das generierte Bild sollte diesen Stil beinhalten."
+  },
+  "styleTag.kungfu": {
+    "message": "Kung Fu",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.kunquOpera": {
+    "message": "Kunqu-Oper",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.cloisonne": {
+    "message": "Cloisonné",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.porcelain": {
+    "message": "Porzellan",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.embroidered": {
+    "message": "Stickerei",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.jade": {
+    "message": "Jade",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.chinesePavilion": {
+    "message": "Chinesischer Pavillon",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.plumFlower": {
+    "message": "Pflaumenblüte",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.forbiddenCity": {
+    "message": "Verbotene Stadt",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.peony": {
+    "message": "Pfingstrose",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.unrealEngine": {
+    "message": "Unreal Engine",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.octaneRender": {
+    "message": "Octane-Render",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.maxonCinema4D": {
+    "message": "Maxon Cinema 4D",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.quixelMegascansRender": {
+    "message": "Quixel Megascans-Render",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.coronaRender": {
+    "message": "Corona-Render",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.vRay": {
+    "message": "V-Ray",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.architecturalVisualisation": {
+    "message": "Architektonische Visualisierung",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.dramaticContrast": {
+    "message": "Dramatischer Kontrast",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.goldAndBlackTone": {
+    "message": "Gold- und Schwarztöne",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.whiteAndPinkTone": {
+    "message": "Weiß- und Rosatöne",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.redAndBlackTone": {
+    "message": "Rot- und Schwarztöne",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.neonShades": {
+    "message": "Neonfarben",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.richColor": {
+    "message": "Reiche Farben",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.monotone": {
+    "message": "Monochrom",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.theLowPurityTone": {
+    "message": "Niedrigreine Töne",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "styleTag.theHighPurityTone": {
+    "message": "Hochreine Töne",
+    "description": "Ein Stilbegriff zur Beschreibung und Erzeugung von Bildern; das erzeugte Bild sollte den Stil dieses Tags enthalten."
+  },
+  "button.low": {
+    "message": "Niedrig",
+    "description": "Button-Text, der 'niedrige' Bildqualität anzeigt."
+  },
+  "button.medium": {
+    "message": "Mittel",
+    "description": "Button-Text, der 'mittel' Bildqualität anzeigt."
+  },
+  "button.high": {
+    "message": "Hoch",
+    "description": "Button-Text, der 'hohe' Bildqualität anzeigt."
+  },
+  "button.buyMore": {
+    "message": "Mehr kaufen",
+    "description": "Button-Text, der es dem Benutzer erlaubt, mehr Credits zu kaufen."
+  },
+  "button.uploadReferences": {
+    "message": "Referenzen hochladen",
+    "description": "Button-Text, der es dem Benutzer erlaubt, Referenzen hochzuladen."
+  },
+  "button.success": {
+    "message": "Erfolg",
+    "description": "Button-Text, der anzeigt, dass die Aktion erfolgreich war."
+  },
+  "button.generating": {
+    "message": "Generieren",
+    "description": "Button-Text, der anzeigt, dass die Operation im Gange ist"
+  },
+  "button.failed": {
+    "message": "Fehlgeschlagen",
+    "description": "Button-Text, der anzeigt, dass die Operation fehlgeschlagen ist"
+  },
+  "button.download": {
+    "message": "Herunterladen",
+    "description": "Button-Text, der dem Benutzer das Herunterladen der Ergebnisse ermöglicht"
+  },
+  "button.fast": {
+    "message": "Schnellmodus",
+    "description": "Button-Text, der es dem Benutzer ermöglicht, den 'Schnellmodus' auszuwählen, um das Bild schnell zu generieren"
+  },
+  "button.relax": {
+    "message": "Langsammodus",
+    "description": "Button-Text, der es dem Benutzer ermöglicht, den 'Langsammodus' auszuwählen, um das Bild in einem entspannenden Tempo zu generieren"
+  },
+  "button.turbo": {
+    "message": "Turbo-Modus",
+    "description": "Button-Text, der es dem Benutzer ermöglicht, den 'Turbo-Modus' auszuwählen, um das Bild blitzschnell zu generieren"
+  },
+  "button.more": {
+    "message": "Mehr",
+    "description": "Button-Text, der es dem Benutzer ermöglicht, weitere Optionen anzuzeigen"
+  },
+  "button.generate": {
+    "message": "Generieren",
+    "description": "Button-Text, der es dem Benutzer ermöglicht, ein Bild zu generieren"
+  },
+  "button.history": {
+    "message": "Verlauf",
+    "description": "Button-Text, der es dem Benutzer ermöglicht, den Verlauf der generierten Bilder anzuzeigen"
+  },
+  "button.generateNew": {
+    "message": "Neues Bild generieren",
+    "description": "Button-Text, der es dem Benutzer ermöglicht, ein neues Bild zu erzeugen"
+  },
+  "field.taskId": {
+    "message": "Aufgaben-ID",
+    "description": "Aufgaben-ID"
+  },
+  "field.imageId": {
+    "message": "Bild-ID",
+    "description": "Bild-ID"
+  },
+  "field.finalPrompt": {
+    "message": "Endgültiger Hinweis",
+    "description": "Der endgültige Hinweis zum Erstellen des Bildes"
+  },
+  "field.elements": {
+    "message": "Stil",
+    "description": "Der Malstil zur Erstellung des Bildes"
+  },
+  "field.failureReason": {
+    "message": "Fehlerschlüssel",
+    "description": "Grund für den Fehler"
+  },
+  "field.traceId": {
+    "message": "Trace-ID",
+    "description": "Trace-ID zur Verfolgung von Bildgenerierungsanfragen, nicht übersetzen, als 'Trace-ID' belassen"
+  },
+  "description.aspect": {
+    "message": "--aspect, das Seitenverhältnis des generierten Bildes ändern, der Standardwert hängt vom Modell und Modus ab",
+    "description": "Beschreibung des Seitenverhältnis-Parameters"
+  },
+  "description.chaos": {
+    "message": "--chaos, das Maß an Variationen im generierten Bild anpassen, je höher die Zahl, desto einzigartiger und überraschender ist das Bild, Bereich von 0-100, Standardwert ist 1",
+    "description": "Beschreibung des Chaos-Parameters"
+  },
+  "description.fast": {
+    "message": "Aktuelle Einstellungen ignorieren, einen einzelnen Generierungsvorgang im 'Schnellmodus' ausführen, kein Standardwert",
+    "description": "Beschreibung des Schnell-Parameters"
+  },
+  "description.iw": {
+    "message": "--iw, die Wichtigkeit des Bildhinweises im Vergleich zum Text hinweis während des Generierungsprozesses festlegen, Bereich von 0-2, Standardwert ist 1",
+    "description": "Beschreibung des iw-Parameters"
+  },
+  "description.no": {
+    "message": "--no, das Generierungssystem anweisen, bestimmte Elemente auszuschließen, z. B. '--no plants' versucht, ein Bild ohne Pflanzen zu erstellen, kein Standardwert",
+    "description": "Beschreibung des Ausschluss-Parameters, übersetzen als 'Ausschließen'"
+  },
+  "description.quality": {
+    "message": "--quality, die Qualität und Renderzeit des generierten Bildes festlegen, Bereich von .25, .5 oder 1, Standardwert ist 1",
+    "description": "Beschreibung des Qualitäts-Parameters"
+  },
+  "description.random": {
+    "message": "Fügen Sie dem Hinweis eine zufällige Basistilcode hinzu. Sie können '--style random-16', '--style random-64' oder '--style random-128' verwenden, um verschiedene Längen zufälliger Stil-Effekte zu erzielen, kein Standardwert",
+    "description": "Beschreibung des Zufalls-Parameters"
+  },
+  "description.relax": {
+    "message": "Aktuelle Einstellungen überschreiben, einen einzelnen Task im 'Langsammodus' ausführen, kein Standardwert",
+    "description": "Beschreibung des Entspannungs-Parameters"
+  },
+  "description.repeat": {
+    "message": "--repeat, mehrere Aufgaben aus einem Hinweis erstellen, Bereich von 1-40, Standardwert ist 1",
+    "description": "Beschreibung des Wiederholungs-Parameters"
+  },
+  "description.seed": {
+    "message": "--seed, das anfängliche visuelle Rauschen für die Generierung des Bildes, Bereich von 0-4294967295, Standardwert ist zufällig generiert",
+    "description": "Beschreibung des Seed-Parameters"
+  },
+  "description.stop": {
+    "message": "--stop, die Aufgabe in jeder Phase des Generierungsprozesses anhalten, Bereich von 10-100, Standardwert ist 100 (d.h. vollständige Generierung)",
+    "description": "Beschreibung des Stopp-Parameters"
+  },
+  "description.style": {
+    "message": "--style, zwischen verschiedenen Versionen oder Stilen des Midjourney- oder Niji-Modells wechseln, z. B. raw, cute, expressive, original, scenic, Standardwert hängt vom Modell und Modus ab",
+    "description": "Beschreibung des Stil-Parameters"
+  },
+  "description.stylize": {
+    "message": "--stylize, die Intensität des angewendeten Midjourney-Standardästhetiks während des Generierungsvorgangs anpassen, Bereich von 0-1000, Standardwert ist 100",
+    "description": "Beschreibung des Stil-Parameters"
+  },
+  "description.tile": {
+    "message": "--tile, Bilder generieren, die zum Erstellen nahtloser Kacheln verwendet werden können, kein Standardwert",
+    "description": "Beschreibung des Kachel-Parameters"
+  },
+  "description.turbo": {
+    "message": "Aktuelle Einstellungen überschreiben, einen einzelnen Task im 'Turbo-Modus' ausführen, kein Standardwert",
+    "description": "Beschreibung des Turbo-Parameters"
+  },
+  "description.weird": {
+    "message": "--weird, erkundet ungewöhnliche ästhetische Stile mit experimentellem Charakter, Bereich von 0-3000, Standardwert 0",
+    "description": "Beschreibung des Weird-Parameters"
+  },
+  "description.translation": {
+    "message": "Aktiviert die automatische Übersetzung während des Generierungsprozesses, nicht-chinesische Inhalte werden automatisch in die englische Eingabe von Midjourney übersetzt",
+    "description": "Beschreibung des Übersetzungsparameters"
+  },
+  "description.imageWeight": {
+    "message": "--iw, passt das Gewicht der Bildanweisung im Verhältnis zur Textanweisung an, Bereich von 0-2, Standardwert 1",
+    "description": "Beschreibung des Bildgewicht-Parameters"
+  },
+  "description.niji": {
+    "message": "--niji, aktiviert, erzeugt die Bilder mit dem Niji-Modell, um Anime-Stilbilder zu generieren",
+    "description": "Beschreibung des Niji-Parameters"
+  },
+  "description.uploadReferences": {
+    "message": "Laden Sie Bilder als Referenz für die Generierung hoch, bis zu 5 Bilder werden unterstützt. Wenn mehr als 1 Bild hochgeladen wird, werden diese automatisch zusammengeführt",
+    "description": "Beschreibung des Hochladen-Referenzen-Parameters"
+  },
+  "description.raw": {
+    "message": "--raw, aktiviert, erzeugt die Bilder im Midjourney-Modell, um Rohstilbilder zu generieren",
+    "description": "Beschreibung des Roh-Parameters"
+  },
+  "description.prompt": {
+    "message": "Geben Sie den Befehl ein, wenn zusätzliche Parameter hinzugefügt werden, überschreiben sie die Standardvorgabewerte, zum Beispiel das Hinzufügen von '--stylize 200' zwingt den endgültigen Befehl dazu, '--stylize 200' zu verwenden",
+    "description": "Beschreibung des Eingabefelds"
+  },
+  "action.generate": {
+    "message": "Klicken Sie auf diese Schaltfläche, um die Bilder zu generieren",
+    "description": "Beschreibung der Generieren-Schaltfläche"
+  },
+  "action.upscale1": {
+    "message": "Erste Bildvergrößerung",
+    "description": "Beschreibung der upscale1-Schaltfläche"
+  },
+  "action.upscale2": {
+    "message": "Zweite Bildvergrößerung",
+    "description": "Beschreibung der upscale2-Schaltfläche"
+  },
+  "action.upscale3": {
+    "message": "Dritte Bildvergrößerung",
+    "description": "Beschreibung der upscale3-Schaltfläche"
+  },
+  "action.upscale4": {
+    "message": "Vierte Bildvergrößerung",
+    "description": "Beschreibung der upscale4-Schaltfläche"
+  },
+  "action.variation1": {
+    "message": "Variation des ersten Bildes anpassen",
+    "description": "Beschreibung der variation1-Schaltfläche"
+  },
+  "action.variation2": {
+    "message": "Variation des zweiten Bildes anpassen",
+    "description": "Beschreibung der variation2-Schaltfläche"
+  },
+  "action.variation3": {
+    "message": "Variation des dritten Bildes anpassen",
+    "description": "Beschreibung der variation3-Schaltfläche"
+  },
+  "action.variation4": {
+    "message": "Variation des vierten Bildes anpassen",
+    "description": "Beschreibung der variation4-Schaltfläche"
+  },
+  "action.reroll": {
+    "message": "Neu generieren",
+    "description": "Beschreibung der reroll-Schaltfläche"
+  },
+  "action.variation_strong": {
+    "message": "Variation (stark)",
+    "description": "Beschreibung der hohen Variationsschaltfläche"
+  },
+  "action.variation_subtle": {
+    "message": "Variation (subtil)",
+    "description": "Beschreibung der geringen Variationsschaltfläche"
+  },
+  "action.upscale_creative": {
+    "message": "Vergrößerung (kreativ)",
+    "description": "Beschreibung der kreativen Vergrößerungsschaltfläche"
+  },
+  "action.upscale_subtle": {
+    "message": "Vergrößerung (subtil)",
+    "description": "Beschreibung der subtilen Vergrößerungsschaltfläche"
+  },
+  "action.redo_upscale_creative": {
+    "message": "Wiederholen der Vergrößerung (kreativ)",
+    "description": "Beschreibung der kreativen Wiederholungsvergrößerungsschaltfläche"
+  },
+  "action.redo_upscale_subtle": {
+    "message": "Wiederholen der Vergrößerung (subtil)",
+    "description": "Beschreibung der subtilen Wiederholungsvergrößerungsschaltfläche"
+  },
+  "action.zoom_out_2x": {
+    "message": "2x Verkleinern",
+    "description": "Beschreibung der 2-fachen Verkleinerungsschaltfläche"
+  },
+  "action.zoom_out_1_5x": {
+    "message": "1,5x Verkleinern",
+    "description": "Beschreibung der 1,5-fachen Verkleinerungsschaltfläche"
+  },
+  "action.square": {
+    "message": "Quadrat",
+    "description": "Beschreibung der Quadrat-Schaltfläche"
+  },
+  "action.pan_left": {
+    "message": "Nach links verschieben",
+    "description": "Beschreibung der nach links verschieben-Schaltfläche"
+  },
+  "action.pan_up": {
+    "message": "Nach oben verschieben",
+    "description": "Beschreibung der nach oben verschieben-Schaltfläche"
+  },
+  "action.pan_down": {
+    "message": "Nach unten verschieben",
+    "description": "Beschreibung der nach unten verschieben-Schaltfläche"
+  },
+  "action.pan_right": {
+    "message": "Nach rechts verschieben",
+    "description": "Beschreibung der nach rechts verschieben-Schaltfläche"
+  },
+  "action.zoom_in_2x": {
+    "message": "2x Vergrößern",
+    "description": "Beschreibung der 2-fachen Vergrößerungsschaltfläche"
+  },
+  "action.zoom_in_1_5x": {
+    "message": "1,5x Vergrößern",
+    "description": "Beschreibung der 1,5-fachen Vergrößerungsschaltfläche"
+  },
+  "action.upscale_2x": {
+    "message": "Vergrößerung 2x",
+    "description": "Beschreibung der 2-fachen Vergrößerungsschaltfläche"
+  },
+  "action.upscale_4x": {
+    "message": "Vergrößerung 4x",
+    "description": "Beschreibung der 4-fachen Vergrößerungsschaltfläche"
+  },
+  "action.redo_upscale_2x": {
+    "message": "Wiederholen von 2x Vergrößerung",
+    "description": "Beschreibung der Wiederholung von 2-facher Vergrößerungsschaltfläche"
+  },
+  "action.redo_upscale_4x": {
+    "message": "Wiederholen von 4x Vergrößerung",
+    "description": "Beschreibung der Wiederholung von 4-facher Vergrößerungsschaltfläche"
+  },
+  "message.promptPlaceholder": {
+    "message": "Bitte geben Sie eine Beschreibung ein, was Sie generieren möchten, z.B.: eine süße Katze. Zusätzliche Parameter überschreiben die Standardvorgaben.",
+    "description": "Platzhaltertext im Eingabefeld"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Es dürfen maximal 5 Bilder hochgeladen werden",
+    "description": "Fehlermeldung, wenn die Anzahl der hochgeladenen Bilder die Grenze überschreitet"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Bilder erfolgreich hochgeladen",
+    "description": "Erfolgsnachricht beim erfolgreichen Hochladen von Bildern"
+  },
+  "message.uploadReferencesError": {
+    "message": "Bild-Upload fehlgeschlagen, bitte versuchen Sie es später erneut",
+    "description": "Fehlermeldung beim Bild-Upload fehlgeschlagen"
+  },
+  "message.startingTask": {
+    "message": "Aufgabe wird gestartet...",
+    "description": "Nachricht beim Start der Zeichnungsaufgabe"
+  },
+  "message.startTaskSuccess": {
+    "message": "Zeichnungsaufgabe erfolgreich gestartet",
+    "description": "Erfolgsmeldung beim erfolgreichen Start der Zeichnungsaufgabe"
+  },
+  "message.startTaskFailed": {
+    "message": "Kann die Zeichnungsaufgabe nicht starten, bitte kontaktieren Sie den Administrator",
+    "description": "Fehlermeldung, wenn die Zeichnungsaufgabe nicht gestartet werden kann"
+  },
+  "message.generating": {
+    "message": "Wird generiert...",
+    "description": "Nachricht während der Bildgenerierung"
+  },
+  "message.noOperations": {
+    "message": "Keine verfügbaren Aktionen",
+    "description": "Nachricht, wenn keine Aktionen verfügbar sind"
+  },
+  "message.noTasks": {
+    "message": "Keine historischen Aufgaben, bitte starten Sie zuerst eine neue Aufgabe",
+    "description": "Nachricht, wenn keine historischen Aufgaben vorhanden sind"
+  },
+  "message.usedUp": {
+    "message": "Ihr Guthaben ist aufgebraucht, bitte kaufen Sie mehr Punkte, um fortzufahren",
+    "description": "Nachricht, wenn das Guthaben aufgebraucht ist"
+  },
+  "message.operation": {
+    "message": "Konfigurationsoptionen",
+    "description": "Details zu den Konfigurationsoptionen"
+  },
+  "model.general": {
+    "message": "Allgemein",
+    "description": "Modellname für die allgemeine Bildgenerierung"
+  },
+  "model.niji": {
+    "message": "Niji",
+    "description": "Modellname für die Erstellung von Anime-Stil-Bildern, bitte nicht übersetzen, behalten Sie 'Niji'"
+  },
+  "name.midjourneyBot": {
+    "message": "Midjourney Bot",
+    "description": "Name des Midjourney-Modells"
+  },
+  "name.model": {
+    "message": "Modell",
+    "description": "Modellname, der Begriff für Modelle, die zur Bildgenerierung im maschinellen Lernen verwendet werden"
+  },
+  "name.aspect": {
+    "message": "Seitenverhältnis",
+    "description": "Name des Parameters für das Seitenverhältnis"
+  },
+  "name.ratio": {
+    "message": "Verhältnis",
+    "description": "Name des Parameters für das Verhältnis"
+  },
+  "name.chaos": {
+    "message": "Chaosgrad",
+    "description": "Name des Parameters für den Chaosgrad, übersetzt als 'Chaosgrad'"
+  },
+  "name.fast": {
+    "message": "Schnell",
+    "description": "Name des schnellen Modus zur schnellen Bildgenerierung, übersetzt als 'Schneller Modus'"
+  },
+  "name.nijiStyle": {
+    "message": "Niji",
+    "description": "Name des nijiStyle-Parameters, bitte nicht übersetzen, behalten Sie 'Niji'"
+  },
+  "name.version": {
+    "message": "Version",
+    "description": "Name des Versionsparameters"
+  },
+  "name.imageWeight": {
+    "message": "Bildgewicht",
+    "description": "Name des Parameters für das Bildgewicht"
+  },
+  "name.no": {
+    "message": "Ausschließen",
+    "description": "Name des Parameters zum Ausschließen bestimmter Elemente, übersetzt als 'Ausschließen'"
+  },
+  "name.quality": {
+    "message": "Qualität",
+    "description": "Name des Parameters für die Bildqualität"
+  },
+  "name.mode": {
+    "message": "Geschwindigkeit",
+    "description": "Name des Parameters zur Einstellung der Bildgenerierungsgeschwindigkeit"
+  },
+  "name.random": {
+    "message": "Zufällig",
+    "description": "Name des Parameters zum Hinzufügen zufälliger Stilwirkungen"
+  },
+  "name.relax": {
+    "message": "Langsam",
+    "description": "Name des Entspannungsmodus zur Bildgenerierung im 'Langsam'-Modus, übersetzt als 'Langsam-Modus'"
+  },
+  "name.repeat": {
+    "message": "Wiederholen",
+    "description": "Name des Parameters zum Erstellen mehrerer Aufgaben aus einem Hinweis"
+  },
+  "name.seed": {
+    "message": "Saat",
+    "description": "Name des Parameters zur Einstellung des anfänglichen visuellen Rauschens"
+  },
+  "name.stop": {
+    "message": "Stoppen",
+    "description": "Name des Parameters zum Stoppen der Aufgabe in jeder Phase"
+  },
+  "name.style": {
+    "message": "Stil",
+    "description": "Name des Parameters zum Wechseln zwischen verschiedenen Versionen oder Stilen des Modells"
+  },
+  "name.stylize": {
+    "message": "Stilisieren",
+    "description": "Name des Parameters zur Anpassung der Intensität des standardmäßigen ästhetischen Stils"
+  },
+  "name.tile": {
+    "message": "Kacheln",
+    "description": "Name des Parameters zum Erstellen von Bildern, die für Kacheln verwendet werden können"
+  },
+  "name.turbo": {
+    "message": "Turbo",
+    "description": "Name des Turbo-Modus zur Bildgenerierung im 'Turbo'-Modus, übersetzt als 'Turbo-Modus'"
+  },
+  "name.weird": {
+    "message": "Bizarrheitsgrad",
+    "description": "Name des Parameters zum Erforschen ungewöhnlicher ästhetischer Stile, übersetzt als 'Bizarrheitsgrad'"
+  },
+  "name.translation": {
+    "message": "Übersetzung",
+    "description": "Name des Übersetzungsparameters zur Aktivierung der automatischen Übersetzung während des Generierungsprozesses"
+  },
+  "name.advanced": {
+    "message": "Erweiterte",
+    "description": "Name des erweiterten Modus zur Aktivierung des erweiterten Modus"
+  },
+  "name.niji": {
+    "message": "Niji",
+    "description": "Name des niji-Parameters zur Aktivierung des Niji-Modells, bitte nicht übersetzen, behalten Sie 'Niji'"
+  },
+  "name.ignore": {
+    "message": "Ignorieren",
+    "description": "Name des Parameters zum Ignorieren bestimmter Elemente"
+  },
+  "name.prompt": {
+    "message": "Eingabeaufforderung",
+    "description": "Name des Parameters zur Eingabe von Zeichnungsanweisungen"
+  },
+  "name.raw": {
+    "message": "Roh",
+    "description": "Name des Rohparameters zur Aktivierung des Midjourney-Modells"
+  },
+  "placeholder.prompt": {
+    "message": "Geben Sie einen Satz ein, der das Bild beschreibt, das Sie generieren möchten, z. B.: eine süße Katze. Zusätzliche Parameter überschreiben die standardmäßigen Voreinstellungen.",
+    "description": "Platzhaltertext im Eingabefeld"
+  },
+  "placeholder.ignore": {
+    "message": "Geben Sie Elemente ein, die ignoriert werden sollen, z. B. wenn Sie nicht möchten, dass Autos im Bild erscheinen, können Sie `Auto` eingeben.",
+    "description": "Platzhaltertext im Ignorieren-Feld"
+  },
+  "placeholder.select": {
+    "message": "Auswählen",
+    "description": "Platzhaltertext im Auswahlfeld"
+  },
+  "status.pending": {
+    "message": "Warten",
+    "description": "Eine Art von Status für die Aufgabe - noch nicht begonnen"
+  }
+}

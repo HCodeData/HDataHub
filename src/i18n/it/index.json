@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "Servizio AI personalizzato",
+    "description": "Titolo del capitolo sulle domande e risposte AI"
+  },
+  "subtitle.ai_custom": {
+    "message": "Offriamo servizi AI personalizzati, supportando l'espansione delle funzionalità e personalizzazioni approfondite per soddisfare le tue esigenze individuali, contribuendo a un'esecuzione efficiente del progetto.",
+    "description": "Servizio AI personalizzato"
+  },
+  "title.chat": {
+    "message": "Testo AI di successo",
+    "description": "Titolo del capitolo sulle domande e risposte AI"
+  },
+  "title.midjourney": {
+    "message": "Da testo a immagine",
+    "description": "Titolo del capitolo sull'arte AI"
+  },
+  "title.qrart": {
+    "message": "Codice QR artistico AI",
+    "description": "Titolo del capitolo sui codici QR artistici AI"
+  },
+  "title.digital_man": {
+    "message": "Persona digitale AI",
+    "description": "Titolo del capitolo sui codici QR artistici AI"
+  },
+  "title.sound_cloning": {
+    "message": "Clonazione vocale AI",
+    "description": "Titolo del capitolo sui codici QR artistici AI"
+  },
+  "title.suno": {
+    "message": "Creazione musicale AI",
+    "description": "Titolo del capitolo sulla musica AI"
+  },
+  "title.luma": {
+    "message": "Video AI",
+    "description": "Titolo del capitolo sui video AI"
+  },
+  "title.headshots": {
+    "message": "Foto identificative AI",
+    "description": "Titolo del capitolo sulle foto identificative AI"
+  },
+  "title.comments": {
+    "message": "-- Valutazioni utenti --",
+    "description": "Titolo del capitolo sulle valutazioni clienti"
+  },
+  "title.introduction": {
+    "message": "-- Assistente AI Super --",
+    "description": "Introduzione al sito"
+  },
+  "subtitle.banner": {
+    "message": "HarBO AI Assistent Super AI per le aziende",
+    "description": "Sottotitolo del sito"
+  },
+  "subtitle.chat": {
+    "message": "Supporta vari modelli di domande e risposte, con funzionalità di connessione a internet, in grado di riconoscere immagini, file e video.",
+    "description": "Titolo del capitolo sulle domande e risposte AI"
+  },
+  "subtitle.midjourney": {
+    "message": "Collegati all'ultimo modello Midjourney, genera immagini in vari stili con un click e affina continuamente.",
+    "description": "Titolo del capitolo sull'arte AI"
+  },
+  "subtitle.qrart": {
+    "message": "Supporta vari stili di codici QR artistici, consente di caricare codici QR esistenti e facilita la loro artizzazione per creare effetti visivi unici.",
+    "description": "Titolo del capitolo sui codici QR artistici AI"
+  },
+  "subtitle.digital_man": {
+    "message": "Offriamo soluzioni di persona digitale virtuale, supportando interazioni in tempo reale, promozione e spiegazioni in vari scenari.",
+    "description": "Titolo del capitolo sui codici QR artistici AI"
+  },
+  "subtitle.suno": {
+    "message": "Supporta vari stili musicali, genera facilmente la musica che desideri e offre opzioni flessibili per l'estensione della lunghezza.",
+    "description": "Titolo del capitolo sulla musica AI"
+  },
+  "subtitle.luma": {
+    "message": "Collegati all'ultimo modello Luma, genera video personalizzati con un click e supporta opzioni flessibili per l'estensione dei video.",
+    "description": "Titolo del capitolo sulla musica AI"
+  },
+  "subtitle.headshots": {
+    "message": "Collegati all'ultimo modello AI, genera foto identificative personalizzate con un click e supporta vari formati di foto identificative.",
+    "description": "Titolo del capitolo sulle foto identificative AI"
+  },
+  "subtitle.comments": {
+    "message": "Siamo felici di aver aiutato questi clienti, i quali hanno espresso valutazioni molto positive sui nostri servizi.",
+    "description": "Titolo del capitolo sulle valutazioni clienti"
+  },
+  "subtitle.introduction": {
+    "message": "Offriamo un servizio AI completo, incluse domande e risposte, arte, codici QR, musica e altre funzionalità per soddisfare le tue esigenze diversificate.",
+    "description": "Introduzione al sito"
+  },
+  "button.try": {
+    "message": "Clicca per provare",
+    "description": "Contenuto testuale"
+  },
+  "button.testEnv": {
+    "message": "Ambiente di prova",
+    "description": "Pulsante per l'ambiente di prova"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "Nome del cliente"
+  },
+  "customers.job1": {
+    "message": "Ingegnere del software",
+    "description": "Posizione del cliente"
+  },
+  "customers.comment1": {
+    "message": "Questo servizio integrato è semplicemente fantastico, posso utilizzare vari strumenti AI su una sola piattaforma, è incredibile!",
+    "description": "Commento del cliente"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "Nome del cliente"
+  },
+  "customers.job2": {
+    "message": "Product Manager",
+    "description": "Posizione del cliente"
+  },
+  "customers.comment2": {
+    "message": "La piattaforma è davvero facile da usare, la qualità del servizio è eccellente e ha notevolmente liberato la mia produttività.",
+    "description": "Commento del cliente"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "Nome del cliente"
+  },
+  "customers.job3": {
+    "message": "Designer",
+    "description": "Posizione del cliente"
+  },
+  "customers.comment3": {
+    "message": "Ci sono molte piattaforme AI, ma questa è davvero intuitiva, a un prezzo ragionevole, spero che possa migliorare ulteriormente!",
+    "description": "Commento del cliente"
+  }
+}

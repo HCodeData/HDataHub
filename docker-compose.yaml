@@ -1,0 +1,8 @@
+services:
+  hub-frontend:
+    container_name: 'hub-frontend'
+    platform: linux/amd64
+    build: ./
+    image: "ccr.ccs.tencentyun.com/hcodedata/hub-frontend:${BUILD_NUMBER}"
+    ports:
+      - 8080:80

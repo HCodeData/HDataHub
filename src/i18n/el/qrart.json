@@ -1,0 +1,454 @@
+{
+  "name.taskId": {
+    "message": "ID Εργασίας",
+    "description": "Το ID της εργασίας"
+  },
+  "name.type": {
+    "message": "Τύπος",
+    "description": "Ο τύπος περιεχομένου του QR κωδικού που θα παραχθεί, όπως 'σύνδεσμος', 'κείμενο', κ.λπ."
+  },
+  "name.failure": {
+    "message": "Αποτυχία",
+    "description": "Η κατάσταση αποτυχίας της εργασίας"
+  },
+  "name.failureReason": {
+    "message": "Λόγος αποτυχίας",
+    "description": "Ο λόγος που απέτυχε η εργασία"
+  },
+  "name.status": {
+    "message": "Κατάσταση",
+    "description": "Η κατάσταση της εργασίας"
+  },
+  "name.traceId": {
+    "message": "ID Ιχνους",
+    "description": "Το ID ιχνους της εργασίας"
+  },
+  "name.size": {
+    "message": "Μέγεθος",
+    "description": "Το μέγεθος του QR κωδικού που θα παραχθεί"
+  },
+  "name.createdAt": {
+    "message": "Ημερομηνία Δημιουργίας",
+    "description": "Η ημερομηνία και ώρα δημιουργίας του QR κωδικού"
+  },
+  "name.pixelStyle": {
+    "message": "Στυλ Πixel",
+    "description": "Το στυλ pixel του QR κωδικού που θα παραχθεί"
+  },
+  "name.seed": {
+    "message": "Τιμή Σπόρου",
+    "description": "Ο σπόρος του QR κωδικού που θα παραχθεί"
+  },
+  "name.paddingLevel": {
+    "message": "Επίπεδο Γέμισης",
+    "description": "Το επίπεδο γέμισης του QR κωδικού που θα παραχθεί"
+  },
+  "name.paddingNoise": {
+    "message": "Θόρυβος Γέμισης",
+    "description": "Ο θόρυβος γέμισης του QR κωδικού που θα παραχθεί"
+  },
+  "name.content": {
+    "message": "Περιεχόμενο",
+    "description": "Το περιεχόμενο του QR κωδικού που θα παραχθεί"
+  },
+  "name.ecl": {
+    "message": "Επίπεδο Διορθώσεων",
+    "description": "Το επίπεδο διορθώσεων του QR κωδικού που θα παραχθεί"
+  },
+  "name.position": {
+    "message": "Θέση",
+    "description": "Η θέση του QR κωδικού που θα παραχθεί"
+  },
+  "name.prompt": {
+    "message": "Υπόδειξη",
+    "description": "Η υπόδειξη για την είσοδο περιεχομένου"
+  },
+  "name.rotate": {
+    "message": "Γωνία Περιστροφής",
+    "description": "Η περιστροφή του QR κωδικού που θα παραχθεί"
+  },
+  "name.advanced": {
+    "message": "Προηγμένα",
+    "description": "Οι προηγμένες ρυθμίσεις του QR κωδικού που θα παραχθεί"
+  },
+  "name.aspectRatio": {
+    "message": "Αναλογία Διαστάσεων",
+    "description": "Η αναλογία διαστάσεων του QR κωδικού που θα παραχθεί"
+  },
+  "name.markerShape": {
+    "message": "Σχήμα Σηματοδότη",
+    "description": "Το σχήμα του σηματοδότη του QR κωδικού που θα παραχθεί"
+  },
+  "name.subMarker": {
+    "message": "Υποσηματοδότης",
+    "description": "Ο υποσηματοδότης του QR κωδικού που θα παραχθεί"
+  },
+  "name.qrw": {
+    "message": "Ορατότητα",
+    "description": "Το όνομα του γεννήτριας QR κωδικών"
+  },
+  "name.steps": {
+    "message": "Βήματα Δημιουργίας",
+    "description": "Τα βήματα για τη δημιουργία του QR κωδικού"
+  },
+  "name.preset": {
+    "message": "Προεπιλεγμένο Στυλ",
+    "description": "Η προεπιλεγμένη ρύθμιση του QR κωδικού που θα παραχθεί"
+  },
+  "name.qrartBot": {
+    "message": "QrArt Bot",
+    "description": "Το όνομα του γεννήτριας QR κωδικών"
+  },
+  "name.contentImageUrl": {
+    "message": "Σύνδεσμος Εικόνας Περιεχομένου",
+    "description": "Το URL της εικόνας περιεχομένου του QR κωδικού που θα παραχθεί"
+  },
+  "inputWay.input": {
+    "message": "Εισαγωγή Περιεχομένου",
+    "description": "Μέθοδος εισόδου"
+  },
+  "inputWay.upload": {
+    "message": "Ανέβασμα QR Κωδικού",
+    "description": "Μέθοδος εισόδου"
+  },
+  "description.qrw": {
+    "message": "Ορατότητα QR κωδικού, όσο μεγαλύτερο το μέγεθος, τόσο μεγαλύτερη η ορατότητα του QR κωδικού",
+    "description": "Περιγραφή της παραμέτρου 'qrw'"
+  },
+  "description.steps": {
+    "message": "Τα βήματα για τη δημιουργία του QR κωδικού, όσο περισσότερα τα βήματα, τόσο μεγαλύτερη η ορατότητα του QR κωδικού",
+    "description": "Περιγραφή της παραμέτρου 'steps'"
+  },
+  "status.pending": {
+    "message": "Σε Αναμονή",
+    "description": "Η κατάσταση αναμονής της εργασίας"
+  },
+  "placeholder.paddingNoise": {
+    "message": "Επιλέξτε...",
+    "description": "Η συμβολοσειρά κράτησης για τον θόρυβο γέμισης"
+  },
+  "placeholder.paddingLevel": {
+    "message": "Επιλέξτε...",
+    "description": "Η συμβολοσειρά κράτησης για το επίπεδο γέμισης"
+  },
+  "placeholder.prompt": {
+    "message": "Εισάγετε τις λέξεις-κλειδιά του στυλ QR κωδικού που θέλετε να παραχθεί, π.χ.: λουλούδια",
+    "description": "Το κείμενο κράτησης στον τομέα υπόδειξης"
+  },
+  "placeholder.seed": {
+    "message": "Η τιμή του σπόρου κυμαίνεται από 1 έως 9007199254740991",
+    "description": "Η συμβολοσειρά κράτησης για τον σπόρο"
+  },
+  "placeholder.position": {
+    "message": "Επιλέξτε...",
+    "description": "Η συμβολοσειρά κράτησης για τη θέση"
+  },
+  "placeholder.content": {
+    "message": "Εισάγετε το περιεχόμενο του QR κωδικού, π.χ.: https://www.google.com",
+    "description": "Το κείμενο κράτησης στο πεδίο περιεχομένου"
+  },
+  "placeholder.aspectRatio": {
+    "message": "Επιλέξτε...",
+    "description": "Η συμβολοσειρά κράτησης για την αναλογία διαστάσεων"
+  },
+  "placeholder.preset": {
+    "message": "Επιλέξτε...",
+    "description": "Η συμβολοσειρά κράτησης για την προεπιλογή"
+  },
+  "placeholder.markerShape": {
+    "message": "Επιλέξτε...",
+    "description": "Η συμβολοσειρά κράτησης για το σχήμα του σηματοδότη"
+  },
+  "placeholder.rotate": {
+    "message": "Επιλέξτε...",
+    "description": "Η συμβολοσειρά κράτησης για την περιστροφή"
+  },
+  "placeholder.subMarker": {
+    "message": "Επιλέξτε...",
+    "description": "Η συμβολοσειρά κράτησης για τον υποσηματοδότη"
+  },
+  "button.generate": {
+    "message": "Δημιουργία",
+    "description": "Το κείμενο του κουμπιού για τη δημιουργία QR κωδικού"
+  },
+  "button.uploadQr": {
+    "message": "Ανέβασμα QR Κωδικού",
+    "description": "Το κείμενο του κουμπιού για το ανέβασμα QR κωδικού"
+  },
+  "preset.sunset": {
+    "message": "Ηλιοβασίλεμα",
+    "description": "Η προεπιλεγμένη ρύθμιση του QR κωδικού"
+  },
+  "preset.floral": {
+    "message": "Λουλουδένιο",
+    "description": "Η προεπιλεγμένη ρύθμιση του QR κωδικού"
+  },
+  "preset.snowflakes": {
+    "message": "Χιόνι",
+    "description": "Η προεπιλεγμένη ρύθμιση του QR κωδικού"
+  },
+  "preset.feathers": {
+    "message": "Φτερά",
+    "description": "Η προεπιλεγμένη ρύθμιση του QR κωδικού"
+  },
+  "preset.raindrops": {
+    "message": "Σταγόνες Βροχής",
+    "description": "Η προεπιλεγμένη ρύθμιση του QR κωδικού"
+  },
+  "preset.ultraRealism": {
+    "message": "Υπερρεαλισμός",
+    "description": "Η προεπιλεγμένη ρύθμιση του QR κωδικού"
+  },
+  "preset.epicRealms": {
+    "message": "Επικά Βασίλεια",
+    "description": "Η προεπιλεγμένη ρύθμιση του QR κωδικού"
+  },
+  "preset.intricateStudio": {
+    "message": "Πολύπλοκο στούντιο",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.symmetricMasterpiece": {
+    "message": "Συμμετρικό αριστούργημα",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.luminousHighway": {
+    "message": "Φωτεινός δρόμος",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.celestialJourney": {
+    "message": "Ουράνιο ταξίδι",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.neonMech": {
+    "message": "Νεονική μηχανική",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.etherealLowPoly": {
+    "message": "Αέρινο χαμηλών πολυγώνων",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.goldenVista": {
+    "message": "Χρυσή θέα",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.cinematicExpanse": {
+    "message": "Κινηματογραφικό απέραντο",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.cinematicWarm": {
+    "message": "Κινηματογραφική θερμότητα",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.desolateWilderness": {
+    "message": "Ερημωμένη άγρια φύση",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.vibrantPalette": {
+    "message": "Ζωντανή παλέτα",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.enigmaticJourney": {
+    "message": "Αινιγματικό ταξίδι",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.timelessCinematic": {
+    "message": "Ανεξίτηλο κινηματογραφικό",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.regalGalaxy": {
+    "message": "Βασιλική γαλαξία",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.illustriousCanvas": {
+    "message": "Διάσημο καμβά",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.expressiveMural": {
+    "message": "Εκφραστικό τοιχογραφία",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "preset.sereneHaze": {
+    "message": "Γαλήνια ομίχλη",
+    "description": "Το προεπιλεγμένο στυλ του QR κώδικα που θα παραχθεί"
+  },
+  "message.uploadQr": {
+    "message": "Ανεβάστε την εικόνα του QR κωδικού για να δημιουργήσετε έναν καλλιτεχνικό QR κωδικό που να ταιριάζει με το περιεχόμενο του QR κωδικού",
+    "description": "Οδηγίες για την ανάρτηση του QR κώδικα"
+  },
+  "message.promptPlaceholder": {
+    "message": "Εισάγετε μια περιγραφή του εικόνας που θέλετε να δημιουργήσετε, π.χ.: μια όμορφη γάτα. Πρόσθετες παράμετροι θα αντικαταστήσουν τις προεπιλεγμένες παραμέτρους",
+    "description": "Κείμενο χώρου προτροπής"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Μπορείτε να ανεβάσετε έως και 5 εικόνες",
+    "description": "Μήνυμα σφάλματος όταν η ποσότητα των εικόνων που ανεβάστηκαν υπερβαίνει το όριο"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Η εικόνα ανέβηκε επιτυχώς",
+    "description": "Μήνυμα επιτυχίας όταν η εικόνα ανέβηκε"
+  },
+  "message.uploadReferencesError": {
+    "message": "Αποτυχία φόρτωσης εικόνας, παρακαλώ δοκιμάστε ξανά αργότερα",
+    "description": "Μήνυμα σφάλματος όταν η φόρτωση της εικόνας αποτυγχάνει"
+  },
+  "message.startingTask": {
+    "message": "Εκκίνηση της εργασίας...",
+    "description": "Μήνυμα όταν ξεκινά η εργασία σχεδίασης"
+  },
+  "message.startTaskSuccess": {
+    "message": "Η διαδικασία δημιουργίας εργασίας ξεκινά επιτυχώς",
+    "description": "Μήνυμα επιτυχίας όταν η εργασία ξεκινά"
+  },
+  "message.startTaskFailed": {
+    "message": "Αποτυχία εκκίνησης εργασίας, παρακαλώ επικοινωνήστε με τον διαχειριστή",
+    "description": "Μήνυμα σφάλματος όταν η εργασία σχεδίασης δεν ξεκινά"
+  },
+  "message.usedUp": {
+    "message": "Τα σημεία σας έχουν εξαντληθεί, παρακαλώ αγοράστε περισσότερα σημεία για να συνεχίσετε τη χρήση",
+    "description": "Μήνυμα όταν έχουν εξαντληθεί τα σημεία"
+  },
+  "message.generating": {
+    "message": "Δημιουργία σε εξέλιξη...",
+    "description": "Μήνυμα όταν η εικόνα είναι υπό δημιουργία"
+  },
+  "message.generateFailed": {
+    "message": "Η δημιουργία της εικόνας απέτυχε",
+    "description": "Μήνυμα όταν η δημιουργία της εικόνας αποτυγχάνει"
+  },
+  "message.noOperations": {
+    "message": "Δεν υπάρχουν διαθέσιμες λειτουργίες",
+    "description": "Μήνυμα όταν δεν υπάρχουν διαθέσιμες λειτουργίες"
+  },
+  "message.noTasks": {
+    "message": "Δεν υπάρχουν ιστορικές εργασίες, παρακαλώ κάντε κλικ παρακάτω για να δημιουργήσετε νέο QR κωδικό",
+    "description": "Μήνυμα όταν δεν υπάρχουν εργασίες"
+  },
+  "markerShape.square": {
+    "message": "Τετράγωνο",
+    "description": "Σχήμα σήματος που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "markerShape.circle": {
+    "message": "Κύκλος",
+    "description": "Σχήμα σήματος που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "markerShape.plus": {
+    "message": "Συν",
+    "description": "Σχήμα σήματος που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "markerShape.box": {
+    "message": "Κουτί",
+    "description": "Σχήμα σήματος που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "markerShape.octagon": {
+    "message": "Οκτάγωνο",
+    "description": "Σχήμα σήματος που χρησιμοποιείται για την παραγωγή QR κωδίκων"
+  },
+  "markerShape.tinyPlus": {
+    "message": "Μικρό συν",
+    "description": "Σχήμα σήματος που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "markerShape.random": {
+    "message": "Τυχαίο",
+    "description": "Σχήμα σήματος που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "subMarker.square": {
+    "message": "Τετράγωνο",
+    "description": "Σχήμα υποσημασμένων που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "subMarker.circle": {
+    "message": "Κύκλος",
+    "description": "Σχήμα υποσημασμένων που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "subMarker.plus": {
+    "message": "Συν",
+    "description": "Σχήμα υποσημασμένων που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "subMarker.box": {
+    "message": "Κουτί",
+    "description": "Σχήμα υποσημασμένων που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "subMarker.random": {
+    "message": "Τυχαίο",
+    "description": "Σχήμα υποσημασμένων που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "position.center": {
+    "message": "Κέντρο",
+    "description": "Θέση που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "position.topLeft": {
+    "message": "Αριστερά πάνω",
+    "description": "Θέση που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "position.topRight": {
+    "message": "Δεξιά πάνω",
+    "description": "Θέση που χρησιμοποιείται για την παραγωγή QR κωδικών"
+  },
+  "position.bottomLeft": {
+    "message": "Κάτω Αριστερά",
+    "description": "Χρησιμοποιείται για τη θέση δημιουργίας του QR code"
+  },
+  "position.bottomRight": {
+    "message": "Κάτω Δεξιά",
+    "description": "Χρησιμοποιείται για τη θέση δημιουργίας του QR code"
+  },
+  "position.top": {
+    "message": "Επάνω",
+    "description": "Χρησιμοποιείται για τη θέση δημιουργίας του QR code"
+  },
+  "position.bottom": {
+    "message": "Κάτω",
+    "description": "Χρησιμοποιείται για τη θέση δημιουργίας του QR code"
+  },
+  "position.left": {
+    "message": "Αριστερά",
+    "description": "Χρησιμοποιείται για τη θέση δημιουργίας του QR code"
+  },
+  "position.right": {
+    "message": "Δεξιά",
+    "description": "Χρησιμοποιείται για τη θέση δημιουργίας του QR code"
+  },
+  "pixelStyle.row": {
+    "message": "Γραμμή",
+    "description": "Χρησιμοποιείται για το στυλ των εικονοστοιχείων του QR code"
+  },
+  "pixelStyle.column": {
+    "message": "Στήλη",
+    "description": "Χρησιμοποιείται για το στυλ των εικονοστοιχείων του QR code"
+  },
+  "pixelStyle.square": {
+    "message": "Τετράγωνο",
+    "description": "Χρησιμοποιείται για το στυλ των εικονοστοιχείων του QR code"
+  },
+  "pixelStyle.rounded": {
+    "message": "Στρογγυλεμένο",
+    "description": "Χρησιμοποιείται για το στυλ των εικονοστοιχείων του QR code"
+  },
+  "pixelStyle.dot": {
+    "message": "Σημείο",
+    "description": "Χρησιμοποιείται για το στυλ των εικονοστοιχείων του QR code"
+  },
+  "pixelStyle.squircle": {
+    "message": "Στρογγυλεμένο τετράγωνο",
+    "description": "Χρησιμοποιείται για το στυλ των εικονοστοιχείων του QR code"
+  },
+  "type.text": {
+    "message": "Κείμενο",
+    "description": "Χρησιμοποιείται για τον τύπο περιεχομένου του QR code"
+  },
+  "type.link": {
+    "message": "Σύνδεσμος",
+    "description": "Χρησιμοποιείται για τον τύπο περιεχομένου του QR code"
+  },
+  "type.email": {
+    "message": "Email",
+    "description": "Χρησιμοποιείται για τον τύπο περιεχομένου του QR code"
+  },
+  "type.phone": {
+    "message": "Τηλέφωνο",
+    "description": "Χρησιμοποιείται για τον τύπο περιεχομένου του QR code"
+  },
+  "type.sms": {
+    "message": "SMS",
+    "description": "Χρησιμοποιείται για τον τύπο περιεχομένου του QR code"
+  }
+}

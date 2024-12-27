@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "AI 客製化服務",
+    "description": "AI 問答章節標題"
+  },
+  "subtitle.ai_custom": {
+    "message": "提供專屬 AI 服務客製化，支持功能擴展與深度客製化，滿足您的個性化需求，助力專案高效落地。",
+    "description": "AI 客製化服務"
+  },
+  "title.chat": {
+    "message": "AI 熱門文本",
+    "description": "AI 問答章節標題"
+  },
+  "title.midjourney": {
+    "message": "文生圖",
+    "description": "AI繪畫章節標題"
+  },
+  "title.qrart": {
+    "message": "AI 藝術二維碼",
+    "description": "AI 藝術二維碼章節標題"
+  },
+  "title.digital_man": {
+    "message": "AI 數位人",
+    "description": "AI 藝術二維碼章節標題"
+  },
+  "title.sound_cloning": {
+    "message": "AI 聲音克隆",
+    "description": "AI 藝術二維碼章節標題"
+  },
+  "title.suno": {
+    "message": "AI 音樂創作",
+    "description": "AI 音樂章節標題"
+  },
+  "title.luma": {
+    "message": "AI 影片",
+    "description": "AI 影片章節標題"
+  },
+  "title.headshots": {
+    "message": "AI 證件照",
+    "description": "AI 證件照章節標題"
+  },
+  "title.comments": {
+    "message": "-- 使用者評價 --",
+    "description": "客戶評價章節標題"
+  },
+  "title.introduction": {
+    "message": "-- 超級 AI 助理 --",
+    "description": "站點簡介"
+  },
+  "subtitle.banner": {
+    "message": "HarBO AI 企業超級AI助理",
+    "description": "站點副標題"
+  },
+  "subtitle.chat": {
+    "message": "支持多種問答模型，具備聯網功能，能夠識別圖片、文件和影片等多種內容。",
+    "description": "AI 問答章節標題"
+  },
+  "subtitle.midjourney": {
+    "message": "對接最新的 Midjourney 模型，一鍵生成各種風格的圖片和連續微調。",
+    "description": "AI繪畫章節標題"
+  },
+  "subtitle.qrart": {
+    "message": "支持多種藝術二維碼風格，允許上傳已有二維碼，輕鬆將其藝術化，打造獨特的視覺效果。",
+    "description": "AI 藝術二維碼章節標題"
+  },
+  "subtitle.digital_man": {
+    "message": "提供虛擬數位人解決方案，支持實時互動、宣傳推廣和培訓講解等多場景應用。",
+    "description": "AI 藝術二維碼章節標題"
+  },
+  "subtitle.suno": {
+    "message": "支持多種音樂風格，輕鬆生成你想要的音樂，並支持靈活的長度擴展選項。",
+    "description": "AI 音樂章節標題"
+  },
+  "subtitle.luma": {
+    "message": "對接最新的 Luma 模型，一鍵生成自訂的影片，並支持靈活的影片擴展選項。",
+    "description": "AI 音樂章節標題"
+  },
+  "subtitle.headshots": {
+    "message": "對接最新的 AI 模型，一鍵生成自訂模板的證件照，並支持多種分格的證件照。",
+    "description": "AI 證件照章節標題"
+  },
+  "subtitle.comments": {
+    "message": "我們很高興能夠幫助這些客戶，他們對我們的服務給予了很高的評價。",
+    "description": "客戶評價章節標題"
+  },
+  "subtitle.introduction": {
+    "message": "我們提供一站式的 AI 服務，包括問答、繪畫、二維碼、音樂等多種功能，滿足你的多樣化需求。",
+    "description": "站點簡介"
+  },
+  "button.try": {
+    "message": "點擊體驗",
+    "description": "文字裡面的內容"
+  },
+  "button.testEnv": {
+    "message": "測試環境",
+    "description": "測試環境按鈕"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "客戶的姓名"
+  },
+  "customers.job1": {
+    "message": "軟體工程師",
+    "description": "客戶的職位"
+  },
+  "customers.comment1": {
+    "message": "這種整合式的服務簡直太方便了，我可以在一個平台使用多種 AI 工具，非常棒！",
+    "description": "客戶的評論"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "客戶的姓名"
+  },
+  "customers.job2": {
+    "message": "產品經理",
+    "description": "客戶的職位"
+  },
+  "customers.comment2": {
+    "message": "平台非常好用，服務品質非常好，同時極大釋放了我的生產力。",
+    "description": "客戶的評論"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "客戶的姓名"
+  },
+  "customers.job3": {
+    "message": "設計師",
+    "description": "客戶的職位"
+  },
+  "customers.comment3": {
+    "message": "AI 平台太多了，但這個真的易於使用，價格合理，希望它能變得更好！",
+    "description": "客戶的評論"
+  }
+}

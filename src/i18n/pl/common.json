@@ -1,0 +1,478 @@
+{
+  "button.setup": {
+    "message": "Ustawienia",
+    "description": "Przycisk tekstowy do ustawienia pewnych rzeczy"
+  },
+  "button.copy": {
+    "message": "Kopiuj",
+    "description": "Przycisk tekstowy do kopiowania pewnych rzeczy"
+  },
+  "button.restart": {
+    "message": "Ponownie wygeneruj",
+    "description": "Przycisk tekstowy do ponownego generowania pewnych rzeczy"
+  },
+  "button.preview": {
+    "message": "Podgląd",
+    "description": "Przycisk tekstowy do otwierania podglądu pliku przez URL"
+  },
+  "button.seeRawImage": {
+    "message": "Zobacz oryginalny obraz",
+    "description": "Przycisk tekstowy do przeglądania oryginalnego zdjęcia"
+  },
+  "button.seeRawVideo": {
+    "message": "Zobacz wideo",
+    "description": "Przycisk tekstowy do przeglądania oryginalnego wideo"
+  },
+  "button.edit": {
+    "message": "Edytuj",
+    "description": "Przycisk tekstowy do edytowania pewnych rzeczy"
+  },
+  "button.login": {
+    "message": "Zaloguj się",
+    "description": "Przycisk tekstowy do logowania"
+  },
+  "button.logout": {
+    "message": "Wyloguj się",
+    "description": "Przycisk tekstowy do wylogowania"
+  },
+  "button.new": {
+    "message": "Nowy",
+    "description": "Przycisk tekstowy do tworzenia nowego projektu"
+  },
+  "button.delete": {
+    "message": "Usuń",
+    "description": "Przycisk tekstowy do usuwania pewnych rzeczy"
+  },
+  "button.confirm": {
+    "message": "Potwierdź",
+    "description": "Przycisk tekstowy do potwierdzania pewnych rzeczy"
+  },
+  "button.cancel": {
+    "message": "Anuluj",
+    "description": "Przycisk tekstowy do anulowania pewnych działań"
+  },
+  "button.alert": {
+    "message": "Ostrzeżenie",
+    "description": "Przycisk tekstowy do ostrzegania o pewnych rzeczach"
+  },
+  "button.info": {
+    "message": "Informacje",
+    "description": "Przycisk tekstowy do wyświetlania informacji"
+  },
+  "button.publish": {
+    "message": "Opublikuj",
+    "description": "Przycisk tekstowy do publikowania pewnych treści"
+  },
+  "button.watch": {
+    "message": "Oglądaj",
+    "description": "Przycisk tekstowy do oglądania pewnych treści"
+  },
+  "button.verify": {
+    "message": "Weryfikacja tożsamości",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi weryfikacji tożsamości"
+  },
+  "button.profile": {
+    "message": "Profil",
+    "description": "Przycisk tekstowy do wyświetlania profilu użytkownika"
+  },
+  "button.console": {
+    "message": "Konsola",
+    "description": "Przycisk tekstowy do wyświetlania strony konsoli w celu kontroli pewnych rzeczy w aplikacji"
+  },
+  "button.learn": {
+    "message": "Ucz się",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi nauki pewnych rzeczy"
+  },
+  "button.buy": {
+    "message": "Kup",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi zakupu pewnych rzeczy"
+  },
+  "button.try": {
+    "message": "Spróbuj",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi wypróbowania pewnych rzeczy"
+  },
+  "button.startForFree": {
+    "message": "Rozpocznij za darmo",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi rozpoczęcia korzystania z usługi za darmo"
+  },
+  "button.apply": {
+    "message": "Aplikuj",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi złożenia wniosku o usługę API"
+  },
+  "button.refresh": {
+    "message": "Odśwież",
+    "description": "Przycisk tekstowy do odświeżania strony"
+  },
+  "button.pay": {
+    "message": "Zapłać",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi opłacenia kosztów usługi"
+  },
+  "button.repay": {
+    "message": "Kontynuuj płatność",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi kontynuacji płatności"
+  },
+  "button.applied": {
+    "message": "Złożono wniosek",
+    "description": "Przycisk tekstowy do wyświetlenia, że użytkownik złożył już wniosek o tę usługę"
+  },
+  "button.acquire": {
+    "message": "Uzyskaj",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi uzyskania tokena lub klucza do usługi API"
+  },
+  "button.fillExample": {
+    "message": "Wypełnij przykład",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi wypełnienia przykładowych danych"
+  },
+  "button.buyMore": {
+    "message": "Kup więcej",
+    "description": "Przycisk tekstowy do umożliwienia użytkownikowi zakupu dodatkowych treści"
+  },
+  "button.update": {
+    "message": "Aktualizuj",
+    "description": "Przycisk tekstowy do aktualizacji pewnych rzeczy"
+  },
+  "button.view": {
+    "message": "Zobacz",
+    "description": "Przycisk tekstowy do przeglądania pewnych rzeczy"
+  },
+  "button.create": {
+    "message": "Utwórz",
+    "description": "Przycisk tekstowy do tworzenia pewnych rzeczy"
+  },
+  "button.referralEarnings": {
+    "message": "Zyski z polecenia",
+    "description": "Przycisk tekstowy do wyświetlania zysków z polecenia, które użytkownik może uzyskać, zapraszając innych do korzystania z usługi"
+  },
+  "button.finish": {
+    "message": "Zakończ",
+    "description": "Przycisk tekstowy do zakończenia pewnych działań"
+  },
+  "entity.website": {
+    "message": "HarBO AI",
+    "description": "Nazwa strony, nie wymaga tłumaczenia, pozostaje jako 'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "Prawo autorskie",
+    "description": "Tekst do wyświetlania informacji o prawach autorskich"
+  },
+  "entity.platform": {
+    "message": "Platforma",
+    "description": "Tekst wskazujący, że to jest platforma usługi API"
+  },
+  "entity.title": {
+    "message": "Tytuł",
+    "description": "Tytuł encji"
+  },
+  "entity.icon": {
+    "message": "Ikona",
+    "description": "Ikona encji"
+  },
+  "entity.status": {
+    "message": "Status",
+    "description": "Status encji"
+  },
+  "entity.operation": {
+    "message": "Operacja",
+    "description": "Operacja encji"
+  },
+  "entity.description": {
+    "message": "Opis",
+    "description": "Opis encji"
+  },
+  "entity.createdAt": {
+    "message": "Data utworzenia",
+    "description": "Czas utworzenia podmiotu"
+  },
+  "entity.updatedAt": {
+    "message": "Data aktualizacji",
+    "description": "Czas aktualizacji podmiotu"
+  },
+  "entity.order": {
+    "message": "Zamówienie",
+    "description": "Zamówienie podmiotu, które zawiera kwotę i informacje o usłudze, za którą użytkownik musi zapłacić"
+  },
+  "message.usedAmount": {
+    "message": "Wykorzystana kwota",
+    "description": "Do wyświetlania kwoty wykorzystanej dla usługi"
+  },
+  "message.remainingAmount": {
+    "message": "Pozostała kwota",
+    "description": "Do wyświetlania pozostałej kwoty dla usługi"
+  },
+  "message.copied": {
+    "message": "Skopiowano pomyślnie",
+    "description": "Do wyświetlania komunikatu informującego, że treść została skopiowana pomyślnie"
+  },
+  "message.restart": {
+    "message": "Ponownie generuj",
+    "description": "Do wyświetlania opcji ponownego generowania treści"
+  },
+  "message.confirmDelete": {
+    "message": "Czy na pewno chcesz usunąć?",
+    "description": "Do potwierdzenia, czy użytkownik chce usunąć jakieś treści"
+  },
+  "message.expiredAt": {
+    "message": "Data wygaśnięcia",
+    "description": "Do wyświetlania daty wygaśnięcia usługi"
+  },
+  "message.alert": {
+    "message": "Ostrzeżenie",
+    "description": "Do ostrzegania użytkownika"
+  },
+  "message.info": {
+    "message": "Przyjacielska przypomnienie",
+    "description": "Do wyświetlania informacji"
+  },
+  "message.free": {
+    "message": "Darmowy",
+    "description": "Do wyświetlania informacji, że usługa jest darmowa, co oznacza, że użytkownik nie musi płacić"
+  },
+  "message.startPrice": {
+    "message": "Cena początkowa",
+    "description": "Do wyświetlania najniższej ceny usługi"
+  },
+  "message.joinDiscord": {
+    "message": "Dołącz do Discorda",
+    "description": "Do zachęcania użytkowników do dołączenia do kanału Discord"
+  },
+  "message.addWeChat": {
+    "message": "Dodaj WeChat",
+    "description": "Do zachęcania użytkowników do dodania WeChat"
+  },
+  "message.serviceTech": {
+    "message": "Wsparcie techniczne",
+    "description": "Do wyświetlania informacji o wsparciu technicznym usługi"
+  },
+  "message.businessCooperation": {
+    "message": "Współpraca biznesowa",
+    "description": "Do wyświetlania informacji o współpracy biznesowej"
+  },
+  "message.noData": {
+    "message": "Brak danych",
+    "description": "Do wyświetlania komunikatu, że tabela lub lista nie zawiera danych"
+  },
+  "nav.home": {
+    "message": "Strona główna",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę główną"
+  },
+  "nav.content": {
+    "message": "Treść",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę z treścią"
+  },
+  "nav.category": {
+    "message": "Kategorie",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę kategorii"
+  },
+  "nav.service": {
+    "message": "Usługi",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę usług"
+  },
+  "nav.profile": {
+    "message": "Mój profil",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę profilu"
+  },
+  "nav.products": {
+    "message": "Produkty",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę produktów"
+  },
+  "nav.referral": {
+    "message": "Zyski z poleceń",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę poleceń"
+  },
+  "nav.apiPlatform": {
+    "message": "Platforma API",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę platformy API"
+  },
+  "nav.document": {
+    "message": "Dokumentacja",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę dokumentacji"
+  },
+  "nav.console": {
+    "message": "Konsola",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę konsoli"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę czatu, nie należy tłumaczyć tej pozycji, musi pozostać jako 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę Midjourney, nie należy tłumaczyć tej pozycji, musi pozostać jako 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę ChatDoc, nie należy tłumaczyć tej pozycji, musi pozostać jako 'ChatDoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę QRArt, nie należy tłumaczyć tej pozycji, musi pozostać jako 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę Suno, nie należy tłumaczyć tej pozycji, musi pozostać jako 'Suno'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę Luma, nie należy tłumaczyć tej pozycji, musi pozostać jako 'Luma'"
+  },
+  "nav.distribution": {
+    "message": "Zyski z poleceń",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę zysków z poleceń"
+  },
+  "nav.logOut": {
+    "message": "Wyloguj się",
+    "description": "Tekst w menu nawigacyjnym, do wylogowania"
+  },
+  "nav.site": {
+    "message": "Konfiguracja strony",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę konfiguracji"
+  },
+  "nav.headshots": {
+    "message": "AI zdjęcia",
+    "description": "Tekst w menu nawigacyjnym, wyświetlający stronę AI zdjęć"
+  },
+  "nav.locale": {
+    "message": "Ustawienia językowe",
+    "description": "Tekst w menu nawigacyjnym do zmiany języka"
+  },
+  "nav.support": {
+    "message": "O nas",
+    "description": "Tekst w pasku nawigacyjnym strony, używany do wyświetlania strony wsparcia"
+  },
+  "nav.midjourney_tutorials": {
+    "message": "Kursy Midjourney",
+    "description": "Tekst w pasku nawigacyjnym strony, używany do wyświetlania strony wsparcia"
+  },
+  "nav.ai_tutorials": {
+    "message": "Wskazówki AI",
+    "description": "Tekst w pasku nawigacyjnym strony, używany do wyświetlania strony wsparcia"
+  },
+  "nav.ai_tutorials1": {
+    "message": "Podstawowe Wskazówki GPT",
+    "description": "Tekst w pasku nawigacyjnym strony, używany do wyświetlania strony wsparcia"
+  },
+  "nav.ai_tutorials2": {
+    "message": "Zaawansowane Wskazówki GPT",
+    "description": "Tekst w pasku nawigacyjnym strony, używany do wyświetlania strony wsparcia"
+  },
+  "nav.ai_tutorials3": {
+    "message": "Pisanie z GPT",
+    "description": "Tekst w pasku nawigacyjnym strony, używany do wyświetlania strony wsparcia"
+  },
+  "nav.free_user": {
+    "message": "Darmowy okres próbny",
+    "description": "Tekst w pasku nawigacyjnym strony, używany do wyświetlania strony wsparcia"
+  },
+  "nav.darkMode": {
+    "message": "Tryb ciemny",
+    "description": "Tekst w pasku nawigacyjnym strony, używany do przełączania do ciemnego motywu"
+  },
+  "title.alert": {
+    "message": "Alert",
+    "description": "Tytuł wiadomości alarmowej"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Wybierz",
+    "description": "Placeholder dla pola wyboru"
+  },
+  "title.placeholderOfInput": {
+    "message": "Proszę wypełnić",
+    "description": "Placeholder dla pola tekstowego"
+  },
+  "title.allApplications": {
+    "message": "Wszystkie wnioski",
+    "description": "Tytuł strony wyświetlającej wszystkie wnioski"
+  },
+  "title.allOrders": {
+    "message": "Wszystkie zamówienia",
+    "description": "Tytuł strony wyświetlającej wszystkie zamówienia"
+  },
+  "title.orderInfo": {
+    "message": "Informacje o zamówieniu",
+    "description": "Tytuł strony wyświetlającej informacje o zamówieniu"
+  },
+  "title.buyMore": {
+    "message": "Kup więcej",
+    "description": "Tytuł strony, która umożliwia użytkownikom zakup większej ilości"
+  },
+  "title.distribution": {
+    "message": "Zyski z poleceń",
+    "description": "Tytuł strony wyświetlającej zyski z poleceń, które oznaczają, że użytkownicy mogą zarabiać, zapraszając innych do korzystania z usługi"
+  },
+  "title.site": {
+    "message": "Konfiguracja witryny",
+    "description": "Tytuł strony wyświetlającej konfigurację witryny"
+  },
+  "title.distributionHistory": {
+    "message": "Historia poleceń",
+    "description": "Tytuł strony wyświetlającej historię poleceń"
+  },
+  "title.invitee": {
+    "message": "Zaproszony",
+    "description": "Tytuł strony wyświetlającej zaproszone osoby"
+  },
+  "title.allUsages": {
+    "message": "Historia użycia",
+    "description": "Tytuł strony wyświetlającej wszystkie rekordy użycia usług API"
+  },
+  "title.allCredentials": {
+    "message": "Poświadczenia",
+    "description": "Tytuł strony wyświetlającej wszystkie poświadczenia, które służą do uzyskania dostępu do API"
+  },
+  "about.title1": {
+    "message": "Kontakt",
+    "description": "Tytuł sekcji wyświetlającej informacje kontaktowe"
+  },
+  "about.title2": {
+    "message": "Zasoby",
+    "description": "Tytuł sekcji wyświetlającej linki"
+  },
+  "about.title3": {
+    "message": "Linki",
+    "description": "Tytuł sekcji wyświetlającej informacje wsparcia"
+  },
+  "about.address": {
+    "message": "USA, Delaware, Middletown, N Broad St, biuro 201",
+    "description": "Adres firmy"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "E-mail firmy"
+  },
+  "about.link1": {
+    "message": "Usługi",
+    "description": "Link do strony z usługami"
+  },
+  "about.link2": {
+    "message": "Dokumentacja",
+    "description": "Link do strony z dokumentacją"
+  },
+  "about.link3": {
+    "message": "Konsola",
+    "description": "Link do strony z konsolą"
+  },
+  "about.link4": {
+    "message": "Profil",
+    "description": "Link do strony z profilem"
+  },
+  "about.link5": {
+    "message": "Centrum",
+    "description": "Link do strony z centrum wsparcia"
+  },
+  "about.link6": {
+    "message": "Zyski z poleceń",
+    "description": "Link do strony z zyskami z poleceń"
+  },
+  "about.link7": {
+    "message": "Wsparcie",
+    "description": "Link do strony wsparcia"
+  },
+  "about.link8": {
+    "message": "Warunki korzystania z usługi",
+    "description": "Link do strony z warunkami korzystania z usługi"
+  },
+  "about.link9": {
+    "message": "Polityka prywatności",
+    "description": "Link do strony z polityką prywatności"
+  }
+}

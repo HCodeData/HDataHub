@@ -1,0 +1,1918 @@
+{
+  "style.cute": {
+    "message": "Söpö",
+    "description": "Painikkeen teksti, joka edustaa 'söpö' tyyliä"
+  },
+  "style.expressive": {
+    "message": "Ilmaiseva",
+    "description": "Painikkeen teksti, joka edustaa 'ilmaiseva' tyyliä"
+  },
+  "style.original": {
+    "message": "Alkuperäinen",
+    "description": "Painikkeen teksti, joka edustaa 'alkuperäinen' tyyliä"
+  },
+  "style.scenic": {
+    "message": "Maisema",
+    "description": "Painikkeen teksti, joka edustaa 'maisema' tyyliä"
+  },
+  "style.raw": {
+    "message": "Raaka",
+    "description": "Painikkeen teksti, joka edustaa 'raaka' tyyliä"
+  },
+  "styleCategory.special": {
+    "message": "Erityinen",
+    "description": "Luokkasana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin kategoria"
+  },
+  "styleCategory.chinese": {
+    "message": "Kiinalainen",
+    "description": "Luokkasana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin kategoria"
+  },
+  "styleCategory.emotion": {
+    "message": "Tunne",
+    "description": "Luokkasana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin kategoria"
+  },
+  "styleCategory.camera": {
+    "message": "Kamera",
+    "description": "Luokkasana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin kategoria"
+  },
+  "styleCategory.styles": {
+    "message": "Tyylit",
+    "description": "Luokkasana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin kategoria"
+  },
+  "styleCategory.lighting": {
+    "message": "Valaistus",
+    "description": "Luokkasana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin kategoria"
+  },
+  "styleCategory.painters": {
+    "message": "Taiteilijat",
+    "description": "Luokkasana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin kategoria"
+  },
+  "styleCategory.material": {
+    "message": "Materiaali",
+    "description": "Luokkasana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin kategoria"
+  },
+  "styleCategory.artists": {
+    "message": "Taiteilijat",
+    "description": "Luokkasana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin kategoria"
+  },
+  "styleTag.watercolour": {
+    "message": "Vesiväri",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.oilPainting": {
+    "message": "Öljymaalaus",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.oldPhotograph": {
+    "message": "Vanha valokuva",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.oneLineDrawing": {
+    "message": "Yhden viivan piirustus",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.sketchDrawing": {
+    "message": "Luonnos",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.gouache": {
+    "message": "Gouache",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.filmStyle": {
+    "message": "Elokuvatyylinen",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.photorealistic": {
+    "message": "Valokuvarealistinen",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.logo": {
+    "message": "Logo",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.cartoon": {
+    "message": "Sarjakuva",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.marbleStatue": {
+    "message": "Marmoripatsas",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.1800S": {
+    "message": "1800-luvun tyyli",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.1980S": {
+    "message": "1980-luvun tyyli",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.isometricAnime": {
+    "message": "Isoometrinen anime",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.analyticDrawing": {
+    "message": "Analyyttinen piirustus",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.coloringBook": {
+    "message": "Värittäjäkirja",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.infographicDrawing": {
+    "message": "Infografiikkapiirustus",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.doubleExposure": {
+    "message": "Tuplavalotus",
+    "description": "Tyylisana, jota käytetään kuvaamaan ja luomaan kuvia, luodun kuvan tulisi sisältää tämän etiketin tyyli"
+  },
+  "styleTag.diagrammaticDrawing": {
+    "message": "Kaaviollinen maalaus",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.2DIllustration": {
+    "message": "2D-kuvitus",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.diagrammaticPortrait": {
+    "message": "Kaaviomainen muotokuva",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.pixelArt": {
+    "message": "Pikselitaide",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.darkFantasy": {
+    "message": "Tumma fantasia",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.ukiyoEArt": {
+    "message": "Ukiyo-e taide",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.paperQuilling": {
+    "message": "Paperirullaus",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.paperCutCraft": {
+    "message": "Paperileikkaustaide",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.iridescent": {
+    "message": "Iridescentti",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.patchworkCollage": {
+    "message": "Tilkkutäkki-kollaasi",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.opArt": {
+    "message": "Optinen taide",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.japaneseInk": {
+    "message": "Japanilainen mustemaalaus",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.pastelDrawing": {
+    "message": "Pastellimaalaus",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.drippingArt": {
+    "message": "Tiputtava taide",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.tattooArt": {
+    "message": "Tattoo-taide",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.16Bit": {
+    "message": "16-bittinen",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.8Bit": {
+    "message": "8-bittinen",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.amber": {
+    "message": "Meripihka",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.anatomicalDrawing": {
+    "message": "Anatominen piirustus",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.ancient": {
+    "message": "Muinaiset",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.anime": {
+    "message": "Anime",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.arabic": {
+    "message": "Arabialainen",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.blocky": {
+    "message": "Lohkomainen",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.blueprint": {
+    "message": "Pohjapiirros",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.comicbook": {
+    "message": "Sarjakuvakirja",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.caribbean": {
+    "message": "Karibian",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.celestial": {
+    "message": "Taivaallinen",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.cellulose": {
+    "message": "Selluloosa",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.charcoalStyle": {
+    "message": "Hiilipyyhkäisyt",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.chromatic": {
+    "message": "Kromanttinen",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.coral": {
+    "message": "Koralli",
+    "description": "Kuvastaa ja generoidaan kuvia tyylikenki, generoitu kuva tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.conceptArt": {
+    "message": "Käsite-taide",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.fibonacci": {
+    "message": "Fibonacci",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.cyberpunk": {
+    "message": "Kyberpunk",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.diabolic": {
+    "message": "Diabolinen",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.diffractionGrading": {
+    "message": "Diffraktointi",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.lightspeed": {
+    "message": "Valonnopeus",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.liquid": {
+    "message": "Neste",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.dots": {
+    "message": "Pisteet",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.dune": {
+    "message": "Dyyni",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.drippingPaint": {
+    "message": "Tiputtava maali",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.electronicCircuitry": {
+    "message": "Elektroninen piirijärjestelmä",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.electrical": {
+    "message": "Sähkösuunnittelu",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.futuristic": {
+    "message": "Futuristinen",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.etching": {
+    "message": "Kaiverrus",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.extraterrestrial": {
+    "message": "Maanulkoinen",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.glitchart": {
+    "message": "Kehätaide",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.floral": {
+    "message": "Kukallinen",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.fractal": {
+    "message": "Fraktaali",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.preHistoric": {
+    "message": "Esihistoriallinen",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.prokaryotic": {
+    "message": "Prokaryootti",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.horror": {
+    "message": "Kauhu",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.iceAge": {
+    "message": "Jääkausi",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.jurassic": {
+    "message": "Jurassic",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.knitted": {
+    "message": "Kudottu",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.polka": {
+    "message": "Pilkullinen",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.latex": {
+    "message": "Lateksi",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.pastel": {
+    "message": "Pastelli",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.mandala": {
+    "message": "Mandala",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.molecular": {
+    "message": "Molekyyli",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.merkaba": {
+    "message": "Merkabah",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.mitochondria": {
+    "message": "Mitochondria",
+    "description": "Kuvien kuvaamiseen ja luomiseen käytettävä tyylisana, luotavien kuvien tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.graffiti": {
+    "message": "Grafitti",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.graphicNovel": {
+    "message": "Kuvakirja",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.multidimensional": {
+    "message": "Moniulotteinen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.nasa": {
+    "message": "NASA",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.nebula": {
+    "message": "Sumu",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.neon": {
+    "message": "Neon",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.nuclear": {
+    "message": "Ydinteknologia",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.orbital": {
+    "message": "Orbitaalinen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.rayTracing": {
+    "message": "Säteen jäljitys",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.realistic": {
+    "message": "Realistinen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.renaissance": {
+    "message": "Renessanssi",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.retro": {
+    "message": "Retro",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.risograph": {
+    "message": "Risografi",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.origami": {
+    "message": "Origami",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.ornamental": {
+    "message": "Koristeellinen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.space": {
+    "message": "Avaruus",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.splatterPaint": {
+    "message": "Räjähtävä maalaus",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.sprayPaint": {
+    "message": "Suihkumaalaus",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.squiggles": {
+    "message": "Kiroilu",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.stitching": {
+    "message": "Kangastustaminen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.veins": {
+    "message": "Laskimot",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.streetArt": {
+    "message": "Katu taide",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.surreal": {
+    "message": "Surrealistinen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.symmetric": {
+    "message": "Symmetrinen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.synthWave": {
+    "message": "Syntetisoitu aalto",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.technological": {
+    "message": "Teknologinen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.tron": {
+    "message": "Troni",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.tropical": {
+    "message": "Tropiikkinen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.ultraModern": {
+    "message": "Ultra nykyaikainen",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.wormhole": {
+    "message": "Läpäisyaukko",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.wrinkled": {
+    "message": "Kurtistunut",
+    "description": "Kuvien tyyliä kuvaava sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.volcanic": {
+    "message": "Tulivuori",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.wetPaint": {
+    "message": "Kostea maali",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.wildWest": {
+    "message": "Villilännen tyyli",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.wind": {
+    "message": "Tuuli",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.miniatureFaking": {
+    "message": "Miniatyyri imitointi",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.accentLighting": {
+    "message": "Korostettu valaistus",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.backlight": {
+    "message": "Taustavalo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.blacklight": {
+    "message": "Mustavalo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.goldenHourLight": {
+    "message": "Kultaista tuntia valoa",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.candlelight": {
+    "message": "Kynttilävalo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.concertLighting": {
+    "message": "Konserttivalaistus",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.crepuscularRays": {
+    "message": "Hämärä säteet",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.directSunlight": {
+    "message": "Suora auringonvalo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.dust": {
+    "message": "Pöly",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.studioLighting": {
+    "message": "Studion valaistus",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.rimLight": {
+    "message": "Reunavalo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.volumetricLighting": {
+    "message": "Tilavalaistus",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.fluorescent": {
+    "message": "Loisteputki",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.glowing": {
+    "message": "Hohtava",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.glowStick": {
+    "message": "Hehkuva keppi",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.glowRadioactive": {
+    "message": "Säteilevä hohto",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.lavaGlow": {
+    "message": "Lavan hehku",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.moonlight": {
+    "message": "Kuunvalo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.naturalLighting": {
+    "message": "Luonnonvalo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.neonLamp": {
+    "message": "Neonlamppu",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.nightclubLighting": {
+    "message": "Yökerhovalaistus",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.nuclearWasteGlo": {
+    "message": "Ydinjätteen hohto",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.quantumDot": {
+    "message": "Kvanttipiste",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.spotlight": {
+    "message": "Kohdevalo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.edgeLight": {
+    "message": "Reunavalo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.coldLight": {
+    "message": "Kylmä valo",
+    "description": "Käytetään tyylisanana kuvien kuvaamiseen ja tuottamiseen, tuotettujen kuvien tulisi sisältää tämän tyyliasian tyyli."
+  },
+  "styleTag.keyLighting": {
+    "message": "Avainvalaistus",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.ambientLight": {
+    "message": "Ympäristön valo",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.highKeyLighting": {
+    "message": "Korkea avainvalaistus",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.lowKeyLighting": {
+    "message": "Alhainen avainvalaistus",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.motivatedLighting": {
+    "message": "Motivoitu valaistus",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.3PointLighting": {
+    "message": "Kolmipistevalaistus",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.strobeLight": {
+    "message": "Salamavalo",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.sunLight": {
+    "message": "Auringonvalo",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.ultraviolet": {
+    "message": "Ultraääni",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.beautifulLighting": {
+    "message": "Kaunis valaistus",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.moodyLighting": {
+    "message": "Tunnelmallinen valaistus",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.softLighting": {
+    "message": "Pehmeä valaistus",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.michelangelo": {
+    "message": "Michelangelo",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.monet": {
+    "message": "Monet",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.paulCezanne": {
+    "message": "Paul Cézanne",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.markRothko": {
+    "message": "Mark Rothko",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.paulKlee": {
+    "message": "Paul Klee",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.picasso": {
+    "message": "Picasso",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.pietMondrian": {
+    "message": "Piet Mondrian",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.pierreAugusteRer": {
+    "message": "Pierre-Auguste Renoir",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.rembrandt": {
+    "message": "Rembrandt",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.reneMagritte": {
+    "message": "René Magritte",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.royLichtenstein": {
+    "message": "Roy Lichtenstein",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.salvadorDali": {
+    "message": "Salvador Dalí",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.sandroBotticelli": {
+    "message": "Sandro Botticelli",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.takashiMurakami": {
+    "message": "Takashi Murakami",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.vanGogh": {
+    "message": "Vincent van Gogh",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.wassilyKandinsky": {
+    "message": "Wassily Kandinsky",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.matCollishaw": {
+    "message": "Mat Collishaw",
+    "description": "Kuvien kuvaamisen ja luomisen tyyliä kuvaava termi, luotavissa kuvissa tulisi olla tämän tunnisteen tyyli."
+  },
+  "styleTag.yayoiKusama": {
+    "message": "Yayoi Kusama",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.igorMorski": {
+    "message": "Igor Morski",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.shinkaiMakoto": {
+    "message": "Makoto Shinkai",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.pixar": {
+    "message": "Pixar",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.kyotoAnime": {
+    "message": "Kyoto Animation",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.jerryPinkney": {
+    "message": "Jerry Pinkney",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.hayaoMiyazaki": {
+    "message": "Hayao Miyazaki",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.beatrixPotter": {
+    "message": "Beatrix Potter",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.jonKlassen": {
+    "message": "Jon Klassen",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.kaySage": {
+    "message": "Kay Sage",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.jeffreyCatherineJones": {
+    "message": "Jeffrey Catherine Jones",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.yaacovAgam": {
+    "message": "Yaacov Agam",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.davidHockney": {
+    "message": "David Hockney",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.victorMoscoso": {
+    "message": "Victor Moscoso",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.raphaelite": {
+    "message": "Rafaeliitti",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.stefanKoidl": {
+    "message": "Stefan Koidl",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.suiIshida": {
+    "message": "Sui Ishida",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.swoon": {
+    "message": "Ihailu",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.tashaTudor": {
+    "message": "Tasha Tudor",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.tintoretto": {
+    "message": "Tintoretto",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.theodoreRobinsor": {
+    "message": "Theodore Robinson",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.titian": {
+    "message": "Titian",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.wlop": {
+    "message": "WLOP",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.yanjunCheng": {
+    "message": "Yanjun Cheng",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.yojiShinkawa": {
+    "message": "Yoji Shinkawa",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.zhelongXu": {
+    "message": "Zhelong Xu",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.alenaAenami": {
+    "message": "Alena Aenami",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.anntonFadeevi": {
+    "message": "Annton Fadeevi",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.charlieBowater": {
+    "message": "Charlie Bowater",
+    "description": "Kuvien tyylin kuvaamiseen ja luomiseen käytettävä sana, luotujen kuvien tulee sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.coryLoftis": {
+    "message": "Cory Loftis",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.fenghuaZhong": {
+    "message": "Fenghua Zhong",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.gregRutkowski": {
+    "message": "Greg Rutkowski",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.hongSoonsang": {
+    "message": "Hong Soonsang",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.dennisStock": {
+    "message": "Dennis Stock",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.michalLisowski": {
+    "message": "Michal Lisowski",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.paulLehr": {
+    "message": "Paul Lehr",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.rossTran": {
+    "message": "Ross Tran",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.antonPieck": {
+    "message": "Anton Pieck",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.carlBarks": {
+    "message": "Carl Barks",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.alphonseMucha": {
+    "message": "Alphonse Mucha",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.andyWarhol": {
+    "message": "Andy Warhol",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.banksy": {
+    "message": "Banksy",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.franciscoDeGoya": {
+    "message": "Francisco de Goya",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.caravaggio": {
+    "message": "Caravaggio",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.diegoRivera": {
+    "message": "Diego Rivera",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.marcChagall": {
+    "message": "Marc Chagall",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.edgarDegas": {
+    "message": "Edgar Degas",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.eugeneDelacroix": {
+    "message": "Eugène Delacroix",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.francisBacon": {
+    "message": "Francis Bacon",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.fridaKahlo": {
+    "message": "Frida Kahlo",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.garaldBrom": {
+    "message": "Gerald Brom",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.gustavKlimt": {
+    "message": "Gustav Klimt",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.henriMatisse": {
+    "message": "Henri Matisse",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.jackKirby": {
+    "message": "Jack Kirby",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.jacksonPollock": {
+    "message": "Jackson Pollock",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.johannesVermeer": {
+    "message": "Johannes Vermeer",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.jeanMichelBasquiat": {
+    "message": "Jean-Michel Basquiat",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.marcelDuchamp": {
+    "message": "Marcel Duchamp",
+    "description": "Tyylitermi kuvien kuvaamiseen ja luomiseen, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.aluminum": {
+    "message": "Alumiini",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.brick": {
+    "message": "Tiili",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.bronze": {
+    "message": "Pronssi",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.carbonFiber": {
+    "message": "Hiilikuitu",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.cardboard": {
+    "message": "Pahvi",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.ceramic": {
+    "message": "Keraaminen",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.cotton": {
+    "message": "Puuvilla",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.fabric": {
+    "message": "Kangas",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.fiberOptic": {
+    "message": "Valokuitu",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.foil": {
+    "message": "Folio",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.yarn": {
+    "message": "Lanka",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.glass": {
+    "message": "Lasi",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.gold": {
+    "message": "Kulta",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.gummies": {
+    "message": "Kumimakeiset",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.leather": {
+    "message": "Nahka",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.magma": {
+    "message": "Magma",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.metallic": {
+    "message": "Metallinen",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.nickel": {
+    "message": "Nikkeli",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.nylon": {
+    "message": "Nylon",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.paper": {
+    "message": "Paperi",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.plastic": {
+    "message": "Muovi",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.quartz": {
+    "message": "Kvartsi",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.wrap": {
+    "message": "Kimppu",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.wooden": {
+    "message": "Puinen",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.slime": {
+    "message": "Limamassa",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.engraving": {
+    "message": "Kaiverrus",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.ivory": {
+    "message": "Valsi",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.basalt": {
+    "message": "Basaltti",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.pine": {
+    "message": "Mänty",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.diamond": {
+    "message": "Timantti",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.amethyst": {
+    "message": "Ametisti",
+    "description": "Käytetään tyylin kuvaamiseen ja kuvan luomiseen, luodussa kuvassa tulisi olla tämä avainsana."
+  },
+  "styleTag.ruby": {
+    "message": "Ruby",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.highPolished": {
+    "message": "Korkea kiilto",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.brushed": {
+    "message": "Hankattu",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.matte": {
+    "message": "Matta",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.satin": {
+    "message": "Satiini",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.sandblasted": {
+    "message": "Hiekkaerotettu",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.ebony": {
+    "message": "Ebony",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.bokeh": {
+    "message": "Bokeh-efekti",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.aerialView": {
+    "message": "Ilmakuva",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.shotByDslr": {
+    "message": "DSLR-kuvaus",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.360Panorama": {
+    "message": "360 asteen panoramakuvia",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.panorama": {
+    "message": "Panoramakuvat",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.telephotoLens": {
+    "message": "Pitkäputkikuvaus",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.macroShot": {
+    "message": "Makrokuvaus",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.microscopy": {
+    "message": "Mikroskooppinen tarkastelu",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.magnification": {
+    "message": "Suurenna",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.closeUp": {
+    "message": "Lähikuva",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.fullBody": {
+    "message": "Koko ruumiin kuva",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.portrait": {
+    "message": "Muotokuva",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.profile": {
+    "message": "Profiilikuva",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.pinholeLens": {
+    "message": "Pinhole kuvaus",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.wideView": {
+    "message": "Laaja näkymä",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.telescopeLens": {
+    "message": "Teleskooppikuvaus",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.satelliteImagery": {
+    "message": "Satelliittikuvitus",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.headshot": {
+    "message": "Pään lähikuva",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.extremeCloseup": {
+    "message": "Äärimmäinen lähikuva",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.ultrawideShot": {
+    "message": "Ultra laaja kuva",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.birdView": {
+    "message": "Lintuperspektiivi",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.topView": {
+    "message": "Ylhäältä katsottuna",
+    "description": "Kuvaustyyli, jota käytetään kuvien kuvaamiseen ja generoimiseen. Generoitavan kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.frontView": {
+    "message": "Etunäkökulma",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.sideView": {
+    "message": "Sivunäkökulma",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.backView": {
+    "message": "Takaisinäkökulma",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.faceShot": {
+    "message": "Kasvokuva",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.chestShot": {
+    "message": "Rintakuva",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.waistShot": {
+    "message": "Vyötärökuva",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.extraLongShot": {
+    "message": "YLyhyitä otoksia",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.lookUp": {
+    "message": "Ylösnäkökulma",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.isometricview": {
+    "message": "Isometristä näköalaa",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.highAngleView": {
+    "message": "Korkea kulma",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.lowAngleView": {
+    "message": "Matala kulma",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.happy": {
+    "message": "Onnellinen",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.excited": {
+    "message": "Innostunut",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.angry": {
+    "message": "Vihainen",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.ped": {
+    "message": "Raivoissaan",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.disgusted": {
+    "message": "Inhoava",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.supnned": {
+    "message": "Yllättyneen",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.hopeful": {
+    "message": "Toiveikas",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.anxious": {
+    "message": "Ahdistunut",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.elated": {
+    "message": "Iloinen",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.fearful": {
+    "message": "Pelokas",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.hateful": {
+    "message": "Vihaava",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.apoow": {
+    "message": "Hämmästynyt",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.dark": {
+    "message": "Pimeä",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.brutal": {
+    "message": "Brutaali",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.hanfu": {
+    "message": "Hanfu",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.cheongsam": {
+    "message": "Cheongsam",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.chineseCostume": {
+    "message": "Kiinalainen puku",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.chineseDress": {
+    "message": "Kiinalaiset vaatteet",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.wuxia": {
+    "message": "Wuxia",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.chinesePhoenix": {
+    "message": "Feeniks",
+    "description": "Käytetään kuvastamaan ja luomaan kuvia tyylitermi, luodun kuvan tulisi sisältää tämän tunnisteen tyyli."
+  },
+  "styleTag.kungfu": {
+    "message": "Kungfu",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.kunquOpera": {
+    "message": "Kunqu-ooppera",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.cloisonne": {
+    "message": "Kloisonné",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.porcelain": {
+    "message": "Posliini",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.embroidered": {
+    "message": "Brodeeraus",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.jade": {
+    "message": "Jade",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.chinesePavilion": {
+    "message": "Kiinalainen paviljonki",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.plumFlower": {
+    "message": "Plum flower",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.forbiddenCity": {
+    "message": "Kielletty kaupunki",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.peony": {
+    "message": "Pioni",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.unrealEngine": {
+    "message": "Unreal Engine",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.octaneRender": {
+    "message": "Octane-renderöinti",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.maxonCinema4D": {
+    "message": "Maxon Cinema 4D",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.quixelMegascansRender": {
+    "message": "Quixel Megascans-renderöinti",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.coronaRender": {
+    "message": "Corona-renderöinti",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.vRay": {
+    "message": "V-ray",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.architecturalVisualisation": {
+    "message": "Arkkitehtuuri visualisointi",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.dramaticContrast": {
+    "message": "Dramaattinen kontrasti",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.goldAndBlackTone": {
+    "message": "Kultainen ja musta sävy",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.whiteAndPinkTone": {
+    "message": "Valkoinen ja vaaleanpunainen sävy",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.redAndBlackTone": {
+    "message": "Punainen ja musta sävy",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.neonShades": {
+    "message": "Neon sävyt",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.richColor": {
+    "message": "Rikkaat värit",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.monotone": {
+    "message": "Yksivärinen",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.theLowPurityTone": {
+    "message": "Alhainen puhtaus sävy",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "styleTag.theHighPurityTone": {
+    "message": "Korkea puhtaus sävy",
+    "description": "Sanaa käytetään kuvien tyylin kuvaamiseen ja luomiseen, luotujen kuvien tulee sisältää tämän tagin tyyli."
+  },
+  "button.low": {
+    "message": "Matalat",
+    "description": "Painikkeen teksti, joka merkitsee 'matalan' kuvan laatua"
+  },
+  "button.medium": {
+    "message": "Keskitaso",
+    "description": "Painikkeen teksti, joka merkitsee 'keskitasoista' kuvaa"
+  },
+  "button.high": {
+    "message": "Korkea",
+    "description": "Painikkeen teksti, joka merkitsee 'korkean' kuvan laatua"
+  },
+  "button.buyMore": {
+    "message": "Osta enemmän",
+    "description": "Painikkeen teksti, joka sallii käyttäjän ostaa lisää krediittejä"
+  },
+  "button.uploadReferences": {
+    "message": "Lataa viitteet",
+    "description": "Painikkeen teksti, joka sallii käyttäjän ladata viitteitä"
+  },
+  "button.success": {
+    "message": "Onnistui",
+    "description": "Painikkeen teksti, joka merkitsee onnistunutta toimintoa"
+  },
+  "button.generating": {
+    "message": "Tuotetaan",
+    "description": "Painikkeen teksti, joka kertoo, että toiminto on käynnissä"
+  },
+  "button.failed": {
+    "message": "Epätavallinen",
+    "description": "Painikkeen teksti, joka ilmoittaa, että toiminto epäonnistui"
+  },
+  "button.download": {
+    "message": "Lataa",
+    "description": "Painikkeen teksti, joka mahdollistaa käyttäjän ladata tulokset"
+  },
+  "button.fast": {
+    "message": "Nopea",
+    "description": "Painikkeen teksti, joka mahdollistaa käyttäjän asettaa 'nopeusmoodin' nopeaksi kuvan generaatiolle, on käännettävä 'nopeusmoodiksi'"
+  },
+  "button.relax": {
+    "message": "Hidas",
+    "description": "Painikkeen teksti, joka mahdollistaa käyttäjän asettaa 'hitausmoodin' rentoutumiseen kuvan generaatiolla, on käännettävä 'hitausmoodiksi'"
+  },
+  "button.turbo": {
+    "message": "Turbo",
+    "description": "Painikkeen teksti, joka mahdollistaa käyttäjän asettaa 'turbo-moodin' vauhdikkaaksi kuvan generaatiolle, on käännettävä 'turbo-moodiksi'"
+  },
+  "button.more": {
+    "message": "Lisää",
+    "description": "Painikkeen teksti, joka mahdollistaa käyttäjän nähdä lisää vaihtoehtoja"
+  },
+  "button.generate": {
+    "message": "Tuota",
+    "description": "Painikkeen teksti, joka mahdollistaa käyttäjän tuottaa kuvan"
+  },
+  "button.history": {
+    "message": "Historia",
+    "description": "Painikkeen teksti, joka mahdollistaa käyttäjän tarkastella tuotettujen kuvien historiaa"
+  },
+  "button.generateNew": {
+    "message": "Tuota uusi kuva",
+    "description": "Painikkeen teksti, joka mahdollistaa käyttäjän luoda uuden kuvan"
+  },
+  "field.taskId": {
+    "message": "Tehtävän ID",
+    "description": "Tehtävän ID"
+  },
+  "field.imageId": {
+    "message": "Kuvan ID",
+    "description": "Kuvan ID"
+  },
+  "field.finalPrompt": {
+    "message": "Loppuohje",
+    "description": "Viimeinen piirustusohje kuvan tuottamiseen"
+  },
+  "field.elements": {
+    "message": "Tyyli",
+    "description": "Piirustuksen tyyli kuvan tuottamiseen"
+  },
+  "field.failureReason": {
+    "message": "Epätavoitteellinen syy",
+    "description": "Epäonnistumisen syy"
+  },
+  "field.traceId": {
+    "message": "Seuranta-ID",
+    "description": "Seurantatunnus kuvan generaatiopyynnön seuraamiseen, älä käännä, pidä 'Seuranta-ID'"
+  },
+  "description.aspect": {
+    "message": "--aspect, muuttaa tuotettavan kuvan kuvasuhdetta, oletusarvo riippuu mallista ja moodista",
+    "description": "Kuvasuhdeparametrin kuvaus"
+  },
+  "description.chaos": {
+    "message": "--chaos, säädä kuvassa tapahtuvien muutosten astetta, kun numero kasvaa, kuva on ainutlaatuinen ja yllättävä, alue 0-100, oletusarvo 1",
+    "description": "Sekasorron parametrin kuvaus"
+  },
+  "description.fast": {
+    "message": "Ohita nykyiset asetukset, suorita yksittäinen generointitehtävä 'nopeusmoodissa', ei oletusarvoa",
+    "description": "Nopeusparametrin kuvaus"
+  },
+  "description.iw": {
+    "message": "--iw, asettaa kuvan ohjeen tärkeyden suhteessa tekstiohjeeseen generaatioprosessissa, alue 0-2, oletusarvo 1",
+    "description": "iw-parametrin kuvaus"
+  },
+  "description.no": {
+    "message": "--no, ilmoittaa generaatiokoneistolle, että tiettyjä elementtejä yritetään jättää pois, esim. '--no plants' yrittää tuottaa kuvan ilman kasveja, ei oletusarvoa",
+    "description": "Poissulkemisparametrin kuvaus, käännä 'poissulkemiseksi'"
+  },
+  "description.quality": {
+    "message": "--quality, asettaa tuotettavan kuvan laadun ja renderointiajan, alue .25, .5 tai 1, oletusarvo 1",
+    "description": "Laatuparametrin kuvaus"
+  },
+  "description.random": {
+    "message": "Lisää ohjeeseen satunnainen perusmallikoodi, voit käyttää '--style random-16', '--style random-64' tai '--style random-128' saadaksesi erilaisia satunnaisia tyylivaikutuksia, ei oletusarvoa",
+    "description": "Satunnaisuusparametrin kuvaus"
+  },
+  "description.relax": {
+    "message": "Ohita nykyiset asetukset, suorita yksittäinen tehtävä 'hitausmoodissa', ei oletusarvoa",
+    "description": "Rentoutumisparametrin kuvaus"
+  },
+  "description.repeat": {
+    "message": "--repeat, luo useita tehtäviä yhdestä ohjeesta, alue 1-40, oletusarvo 1",
+    "description": "Toisto-parametrin kuvaus"
+  },
+  "description.seed": {
+    "message": "--seed, tuotettavan kuvan alkupisteen visuaalinen kohina, alue 0-4294967295, oletusarvo satunnaisesti generoitu",
+    "description": "Siemenparametrin kuvaus"
+  },
+  "description.stop": {
+    "message": "--stop, pysäytä tehtävä missään vaiheessa generaatioprosessia, alue 10-100, oletusarvo 100 (eli täydellinen generoiminen)",
+    "description": "Pysäytysparametrin kuvaus"
+  },
+  "description.style": {
+    "message": "--style, vaihda Midjourney- tai Niji-mallin eri versioiden tai tyylien välillä, kuten raw, cute, expressive, original, scenic, oletusarvo riippuu mallista ja moodista",
+    "description": "Tyyliparametrin kuvaus"
+  },
+  "description.stylize": {
+    "message": "--stylize, säädä tuotettavan tehtävän aikana käytetyn Midjourney-tyylin estetiikan voimakkuutta, alue 0-1000, oletusarvo 100",
+    "description": "Tyylitavoitteiden kuvaus"
+  },
+  "description.tile": {
+    "message": "--tile, tuottaa kuvia, joita voidaan käyttää saumattoman laatoittelun luomiseen, ei oletusarvoa",
+    "description": "Laatoitusparametrin kuvaus"
+  },
+  "description.turbo": {
+    "message": "Ohita nykyiset asetukset, suorita yksittäinen tehtävä 'turbo-moodissa', ei oletusarvoa",
+    "description": "Turbo-parametrin kuvaus"
+  },
+  "description.weird": {
+    "message": "--weird, tutki epätavallisia esteettisiä tyylejä kokeellisella luonteella, alue 0-3000, oletusarvo 0",
+    "description": "Kuvaus oudosta parametrista"
+  },
+  "description.translation": {
+    "message": "Ota käyttöön automaattinen käännös generoinnin aikana, ei-kiinalaiset sisällöt käännetään automaattisesti Midjourneyn englanninkieliseksi syötteeksi",
+    "description": "Kuvaus käännösparametrista"
+  },
+  "description.imageWeight": {
+    "message": "--iw, säädä kuvan vihjeen paino suhteessa tekstivihjeeseen, alue 0-2, oletusarvo 1",
+    "description": "Kuvauspainoparametrin kuvaus"
+  },
+  "description.niji": {
+    "message": "--niji, kun tämä on käytössä, generoidut kuvat käyttävät Niji-mallia, tuottaa anime-tyylisiä kuvia",
+    "description": "Kuvaus niji-parametrista"
+  },
+  "description.uploadReferences": {
+    "message": "Lataa kuvia viittauksena generoinnissa, tukee enintään 5 kuvaa. Jos lataa yli yhden kuvan, ne yhdistetään automaattisesti",
+    "description": "Viittausparametrin kuvaus"
+  },
+  "description.raw": {
+    "message": "--raw, kun tämä on käytössä, generoidut kuvat käyttävät Midjourneyn mallia, tuottaa alkuperäistyylisiä kuvia",
+    "description": "Alkuperäisparametrin kuvaus"
+  },
+  "description.prompt": {
+    "message": "Syötä komento, jos lisäät ylimääräisiä parametreja, ne ohittavat oletusasetukset, esimerkiksi lisäämällä '--stylize 200' pakotetaan lopullinen komento käyttämään '--stylize 200'",
+    "description": "Vihjealueen kuvaus"
+  },
+  "action.generate": {
+    "message": "Napsauta tätä painiketta aloittaaksesi kuvageneroinnin",
+    "description": "Generointipainikkeen kuvaus"
+  },
+  "action.upscale1": {
+    "message": "Suurenna ensimmäinen kuva",
+    "description": "upscale1-painikkeen kuvaus"
+  },
+  "action.upscale2": {
+    "message": "Suurenna toinen kuva",
+    "description": "upscale2-painikkeen kuvaus"
+  },
+  "action.upscale3": {
+    "message": "Suurenna kolmas kuva",
+    "description": "upscale3-painikkeen kuvaus"
+  },
+  "action.upscale4": {
+    "message": "Suurenna neljäs kuva",
+    "description": "upscale4-painikkeen kuvaus"
+  },
+  "action.variation1": {
+    "message": "Säädä ensimmäisen kuvan variaatiota",
+    "description": "variation1-painikkeen kuvaus"
+  },
+  "action.variation2": {
+    "message": "Säädä toisen kuvan variaatiota",
+    "description": "variation2-painikkeen kuvaus"
+  },
+  "action.variation3": {
+    "message": "Säädä kolmannen kuvan variaatiota",
+    "description": "variation3-painikkeen kuvaus"
+  },
+  "action.variation4": {
+    "message": "Säädä neljännen kuvan variaatiota",
+    "description": "variation4-painikkeen kuvaus"
+  },
+  "action.reroll": {
+    "message": "Generoi uudelleen",
+    "description": "reroll-painikkeen kuvaus"
+  },
+  "action.variation_strong": {
+    "message": "Variaatio (voimakas)",
+    "description": "Korkean variaation painikkeen kuvaus"
+  },
+  "action.variation_subtle": {
+    "message": "Variaatio (hienovarainen)",
+    "description": "Alhaisen variaation painikkeen kuvaus"
+  },
+  "action.upscale_creative": {
+    "message": "Suurenna (luova)",
+    "description": "Korkean variaation painikkeen kuvaus"
+  },
+  "action.upscale_subtle": {
+    "message": "Suurenna (hienovarainen)",
+    "description": "Alhaisen variaation painikkeen kuvaus"
+  },
+  "action.redo_upscale_creative": {
+    "message": "Generoi uudelleen suurennettuna (luova)",
+    "description": "Korkean variaation painikkeen kuvaus"
+  },
+  "action.redo_upscale_subtle": {
+    "message": "Generoi uudelleen suurennettuna (hienovarainen)",
+    "description": "Alhaisen variaation painikkeen kuvaus"
+  },
+  "action.zoom_out_2x": {
+    "message": "2x pienennys",
+    "description": "2x pienennystä kuvaava painike"
+  },
+  "action.zoom_out_1_5x": {
+    "message": "1.5x pienennys",
+    "description": "1.5x pienennystä kuvaava painike"
+  },
+  "action.square": {
+    "message": "Neliö",
+    "description": "Neliöpainikkeen kuvaus"
+  },
+  "action.pan_left": {
+    "message": "Panoraa vasemmalle",
+    "description": "Vasemmalle panoraamapainikkeen kuvaus"
+  },
+  "action.pan_up": {
+    "message": "Panoraa ylös",
+    "description": "Ylös panoraamapainikkeen kuvaus"
+  },
+  "action.pan_down": {
+    "message": "Panoraa alas",
+    "description": "Alas panoraamapainikkeen kuvaus"
+  },
+  "action.pan_right": {
+    "message": "Panoraa oikealle",
+    "description": "Oikealle panoraamapainikkeen kuvaus"
+  },
+  "action.zoom_in_2x": {
+    "message": "2x suurennus",
+    "description": "2x suurennusta kuvaava painike"
+  },
+  "action.zoom_in_1_5x": {
+    "message": "Suurennus 1.5x",
+    "description": "Suurennusta 1.5x kuvaava painike"
+  },
+  "action.upscale_2x": {
+    "message": "Suurenna 2x",
+    "description": "Suurenna 2x kuvaava painike"
+  },
+  "action.upscale_4x": {
+    "message": "Suurenna 4x",
+    "description": "Suurenna 4x kuvaava painike"
+  },
+  "action.redo_upscale_2x": {
+    "message": "Tee uudelleen suurennus 2x",
+    "description": "Tee uudelleen suurennus 2x kuvaava painike"
+  },
+  "action.redo_upscale_4x": {
+    "message": "Tee uudelleen suurennus 4x",
+    "description": "Tee uudelleen suurennus 4x kuvaava painike"
+  },
+  "message.promptPlaceholder": {
+    "message": "Syötä lausekuvaus kuvasta, jonka haluat generoida, esimerkiksi: söpö kissa. Ylimääräiset parametrit ohittavat oletusasetukset",
+    "description": "Paikkamerkki tekstikentässä"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Voit ladata enintään 5 kuvaa",
+    "description": "Virheilmoitus, kun ladattujen kuvien määrä ylittää rajoituksen"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Kuvan lataaminen onnistui",
+    "description": "Onnistumisviesti, kun kuva ladattiin onnistuneesti"
+  },
+  "message.uploadReferencesError": {
+    "message": "Kuvan lataaminen epäonnistui, yritä uudelleen myöhemmin",
+    "description": "Virheilmoitus, kun kuvan lataaminen epäonnistuu"
+  },
+  "message.startingTask": {
+    "message": "Tehtävän käynnistäminen...",
+    "description": "Viesti, kun piirustustehtävä käynnistetään"
+  },
+  "message.startTaskSuccess": {
+    "message": "Piirustustehtävän käynnistäminen onnistui",
+    "description": "Viesti, kun piirustustehtävä käynnistyy onnistuneesti"
+  },
+  "message.startTaskFailed": {
+    "message": "Tehtävän käynnistäminen ei onnistunut, ota yhteys ylläpitoon",
+    "description": "Virheilmoitus, kun tehtävän käynnistäminen ei onnistu"
+  },
+  "message.generating": {
+    "message": "Generoidaan...",
+    "description": "Viesti kuvageneroinnin aikana"
+  },
+  "message.noOperations": {
+    "message": "Ei saatavilla olevia toimintoja",
+    "description": "Viesti, kun ei ole saatavilla olevia toimintoja"
+  },
+  "message.noTasks": {
+    "message": "Ei historiallisia tehtäviä, käynnistä uusi tehtävä ensin",
+    "description": "Viesti, kun ei ole historiallisia tehtäviä"
+  },
+  "message.usedUp": {
+    "message": "Pisteesi on käytetty loppuun, osta lisää pisteitä jatkaaksesi käyttöä",
+    "description": "Viesti, kun pisteet on käytetty loppuun"
+  },
+  "message.operation": {
+    "message": "Määritysvalinnat",
+    "description": "Määritysvalintojen yksityiskohtaiset tiedot"
+  },
+  "model.general": {
+    "message": "Yleinen",
+    "description": "Yleiseen kuvagenerointiin käytettävän mallin nimi"
+  },
+  "model.niji": {
+    "message": "Niji",
+    "description": "Animaatiotyylisten kuvien generointiin käytettävän mallin nimi, älä käännä, säilytä 'Niji'"
+  },
+  "name.midjourneyBot": {
+    "message": "Midjourney Bot",
+    "description": "Midjourney-mallin nimi"
+  },
+  "name.model": {
+    "message": "Malli",
+    "description": "Mallin nimi, malli on koneoppimisessa kuvien generoimiseen käytetty termi"
+  },
+  "name.aspect": {
+    "message": "Kuvasuhde",
+    "description": "Kuvasuhdeparametrin nimi"
+  },
+  "name.ratio": {
+    "message": "Suhde",
+    "description": "Suhdeparametrin nimi"
+  },
+  "name.chaos": {
+    "message": "Sekasorto",
+    "description": "Sekasorto parametrin nimi, käännä 'sekasorto'"
+  },
+  "name.fast": {
+    "message": "Nopea",
+    "description": "Nopean tilan nimi, jonka avulla kuvien generointi on nopeaa, käännä 'nopeaksi tilaksi'"
+  },
+  "name.nijiStyle": {
+    "message": "Niji",
+    "description": "nijiStyle parametrin nimi, älä käännä, säilytä 'Niji'"
+  },
+  "name.version": {
+    "message": "Versio",
+    "description": "Version parametrin nimi"
+  },
+  "name.imageWeight": {
+    "message": "Kuvan paino",
+    "description": "Kuvan paino parametrin nimi"
+  },
+  "name.no": {
+    "message": "Poista",
+    "description": "Poista parametri nimitys, käytetään tiettyjen elementtien poistamiseen, käännä 'poista'"
+  },
+  "name.quality": {
+    "message": "Laatu",
+    "description": "Laatuparametrin nimi, käytetään generoitujen kuvien laadun säätämiseen"
+  },
+  "name.mode": {
+    "message": "Nopeus",
+    "description": "Nopeusparametrin nimi, käytetään generoitujen kuvien nopeuden säätämiseen"
+  },
+  "name.random": {
+    "message": "Satunnainen",
+    "description": "Satunnaisuusparametrin nimi, käytetään satunnaisten tyyli-efektien lisäämiseen"
+  },
+  "name.relax": {
+    "message": "Hidas",
+    "description": "Rentoutustilan nimi, käytetään kuvien generoimiseen 'hidastilassa', käännä 'hidastilaksi'"
+  },
+  "name.repeat": {
+    "message": "Toista",
+    "description": "Toista parametrin nimi, käytetään useiden tehtävien luomiseen yhdestä kehottamisesta"
+  },
+  "name.seed": {
+    "message": "Siemen",
+    "description": "Siemenparametrin nimi, käytetään alkuperäisen visuaalisen kohinan asettamiseen"
+  },
+  "name.stop": {
+    "message": "Pysäytä",
+    "description": "Pysäytä parametrin nimi, käytetään tehtävän pysäyttämiseen missä tahansa vaiheessa"
+  },
+  "name.style": {
+    "message": "Tyyli",
+    "description": "Tyyliparametrin nimi, käytetään vaihtamaan eri versioiden tai tyylien mallien välillä"
+  },
+  "name.stylize": {
+    "message": "Tyylitä",
+    "description": "Tyylityöpysteparametrin nimi, käytetään oletusarvoisen esteettisen tyylin voimakkuuden säätämiseen"
+  },
+  "name.tile": {
+    "message": "Laajenna",
+    "description": "Laajennusparametrin nimi, käytetään laajennettavien kuvien generoimiseen"
+  },
+  "name.turbo": {
+    "message": "Turbo",
+    "description": "Turbon tilan nimi, käytetään kuvien generoimiseen 'turbo' tilassa, käännä 'turbotilaksi'"
+  },
+  "name.weird": {
+    "message": "Kummallisuus",
+    "description": "Kummallisuusparametrin nimi, käytetään harvinaisempien esteettisten tyylien tutkimiseen, käännä 'kummallisuus'"
+  },
+  "name.translation": {
+    "message": "Käännös",
+    "description": "Käännösparametrin nimi, käytetään automaattisen käännöksen mahdollistamiseksi generointiprosessin aikana"
+  },
+  "name.advanced": {
+    "message": "Edistynyt",
+    "description": "Edistyneen tilan nimi, käytetään edistyneen tilan mahdollistamiseen"
+  },
+  "name.niji": {
+    "message": "Niji",
+    "description": "niji parametrin nimi, käytetään Niji-mallin mahdollistamiseen, älä käännä, säilytä 'Niji'"
+  },
+  "name.ignore": {
+    "message": "Ohita",
+    "description": "Ohita parametrin nimi, käytetään joidenkin elementtien ohittamiseen"
+  },
+  "name.prompt": {
+    "message": "Kehotus",
+    "description": "Kehotusparametrin nimi, käytetään piirustuskäskyjen syöttämiseen"
+  },
+  "name.raw": {
+    "message": "Raaka",
+    "description": "Raakaversion parametri, käytetään Midjourney-mallin mahdollistamiseen"
+  },
+  "placeholder.prompt": {
+    "message": "Syötä lausekuvaus siitä, millaisen kuvan haluat luoda, esimerkiksi: suloinen kissa. Lisäparametrit ylittävät oletusasetukset.",
+    "description": "Tekstissä, joka näkyy syöttökentässä, kun se on tyhjillään."
+  },
+  "placeholder.ignore": {
+    "message": "Syötä ohitettavat elementit, esimerkiksi jos et halua, että kuvassa on auto, voit kirjoittaa 'auto'.",
+    "description": "Tekstissä, joka näkyy ohitus-kentässä, kun se on tyhjillään."
+  },
+  "placeholder.select": {
+    "message": "Valitse",
+    "description": "Tekstissä, joka näkyy valintakentässä, kun se on tyhjillään."
+  },
+  "status.pending": {
+    "message": "Odottaa",
+    "description": "Tehtävän tila - ei ole vielä aloitettu."
+  }
+}

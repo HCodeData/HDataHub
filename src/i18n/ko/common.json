@@ -1,0 +1,478 @@
+{
+  "button.setup": {
+    "message": "설정",
+    "description": "버튼 텍스트, 특정 내용을 설정하는 데 사용됨"
+  },
+  "button.copy": {
+    "message": "복사",
+    "description": "버튼 텍스트, 특정 내용을 설정하는 데 사용됨"
+  },
+  "button.restart": {
+    "message": "다시 생성",
+    "description": "버튼 텍스트, 특정 내용을 설정하는 데 사용됨"
+  },
+  "button.preview": {
+    "message": "미리보기",
+    "description": "버튼 텍스트, URL을 통해 특정 파일을 미리보기 위해 여는 기능"
+  },
+  "button.seeRawImage": {
+    "message": "원본 이미지 보기",
+    "description": "버튼 텍스트, 원본 이미지를 보기 위해 사용됨"
+  },
+  "button.seeRawVideo": {
+    "message": "비디오 보기",
+    "description": "버튼 텍스트, 원본 이미지를 보기 위해 사용됨"
+  },
+  "button.edit": {
+    "message": "편집",
+    "description": "버튼 텍스트, 특정 내용을 편집하는 데 사용됨"
+  },
+  "button.login": {
+    "message": "로그인",
+    "description": "버튼 텍스트, 로그인하는 데 사용됨"
+  },
+  "button.logout": {
+    "message": "로그아웃",
+    "description": "버튼 텍스트, 로그아웃하는 데 사용됨"
+  },
+  "button.new": {
+    "message": "새로 만들기",
+    "description": "버튼 텍스트, 새 프로젝트를 만드는 데 사용됨"
+  },
+  "button.delete": {
+    "message": "삭제",
+    "description": "버튼 텍스트, 특정 내용을 삭제하는 데 사용됨"
+  },
+  "button.confirm": {
+    "message": "확인",
+    "description": "버튼 텍스트, 특정 내용을 확인하는 데 사용됨"
+  },
+  "button.cancel": {
+    "message": "취소",
+    "description": "버튼 텍스트, 특정 작업을 취소하는 데 사용됨"
+  },
+  "button.alert": {
+    "message": "경고",
+    "description": "버튼 텍스트, 특정 내용을 경고하는 데 사용됨"
+  },
+  "button.info": {
+    "message": "정보",
+    "description": "버튼 텍스트, 정보를 표시하는 데 사용됨"
+  },
+  "button.publish": {
+    "message": "공개",
+    "description": "버튼 텍스트, 특정 내용을 공개하는 데 사용됨"
+  },
+  "button.watch": {
+    "message": "보기",
+    "description": "버튼 텍스트, 특정 내용을 보는 데 사용됨"
+  },
+  "button.verify": {
+    "message": "실명 인증",
+    "description": "버튼 텍스트, 사용자가 실명 인증을 수행하게 하는 데 사용됨"
+  },
+  "button.profile": {
+    "message": "프로필",
+    "description": "버튼 텍스트, 사용자의 프로필을 표시하는 데 사용됨"
+  },
+  "button.console": {
+    "message": "콘솔",
+    "description": "버튼 텍스트, 웹페이지의 특정 내용을 제어하기 위해 콘솔 페이지를 표시하는 데 사용됨"
+  },
+  "button.learn": {
+    "message": "학습",
+    "description": "버튼 텍스트, 사용자가 특정 내용을 학습하게 하는 데 사용됨"
+  },
+  "button.buy": {
+    "message": "구매",
+    "description": "버튼 텍스트, 사용자가 특정 내용을 구매하게 하는 데 사용됨"
+  },
+  "button.try": {
+    "message": "시도",
+    "description": "버튼 텍스트, 사용자가 특정 내용을 시도하게 하는 데 사용됨"
+  },
+  "button.startForFree": {
+    "message": "HarBO AI 시작하기",
+    "description": "버튼 텍스트, 사용자가 무료로 사용하기 시작하게 하는 데 사용됨"
+  },
+  "button.apply": {
+    "message": "신청",
+    "description": "버튼 텍스트, 사용자가 API 서비스를 신청하는 데 사용됨"
+  },
+  "button.refresh": {
+    "message": "새로 고침",
+    "description": "버튼 텍스트, 페이지를 새로 고치는 데 사용됨"
+  },
+  "button.pay": {
+    "message": "결제",
+    "description": "버튼 텍스트, 사용자가 서비스 비용을 결제하는 데 사용됨"
+  },
+  "button.repay": {
+    "message": "결제 계속하기",
+    "description": "버튼 텍스트, 사용자가 서비스 비용을 계속 결제하는 데 사용됨"
+  },
+  "button.applied": {
+    "message": "신청 완료",
+    "description": "버튼 텍스트, 사용자가 이미 해당 서비스를 신청했음을 표시하는 데 사용됨"
+  },
+  "button.acquire": {
+    "message": "획득",
+    "description": "버튼 텍스트, 사용자가 API 서비스의 토큰 또는 키를 얻는 데 사용됨"
+  },
+  "button.fillExample": {
+    "message": "예시 작성",
+    "description": "버튼 텍스트, 사용자가 예시 데이터를 작성하는 데 사용됨"
+  },
+  "button.buyMore": {
+    "message": "더 구매",
+    "description": "버튼 텍스트, 사용자가 더 많은 내용을 구매하게 하는 데 사용됨"
+  },
+  "button.update": {
+    "message": "업데이트",
+    "description": "버튼 텍스트, 특정 내용을 업데이트하는 데 사용됨"
+  },
+  "button.view": {
+    "message": "보기",
+    "description": "버튼 텍스트, 특정 내용을 보는 데 사용됨"
+  },
+  "button.create": {
+    "message": "생성",
+    "description": "버튼 텍스트, 특정 내용을 생성하는 데 사용됨"
+  },
+  "button.referralEarnings": {
+    "message": "추천 수익",
+    "description": "버튼 텍스트, 사용자가 다른 사람을 초대하여 수익을 얻을 수 있는 추천 수익 표시"
+  },
+  "button.finish": {
+    "message": "완료",
+    "description": "버튼 텍스트, 특정 내용을 완료하는 데 사용됨"
+  },
+  "entity.website": {
+    "message": "레오 인공지능 영향력 센터",
+    "description": "웹사이트 이름, 번역할 필요 없으며 'Ace Data Cloud'로 유지"
+  },
+  "entity.copyright": {
+    "message": "저작권",
+    "description": "저작권 정보를 표시하는 텍스트"
+  },
+  "entity.platform": {
+    "message": "플랫폼",
+    "description": "API 서비스 플랫폼을 나타내는 텍스트"
+  },
+  "entity.title": {
+    "message": "제목",
+    "description": "엔터티의 제목"
+  },
+  "entity.icon": {
+    "message": "아이콘",
+    "description": "엔터티의 아이콘"
+  },
+  "entity.status": {
+    "message": "상태",
+    "description": "엔터티의 상태"
+  },
+  "entity.operation": {
+    "message": "작업",
+    "description": "엔터티의 작업"
+  },
+  "entity.description": {
+    "message": "설명",
+    "description": "엔터티의 설명"
+  },
+  "entity.createdAt": {
+    "message": "생성 시간",
+    "description": "엔티티 생성의 시간"
+  },
+  "entity.updatedAt": {
+    "message": "업데이트 시간",
+    "description": "엔티티 업데이트의 시간"
+  },
+  "entity.order": {
+    "message": "주문",
+    "description": "엔티티의 주문으로, 주문에는 금액 및 서비스 정보가 포함되어 있으며, 사용자는 결제해야 합니다."
+  },
+  "message.usedAmount": {
+    "message": "사용된 금액",
+    "description": "서비스에서 사용된 금액을 표시하는 데 사용됩니다."
+  },
+  "message.remainingAmount": {
+    "message": "남은 금액",
+    "description": "서비스에서 남은 금액을 표시하는 데 사용됩니다."
+  },
+  "message.copied": {
+    "message": "복사 성공",
+    "description": "내용이 성공적으로 복사되었음을 알리는 메시지입니다."
+  },
+  "message.restart": {
+    "message": "다시 생성",
+    "description": "내용이 성공적으로 복사되었음을 알리는 메시지입니다."
+  },
+  "message.confirmDelete": {
+    "message": "정말 삭제하시겠습니까?",
+    "description": "사용자가 어떤 내용을 삭제하고자 하는지 확인하기 위한 메시지입니다."
+  },
+  "message.expiredAt": {
+    "message": "만료 시간",
+    "description": "서비스의 만료 시간을 표시하는 데 사용됩니다."
+  },
+  "message.alert": {
+    "message": "경고",
+    "description": "사용자에게 경고하는 메시지입니다."
+  },
+  "message.info": {
+    "message": "알림",
+    "description": "정보를 표시하는 메시지입니다."
+  },
+  "message.free": {
+    "message": "무료",
+    "description": "서비스가 무료임을 알리는 메시지로, 사용자가 결제할 필요가 없음을 나타냅니다."
+  },
+  "message.startPrice": {
+    "message": "시작 가격",
+    "description": "서비스의 최소 가격을 표시하는 메시지입니다."
+  },
+  "message.joinDiscord": {
+    "message": "디스코드 가입",
+    "description": "사용자가 디스코드 채널에 가입하도록 안내하는 메시지입니다."
+  },
+  "message.addWeChat": {
+    "message": "위챗 추가",
+    "description": "사용자가 위챗을 추가하도록 안내하는 메시지입니다."
+  },
+  "message.serviceTech": {
+    "message": "기술 지원",
+    "description": "서비스 기술 지원에 대한 메시지입니다."
+  },
+  "message.businessCooperation": {
+    "message": "비즈니스 협력",
+    "description": "비즈니스 협력에 대한 메시지입니다."
+  },
+  "message.noData": {
+    "message": "데이터 없음",
+    "description": "테이블이나 리스트에 데이터가 없음을 표시하는 메시지입니다."
+  },
+  "nav.home": {
+    "message": "홈",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 홈 페이지를 표시합니다."
+  },
+  "nav.content": {
+    "message": "콘텐츠",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 콘텐츠 페이지를 표시합니다."
+  },
+  "nav.category": {
+    "message": "카테고리",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 카테고리 페이지를 표시합니다."
+  },
+  "nav.service": {
+    "message": "서비스",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 서비스 페이지를 표시합니다."
+  },
+  "nav.profile": {
+    "message": "내 프로필",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 개인 프로필 페이지를 표시합니다."
+  },
+  "nav.products": {
+    "message": "제품",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 제품 페이지를 표시합니다."
+  },
+  "nav.referral": {
+    "message": "추천 수익",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 추천 페이지를 표시합니다."
+  },
+  "nav.apiPlatform": {
+    "message": "API 플랫폼",
+    "description": "웹사이트 내비게이션 바의 텍스트로, API 플랫폼 페이지를 표시합니다."
+  },
+  "nav.document": {
+    "message": "문서",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 문서 페이지를 표시합니다."
+  },
+  "nav.console": {
+    "message": "콘솔",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 콘솔 페이지를 표시합니다."
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 채팅 페이지를 표시합니다. 이 필드는 번역하지 마시고 'Chat'으로 유지해야 합니다."
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 미드저니 페이지를 표시합니다. 이 필드는 번역하지 마시고 'Midjourney'로 유지해야 합니다."
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 채팅 문서 페이지를 표시합니다. 이 필드는 번역하지 마시고 'Chatdoc'로 유지해야 합니다."
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "웹사이트 내비게이션 바의 텍스트로, QR 아트 페이지를 표시합니다. 이 필드는 번역하지 마시고 'QRArt'로 유지해야 합니다."
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "웹사이트 내비게이션 바의 텍스트로, Suno 페이지를 표시합니다. 이 필드는 번역하지 마시고 'Suno'로 유지해야 합니다."
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "웹사이트 내비게이션 바의 텍스트로, Luma 페이지를 표시합니다. 이 필드는 번역하지 마시고 'Suno'으로 유지해야 합니다."
+  },
+  "nav.distribution": {
+    "message": "추천 수익",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 추천 수익 페이지를 표시합니다."
+  },
+  "nav.logOut": {
+    "message": "로그아웃",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 로그아웃을 표시합니다."
+  },
+  "nav.site": {
+    "message": "사이트 설정",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 사이트 설정 페이지를 표시합니다."
+  },
+  "nav.headshots": {
+    "message": "AI 증명사진",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 사이트 설정 페이지를 표시합니다."
+  },
+  "nav.locale": {
+    "message": "언어 설정",
+    "description": "웹사이트 내비게이션 바의 텍스트로, 언어를 변경하는 데 사용됩니다."
+  },
+  "nav.support": {
+    "message": "저희에 대해",
+    "description": "웹사이트 내비게이션 바의 텍스트, 지원 페이지를 표시합니다."
+  },
+  "nav.midjourney_tutorials": {
+    "message": "Midjourney 튜토리얼",
+    "description": "웹사이트 내비게이션 바의 텍스트, 지원 페이지를 표시합니다."
+  },
+  "nav.ai_tutorials": {
+    "message": "AI 프롬프트",
+    "description": "웹사이트 내비게이션 바의 텍스트, 지원 페이지를 표시합니다."
+  },
+  "nav.ai_tutorials1": {
+    "message": "GPT 프롬프트 기초",
+    "description": "웹사이트 내비게이션 바의 텍스트, 지원 페이지를 표시합니다."
+  },
+  "nav.ai_tutorials2": {
+    "message": "GPT 프롬프트 심화",
+    "description": "웹사이트 내비게이션 바의 텍스트, 지원 페이지를 표시합니다."
+  },
+  "nav.ai_tutorials3": {
+    "message": "GPT 프롬프트 작성",
+    "description": "웹사이트 내비게이션 바의 텍스트, 지원 페이지를 표시합니다."
+  },
+  "nav.free_user": {
+    "message": "무료 체험",
+    "description": "웹사이트 내비게이션 바의 텍스트, 지원 페이지를 표시합니다."
+  },
+  "nav.darkMode": {
+    "message": "어두운 모드",
+    "description": "웹사이트 내비게이션 바의 텍스트, 어두운 테마로 전환합니다."
+  },
+  "title.alert": {
+    "message": "알림",
+    "description": "알림 메시지의 제목"
+  },
+  "title.placeholderOfSelect": {
+    "message": "선택해 주세요",
+    "description": "선택 입력 상자의 자리 표시자"
+  },
+  "title.placeholderOfInput": {
+    "message": "입력해 주세요",
+    "description": "입력 상자의 자리 표시자"
+  },
+  "title.allApplications": {
+    "message": "모든 신청",
+    "description": "모든 신청을 표시하는 페이지 제목"
+  },
+  "title.allOrders": {
+    "message": "모든 주문",
+    "description": "모든 주문을 표시하는 페이지 제목"
+  },
+  "title.orderInfo": {
+    "message": "주문 정보",
+    "description": "주문 정보를 표시하는 페이지 제목"
+  },
+  "title.buyMore": {
+    "message": "더 구매하기",
+    "description": "사용자가 더 구매하도록 하는 페이지 제목"
+  },
+  "title.distribution": {
+    "message": "추천 수익",
+    "description": "추천 수익을 표시하는 페이지 제목, 사용자가 다른 사람을 초대하여 서비스를 사용할 수 있도록 돈을 벌 수 있음을 나타냅니다."
+  },
+  "title.site": {
+    "message": "사이트 설정",
+    "description": "사이트 설정을 표시하는 페이지 제목"
+  },
+  "title.distributionHistory": {
+    "message": "추천 기록",
+    "description": "추천 기록을 표시하는 페이지 제목"
+  },
+  "title.invitee": {
+    "message": "초대자",
+    "description": "초대자의 페이지 제목"
+  },
+  "title.allUsages": {
+    "message": "사용 기록",
+    "description": "API 서비스의 모든 사용 기록을 표시하는 페이지 제목"
+  },
+  "title.allCredentials": {
+    "message": "자격 증명",
+    "description": "API에 접근하는 데 사용되는 모든 자격 증명 페이지의 제목"
+  },
+  "about.title1": {
+    "message": "문의하기",
+    "description": "연락 정보 부분의 제목"
+  },
+  "about.title2": {
+    "message": "리소스",
+    "description": "링크 부분의 제목"
+  },
+  "about.title3": {
+    "message": "링크",
+    "description": "지원 정보를 표시하는 부분의 제목"
+  },
+  "about.address": {
+    "message": "미국 델라웨어주 미들타운 N Broad St, 201호 사무실",
+    "description": "회사의 주소"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "회사의 이메일"
+  },
+  "about.link1": {
+    "message": "서비스",
+    "description": "서비스 페이지의 링크"
+  },
+  "about.link2": {
+    "message": "문서",
+    "description": "문서 페이지의 링크"
+  },
+  "about.link3": {
+    "message": "콘솔",
+    "description": "콘솔 페이지의 링크"
+  },
+  "about.link4": {
+    "message": "프로필",
+    "description": "프로필 페이지의 링크"
+  },
+  "about.link5": {
+    "message": "센터",
+    "description": "센터 페이지의 링크"
+  },
+  "about.link6": {
+    "message": "추천 수익",
+    "description": "추천 수익 페이지의 링크"
+  },
+  "about.link7": {
+    "message": "지원",
+    "description": "지원 페이지의 링크"
+  },
+  "about.link8": {
+    "message": "서비스 약관",
+    "description": "서비스 약관 페이지의 링크"
+  },
+  "about.link9": {
+    "message": "개인정보처리방침",
+    "description": "개인정보처리방침 페이지의 링크"
+  }
+}

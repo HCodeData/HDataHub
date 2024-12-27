@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "AI prilagođene usluge",
+    "description": "AI pitanja i odgovora poglavlje naslov"
+  },
+  "subtitle.ai_custom": {
+    "message": "Pružamo ekskluzivne AI usluge po meri, podržavajući proširenje funkcionalnosti i duboku prilagodbu, zadovoljavajući vaše individualne potrebe i pomažući u efikasnom sprovođenju projekata.",
+    "description": "AI prilagođene usluge"
+  },
+  "title.chat": {
+    "message": "AI popularni tekst",
+    "description": "AI pitanja i odgovora poglavlje naslov"
+  },
+  "title.midjourney": {
+    "message": "Tekst u sliku",
+    "description": "AI slikanje poglavlje naslov"
+  },
+  "title.qrart": {
+    "message": "AI umetnički QR kod",
+    "description": "AI umetnički QR kod poglavlje naslov"
+  },
+  "title.digital_man": {
+    "message": "AI digitalna osoba",
+    "description": "AI umetnički QR kod poglavlje naslov"
+  },
+  "title.sound_cloning": {
+    "message": "AI kloniranje zvuka",
+    "description": "AI umetnički QR kod poglavlje naslov"
+  },
+  "title.suno": {
+    "message": "AI stvaranje muzike",
+    "description": "AI muzika poglavlje naslov"
+  },
+  "title.luma": {
+    "message": "AI video",
+    "description": "AI video poglavlje naslov"
+  },
+  "title.headshots": {
+    "message": "AI fotografije",
+    "description": "AI fotografije poglavlje naslov"
+  },
+  "title.comments": {
+    "message": "-- Ocene korisnika --",
+    "description": "Ocene klijenata poglavlje naslov"
+  },
+  "title.introduction": {
+    "message": "-- Super AI asistent --",
+    "description": "Uvodna stranica"
+  },
+  "subtitle.banner": {
+    "message": "HarBO AI korporativni super AI asistent",
+    "description": "Podnaslov stranice"
+  },
+  "subtitle.chat": {
+    "message": "Podrška za više modela pitanja i odgovora, sa internet funkcionalnošću, može prepoznati slike, fajlove i video razne sadržaje.",
+    "description": "AI pitanja i odgovora poglavlje naslov"
+  },
+  "subtitle.midjourney": {
+    "message": "Povezano sa najnovijim Midjourney modelom, generišete slike raznih stilova jednim klikom i možete ih fino podešavati.",
+    "description": "AI slikanje poglavlje naslov"
+  },
+  "subtitle.qrart": {
+    "message": "Podrška za različite umetničke stilove QR kodova, omogućava upload postojećih QR kodova, lako ih umetnički obradite i kreirate jedinstvene vizuelne efekte.",
+    "description": "AI umetnički QR kod poglavlje naslov"
+  },
+  "subtitle.digital_man": {
+    "message": "Pružamo rešenja za virtuelnu digitalnu osobu, podržavajući interakciju u realnom vremenu, promociju i obuku u raznim scenarijima.",
+    "description": "AI umetnički QR kod poglavlje naslov"
+  },
+  "subtitle.suno": {
+    "message": "Podrška za različite muzičke stilove, lako stvarajte željenu muziku, uz podršku fleksibilnih opcija proširenja dužine.",
+    "description": "AI muzika poglavlje naslov"
+  },
+  "subtitle.luma": {
+    "message": "Povezano sa najnovijim Luma modelom, generišete prilagođene video sadržaje jednim klikom, uz podršku fleksibilnih opcija proširenja video sadržaja.",
+    "description": "AI muzika poglavlje naslov"
+  },
+  "subtitle.headshots": {
+    "message": "Povezano sa najnovijim AI modelima, generišete jednim klikom prilagođene šablone fotografija i podržava više formata fotografija.",
+    "description": "AI fotografije poglavlje naslov"
+  },
+  "subtitle.comments": {
+    "message": "Rado smo pomogli ovim klijentima, koji su dali vrlo visoke ocene našim uslugama.",
+    "description": "Ocene klijenata poglavlje naslov"
+  },
+  "subtitle.introduction": {
+    "message": "Pružamo sveobuhvatne AI usluge, uključujući pitanja i odgovore, slikanje, QR kodove, muziku i mnoge druge funkcionalnosti, zadovoljavajući vaše raznovrsne potrebe.",
+    "description": "Uvodna stranica"
+  },
+  "button.try": {
+    "message": "Kliknite za iskustvo",
+    "description": "Sadržaj u tekstu"
+  },
+  "button.testEnv": {
+    "message": "Test okruženje",
+    "description": "Dugme za test okruženje"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "Ime klijenta"
+  },
+  "customers.job1": {
+    "message": "Softverski inženjer",
+    "description": "Pozicija klijenta"
+  },
+  "customers.comment1": {
+    "message": "Ova integrisana usluga je jednostavno predivna, mogu koristiti različite AI alate na jednoj platformi, zaista fantastično!",
+    "description": "Komentar klijenta"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "Ime klijenta"
+  },
+  "customers.job2": {
+    "message": "Menadžer proizvoda",
+    "description": "Pozicija klijenta"
+  },
+  "customers.comment2": {
+    "message": "Platforma je veoma korisna, kvalitet usluga je izvanredan, a u isto vreme značajno je oslobodila moju produktivnost.",
+    "description": "Komentar klijenta"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "Ime klijenta"
+  },
+  "customers.job3": {
+    "message": "Dizajner",
+    "description": "Pozicija klijenta"
+  },
+  "customers.comment3": {
+    "message": "Postoji mnogo AI platformi, ali ova je zaista jednostavna za korišćenje, cena je smešna, nadam se da će postati još bolja!",
+    "description": "Komentar klijenta"
+  }
+}

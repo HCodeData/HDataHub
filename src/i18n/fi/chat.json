@@ -1,0 +1,194 @@
+{
+  "button.edit": {
+    "message": "Muokkaa viestiä",
+    "description": "Muokkaa lähetettyä viestiä"
+  },
+  "model.35Standard": {
+    "message": "GPT 3.5 Perus",
+    "description": "Palvelun mallin nimi, eli GPT 3.5 Perus"
+  },
+  "model.35StandardDescription": {
+    "message": "Soveltuu päivittäisiin tehtäviin.",
+    "description": "3.5 Perusmallin kuvaus"
+  },
+  "model.35Browsing": {
+    "message": "GPT 3.5 Verkkoselain",
+    "description": "Palvelun mallin nimi, eli GPT 3.5 Verkkoselain"
+  },
+  "model.35BrowsingDescription": {
+    "message": "Voi etsiä tietoa reaaliajassa.",
+    "description": "3.5 Verkkoselaimen kuvaus"
+  },
+  "model.4Standard": {
+    "message": "GPT 4.0 Perus",
+    "description": "Palvelun mallin nimi, eli GPT 4.0 Perus"
+  },
+  "model.4StandardDescription": {
+    "message": "Vahvempi malli, soveltuu monimutkaisille tehtäville.",
+    "description": "4.0 Perusmallin kuvaus"
+  },
+  "model.4Browsing": {
+    "message": "GPT 4.0 Verkkoselain",
+    "description": "Palvelun mallin nimi, eli GPT 4.0 Verkkoselain"
+  },
+  "model.4BrowsingDescription": {
+    "message": "Vahva ja voi etsiä tietoa reaaliajassa.",
+    "description": "4.0 Verkkoselaimen kuvaus"
+  },
+  "model.4Vision": {
+    "message": "GPT 4.0 Näkö",
+    "description": "Palvelun mallin nimi, eli GPT 4.0 Näkö"
+  },
+  "model.4All": {
+    "message": "GPT 4.0 Kaikki",
+    "description": "Palvelun mallin nimi, eli GPT 4.0 Kaikki"
+  },
+  "model.4VisionDescription": {
+    "message": "Voi analysoida kuvia.",
+    "description": "4.0 Näkömallin kuvaus"
+  },
+  "model.4AllDescription": {
+    "message": "Monipuolinen malli",
+    "description": "4.0 Monipuolisen mallin kuvaus"
+  },
+  "message.startNewChat": {
+    "message": "Aloita uusi keskustelu",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle aloittaa uusi keskustelu"
+  },
+  "message.uploadFile": {
+    "message": "Lataa tiedosto",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle ladata tiedosto"
+  },
+  "message.noToken": {
+    "message": "Hae ensin tarvittavaa palvelua",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle hakea ensin tarvittavaa palvelua"
+  },
+  "message.newMessagePlaceholder": {
+    "message": "Syötä kysymyksesi...",
+    "description": "Verkkosivun paikkamerkki, joka kertoo käyttäjälle syöttää kysymys"
+  },
+  "message.noInput": {
+    "message": "Kysymys ei voi olla tyhjää",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että kysymys ei voi olla tyhjää"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Voit ladata enintään 1 tiedoston",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että voit ladata enintään 1 tiedoston"
+  },
+  "message.uploadReferencesError": {
+    "message": "Tiedoston lataaminen epäonnistui, yritä myöhemmin uudelleen",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että tiedoston lataaminen epäonnistui, yritä myöhemmin uudelleen"
+  },
+  "message.notApplied": {
+    "message": "Et ole vielä hakenut tätä palvelua, hae ensin",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että et ole vielä hakenut tätä palvelua, hae ensin"
+  },
+  "message.tryForFree": {
+    "message": "Kokeile ilmaiseksi",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle kokeilla ilmaiseksi"
+  },
+  "message.question1": {
+    "message": "Luo harjoitusohjelma",
+    "description": "Keskustelun aloittamisen esimerkkikysymys, pyytää käyttäjää kirjoittamaan JavaScript-koodi, joka tulostaa 'Hello World'"
+  },
+  "message.question2": {
+    "message": "Tee henkilökohtainen verkkosivusto",
+    "description": "Keskustelun aloittamisen esimerkkikysymys, pyytää käyttäjää kirjoittamaan Mikelle sähköposti, jossa kerrotaan, että hän on juuri muuttanut"
+  },
+  "message.question3": {
+    "message": "Suunnittele mielenkiintoinen ohjelmointipeli",
+    "description": "Keskustelun aloittamisen esimerkkikysymys, pyytää käyttäjää selittämään kvanttilaskennan perusperiaatteet yksinkertaisella kielellä"
+  },
+  "message.question4": {
+    "message": "Koe Soul paikallisten tavoin",
+    "description": "Keskustelun aloittamisen esimerkkikysymys, pyytää käyttäjää selittämään, mitä vaikutuksia virtuaalitodellisuudella on taiteen luomiseen"
+  },
+  "message.errorApiError": {
+    "message": "Vastaus epäonnistui, yritä myöhemmin uudelleen",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että vastaus epäonnistui, yritä myöhemmin uudelleen"
+  },
+  "message.errorBadRequest": {
+    "message": "Pyyntö on epämuodollinen, kysy uudelleen",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että pyyntö on epämuodollinen, kysy uudelleen"
+  },
+  "message.errorNoConversation": {
+    "message": "Keskustelua ei ole olemassa tai se on vanhentunut, aloita uusi keskustelu",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että keskustelua ei ole olemassa tai se on vanhentunut, aloita uusi keskustelu"
+  },
+  "message.errorContentTooLarge": {
+    "message": "Kysymyksen sisältö on liian pitkä, lyhennä ja yritä uudelleen",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että kysymyksen sisältö on liian pitkä, lyhennä ja yritä uudelleen"
+  },
+  "message.errorTooManyRequests": {
+    "message": "Toimesi ovat liian tiheitä, yritä myöhemmin uudelleen",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että toimesi ovat liian tiheitä, yritä myöhemmin uudelleen"
+  },
+  "message.errorUsedUp": {
+    "message": "Olet käyttänyt pakettisi loppuun, osta lisää jatkaaksesi käyttöä",
+    "description": "Verkkosivun viesti, joka kertoo käyttäjälle, että olet käyttänyt pakettisi loppuun, osta lisää jatkaaksesi käyttöä"
+  },
+  "message.errorUnknown": {
+    "message": "Palvelimella tapahtui tuntematon virhe, yritä myöhemmin uudelleen tai ota yhteyttä asiakaspalveluun",
+    "description": "Verkkosivustolla oleva viesti, joka kertoo käyttäjälle, että palvelimella tapahtui tuntematon virhe, yritä myöhemmin uudelleen tai ota yhteyttä asiakaspalveluun"
+  },
+  "message.errorTimeout": {
+    "message": "Vastausaika ylittyi, yritä myöhemmin uudelleen",
+    "description": "Verkkosivustolla oleva viesti, joka kertoo käyttäjälle, että vastausaika ylittyi, yritä myöhemmin uudelleen"
+  },
+  "message.errorNotApplied": {
+    "message": "Et ole vielä hakenut tätä palvelua, hae ensin ja jatka sitten kysymistä",
+    "description": "Verkkosivustolla oleva viesti, joka kertoo käyttäjälle, että hän ei ole vielä hakenut tätä palvelua, hae ensin ja jatka sitten kysymistä"
+  },
+  "message.confirmDelete": {
+    "message": "Vahvista poistaminen",
+    "description": "Verkkosivustolla oleva viesti, joka kertoo käyttäjälle vahvistamisen poistamiseen"
+  },
+  "message.howToUse": {
+    "message": "AI voi tehdä virheitä, tarkista tärkeät tiedot.",
+    "description": "Verkkosivustolla oleva viesti, joka kertoo käyttäjälle, että AI voi tehdä virheitä, tarkista tärkeät tiedot"
+  },
+  "title.chat": {
+    "message": "AI Keskustelu",
+    "description": "Verkkosivuston otsikko, eli AI Keskustelu"
+  },
+  "title.example": {
+    "message": "Esimerkki",
+    "description": "Verkkosivuston otsikko, eli Esimerkki"
+  },
+  "title.capabilities": {
+    "message": "Toiminnot",
+    "description": "Verkkosivuston otsikko, eli Toiminnot"
+  },
+  "title.limitations": {
+    "message": "Rajoitukset",
+    "description": "Verkkosivuston otsikko, joka kertoo, että tämä osa käsittelee palvelun teknisiä rajoituksia"
+  },
+  "title.complexQuestion": {
+    "message": "Vastaaminen monimutkaisiin kysymyksiin",
+    "description": "Verkkosivuston otsikko, joka kertoo, että tämä osa käsittelee palvelun kykyä vastata monimutkaisiin kysymyksiin"
+  },
+  "title.professionalQuestion": {
+    "message": "Ammattikysymysten konsultointi",
+    "description": "Verkkosivuston otsikko, joka kertoo, että tämä osa käsittelee palvelun kykyä konsultoida ammattikysymyksissä"
+  },
+  "title.getTips": {
+    "message": "Inspiraation ja ideoiden hankkiminen",
+    "description": "Verkkosivuston otsikko, joka kertoo, että tämä osa käsittelee palvelun kykyä hankkia inspiraatiota ja ideoita"
+  },
+  "group.today": {
+    "message": "Tänään",
+    "description": "Verkkosivuston ryhmän nimi, eli Tänään"
+  },
+  "group.yesterday": {
+    "message": "Eilen",
+    "description": "Verkkosivuston ryhmän nimi, eli Eilen"
+  },
+  "group.thisWeek": {
+    "message": "Tällä viikolla",
+    "description": "Verkkosivuston ryhmän nimi, eli Tällä viikolla"
+  },
+  "group.earlier": {
+    "message": "Aikaisemmin",
+    "description": "Verkkosivuston ryhmän nimi, eli Aikaisemmin"
+  }
+}

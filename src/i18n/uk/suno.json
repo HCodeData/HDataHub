@@ -1,0 +1,170 @@
+{
+  "button.extend": {
+    "message": "Продовжити генерацію",
+    "description": "Текст кнопки для продовження генерації"
+  },
+  "button.download": {
+    "message": "Завантажити",
+    "description": "Текст кнопки завантаження"
+  },
+  "button.video": {
+    "message": "Відео",
+    "description": "Текст кнопки для відео"
+  },
+  "button.download_video": {
+    "message": "Завантажити відео",
+    "description": "Текст кнопки для завантаження відео"
+  },
+  "button.download_audio": {
+    "message": "Завантажити музику",
+    "description": "Текст кнопки для завантаження музики"
+  },
+  "model.model1": {
+    "message": "v2",
+    "description": "Модель для генерації музики"
+  },
+  "model.model2": {
+    "message": "v3",
+    "description": "Модель для генерації музики"
+  },
+  "name.instrumental": {
+    "message": "Без слів",
+    "description": "Опис параметра 'instrumental'"
+  },
+  "model.model3": {
+    "message": "v3.5",
+    "description": "Модель для генерації музики"
+  },
+  "model.model4": {
+    "message": "v4.0",
+    "description": "Модель для генерації музики"
+  },
+  "name.taskId": {
+    "message": "ID завдання",
+    "description": "ID завдання"
+  },
+  "name.type": {
+    "message": "Індивідуальний режим",
+    "description": "Назва індивідуального режиму"
+  },
+  "name.prompt": {
+    "message": "Опис пісні",
+    "description": "Підказка для введення вмісту"
+  },
+  "name.extend": {
+    "message": "Розширена пісня з",
+    "description": "Підказка для введення вмісту"
+  },
+  "name.lyrics": {
+    "message": "Текст пісні",
+    "description": "Підказка для введення тексту пісні"
+  },
+  "name.style": {
+    "message": "Стиль пісні",
+    "description": "Підказка для введення стилю пісні"
+  },
+  "name.title": {
+    "message": "Назва пісні",
+    "description": "Підказка для введення назви пісні"
+  },
+  "name.failureReason": {
+    "message": "Причина збою",
+    "description": "Причина, чому завдання зазнало невдачі"
+  },
+  "name.status": {
+    "message": "Статус",
+    "description": "Статус завдання"
+  },
+  "name.traceId": {
+    "message": "ID трасування",
+    "description": "ID трасування завдання"
+  },
+  "name.sunoBot": {
+    "message": "Suno Bot",
+    "description": "Назва генератора Suno"
+  },
+  "description.prompt": {
+    "message": "Введіть стиль і тему музики, яку хочете згенерувати, наприклад, акустичний поп про свята",
+    "description": "Опис параметра 'prompt'"
+  },
+  "description.lyrics": {
+    "message": "Вміст тексту",
+    "description": "Опис параметра 'lyrics'"
+  },
+  "description.style": {
+    "message": "Вміст стилю пісні",
+    "description": "Опис параметра 'style'"
+  },
+  "description.title": {
+    "message": "Вміст назви пісні",
+    "description": "Опис параметра 'title'"
+  },
+  "status.pending": {
+    "message": "В очікуванні",
+    "description": "Стан завдання в очікуванні"
+  },
+  "placeholder.prompt": {
+    "message": "Введіть ключові слова для пісні...",
+    "description": "Заповнюючий текст для введення ключових слів"
+  },
+  "placeholder.lyrics": {
+    "message": "Введіть текст...",
+    "description": "Заповнюючий текст для введення тексту"
+  },
+  "placeholder.extend.lyrics": {
+    "message": "Введіть текст пісні, який потрібно розширити...",
+    "description": "Заповнюючий текст для введення тексту пісні"
+  },
+  "placeholder.extend.continue_at": {
+    "message": "Введіть, з якої секунди слід продовжити пісню...",
+    "description": "Заповнюючий текст для введення продовження пісні"
+  },
+  "placeholder.style": {
+    "message": "Введіть ключові слова для стилю пісні, наприклад, акустичний поп",
+    "description": "Заповнюючий текст для введення стилю"
+  },
+  "placeholder.title": {
+    "message": "Введіть ключові слова для назви пісні, наприклад, пісня на свято",
+    "description": "Заповнюючий текст для введення назви"
+  },
+  "placeholder.select": {
+    "message": "Виберіть модель...",
+    "description": "Заповнюючий текст для вибору моделі"
+  },
+  "placeholder.position": {
+    "message": "Виберіть...",
+    "description": "Заповнюючий текст для вибору позиції"
+  },
+  "button.generate": {
+    "message": "Генерувати",
+    "description": "Текст кнопки для генерації"
+  },
+  "message.startingTask": {
+    "message": "Запускаємо завдання...",
+    "description": "Повідомлення на початку генерації музичного завдання"
+  },
+  "message.startTaskSuccess": {
+    "message": "Успішно запущено завдання для генерації музики",
+    "description": "Повідомлення про успішний запуск музичного завдання"
+  },
+  "message.startTaskFailed": {
+    "message": "Не вдалося запустити завдання для генерації музики",
+    "description": "Повідомлення про помилку при запуску музичного завдання"
+  },
+  "message.generating": {
+    "message": "Генеруємо...",
+    "description": "Повідомлення під час генерації музики"
+  },
+  "message.generateFailed": {
+    "message": "Не вдалося згенерувати музику",
+    "description": "Повідомлення про невдачу в генерації музики"
+  },
+  "message.noOperations": {
+    "message": "Немає доступних дій",
+    "description": "Повідомлення, коли немає доступних дій"
+  },
+  "message.noTasks": {
+    "message": "Немає історичних завдань, будь ласка, згенеруйте музику в лівій панелі налаштувань",
+    "description": "Повідомлення, коли немає завдань"
+  }
+}

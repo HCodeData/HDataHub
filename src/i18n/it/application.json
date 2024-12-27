@@ -1,0 +1,210 @@
+{
+  "type.period": {
+    "message": "Periodo",
+    "description": "Servizio del periodo."
+  },
+  "type.usage": {
+    "message": "Quota",
+    "description": "Quota del servizio."
+  },
+  "field.expiredAt": {
+    "message": "Data di scadenza",
+    "description": "La data di scadenza della richiesta."
+  },
+  "button.goDocument": {
+    "message": "Documentazione",
+    "description": "Testo del pulsante, cliccando su questo pulsante si verrà reindirizzati alla pagina della documentazione."
+  },
+  "button.goCredentials": {
+    "message": "Credenziali",
+    "description": "Testo del pulsante, cliccando su questo pulsante si verrà reindirizzati alla pagina delle credenziali."
+  },
+  "button.buyMore": {
+    "message": "Acquista di più",
+    "description": "Testo del pulsante, cliccando su questo pulsante si verrà reindirizzati alla pagina per acquistare di più."
+  },
+  "button.createOrder": {
+    "message": "Crea ordine",
+    "description": "Testo del pulsante, cliccando su questo pulsante si verrà reindirizzati alla pagina per creare un ordine."
+  },
+  "button.custom": {
+    "message": "Personalizza",
+    "description": "Testo del pulsante, cliccando su questo pulsante si verrà reindirizzati alla pagina di personalizzazione."
+  },
+  "button.query": {
+    "message": "Richiesta",
+    "description": "Testo del pulsante, cliccando su questo pulsante si verrà reindirizzati alla pagina delle richieste."
+  },
+  "button.usage": {
+    "message": "Registri utilizzo",
+    "description": "Testo del pulsante, cliccando su questo pulsante si verrà reindirizzati alla pagina dei registri di utilizzo."
+  },
+  "field.application": {
+    "message": "Richiesta",
+    "description": "Richiesta del servizio."
+  },
+  "field.status": {
+    "message": "Stato",
+    "description": "Stato della richiesta."
+  },
+  "field.id": {
+    "message": "ID di richiesta",
+    "description": "ID della richiesta."
+  },
+  "field.remainingAmount": {
+    "message": "Quantità rimanente",
+    "description": "Quantità rimanente della richiesta."
+  },
+  "field.usedAmount": {
+    "message": "Quantità utilizzata",
+    "description": "Quantità utilizzata nella richiesta."
+  },
+  "field.apiKey": {
+    "message": "Chiave API",
+    "description": "Chiave API."
+  },
+  "field.service": {
+    "message": "Servizio",
+    "description": "Servizio richiesto."
+  },
+  "field.operation": {
+    "message": "Operazione",
+    "description": "Operazione della richiesta."
+  },
+  "field.amount": {
+    "message": "Quantità",
+    "description": "Quantità della richiesta."
+  },
+  "field.traceId": {
+    "message": "ID di tracciamento",
+    "description": "L'ID di tracciamento di una chiamata API per il servizio API, non tradurre, mantiene come 'ID di tracciamento'."
+  },
+  "field.shouldPayPrice": {
+    "message": "Prezzo finale",
+    "description": "Prezzo finale della richiesta."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "Questo è un servizio online, in cui si forniscono servizi agli utenti tramite API."
+  },
+  "field.proxy": {
+    "message": "Proxy",
+    "description": "Questo è un servizio online, in cui si forniscono servizi agli utenti tramite un proxy HTTP (per il trasferimento dei dati)."
+  },
+  "field.credential": {
+    "message": "Credenziale",
+    "description": "Credenziale della richiesta."
+  },
+  "field.name": {
+    "message": "Nome",
+    "description": "Nome della richiesta."
+  },
+  "field.package": {
+    "message": "Pacchetto",
+    "description": "Pacchetto rappresenta diverse offerte di prezzo, come 100 dollari per 10000 punti, 200 dollari per 20000 punti."
+  },
+  "field.type": {
+    "message": "Tipo",
+    "description": "Tipo della richiesta."
+  },
+  "field.freeAmount": {
+    "message": "Quantità gratuita",
+    "description": "Quantità gratuita della richiesta."
+  },
+  "field.extraPrice": {
+    "message": "Prezzo",
+    "description": "Prezzo aggiuntivo che l'utente deve pagare per la richiesta."
+  },
+  "message.alreadyApplied": {
+    "message": "Hai già richiesto questo servizio, verifica la console",
+    "description": "Messaggio mostrato all'utente quando ha già richiesto questo servizio."
+  },
+  "message.applySuccessfully": {
+    "message": "Richiesta effettuata con successo",
+    "description": "Messaggio mostrato all'utente quando ha effettuato con successo una richiesta per questo servizio."
+  },
+  "message.notApplied": {
+    "message": "Non hai ancora richiesto questo servizio, per favore richiedilo prima di utilizzarlo",
+    "description": "Messaggio mostrato all'utente quando non ha ancora richiesto questo servizio."
+  },
+  "message.yourApplication": {
+    "message": "La tua richiesta",
+    "description": "Messaggio mostrato all'utente al momento della richiesta."
+  },
+  "message.unverified": {
+    "message": "Devi completare la verifica dell'identità prima di poter richiedere questo servizio",
+    "description": "Messaggio mostrato all'utente quando non ha ancora completato la verifica dell'identità."
+  },
+  "message.goVerify": {
+    "message": "Vai alla verifica dell'identità",
+    "description": "Messaggio mostrato all'utente quando non ha ancora completato la verifica dell'identità."
+  },
+  "message.requiredParameter": {
+    "message": "Parametri obbligatori",
+    "description": "Messaggio mostrato all'utente quando non ha inserito i parametri obbligatori."
+  },
+  "message.example": {
+    "message": "Esempio",
+    "description": "Messaggio mostrato all'utente quando non ha inserito i parametri obbligatori."
+  },
+  "message.createCredentialSuccessfully": {
+    "message": "Credenziale creata con successo",
+    "description": "Messaggio mostrato all'utente quando ha creato con successo la credenziale."
+  },
+  "message.readPolicy": {
+    "message": "Ho letto e accetto",
+    "description": "Messaggio mostrato all'utente quando ha letto e accettato la politica."
+  },
+  "message.policy": {
+    "message": "Accordo di utilizzo del servizio tecnologico dei dati",
+    "description": "Messaggio mostrato all'utente quando ha letto e accettato la politica."
+  },
+  "message.notAgreePolicy": {
+    "message": "Non hai ancora accettato l'accordo di utilizzo del servizio tecnologico dei dati",
+    "description": "Messaggio mostrato all'utente quando non ha accettato la politica."
+  },
+  "message.confirmApplying": {
+    "message": "Conferma richiesta di servizio",
+    "description": "Messaggio mostrato all'utente quando conferma la richiesta di servizio."
+  },
+  "message.rotateCredential": {
+    "message": "Reimposta la chiave",
+    "description": "Messaggio visualizzato all'utente quando la chiave viene reimpostata."
+  },
+  "message.rotateCredentialConfirm": {
+    "message": "Sei sicuro di voler reimpostare la chiave? Dopo la reimpostazione non sarà possibile recuperarla",
+    "description": "Messaggio visualizzato all'utente quando conferma la reimpostazione della chiave."
+  },
+  "message.idDoesNotExist": {
+    "message": "La richiesta non esiste",
+    "description": "Messaggio visualizzato all'utente quando la richiesta non esiste."
+  },
+  "message.rotateCredentialSuccessfully": {
+    "message": "Chiave reimpostata con successo",
+    "description": "Messaggio visualizzato all'utente quando la chiave viene reimpostata con successo."
+  },
+  "message.rotateCredentialFailed": {
+    "message": "Reimpostazione della chiave fallita, contattare il supporto",
+    "description": "Messaggio visualizzato all'utente quando la reimpostazione della chiave fallisce."
+  },
+  "message.updateFailed": {
+    "message": "Modifica fallita",
+    "description": "Messaggio visualizzato all'utente quando la modifica fallisce."
+  },
+  "message.updateSuccessfully": {
+    "message": "Modifica riuscita",
+    "description": "Messaggio visualizzato all'utente quando la modifica ha successo."
+  },
+  "title.buyService": {
+    "message": "Acquista servizio",
+    "description": "Titolo della pagina quando l'utente desidera acquistare un servizio."
+  },
+  "title.applicationRemainingCount": {
+    "message": "Numero di modifiche",
+    "description": "Titolo della pagina quando l'utente desidera modificare il numero di richieste."
+  },
+  "title.manageApplication": {
+    "message": "Gestione delle richieste",
+    "description": "Titolo della pagina quando l'utente desidera gestire le richieste."
+  }
+}

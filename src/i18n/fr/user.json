@@ -1,0 +1,26 @@
+{
+  "field.id": {
+    "message": "ID utilisateur",
+    "description": "ID utilisateur"
+  },
+  "field.isVerified": {
+    "message": "Vérifié",
+    "description": "Un indicateur si l'utilisateur a été vérifié sur la base d'informations réelles"
+  },
+  "field.email": {
+    "message": "Email",
+    "description": "L'email de l'utilisateur"
+  },
+  "field.nickname": {
+    "message": "Surnom",
+    "description": "Le surnom de l'utilisateur"
+  },
+  "field.username": {
+    "message": "Nom d'utilisateur",
+    "description": "Le nom d'utilisateur de l'utilisateur"
+  },
+  "field.dateJoined": {
+    "message": "Date d'inscription",
+    "description": "La date à laquelle l'utilisateur s'est inscrit"
+  }
+}

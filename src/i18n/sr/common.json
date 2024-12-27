@@ -1,0 +1,478 @@
+{
+  "button.setup": {
+    "message": "Podešavanje",
+    "description": "Text na dugmetu, korišćen za podešavanje nekih opcija"
+  },
+  "button.copy": {
+    "message": "Kopiraj",
+    "description": "Text na dugmetu, korišćen za kopiranje sadržaja"
+  },
+  "button.restart": {
+    "message": "Ponovo generiši",
+    "description": "Text na dugmetu, korišćen za ponovno generisanje sadržaja"
+  },
+  "button.preview": {
+    "message": "Pregled",
+    "description": "Text na dugmetu, korišćen za otvaranje pregleda nekog fajla putem URL-a"
+  },
+  "button.seeRawImage": {
+    "message": "Pogledaj originalnu sliku",
+    "description": "Text na dugmetu, korišćen za pregled originalne slike"
+  },
+  "button.seeRawVideo": {
+    "message": "Pogledaj video",
+    "description": "Text na dugmetu, korišćen za pregled originalnog videa"
+  },
+  "button.edit": {
+    "message": "Uredi",
+    "description": "Text na dugmetu, korišćen za uređivanje nekog sadržaja"
+  },
+  "button.login": {
+    "message": "Prijavi se",
+    "description": "Text na dugmetu, korišćen za prijavu"
+  },
+  "button.logout": {
+    "message": "Odjavi se",
+    "description": "Text na dugmetu, korišćen za odjavu iz sistema"
+  },
+  "button.new": {
+    "message": "Novi",
+    "description": "Text na dugmetu, korišćen za kreiranje novog projekta"
+  },
+  "button.delete": {
+    "message": "Obriši",
+    "description": "Text na dugmetu, korišćen za brisanje nekog sadržaja"
+  },
+  "button.confirm": {
+    "message": "Potvrdi",
+    "description": "Text na dugmetu, korišćen za potvrdu određenih akcija"
+  },
+  "button.cancel": {
+    "message": "Otkaži",
+    "description": "Text na dugmetu, korišćen za otkazivanje nekih operacija"
+  },
+  "button.alert": {
+    "message": "Upozorenje",
+    "description": "Text na dugmetu, korišćen za upozoravanje na određene situacije"
+  },
+  "button.info": {
+    "message": "Informacije",
+    "description": "Text na dugmetu, korišćen za prikazivanje informacija"
+  },
+  "button.publish": {
+    "message": "Objavi",
+    "description": "Text na dugmetu, korišćen za objavljivanje nekih sadržaja"
+  },
+  "button.watch": {
+    "message": "Gledaj",
+    "description": "Text na dugmetu, korišćen za gledanje određenih sadržaja"
+  },
+  "button.verify": {
+    "message": "Verifikacija identiteta",
+    "description": "Text na dugmetu, korišćen za verifikaciju identiteta korisnika"
+  },
+  "button.profile": {
+    "message": "Profil",
+    "description": "Text na dugmetu, korišćen za prikazivanje ličnih informacija"
+  },
+  "button.console": {
+    "message": "Konzola",
+    "description": "Text na dugmetu, korišćen za prikazivanje stranice konzole za upravljanje sadržajem"
+  },
+  "button.learn": {
+    "message": "Uči",
+    "description": "Text na dugmetu, korišćen za omogućavanje učenjа o određenim temama"
+  },
+  "button.buy": {
+    "message": "Kupi",
+    "description": "Text na dugmetu, korišćen za kupovinu određenih usluga"
+  },
+  "button.try": {
+    "message": "Isprobaj",
+    "description": "Text na dugmetu, korišćen za isprobavanje određenih sadržaja"
+  },
+  "button.startForFree": {
+    "message": "Zapodnesi HarBO AI",
+    "description": "Text na dugmetu, korišćen za omogućavanje korisnicima da započnu besplatno korišćenje"
+  },
+  "button.apply": {
+    "message": "Prijavi se",
+    "description": "Text na dugmetu, korišćen za apliciranje za API usluge"
+  },
+  "button.refresh": {
+    "message": "Osveži",
+    "description": "Text na dugmetu, korišćen za osvežavanje stranice"
+  },
+  "button.pay": {
+    "message": "Plati",
+    "description": "Text na dugmetu, korišćen za plaćanje usluga"
+  },
+  "button.repay": {
+    "message": "Nastavi plaćanje",
+    "description": "Text na dugmetu, korišćen za nastavak plaćanja usluga"
+  },
+  "button.applied": {
+    "message": "Prijavljeno",
+    "description": "Text na dugmetu, korišćen za prikazivanje da je korisnik već podneo prijavu"
+  },
+  "button.acquire": {
+    "message": "Dobij",
+    "description": "Text na dugmetu, korišćen za dobijanje tokena ili ključeva za API uslugu"
+  },
+  "button.fillExample": {
+    "message": "Ispuni primer",
+    "description": "Text na dugmetu, korišćen za spotovanje korisniku da ispuni primer podataka"
+  },
+  "button.buyMore": {
+    "message": "Kupi više",
+    "description": "Text na dugmetu, korišćen za kupovinu dodatnih sadržaja"
+  },
+  "button.update": {
+    "message": "Ažuriraj",
+    "description": "Text na dugmetu, korišćen za ažuriranje nekih sadržaja"
+  },
+  "button.view": {
+    "message": "Pogledaj",
+    "description": "Text na dugmetu, korišćen za pregled nekih sadržaja"
+  },
+  "button.create": {
+    "message": "Kreiraj",
+    "description": "Text na dugmetu, korišćen za kreiranje novih sadržaja"
+  },
+  "button.referralEarnings": {
+    "message": "Preporučene zarade",
+    "description": "Text na dugmetu, korišćen za prikazivanje zarade kroz preporuke"
+  },
+  "button.finish": {
+    "message": "Završi",
+    "description": "Text na dugmetu, korišćen za završavanje nekih radnji"
+  },
+  "entity.website": {
+    "message": "Ace Data Cloud",
+    "description": "Ime veb-sajta, ne prevoditi, ostaviti kao 'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "Autorska prava",
+    "description": "Text korišćen za prikazivanje informacija o autorskim pravima"
+  },
+  "entity.platform": {
+    "message": "Platforma",
+    "description": "Text koji ukazuje na to da je ovo platforma za API usluge"
+  },
+  "entity.title": {
+    "message": "Naslov",
+    "description": "Naslov entiteta"
+  },
+  "entity.icon": {
+    "message": "Ikona",
+    "description": "Ikona entiteta"
+  },
+  "entity.status": {
+    "message": "Status",
+    "description": "Status entiteta"
+  },
+  "entity.operation": {
+    "message": "Operacija",
+    "description": "Operacija entiteta"
+  },
+  "entity.description": {
+    "message": "Opis",
+    "description": "Opis entiteta"
+  },
+  "entity.createdAt": {
+    "message": "Datum kreiranja",
+    "description": "Vreme kreiranja entiteta"
+  },
+  "entity.updatedAt": {
+    "message": "Datum ažuriranja",
+    "description": "Vreme ažuriranja entiteta"
+  },
+  "entity.order": {
+    "message": "Porudžbina",
+    "description": "Porudžbina entiteta koja uključuje iznos i informacije o usluzi, korisnik mora da plati za to"
+  },
+  "message.usedAmount": {
+    "message": "Iskorišćeni iznos",
+    "description": "Koristi se za prikazivanje iznosa koji je korišćen za uslugu"
+  },
+  "message.remainingAmount": {
+    "message": "Preostali iznos",
+    "description": "Koristi se za prikazivanje preostalog iznosa za uslugu"
+  },
+  "message.copied": {
+    "message": "Uspešno kopirano",
+    "description": "Koristi se za pokazivanje poruke da je sadržaj uspešno kopiran"
+  },
+  "message.restart": {
+    "message": "Ponovno generisanje",
+    "description": "Koristi se za prikazivanje mogućnosti ponovnog generisanja sadržaja"
+  },
+  "message.confirmDelete": {
+    "message": "Da li ste sigurni da želite da obrišete?",
+    "description": "Koristi se za potvrdu da li korisnik želi da obriše neki sadržaj"
+  },
+  "message.expiredAt": {
+    "message": "Datum isteka",
+    "description": "Koristi se za prikazivanje datuma isteka usluge"
+  },
+  "message.alert": {
+    "message": "Upozorenje",
+    "description": "Koristi se za poruke koje upozoravaju korisnika"
+  },
+  "message.info": {
+    "message": "Prijateljska napomena",
+    "description": "Koristi se za prikazivanje informativnih poruka"
+  },
+  "message.free": {
+    "message": "Besplatno",
+    "description": "Koristi se za prikazivanje poruke da je usluga besplatna, što znači da korisnik ne mora da plaća"
+  },
+  "message.startPrice": {
+    "message": "Početna cena",
+    "description": "Koristi se za prikazivanje najniže cene usluge"
+  },
+  "message.joinDiscord": {
+    "message": "Pridruži se Discord-u",
+    "description": "Koristi se za poziv korisnika da se pridruži Discord kanalu"
+  },
+  "message.addWeChat": {
+    "message": "Dodaj WeChat",
+    "description": "Koristi se za poziv korisnika da doda WeChat"
+  },
+  "message.serviceTech": {
+    "message": "Tehnička podrška",
+    "description": "Koristi se za prikazivanje poruka o tehničkoj podršci za uslugu"
+  },
+  "message.businessCooperation": {
+    "message": "Poslovna saradnja",
+    "description": "Koristi se za prikazivanje poruka o poslovnoj saradnji"
+  },
+  "message.noData": {
+    "message": "Nema podataka",
+    "description": "Koristi se za prikazivanje poruke da u tabeli ili listi nema podataka"
+  },
+  "nav.home": {
+    "message": "Početna",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje početnu stranu"
+  },
+  "nav.content": {
+    "message": "Sadržaj",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu sa sadržajem"
+  },
+  "nav.category": {
+    "message": "Kategorija",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu sa kategorijama"
+  },
+  "nav.service": {
+    "message": "Usluge",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu sa uslugama"
+  },
+  "nav.profile": {
+    "message": "Moj profil",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu korisničkog profila"
+  },
+  "nav.products": {
+    "message": "Proizvodi",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu sa proizvodima"
+  },
+  "nav.referral": {
+    "message": "Preporučena dobit",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu za preporuke"
+  },
+  "nav.apiPlatform": {
+    "message": "API platforma",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu API platforme"
+  },
+  "nav.document": {
+    "message": "Dokumentacija",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu sa dokumentacijom"
+  },
+  "nav.console": {
+    "message": "Konzola",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu konzole"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu za chat, ne treba prevoditi, mora ostati 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu Midjourney, ne treba prevoditi, mora ostati 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu ChatDoc, ne treba prevoditi, mora ostati 'ChatDoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu QRArt, ne treba prevoditi, mora ostati 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu Suno, ne treba prevoditi, mora ostati 'Suno'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu Luma, ne treba prevoditi, mora ostati 'Luma'"
+  },
+  "nav.distribution": {
+    "message": "Preporučena dobit",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu preporučene dobiti"
+  },
+  "nav.logOut": {
+    "message": "Odjavi se",
+    "description": "Tekst u navigacionoj traci sajta koji se koristi za odjavu"
+  },
+  "nav.site": {
+    "message": "Podešavanja sajta",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu za podešavanje sajta"
+  },
+  "nav.headshots": {
+    "message": "AI identifikacione fotografije",
+    "description": "Tekst u navigacionoj traci sajta koji prikazuje stranicu za AI fotografije"
+  },
+  "nav.locale": {
+    "message": "Podešavanja jezika",
+    "description": "Tekst u navigacionoj traci sajta koji se koristi za promenu jezika"
+  },
+  "nav.support": {
+    "message": "Podrška",
+    "description": "Tekst u navigacijskom meniju, koji prikazuje stranicu podrške"
+  },
+  "nav.midjourney_tutorials": {
+    "message": "Midjourney Tutorijali",
+    "description": "Tekst u navigacijskom meniju, koji prikazuje stranicu podrške"
+  },
+  "nav.ai_tutorials": {
+    "message": "AI Upute",
+    "description": "Tekst u navigacijskom meniju, koji prikazuje stranicu podrške"
+  },
+  "nav.ai_tutorials1": {
+    "message": "Osnovna verzija gpt uputa",
+    "description": "Tekst u navigacijskom meniju, koji prikazuje stranicu podrške"
+  },
+  "nav.ai_tutorials2": {
+    "message": "Napredna verzija gpt uputa",
+    "description": "Tekst u navigacijskom meniju, koji prikazuje stranicu podrške"
+  },
+  "nav.ai_tutorials3": {
+    "message": "Pisanje gpt uputa",
+    "description": "Tekst u navigacijskom meniju, koji prikazuje stranicu podrške"
+  },
+  "nav.free_user": {
+    "message": "Besplatno probno razdoblje",
+    "description": "Tekst u navigacijskom meniju, koji prikazuje stranicu podrške"
+  },
+  "nav.darkMode": {
+    "message": "Tamni način",
+    "description": "Tekst u navigacijskom meniju, koji omogućava prebacivanje na tamnu temu"
+  },
+  "title.alert": {
+    "message": "Upozorenje",
+    "description": "Naslov upozoravajuće poruke"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Molimo odaberite",
+    "description": "Placeholder u okviru za odabir"
+  },
+  "title.placeholderOfInput": {
+    "message": "Molimo ispunite",
+    "description": "Placeholder u okviru za unos"
+  },
+  "title.allApplications": {
+    "message": "Sve prijave",
+    "description": "Naslov stranice koja prikazuje sve prijave"
+  },
+  "title.allOrders": {
+    "message": "Sve narudžbe",
+    "description": "Naslov stranice koja prikazuje sve narudžbe"
+  },
+  "title.orderInfo": {
+    "message": "Informacije o narudžbi",
+    "description": "Naslov stranice koja prikazuje informacije o narudžbi"
+  },
+  "title.buyMore": {
+    "message": "Kupite više",
+    "description": "Naslov stranice koja omogućava korisnicima da kupe više"
+  },
+  "title.distribution": {
+    "message": "Preporučeni prihod",
+    "description": "Naslov stranice koja prikazuje preporučeni prihod, označava da korisnici mogu zarađivati pozivanjem drugih da koriste uslugu"
+  },
+  "title.site": {
+    "message": "Podešavanje lokacije",
+    "description": "Naslov stranice koja prikazuje podešavanje lokacije"
+  },
+  "title.distributionHistory": {
+    "message": "Istorija preporuka",
+    "description": "Naslov stranice koja prikazuje istoriju preporuka"
+  },
+  "title.invitee": {
+    "message": "Pozvani",
+    "description": "Naslov stranice koja prikazuje pozvane"
+  },
+  "title.allUsages": {
+    "message": "Istorija korišćenja",
+    "description": "Naslov stranice koja prikazuje sve zapise korišćenja API usluga"
+  },
+  "title.allCredentials": {
+    "message": "Akreditivi",
+    "description": "Naslov stranice koja prikazuje sve akreditive, koji se koriste za pristup API"
+  },
+  "about.title1": {
+    "message": "Kontaktirajte nas",
+    "description": "Naslov dela koji prikazuje informacije za kontakt"
+  },
+  "about.title2": {
+    "message": "Resursi",
+    "description": "Naslov dela koji prikazuje linkove"
+  },
+  "about.title3": {
+    "message": "Linkovi",
+    "description": "Naslov dela koji prikazuje informacije o podršci"
+  },
+  "about.address": {
+    "message": "Sjedinjene Američke Države, Delaver, Middletown, N Broad St, kancelarija 201",
+    "description": "Adresa kompanije"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "Email adresa kompanije"
+  },
+  "about.link1": {
+    "message": "Usluge",
+    "description": "Link ka stranici usluga"
+  },
+  "about.link2": {
+    "message": "Dokumentacija",
+    "description": "Link ka stranici dokumentacije"
+  },
+  "about.link3": {
+    "message": "Kontrolna tabla",
+    "description": "Link ka stranici kontrolne table"
+  },
+  "about.link4": {
+    "message": "Profil",
+    "description": "Link ka stranici profila"
+  },
+  "about.link5": {
+    "message": "Središte",
+    "description": "Link ka stranici središta"
+  },
+  "about.link6": {
+    "message": "Preporučeni prihod",
+    "description": "Link ka stranici preporučenog prihoda"
+  },
+  "about.link7": {
+    "message": "Podrška",
+    "description": "Link ka stranici podrške"
+  },
+  "about.link8": {
+    "message": "Uslovi korišćenja",
+    "description": "Link ka stranici uslova korišćenja"
+  },
+  "about.link9": {
+    "message": "Politika privatnosti",
+    "description": "Link ka stranici politike privatnosti"
+  }
+}

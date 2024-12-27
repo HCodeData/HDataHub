@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "Servicio Personalizado de IA",
+    "description": "Título de la sección de preguntas y respuestas de la IA"
+  },
+  "subtitle.ai_custom": {
+    "message": "Ofrecemos un servicio de IA personalizado exclusivo, que admite la expansión de funciones y la personalización profunda, para satisfacer sus necesidades personalizadas y ayudar a una implementación eficiente del proyecto.",
+    "description": "Servicio Personalizado de IA"
+  },
+  "title.chat": {
+    "message": "Texto de Éxito de IA",
+    "description": "Título de la sección de preguntas y respuestas de la IA"
+  },
+  "title.midjourney": {
+    "message": "Texto a Imagen",
+    "description": "Título de la sección de pintura de IA"
+  },
+  "title.qrart": {
+    "message": "Código QR Artístico de IA",
+    "description": "Título de la sección de código QR artístico de IA"
+  },
+  "title.digital_man": {
+    "message": "Humano Digital de IA",
+    "description": "Título de la sección de código QR artístico de IA"
+  },
+  "title.sound_cloning": {
+    "message": "Clonación de Sonido de IA",
+    "description": "Título de la sección de código QR artístico de IA"
+  },
+  "title.suno": {
+    "message": "Creación Musical de IA",
+    "description": "Título de la sección de música de IA"
+  },
+  "title.luma": {
+    "message": "Video de IA",
+    "description": "Título de la sección de video de IA"
+  },
+  "title.headshots": {
+    "message": "Foto de Identificación de IA",
+    "description": "Título de la sección de foto de identificación de IA"
+  },
+  "title.comments": {
+    "message": "-- Comentarios de Usuarios --",
+    "description": "Título de la sección de comentarios de clientes"
+  },
+  "title.introduction": {
+    "message": "-- Asistente AI Super --",
+    "description": "Introducción del sitio"
+  },
+  "subtitle.banner": {
+    "message": "HarBO AI Asistente AI Super Empresarial",
+    "description": "Subtítulo del sitio"
+  },
+  "subtitle.chat": {
+    "message": "Soporta múltiples modelos de preguntas y respuestas, tiene capacidad de red, puede reconocer imágenes, archivos y otros contenidos como videos.",
+    "description": "Título de la sección de preguntas y respuestas de la IA"
+  },
+  "subtitle.midjourney": {
+    "message": "Conéctate con el modelo más reciente de Midjourney, genera imágenes de varios estilos con un solo clic y ajústalas continuamente.",
+    "description": "Título de la sección de pintura de IA"
+  },
+  "subtitle.qrart": {
+    "message": "Soporta múltiples estilos de códigos QR artísticos, permite cargar códigos QR existentes y los transforma artísticamente, creando efectos visuales únicos.",
+    "description": "Título de la sección de código QR artístico de IA"
+  },
+  "subtitle.digital_man": {
+    "message": "Ofrece soluciones de humano digital virtual, soporta interacciones en tiempo real, promoción y formación en múltiples aplicaciones.",
+    "description": "Título de la sección de código QR artístico de IA"
+  },
+  "subtitle.suno": {
+    "message": "Soporta múltiples estilos musicales, genera fácilmente la música que deseas y permite opciones flexibles de extensión de duración.",
+    "description": "Título de la sección de música de IA"
+  },
+  "subtitle.luma": {
+    "message": "Conéctate con el modelo más reciente de Luma, genera videos personalizados con un solo clic y permite opciones flexibles para extender el video.",
+    "description": "Título de la sección de música de IA"
+  },
+  "subtitle.headshots": {
+    "message": "Conéctate con los modelos de IA más recientes, genera fotos de identificación con plantillas personalizadas con un solo clic, y soporta fotos de identificación en múltiples formatos.",
+    "description": "Título de la sección de foto de identificación de IA"
+  },
+  "subtitle.comments": {
+    "message": "Estamos encantados de haber ayudado a estos clientes, quienes han dado una alta valoración a nuestros servicios.",
+    "description": "Título de la sección de comentarios de clientes"
+  },
+  "subtitle.introduction": {
+    "message": "Ofrecemos un servicio integral de IA que incluye preguntas y respuestas, pintura, códigos QR, música y muchas otras funcionalidades, satisfaciendo sus diversas necesidades.",
+    "description": "Introducción del sitio"
+  },
+  "button.try": {
+    "message": "Haz Clic para Probar",
+    "description": "Contenido del texto"
+  },
+  "button.testEnv": {
+    "message": "Entorno de Prueba",
+    "description": "Botón de entorno de prueba"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "Nombre del cliente"
+  },
+  "customers.job1": {
+    "message": "Ingeniero de Software",
+    "description": "Título del cliente"
+  },
+  "customers.comment1": {
+    "message": "Este servicio integral es extremadamente conveniente, puedo utilizar múltiples herramientas de IA en una sola plataforma, ¡es increíble!",
+    "description": "Comentario del cliente"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "Nombre del cliente"
+  },
+  "customers.job2": {
+    "message": "Gerente de Producto",
+    "description": "Título del cliente"
+  },
+  "customers.comment2": {
+    "message": "La plataforma es muy fácil de usar, la calidad del servicio es excelente y ha liberado enormemente mi productividad.",
+    "description": "Comentario del cliente"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "Nombre del cliente"
+  },
+  "customers.job3": {
+    "message": "Diseñador",
+    "description": "Título del cliente"
+  },
+  "customers.comment3": {
+    "message": "Hay muchas plataformas de IA, pero esta es realmente fácil de usar y a un precio razonable. ¡Espero que se vuelva aún mejor!",
+    "description": "Comentario del cliente"
+  }
+}

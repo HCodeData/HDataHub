@@ -1,0 +1,134 @@
+{
+  "title.ai_custom": {
+    "message": "AI räätälöintipalvelut",
+    "description": "AI kysymys-vastaus osion otsikko"
+  },
+  "subtitle.ai_custom": {
+    "message": "Tarjoamme räätälöityjä AI-palveluja, jotka tukevat toiminnallisuuden laajentamista ja syvällistä mukauttamista, jotta tarpeesi tyydytetään ja projektit toteutuvat tehokkaasti.",
+    "description": "AI räätälöintipalvelut"
+  },
+  "title.chat": {
+    "message": "AI suosikkiteksti",
+    "description": "AI kysymys-vastaus osion otsikko"
+  },
+  "title.midjourney": {
+    "message": "Tekstistä kuvaan",
+    "description": "AI maalaus osion otsikko"
+  },
+  "title.qrart": {
+    "message": "AI taide QR-koodi",
+    "description": "AI taide QR-koodi osion otsikko"
+  },
+  "title.digital_man": {
+    "message": "AI digitaaliset ihmiset",
+    "description": "AI taide QR-koodi osion otsikko"
+  },
+  "title.sound_cloning": {
+    "message": "AI äänen kloonaus",
+    "description": "AI taide QR-koodi osion otsikko"
+  },
+  "title.suno": {
+    "message": "AI musiikin luonti",
+    "description": "AI musiikki osion otsikko"
+  },
+  "title.luma": {
+    "message": "AI video",
+    "description": "AI video osion otsikko"
+  },
+  "title.headshots": {
+    "message": "AI henkilöstökuva",
+    "description": "AI henkilöstökuva osion otsikko"
+  },
+  "title.comments": {
+    "message": "-- Asiakasarvostelut --",
+    "description": "Asiakasarvostelut osion otsikko"
+  },
+  "title.introduction": {
+    "message": "-- Super AI assistentti --",
+    "description": "Sivuston esittely"
+  },
+  "subtitle.banner": {
+    "message": "HarBO AI yrityksen Super AI assistentti",
+    "description": "Sivuston alaotsikko"
+  },
+  "subtitle.chat": {
+    "message": "Tukee monenlaisia kysymys-vastaus malleja, verkko-ominaisuuksia, kykenee tunnistamaan kuvia, tiedostoja ja videoita.",
+    "description": "AI kysymys-vastaus osion otsikko"
+  },
+  "subtitle.midjourney": {
+    "message": "Yhdistää uusimmat Midjourney-mallit, yhden napsautuksen avulla luodaan erilaisia tyylisiä kuvia ja jatkuvaa hienosäätöä.",
+    "description": "AI maalaus osion otsikko"
+  },
+  "subtitle.qrart": {
+    "message": "Tukee monenlaisia taide QR-koodi tyylejä, sallii olemassa olevan QR-koodin lataamisen ja sen helpon taiteellistamisen ainutlaatuisen visuaalisen vaikutelman luomiseksi.",
+    "description": "AI taide QR-koodi osion otsikko"
+  },
+  "subtitle.digital_man": {
+    "message": "Tarjoaa virtuaalisen digitaalisen ihmisen ratkaisuja, tukee reaaliaikaisia interaktioita, markkinointia ja koulutusta eri sovelluksissa.",
+    "description": "AI taide QR-koodi osion otsikko"
+  },
+  "subtitle.suno": {
+    "message": "Tukee monenlaisia musiikkityylejä, luo helposti haluamaasi musiikkia ja tukee joustavia pituuden laajentamisvaihtoehtoja.",
+    "description": "AI musiikki osion otsikko"
+  },
+  "subtitle.luma": {
+    "message": "Yhdistää uusimmat Luma-mallit, yhden napsautuksen avulla luodaan räätälöityjä videoita ja tukee joustavia videon laajennusvaihtoehtoja.",
+    "description": "AI musiikki osion otsikko"
+  },
+  "subtitle.headshots": {
+    "message": "Yhdistää uusimmat AI-mallit, yhden napsautuksen avulla luodaan räätälöityjä henkilöstökuvia ja tukee monenlaisia todistuskuvia.",
+    "description": "AI henkilöstökuva osion otsikko"
+  },
+  "subtitle.comments": {
+    "message": "Olemme iloisia voidessamme auttaa asiakkaitamme, jotka ovat antaneet korkeita arvioita palveluistamme.",
+    "description": "Asiakasarvostelut osion otsikko"
+  },
+  "subtitle.introduction": {
+    "message": "Tarjoamme yhden luukun AI-palveluja, mukaan lukien kysymykset, maalaukset, QR-koodit, musiikki ja paljon muuta, tyydyttääksemme monipuoliset tarpeesi.",
+    "description": "Sivuston esittely"
+  },
+  "button.try": {
+    "message": "Koe se nyt",
+    "description": "Tekstin sisältö"
+  },
+  "button.testEnv": {
+    "message": "Testausympäristö",
+    "description": "Testausympäristö-painike"
+  },
+  "customers.name1": {
+    "message": "Frank",
+    "description": "Asiakkaan nimi"
+  },
+  "customers.job1": {
+    "message": "Ohjelmistoinsinööri",
+    "description": "Asiakkaan titteli"
+  },
+  "customers.comment1": {
+    "message": "Tämä integroitu palvelu on uskomattoman kätevä, voin käyttää monia eri AI-työkaluja yhdellä alustalla, todella loistavaa!",
+    "description": "Asiakkaan kommentti"
+  },
+  "customers.name2": {
+    "message": "Jacob",
+    "description": "Asiakkaan nimi"
+  },
+  "customers.job2": {
+    "message": "Tuotepäällikkö",
+    "description": "Asiakkaan titteli"
+  },
+  "customers.comment2": {
+    "message": "Alusta on erittäin helppokäyttöinen, palvelun laatu on erinomainen, ja se on vapauttanut tuottavuuteni merkittävästi.",
+    "description": "Asiakkaan kommentti"
+  },
+  "customers.name3": {
+    "message": "Larry",
+    "description": "Asiakkaan nimi"
+  },
+  "customers.job3": {
+    "message": "Suunnittelija",
+    "description": "Asiakkaan titteli"
+  },
+  "customers.comment3": {
+    "message": "AI-alustoja on paljon, mutta tämä on todella helppo käyttää ja kohtuuhintainen, toivon että se kehittyy entistä paremmaksi!",
+    "description": "Asiakkaan kommentti"
+  }
+}

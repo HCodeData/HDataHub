@@ -1,0 +1,290 @@
+{
+  "field.title": {
+    "message": "Verkkosivuston otsikko",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.origin": {
+    "message": "Verkkosivuston verkkotunnus",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.description": {
+    "message": "Verkkosivuston kuvaus",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.keywords": {
+    "message": "Verkkosivuston avainsanat",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.logo": {
+    "message": "Verkkosivuston logo",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.favicon": {
+    "message": "Verkkosivuston favicon",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.qr": {
+    "message": "QR-koodi",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.url": {
+    "message": "Linkki",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.admins": {
+    "message": "Verkkosivuston ylläpitäjien ID",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "Oletus kutsujan ID",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.distributionForceInviterId": {
+    "message": "Pakotettu kutsujan ID",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.featuresChat": {
+    "message": "Chat",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.featuresHeadshots": {
+    "message": "AI-passikuva",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.featuresSupport": {
+    "message": "Asiakaspalvelu",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "field.featuresI18n": {
+    "message": "Monikielinen tuki",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.basicConfig": {
+    "message": "Perusasetukset",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.seoConfig": {
+    "message": "SEO-asetukset",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editAdmins": {
+    "message": "Muokkaa ylläpitäjiä",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.featuresConfig": {
+    "message": "Ominaisuusasetukset",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editTitle": {
+    "message": "Muokkaa otsikkoa",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editOrigin": {
+    "message": "Muokkaa verkkotunnusta",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editKeywords": {
+    "message": "Muokkaa avainsanoja",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editLogo": {
+    "message": "Muokkaa logoa",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editFavicon": {
+    "message": "Muokkaa faviconia",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editDescription": {
+    "message": "Muokkaa kuvausta",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.distributionConfig": {
+    "message": "Jakeluasetukset",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Muokkaa oletus kutsujaa",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Muokkaa pakotettua kutsujaa",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editQR": {
+    "message": "Muokkaa QR-koodia",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "title.editUrl": {
+    "message": "Muokkaa linkkiä",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "placeholder.title": {
+    "message": "Syötä verkkosivuston otsikko",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "placeholder.origin": {
+    "message": "Syötä verkkosivuston verkkotunnus",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "placeholder.editUrl": {
+    "message": "Syötä linkki",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "placeholder.description": {
+    "message": "Syötä verkkosivuston kuvaus",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "placeholder.keywords": {
+    "message": "Syötä verkkosivuston avainsanat",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Syötä oletus kutsujan ID",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Syötä pakotettu kutsujan ID",
+    "description": "Näytetään muokkausruudun otsikkona"
+  },
+  "message.uploadImageExceed": {
+    "message": "Kuvien lataaminen ylittää rajan",
+    "description": "Kuvien lataaminen ylittää rajan varoitus"
+  },
+  "message.uploadImageError": {
+    "message": "Kuvan lataamisessa virhe",
+    "description": "Kuvan lataamisessa virhe varoitus"
+  },
+  "message.editLogoTip": {
+    "message": "Suositeltu koko: 200*60px",
+    "description": "Kuvien lataamisen ohjeet"
+  },
+  "message.editQRTip": {
+    "message": "Suositeltu koko: 200*200px",
+    "description": "Kuvien lataamisen ohjeet"
+  },
+  "message.editFaviconTip": {
+    "message": "Suositeltu koko: 32*32px",
+    "description": "Kuvaa ladattaessa näyttävä kieli"
+  },
+  "message.editUrl": {
+    "message": "Ole hyvä ja syötä linkki",
+    "description": "Linkin syöttämisen ehdotus"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Vähintään yksi ylläpitäjä on pidettävä",
+    "description": "Vähintään yksi ylläpitäjä -hälytys"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "Oletusarvoisen kutsujan käyttäjä-ID, jos jakolinkki ei sisältää inviter_id-parametria, käytetään oletuksena tätä käyttäjä-ID:tä kutsujana.",
+    "description": "Oletus kutsujan ID -vihje"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "Pakotetun kutsujan käyttäjä-ID, jos tämä ID on asetettu, pakotetaan tämän käyttäjä-ID:n käyttö kutsujana riippumatta siitä, sisältääkö jakolinkki inviter_id-parametrin.",
+    "description": "Pakotettu kutsujan ID -vihje"
+  },
+  "message.originTip": {
+    "message": "Sivuston verkkotunnus, sivuston asetukset on sidottu verkkotunnukseen, verkkotunnusta ei voi muuttaa.",
+    "description": "Sivuston verkkotunnus -vihje"
+  },
+  "message.titleTip": {
+    "message": "Sivuston otsikko, joka näkyy selainvälilehdellä.",
+    "description": "Sivuston otsikko -vihje"
+  },
+  "message.descriptionTip": {
+    "message": "Sivuston kuvaus, joka sijaitsee sivuston metatiedoissa, käytetään sivuston SEO-optimointiin.",
+    "description": "Sivuston kuvaus -vihje"
+  },
+  "message.logoTip": {
+    "message": "Sivuston logo, joka näkyy sivuston valikon yläosassa, kun valikkorivi avataan.",
+    "description": "Sivuston logo -vihje"
+  },
+  "message.faviconTip": {
+    "message": "Sivuston Favicon, joka näkyy selainvälilehdellä.",
+    "description": "Sivuston Favicon -vihje"
+  },
+  "message.adminsTip": {
+    "message": "Sivuston ylläpitäjän ID, ensimmäisenä käyttäjänä, joka luo tämän sivuston, tulee oletuksena ylläpitäjäksi, vain sivuston ylläpitäjät voivat hallinnoida sivustoa.",
+    "description": "Sivuston ylläpitäjän -vihje"
+  },
+  "message.adminsTip2": {
+    "message": "Voit lisätä tai poistaa ylläpitäjän ID:tä täällä, voit tarkastaa käyttäjä-ID:t https://auth.acedata.cloud-sivustolta",
+    "description": "Sivuston ylläpitäjän -vihje"
+  },
+  "message.keywordsTip": {
+    "message": "Sivuston avainsanat, jotka sijaitsevat sivuston metatiedoissa, käytetään sivuston SEO-optimointiin.",
+    "description": "Sivuston avainsanojen -vihje"
+  },
+  "message.keywordsTip2": {
+    "message": "Voit lisätä tai poistaa sivuston avainsanoja täällä, mitä tarkempia avainsanoja käytetään, sitä hyödyllisempiä ne ovat SEO-optimoinnissa.",
+    "description": "Sivuston avainsanojen -vihje"
+  },
+  "message.featuresChat": {
+    "message": "Ota käyttöön tai pois käytöstä Chat-toimintomoduuli.",
+    "description": "Chat-toiminnon kuvaus"
+  },
+  "message.featuresMidjourney": {
+    "message": "Ota käyttöön tai pois käytöstä Midjourney-toimintomoduuli.",
+    "description": "Midjourney-toiminnon kuvaus"
+  },
+  "message.featuresChatdoc": {
+    "message": "Ota käyttöön tai pois käytöstä Chatdoc-toimintomoduuli.",
+    "description": "Chatdoc-toiminnon kuvaus"
+  },
+  "message.featuresQrart": {
+    "message": "Ota käyttöön tai pois käytöstä Qrart-toimintomoduuli.",
+    "description": "Qrart-toiminnon kuvaus"
+  },
+  "message.featuresSuno": {
+    "message": "Ota käyttöön tai pois käytöstä Suno-toimintomoduuli.",
+    "description": "Suno-toiminnon kuvaus"
+  },
+  "message.featuresLuma": {
+    "message": "Ota käyttöön tai pois käytöstä Luma-toimintomoduuli.",
+    "description": "Luma-toiminnon kuvaus"
+  },
+  "message.featuresHeadshots": {
+    "message": "Ota käyttöön tai pois käytöstä AI-profiilikuva -toimintomoduuli.",
+    "description": "AI-profiilikuvan kuvaus"
+  },
+  "message.featuresSupport": {
+    "message": "Ota käyttöön tai pois käytöstä asiakastukitoiminto",
+    "description": "Tuki-toiminnon kuvaus"
+  },
+  "message.featuresI18n": {
+    "message": "Ota käyttöön tai pois käytöstä monikielinen tuki, kun se on pois päältä, käyttäjät voivat käyttää vain oletuskieltä.",
+    "description": "Monikielisen tuen kuvaus"
+  },
+  "button.upload": {
+    "message": "Lataa",
+    "description": "Lataa"
+  },
+  "button.enabled": {
+    "message": "Käytössä",
+    "description": "Kytkimen teksti, joka ilmaisee olevan käytössä"
+  },
+  "button.disabled": {
+    "message": "Poissa käytöstä",
+    "description": "Kytkimen teksti, joka ilmaisee olevan pois käytöstä"
+  }
+}

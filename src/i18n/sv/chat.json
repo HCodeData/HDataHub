@@ -1,0 +1,194 @@
+{
+  "button.edit": {
+    "message": "Redigera meddelande",
+    "description": "Redigera det skickade meddelandet"
+  },
+  "model.35Standard": {
+    "message": "GPT 3.5 Standard",
+    "description": "Modellnamnet för tjänsten, det vill säga GPT 3.5 Standard"
+  },
+  "model.35StandardDescription": {
+    "message": "För vanliga uppgifter.",
+    "description": "Beskrivning av 3.5 Standard-modellen"
+  },
+  "model.35Browsing": {
+    "message": "GPT 3.5 Webben",
+    "description": "Modellnamnet för tjänsten, det vill säga GPT 3.5 Webben"
+  },
+  "model.35BrowsingDescription": {
+    "message": "Kan hämta information i realtid.",
+    "description": "Beskrivning av 3.5 Browsing-modellen"
+  },
+  "model.4Standard": {
+    "message": "GPT 4.0 Standard",
+    "description": "Modellnamnet för tjänsten, det vill säga GPT 4.0 Standard"
+  },
+  "model.4StandardDescription": {
+    "message": "Ett kraftfullare model, lämplig för komplexa uppgifter.",
+    "description": "Beskrivning av 4.0 Standard-modellen"
+  },
+  "model.4Browsing": {
+    "message": "GPT 4.0 Webben",
+    "description": "Modellnamnet för tjänsten, det vill säga GPT 4.0 Webben"
+  },
+  "model.4BrowsingDescription": {
+    "message": "Kraftfull och kan hämta information i realtid.",
+    "description": "Beskrivning av 4.0 Browsing-modellen"
+  },
+  "model.4Vision": {
+    "message": "GPT 4.0 Vision",
+    "description": "Modellnamnet för tjänsten, det vill säga GPT 4.0 Vision"
+  },
+  "model.4All": {
+    "message": "GPT 4.0 All",
+    "description": "Modellnamnet för tjänsten, det vill säga GPT 4.0 All"
+  },
+  "model.4VisionDescription": {
+    "message": "Kan analysera bilder.",
+    "description": "Beskrivning av 4.0 Vision-modellen"
+  },
+  "model.4AllDescription": {
+    "message": "Universell modell",
+    "description": "Beskrivning av 4.0 Universell-modellen"
+  },
+  "message.startNewChat": {
+    "message": "Starta ny konversation",
+    "description": "Meddelande på webbsidan som berättar för användaren att starta en ny konversation"
+  },
+  "message.uploadFile": {
+    "message": "Ladda upp fil",
+    "description": "Meddelande på webbsidan som berättar för användaren att ladda upp en fil"
+  },
+  "message.noToken": {
+    "message": "Vänligen ansök om den relevanta tjänsten först",
+    "description": "Meddelande på webbsidan som berättar för användaren att ansöka om den relevanta tjänsten först"
+  },
+  "message.newMessagePlaceholder": {
+    "message": "Skriv ditt problem...",
+    "description": "Platshållare på webbsidan som berättar för användaren att skriva sitt problem"
+  },
+  "message.noInput": {
+    "message": "Frågan får inte vara tom",
+    "description": "Meddelande på webbsidan som berättar för användaren att frågan inte får vara tom"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Du kan bara ladda upp 1 fil",
+    "description": "Meddelande på webbsidan som berättar för användaren att de bara kan ladda upp 1 fil"
+  },
+  "message.uploadReferencesError": {
+    "message": "Filuppladdningen misslyckades, försök igen senare",
+    "description": "Meddelande på webbsidan som berättar för användaren att filuppladdningen misslyckades, försök igen senare"
+  },
+  "message.notApplied": {
+    "message": "Du har ännu inte ansökt om denna tjänst, vänligen ansök först",
+    "description": "Meddelande på webbsidan som berättar för användaren att de har ännu inte ansökt om denna tjänst"
+  },
+  "message.tryForFree": {
+    "message": "Prova gratis",
+    "description": "Meddelande på webbsidan som berättar för användaren att de kan prova gratis"
+  },
+  "message.question1": {
+    "message": "Skapa en träningsplan",
+    "description": "Exempel på en fråga för att starta en konversation som ber användaren att skriva en JavaScript-kod som skriver ut Hello World"
+  },
+  "message.question2": {
+    "message": "Skapa en personlig webbsida",
+    "description": "Exempel på en fråga för att starta en konversation som ber användaren att skriva ett e-postmeddelande till Mike och berätta att de just har flyttat"
+  },
+  "message.question3": {
+    "message": "Designa roliga programmeringsspel",
+    "description": "Exempel på en fråga för att starta en konversation som ber användaren att förklara de grundläggande principerna för kvantdatorer med enkla ord"
+  },
+  "message.question4": {
+    "message": "Upplev Seoul som en lokal",
+    "description": "Exempel på en fråga för att starta en konversation som ber användaren att förklara vilken inverkan virtuell verklighet har på konstskapande"
+  },
+  "message.errorApiError": {
+    "message": "Svaret misslyckades, försök igen senare",
+    "description": "Meddelande på webbsidan som berättar för användaren att svaret misslyckades"
+  },
+  "message.errorBadRequest": {
+    "message": "Förfrågan är inte korrekt, vänligen ställ frågan igen",
+    "description": "Meddelande på webbsidan som berättar för användaren att förfrågan inte är korrekt"
+  },
+  "message.errorNoConversation": {
+    "message": "Samtalet existerar inte eller har löpt ut, vänligen starta en ny konversation",
+    "description": "Meddelande på webbsidan som berättar för användaren att samtalet inte existerar eller har löpt ut"
+  },
+  "message.errorContentTooLarge": {
+    "message": "Frågan är för lång, vänligen förkorta den och försök igen",
+    "description": "Meddelande på webbsidan som berättar för användaren att frågan är för lång"
+  },
+  "message.errorTooManyRequests": {
+    "message": "Du gör för många förfrågningar, försök igen senare",
+    "description": "Meddelande på webbsidan som berättar för användaren att deras förfrågningar är för många"
+  },
+  "message.errorUsedUp": {
+    "message": "Du har använt upp alla dina enheter, vänligen köp fler enheter för att fortsätta använda",
+    "description": "Meddelande på webbsidan som berättar för användaren att de har använt upp sina enheter"
+  },
+  "message.errorUnknown": {
+    "message": "Ett okänt fel har inträffat på servern. Vänligen försök igen senare eller kontakta kundsupport.",
+    "description": "Webbsidans meddelande som informerar användaren om att ett okänt fel har inträffat på servern, vänligen försök igen senare eller kontakta kundsupport."
+  },
+  "message.errorTimeout": {
+    "message": "Tid för svar har gått ut, vänligen försök igen senare.",
+    "description": "Webbsidans meddelande som informerar användaren om att svarstiden har gått ut, vänligen försök igen senare."
+  },
+  "message.errorNotApplied": {
+    "message": "Du har inte ansökt om denna tjänst, vänligen ansök först innan du fortsätter.",
+    "description": "Webbsidans meddelande som informerar användaren om att de inte har ansökt om denna tjänst, vänligen ansök först innan du fortsätter."
+  },
+  "message.confirmDelete": {
+    "message": "Bekräfta borttagning",
+    "description": "Webbsidans meddelande som ber användaren att bekräfta borttagning."
+  },
+  "message.howToUse": {
+    "message": "AI kan göra misstag, vänligen kontrollera viktig information.",
+    "description": "Webbsidans meddelande som instruerar användaren att AI kan göra misstag, vänligen kontrollera viktig information."
+  },
+  "title.chat": {
+    "message": "AI Chatt",
+    "description": "Webbsidans titel, det vill säga AI Chatt."
+  },
+  "title.example": {
+    "message": "Exempel",
+    "description": "Webbsidans titel, det vill säga exempel."
+  },
+  "title.capabilities": {
+    "message": "Funktioner",
+    "description": "Webbsidans titel, det vill säga funktioner."
+  },
+  "title.limitations": {
+    "message": "Begränsningar",
+    "description": "Webbsidans titel som anger att denna del handlar om de tekniska begränsningarna av tjänsten."
+  },
+  "title.complexQuestion": {
+    "message": "Besvara komplexa frågor",
+    "description": "Webbsidans titel som anger att denna del handlar om tjänstens kapacitet att besvara komplexa frågor."
+  },
+  "title.professionalQuestion": {
+    "message": "Konsultera professionella frågor",
+    "description": "Webbsidans titel som anger att denna del handlar om tjänstens kapacitet att konsultera professionella frågor."
+  },
+  "title.getTips": {
+    "message": "Få inspiration och idéer",
+    "description": "Webbsidans titel som anger att denna del handlar om tjänstens kapacitet att få inspiration och idéer."
+  },
+  "group.today": {
+    "message": "Idag",
+    "description": "Webbsidans gruppnamn, det vill säga idag."
+  },
+  "group.yesterday": {
+    "message": "Igår",
+    "description": "Webbsidans gruppnamn, det vill säga igår."
+  },
+  "group.thisWeek": {
+    "message": "Denna vecka",
+    "description": "Webbsidans gruppnamn, det vill säga denna vecka."
+  },
+  "group.earlier": {
+    "message": "Tidigare",
+    "description": "Webbsidans gruppnamn, det vill säga tidigare."
+  }
+}

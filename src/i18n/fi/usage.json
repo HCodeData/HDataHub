@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "Käytön aika",
+    "description": "Käyttöennätyksen luomisen aika."
+  },
+  "field.statusCode": {
+    "message": "Tilakoodi",
+    "description": "Käyttöennätyksen tilakoodi."
+  },
+  "field.application": {
+    "message": "Hakemus",
+    "description": "Palvelun hakemusohjelma."
+  },
+  "field.status": {
+    "message": "Tila",
+    "description": "Hakemusohjelman tila."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "Palvelun API."
+  },
+  "field.usedAmount": {
+    "message": "Käytetty määrä",
+    "description": "Käytettyjen resurssien määrä."
+  },
+  "field.deductedAmount": {
+    "message": "Vähennetty määrä",
+    "description": "Vähennettyjen resurssien määrä."
+  },
+  "field.remainingAmount": {
+    "message": "Jäljellä oleva määrä",
+    "description": "Jäljellä olevien resurssien määrä."
+  },
+  "field.metadata": {
+    "message": "Metatiedot",
+    "description": "Käyttöennätyksen metatiedot."
+  }
+}
